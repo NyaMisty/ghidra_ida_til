@@ -2,6 +2,14 @@
 
 GDT (Ghidra Data Type) generated from IDA tils
 
+## How To Use
+
+The final GDTs are in folder `release`, while other folders are building intermediates for debugging and reference.
+
+- Method1: Copy/Link `release` folder into Ghidra's Standard GDT Path: `Ghidra\Features\Base\data\typeinfo`, and Loading with `Standard Archive` menu
+- Method2: Manually Loading the GDT with `Open File Archive...`
+
+
 ## How This Work?
 
 - Scarping IDA's TIL
@@ -9,13 +17,15 @@ GDT (Ghidra Data Type) generated from IDA tils
     - Using IDAClang
     - Extract from .idb file
 - Dump the TIL: `tilib -#- A.til; tilib -lc A.til > A.til.h` 
-- Rewrite Header: Using idatil2c
+- Rewrite Header: Using idatil2c (https://github.com/NyaMisty/idatil2c)
 - Compile GDT: Using headlessParseC.py as Ghidra headless analysis script
 
 ## How to build
 
 1. Setup various path & env:
+    - Install Node & PyPy (for idatil2c)
     - export TILIB=/path/to/tilib64
+    - Modify the Ghidra launch command in `scripts/ghidra_build_gdt.sh`
 2. Put your tils into `1_til_original`
 3. Process til and dump the header: Run in repo's root directory: `bash ./scripts/process_til.sh`
     - will remove ordinal types in XXX.til using `tilib -#- XXX.til`, then storing to `2_til_processed/XXX.til`
