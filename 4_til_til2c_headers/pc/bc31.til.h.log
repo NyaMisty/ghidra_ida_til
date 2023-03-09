@@ -1,0 +1,1411 @@
+Replacing template arg round 1
+Got Type Def: _7B3C5D519F2E4A5BE311CA6A6DE1B2A0
+Got Type Def: _979FA3DE6ECCF956231BFC297C4278E6
+Got Type Def: _B8243ED19B76CA5D55F9F69ED1E7C09F
+Got Type Def: _C967B4BD5950CD7FE5A55F6326D513E0
+Got Type Def: _DD2596440A2D8284D7D9C623DB5462ED
+Got Type Def: _F537039E3C3D15C2CDBD1FBA107663C2
+Got Type Def: BYTEREGS
+Got Type Def: CGA_COLORS
+Got Type Def: COLORS
+Got Type Def: COUNTRY
+Got Type Def: DIR
+Got Type Def: DOSERROR
+Got Type Def: EGA_COLORS
+Got Type Def: FILE
+Got Type Def: MACRO_BITSPERBYTE
+Got Type Def: MACRO_BUFSIZ
+Got Type Def: MACRO_CCERR
+Got Type Def: MACRO_CDERR
+Got Type Def: MACRO_CFERR
+Got Type Def: MACRO_CHAR
+Got Type Def: MACRO_COLOR
+Got Type Def: MACRO_DIG
+Got Type Def: MACRO_DIR
+Got Type Def: MACRO_DLG
+Got Type Def: MACRO_DMAXEXP
+Got Type Def: MACRO_DMAXPOWTWO
+Got Type Def: MACRO_DMINEXP
+Got Type Def: MACRO_DSIGNIF
+Got Type Def: MACRO_EM
+Got Type Def: MACRO_EOF
+Got Type Def: MACRO_ERRNO
+Got Type Def: MACRO_EXIT
+Got Type Def: MACRO_EXP
+Got Type Def: MACRO_FA
+Got Type Def: MACRO_FILENAME
+Got Type Def: MACRO_FILEOPENORD
+Got Type Def: MACRO_FINDDLGORD
+Got Type Def: MACRO_FLT
+Got Type Def: MACRO_FMAXEXP
+Got Type Def: MACRO_FMAXPOWTWO
+Got Type Def: MACRO_FMINEXP
+Got Type Def: MACRO_FNERR
+Got Type Def: MACRO_FONTDLGORD
+Got Type Def: MACRO_FOPEN
+Got Type Def: MACRO_FORMATDLGORD30
+Got Type Def: MACRO_FORMATDLGORD31
+Got Type Def: MACRO_FPE
+Got Type Def: MACRO_FRERR
+Got Type Def: MACRO_FSIGNIF
+Got Type Def: MACRO_HANDLE
+Got Type Def: MACRO_HIBITI
+Got Type Def: MACRO_HIBITS
+Got Type Def: MACRO_HIDDENBIT
+Got Type Def: MACRO_IC
+Got Type Def: MACRO_ILL
+Got Type Def: MACRO_INT
+Got Type Def: MACRO_L
+Got Type Def: MACRO_LC
+Got Type Def: MACRO_LK
+Got Type Def: MACRO_LONG
+Got Type Def: MACRO_MAX
+Got Type Def: MACRO_MAXCOLORS
+Got Type Def: MACRO_MAXDIR
+Got Type Def: MACRO_MAXDRIVE
+Got Type Def: MACRO_MAXEXT
+Got Type Def: MACRO_MAXFILE
+Got Type Def: MACRO_MAXINT
+Got Type Def: MACRO_MAXLONG
+Got Type Def: MACRO_MAXPATH
+Got Type Def: MACRO_MAXSHORT
+Got Type Def: MACRO_MB
+Got Type Def: MACRO_MCW
+Got Type Def: MACRO_MCW_IC
+Got Type Def: MACRO_MCW_PC
+Got Type Def: MACRO_MCW_RC
+Got Type Def: MACRO_MODE
+Got Type Def: MACRO_MULTIFILEOPENORD
+Got Type Def: MACRO_NFDS
+Got Type Def: MACRO_NULL
+Got Type Def: MACRO_NUM
+Got Type Def: MACRO_O
+Got Type Def: MACRO_O_APPEND
+Got Type Def: MACRO_P
+Got Type Def: MACRO_PC
+Got Type Def: MACRO_PDERR
+Got Type Def: MACRO_PRINTDLGORD
+Got Type Def: MACRO_PRNSETUPDLGORD
+Got Type Def: MACRO_RC
+Got Type Def: MACRO_READ
+Got Type Def: MACRO_READY
+Got Type Def: MACRO_REPLACEDLGORD
+Got Type Def: MACRO_S
+Got Type Def: MACRO_SCHAR
+Got Type Def: MACRO_SEEK
+Got Type Def: MACRO_SEGV
+Got Type Def: MACRO_SH
+Got Type Def: MACRO_SHIFTSTATUS
+Got Type Def: MACRO_SHRT
+Got Type Def: MACRO_SIG
+Got Type Def: MACRO_SIGNAL
+Got Type Def: MACRO_SW
+Got Type Def: MACRO_SYS
+Got Type Def: MACRO_TMP
+Got Type Def: MACRO_UINT
+Got Type Def: MACRO_ULONG
+Got Type Def: MACRO_USER
+Got Type Def: MACRO_USHRT
+Got Type Def: MACRO_WAIT
+Got Type Def: MACRO_WILDCARDS
+Got Type Def: MACRO__A
+Got Type Def: MACRO__BADNODE
+Got Type Def: MACRO__BADVALUE
+Got Type Def: MACRO__COM
+Got Type Def: MACRO__DEXPLEN
+Got Type Def: MACRO__DISK
+Got Type Def: MACRO__EXPBASE
+Got Type Def: MACRO__F
+Got Type Def: MACRO__FEXPLEN
+Got Type Def: MACRO__FREEENTRY
+Got Type Def: MACRO__HARDERR
+Got Type Def: MACRO__HEAPCORRUPT
+Got Type Def: MACRO__HEAPEMPTY
+Got Type Def: MACRO__HEAPEND
+Got Type Def: MACRO__IEEE
+Got Type Def: MACRO__IOFBF
+Got Type Def: MACRO__IS
+Got Type Def: MACRO__LENBASE
+Got Type Def: MACRO__MAX
+Got Type Def: MACRO__NFILE
+Got Type Def: MACRO__NOCURSOR
+Got Type Def: MACRO__O
+Got Type Def: MACRO__PRINTER
+Got Type Def: MACRO__TIME
+Got Type Def: MACRO_chx1
+Got Type Def: MACRO_chx10
+Got Type Def: MACRO_chx11
+Got Type Def: MACRO_chx12
+Got Type Def: MACRO_chx13
+Got Type Def: MACRO_chx14
+Got Type Def: MACRO_chx15
+Got Type Def: MACRO_chx16
+Got Type Def: MACRO_chx2
+Got Type Def: MACRO_chx3
+Got Type Def: MACRO_chx4
+Got Type Def: MACRO_chx5
+Got Type Def: MACRO_chx6
+Got Type Def: MACRO_chx7
+Got Type Def: MACRO_chx8
+Got Type Def: MACRO_chx9
+Got Type Def: MACRO_cmb1
+Got Type Def: MACRO_cmb10
+Got Type Def: MACRO_cmb11
+Got Type Def: MACRO_cmb12
+Got Type Def: MACRO_cmb13
+Got Type Def: MACRO_cmb14
+Got Type Def: MACRO_cmb15
+Got Type Def: MACRO_cmb16
+Got Type Def: MACRO_cmb2
+Got Type Def: MACRO_cmb3
+Got Type Def: MACRO_cmb4
+Got Type Def: MACRO_cmb5
+Got Type Def: MACRO_cmb6
+Got Type Def: MACRO_cmb7
+Got Type Def: MACRO_cmb8
+Got Type Def: MACRO_cmb9
+Got Type Def: MACRO_ctlFirst
+Got Type Def: MACRO_ctlLast
+Got Type Def: MACRO_edt1
+Got Type Def: MACRO_edt10
+Got Type Def: MACRO_edt11
+Got Type Def: MACRO_edt12
+Got Type Def: MACRO_edt13
+Got Type Def: MACRO_edt14
+Got Type Def: MACRO_edt15
+Got Type Def: MACRO_edt16
+Got Type Def: MACRO_edt2
+Got Type Def: MACRO_edt3
+Got Type Def: MACRO_edt4
+Got Type Def: MACRO_edt5
+Got Type Def: MACRO_edt6
+Got Type Def: MACRO_edt7
+Got Type Def: MACRO_edt8
+Got Type Def: MACRO_edt9
+Got Type Def: MACRO_frm1
+Got Type Def: MACRO_frm2
+Got Type Def: MACRO_frm3
+Got Type Def: MACRO_frm4
+Got Type Def: MACRO_grp1
+Got Type Def: MACRO_grp2
+Got Type Def: MACRO_grp3
+Got Type Def: MACRO_grp4
+Got Type Def: MACRO_ico1
+Got Type Def: MACRO_ico2
+Got Type Def: MACRO_ico3
+Got Type Def: MACRO_ico4
+Got Type Def: MACRO_lst1
+Got Type Def: MACRO_lst10
+Got Type Def: MACRO_lst11
+Got Type Def: MACRO_lst12
+Got Type Def: MACRO_lst13
+Got Type Def: MACRO_lst14
+Got Type Def: MACRO_lst15
+Got Type Def: MACRO_lst16
+Got Type Def: MACRO_lst2
+Got Type Def: MACRO_lst3
+Got Type Def: MACRO_lst4
+Got Type Def: MACRO_lst5
+Got Type Def: MACRO_lst6
+Got Type Def: MACRO_lst7
+Got Type Def: MACRO_lst8
+Got Type Def: MACRO_lst9
+Got Type Def: MACRO_psh1
+Got Type Def: MACRO_psh10
+Got Type Def: MACRO_psh11
+Got Type Def: MACRO_psh12
+Got Type Def: MACRO_psh13
+Got Type Def: MACRO_psh14
+Got Type Def: MACRO_psh15
+Got Type Def: MACRO_psh16
+Got Type Def: MACRO_psh2
+Got Type Def: MACRO_psh3
+Got Type Def: MACRO_psh4
+Got Type Def: MACRO_psh5
+Got Type Def: MACRO_psh6
+Got Type Def: MACRO_psh7
+Got Type Def: MACRO_psh8
+Got Type Def: MACRO_psh9
+Got Type Def: MACRO_pshHelp
+Got Type Def: MACRO_rad1
+Got Type Def: MACRO_rad10
+Got Type Def: MACRO_rad11
+Got Type Def: MACRO_rad12
+Got Type Def: MACRO_rad13
+Got Type Def: MACRO_rad14
+Got Type Def: MACRO_rad15
+Got Type Def: MACRO_rad16
+Got Type Def: MACRO_rad2
+Got Type Def: MACRO_rad3
+Got Type Def: MACRO_rad4
+Got Type Def: MACRO_rad5
+Got Type Def: MACRO_rad6
+Got Type Def: MACRO_rad7
+Got Type Def: MACRO_rad8
+Got Type Def: MACRO_rad9
+Got Type Def: MACRO_rct1
+Got Type Def: MACRO_rct2
+Got Type Def: MACRO_rct3
+Got Type Def: MACRO_rct4
+Got Type Def: MACRO_scr1
+Got Type Def: MACRO_scr2
+Got Type Def: MACRO_scr3
+Got Type Def: MACRO_scr4
+Got Type Def: MACRO_scr5
+Got Type Def: MACRO_scr6
+Got Type Def: MACRO_scr7
+Got Type Def: MACRO_scr8
+Got Type Def: MACRO_stc1
+Got Type Def: MACRO_stc10
+Got Type Def: MACRO_stc11
+Got Type Def: MACRO_stc12
+Got Type Def: MACRO_stc13
+Got Type Def: MACRO_stc14
+Got Type Def: MACRO_stc15
+Got Type Def: MACRO_stc16
+Got Type Def: MACRO_stc17
+Got Type Def: MACRO_stc18
+Got Type Def: MACRO_stc19
+Got Type Def: MACRO_stc2
+Got Type Def: MACRO_stc20
+Got Type Def: MACRO_stc21
+Got Type Def: MACRO_stc22
+Got Type Def: MACRO_stc23
+Got Type Def: MACRO_stc24
+Got Type Def: MACRO_stc25
+Got Type Def: MACRO_stc26
+Got Type Def: MACRO_stc27
+Got Type Def: MACRO_stc28
+Got Type Def: MACRO_stc29
+Got Type Def: MACRO_stc3
+Got Type Def: MACRO_stc30
+Got Type Def: MACRO_stc31
+Got Type Def: MACRO_stc32
+Got Type Def: MACRO_stc4
+Got Type Def: MACRO_stc5
+Got Type Def: MACRO_stc6
+Got Type Def: MACRO_stc7
+Got Type Def: MACRO_stc8
+Got Type Def: MACRO_stc9
+Got Type Def: REGPACK
+Got Type Def: REGS
+Got Type Def: SREGS
+Got Type Def: WORDREGS
+Got Type Def: _CatcherPTR
+Got Type Def: __jmp_buf
+Got Type Def: _complexl
+Got Type Def: _exceptionl
+Got Type Def: _mexcep
+Got Type Def: arccoordstype
+Got Type Def: atexit_t
+Got Type Def: clock_t
+Got Type Def: complex
+Got Type Def: date
+Got Type Def: devhdr
+Got Type Def: dfree
+Got Type Def: dirent
+Got Type Def: diskfree_t
+Got Type Def: diskinfo_t
+Got Type Def: div_t
+Got Type Def: dosSearchInfo
+Got Type Def: dosdate_t
+Got Type Def: dostime_t
+Got Type Def: exception
+Got Type Def: farheapinfo[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmp5s_le9ea/typDef.json',
+  '/tmp/tmp5s_le9ea/regexRet.json'
+]
+Calculating dependency for _7B3C5D519F2E4A5BE311CA6A6DE1B2A0
+Calculating dependency for _979FA3DE6ECCF956231BFC297C4278E6
+Calculating dependency for _B8243ED19B76CA5D55F9F69ED1E7C09F
+Calculating dependency for _C967B4BD5950CD7FE5A55F6326D513E0
+Calculating dependency for _DD2596440A2D8284D7D9C623DB5462ED
+Calculating dependency for _F537039E3C3D15C2CDBD1FBA107663C2
+Calculating dependency for BYTEREGS
+Calculating dependency for CGA_COLORS
+Calculating dependency for COLORS
+Calculating dependency for COUNTRY
+Calculating dependency for DIR
+Calculating dependency for DOSERROR
+Calculating dependency for EGA_COLORS
+Calculating dependency for FILE
+Calculating dependency for MACRO_BITSPERBYTE
+Calculating dependency for MACRO_BUFSIZ
+Calculating dependency for MACRO_CCERR
+Calculating dependency for MACRO_CDERR
+Calculating dependency for MACRO_CFERR
+Calculating dependency for MACRO_CHAR
+Calculating dependency for MACRO_COLOR
+Calculating dependency for MACRO_DIG
+Calculating dependency for MACRO_DIR
+Calculating dependency for MACRO_DLG
+Calculating dependency for MACRO_DMAXEXP
+Calculating dependency for MACRO_DMAXPOWTWO
+Calculating dependency for MACRO_DMINEXP
+Calculating dependency for MACRO_DSIGNIF
+Calculating dependency for MACRO_EM
+Calculating dependency for MACRO_EOF
+Calculating dependency for MACRO_ERRNO
+Calculating dependency for MACRO_EXIT
+Calculating dependency for MACRO_EXP
+Calculating dependency for MACRO_FA
+Calculating dependency for MACRO_FILENAME
+Calculating dependency for MACRO_FILEOPENORD
+Calculating dependency for MACRO_FINDDLGORD
+Calculating dependency for MACRO_FLT
+Calculating dependency for MACRO_FMAXEXP
+Calculating dependency for MACRO_FMAXPOWTWO
+Calculating dependency for MACRO_FMINEXP
+Calculating dependency for MACRO_FNERR
+Calculating dependency for MACRO_FONTDLGORD
+Calculating dependency for MACRO_FOPEN
+Calculating dependency for MACRO_FORMATDLGORD30
+Calculating dependency for MACRO_FORMATDLGORD31
+Calculating dependency for MACRO_FPE
+Calculating dependency for MACRO_FRERR
+Calculating dependency for MACRO_FSIGNIF
+Calculating dependency for MACRO_HANDLE
+Calculating dependency for MACRO_HIBITI
+Calculating dependency for MACRO_HIBITS
+Calculating dependency for MACRO_HIDDENBIT
+Calculating dependency for MACRO_IC
+Calculating dependency for MACRO_ILL
+Calculating dependency for MACRO_INT
+Calculating dependency for MACRO_L
+Calculating dependency for MACRO_LC
+Calculating dependency for MACRO_LK
+Calculating dependency for MACRO_LONG
+Calculating dependency for MACRO_MAX
+Calculating dependency for MACRO_MAXCOLORS
+Calculating dependency for MACRO_MAXDIR
+Calculating dependency for MACRO_MAXDRIVE
+Calculating dependency for MACRO_MAXEXT
+Calculating dependency for MACRO_MAXFILE
+Calculating dependency for MACRO_MAXINT
+Calculating dependency for MACRO_MAXLONG
+Calculating dependency for MACRO_MAXPATH
+Calculating dependency for MACRO_MAXSHORT
+Calculating dependency for MACRO_MB
+Calculating dependency for MACRO_MCW
+Calculating dependency for MACRO_MCW_IC
+Calculating dependency for MACRO_MCW_PC
+Calculating dependency for MACRO_MCW_RC
+Calculating dependency for MACRO_MODE
+Calculating dependency for MACRO_MULTIFILEOPENORD
+Calculating dependency for MACRO_NFDS
+Calculating dependency for MACRO_NULL
+Calculating dependency for MACRO_NUM
+Calculating dependency for MACRO_O
+Calculating dependency for MACRO_O_APPEND
+Calculating dependency for MACRO_P
+Calculating dependency for MACRO_PC
+Calculating dependency for MACRO_PDERR
+Calculating dependency for MACRO_PRINTDLGORD
+Calculating dependency for MACRO_PRNSETUPDLGORD
+Calculating dependency for MACRO_RC
+Calculating dependency for MACRO_READ
+Calculating dependency for MACRO_READY
+Calculating dependency for MACRO_REPLACEDLGORD
+Calculating dependency for MACRO_S
+Calculating dependency for MACRO_SCHAR
+Calculating dependency for MACRO_SEEK
+Calculating dependency for MACRO_SEGV
+Calculating dependency for MACRO_SH
+Calculating dependency for MACRO_SHIFTSTATUS
+Calculating dependency for MACRO_SHRT
+Calculating dependency for MACRO_SIG
+Calculating dependency for MACRO_SIGNAL
+Calculating dependency for MACRO_SW
+Calculating dependency for MACRO_SYS
+Calculating dependency for MACRO_TMP
+Calculating dependency for MACRO_UINT
+Calculating dependency for MACRO_ULONG
+Calculating dependency for MACRO_USER
+Calculating dependency for MACRO_USHRT
+Calculating dependency for MACRO_WAIT
+Calculating dependency for MACRO_WILDCARDS
+Calculating dependency for MACRO__A
+Calculating dependency for MACRO__BADNODE
+Calculating dependency for MACRO__BADVALUE
+Calculating dependency for MACRO__COM
+Calculating dependency for MACRO__DEXPLEN
+Calculating dependency for MACRO__DISK
+Calculating dependency for MACRO__EXPBASE
+Calculating dependency for MACRO__F
+Calculating dependency for MACRO__FEXPLEN
+Calculating dependency for MACRO__FREEENTRY
+Calculating dependency for MACRO__HARDERR
+Calculating dependency for MACRO__HEAPCORRUPT
+Calculating dependency for MACRO__HEAPEMPTY
+Calculating dependency for MACRO__HEAPEND
+Calculating dependency for MACRO__IEEE
+Calculating dependency for MACRO__IOFBF
+Calculating dependency for MACRO__IS
+Calculating dependency for MACRO__LENBASE
+Calculating dependency for MACRO__MAX
+Calculating dependency for MACRO__NFILE
+Calculating dependency for MACRO__NOCURSOR
+Calculating dependency for MACRO__O
+Calculating dependency for MACRO__PRINTER
+Calculating dependency for MACRO__TIME
+Calculating dependency for MACRO_chx1
+Calculating dependency for MACRO_chx10
+Calculating dependency for MACRO_chx11
+Calculating dependency for MACRO_chx12
+Calculating dependency for MACRO_chx13
+Calculating dependency for MACRO_chx14
+Calculating dependency for MACRO_chx15
+Calculating dependency for MACRO_chx16
+Calculating dependency for MACRO_chx2
+Calculating dependency for MACRO_chx3
+Calculating dependency for MACRO_chx4
+Calculating dependency for MACRO_chx5
+Calculating dependency for MACRO_chx6
+Calculating dependency for MACRO_chx7
+Calculating dependency for MACRO_chx8
+Calculating dependency for MACRO_chx9
+Calculating dependency for MACRO_cmb1
+Calculating dependency for MACRO_cmb10
+Calculating dependency for MACRO_cmb11
+Calculating dependency for MACRO_cmb12
+Calculating dependency for MACRO_cmb13
+Calculating dependency for MACRO_cmb14
+Calculating dependency for MACRO_cmb15
+Calculating dependency for MACRO_cmb16
+Calculating dependency for MACRO_cmb2
+Calculating dependency for MACRO_cmb3
+Calculating dependency for MACRO_cmb4
+Calculating dependency for MACRO_cmb5
+Calculating dependency for MACRO_cmb6
+Calculating dependency for MACRO_cmb7
+Calculating dependency for MACRO_cmb8
+Calculating dependency for MACRO_cmb9
+Calculating dependency for MACRO_ctlFirst
+Calculating dependency for MACRO_ctlLast
+Calculating dependency for MACRO_edt1
+Calculating dependency for MACRO_edt10
+Calculating dependency for MACRO_edt11
+Calculating dependency for MACRO_edt12
+Calculating dependency for MACRO_edt13
+Calculating dependency for MACRO_edt14
+Calculating dependency for MACRO_edt15
+Calculating dependency for MACRO_edt16
+Calculating dependency for MACRO_edt2
+Calculating dependency for MACRO_edt3
+Calculating dependency for MACRO_edt4
+Calculating dependency for MACRO_edt5
+Calculating dependency for MACRO_edt6
+Calculating dependency for MACRO_edt7
+Calculating dependency for MACRO_edt8
+Calculating dependency for MACRO_edt9
+Calculating dependency for MACRO_frm1
+Calculating dependency for MACRO_frm2
+Calculating dependency for MACRO_frm3
+Calculating dependency for MACRO_frm4
+Calculating dependency for MACRO_grp1
+Calculating dependency for MACRO_grp2
+Calculating dependency for MACRO_grp3
+Calculating dependency for MACRO_grp4
+Calculating dependency for MACRO_ico1
+Calculating dependency for MACRO_ico2
+Calculating dependency for MACRO_ico3
+Calculating dependency for MACRO_ico4
+Calculating dependency for MACRO_lst1
+Calculating dependency for MACRO_lst10
+Calculating dependency for MACRO_lst11
+Calculating dependency for MACRO_lst12
+Calculating dependency for MACRO_lst13
+Calculating dependency for MACRO_lst14
+Calculating dependency for MACRO_lst15
+Calculating dependency for MACRO_lst16
+Calculating dependency for MACRO_lst2
+Calculating dependency for MACRO_lst3
+Calculating dependency for MACRO_lst4
+Calculating dependency for MACRO_lst5
+Calculating dependency for MACRO_lst6
+Calculating dependency for MACRO_lst7
+Calculating dependency for MACRO_lst8
+Calculating dependency for MACRO_lst9
+Calculating dependency for MACRO_psh1
+Calculating dependency for MACRO_psh10
+Calculating dependency for MACRO_psh11
+Calculating dependency for MACRO_psh12
+Calculating dependency for MACRO_psh13
+Calculating dependency for MACRO_psh14
+Calculating dependency for MACRO_psh15
+Calculating dependency for MACRO_psh16
+Calculating dependency for MACRO_psh2
+Calculating dependency for MACRO_psh3
+Calculating dependency for MACRO_psh4
+Calculating dependency for MACRO_psh5
+Calculating dependency for MACRO_psh6
+Calculating dependency for MACRO_psh7
+Calculating dependency for MACRO_psh8
+Calculating dependency for MACRO_psh9
+Calculating dependency for MACRO_pshHelp
+Calculating dependency for MACRO_rad1
+Calculating dependency for MACRO_rad10
+Calculating dependency for MACRO_rad11
+Calculating dependency for MACRO_rad12
+Calculating dependency for MACRO_rad13
+Calculating dependency for MACRO_rad14
+Calculating dependency for MACRO_rad15
+Calculating dependency for MACRO_rad16
+Calculating dependency for MACRO_rad2
+Calculating dependency for MACRO_rad3
+Calculating dependency for MACRO_rad4
+Calculating dependency for MACRO_rad5
+Calculating dependency for MACRO_rad6
+Calculating dependency for MACRO_rad7
+Calculating dependency for MACRO_rad8
+Calculating dependency for MACRO_rad9
+Calculating dependency for MACRO_rct1
+Calculating dependency for MACRO_rct2
+Calculating dependency for MACRO_rct3
+Calculating dependency for MACRO_rct4
+Calculating dependency for MACRO_scr1
+Calculating dependency for MACRO_scr2
+Calculating dependency for MACRO_scr3
+Calculating dependency for MACRO_scr4
+Calculating dependency for MACRO_scr5
+Calculating dependency for MACRO_scr6
+Calculating dependency for MACRO_scr7
+Calculating dependency for MACRO_scr8
+Calculating dependency for MACRO_stc1
+Calculating dependency for MACRO_stc10
+Calculating dependency for MACRO_stc11
+Calculating dependency for MACRO_stc12
+Calculating dependency for MACRO_stc13
+Calculating dependency for MACRO_stc14
+Calculating dependency for MACRO_stc15
+Calculating dependency for MACRO_stc16
+Calculating dependency for MACRO_stc17
+Calculating dependency for MACRO_stc18
+Calculating dependency for MACRO_stc19
+Calculating dependency for MACRO_stc2
+Calculating dependency for MACRO_stc20
+Calculating dependency for MACRO_stc21
+Calculating dependency for MACRO_stc22
+Calculating dependency for MACRO_stc23
+Calculating dependency for MACRO_stc24
+Calculating dependency for MACRO_stc25
+Calculating dependency for MACRO_stc26
+Calculating dependency for MACRO_stc27
+Calculating dependency for MACRO_stc28
+Calculating dependency for MACRO_stc29
+Calculating dependency for MACRO_stc3
+Calculating dependency for MACRO_stc30
+Calculating dependency for MACRO_stc31
+Calculating dependency for MACRO_stc32
+Calculating dependency for MACRO_stc4
+Calculating dependency for MACRO_stc5
+Calculating dependency for MACRO_stc6
+Calculating dependency for MACRO_stc7
+Calculating dependency for MACRO_stc8
+Calculating dependency for MACRO_stc9
+Calculating dependency for REGPACK
+Calculating dependency for REGS
+Calculating dependency for SREGS
+Calculating dependency for WORDREGS
+Calculating dependency for _CatcherPTR
+Calculating dependency for __jmp_buf
+Calculating dependency for _complexl
+Calculating dependency for _exceptionl
+Calculating dependency for _mexcep
+Calculating dependency for arccoordstype
+Calculating dependency for atexit_t
+Calculating dependency for clock_t
+Calculating dependency for complex
+Calculating dependency for date
+Calculating dependency for devhdr
+Calculating dependency for dfree
+Calculating dependency for dirent
+Calculating dependency for diskfree_t
+Calculating dependency for diskinfo_t
+Calculating dependency for div_t
+Calculating dependency for dosSearchInfo
+Calculating dependency for dosdate_t
+Calculating dependency for dostime_t
+Calculating dependency for exception
+Calculating dependency for farheapinfo
+Calculating dependency for fatinfo
+Calculating dependency for fcb
+Calculating dependency for ffblk
+Calculating dependency for fill_patterns
+Calculating dependency for fillsettingstype
+Calculating dependency for find_t
+Calculating dependency for font_names
+Calculating dependency for fpos_t
+Calculating dependency for ftime
+Calculating dependency for graphics_drivers
+Calculating dependency for graphics_errors
+Calculating dependency for graphics_modes
+Calculating dependency for jmp_buf
+Calculating dependency for lconv
+Calculating dependency for ldiv_t
+Calculating dependency for line_styles
+Calculating dependency for line_widths
+Calculating dependency for linesettingstype
+Calculating dependency for palettetype
+Calculating dependency for pointtype
+Calculating dependency for ptrdiff_t
+Calculating dependency for putimage_ops
+Calculating dependency for sig_atomic_t
+Calculating dependency for size_t
+Calculating dependency for stat
+Calculating dependency for text_info
+Calculating dependency for text_just
+Calculating dependency for text_modes
+Calculating dependency for textsettingstype
+Calculating dependency for time
+Calculating dependency for time_t
+Calculating dependency for timeb
+Calculating dependency for tm
+Calculating dependency for utimbuf
+Calculating dependency for viewporttype
+Calculating dependency for wchar_t
+Calculating dependency for xfcb
+
+Got Type Def: fatinfo
+Got Type Def: fcb
+Got Type Def: ffblk
+Got Type Def: fill_patterns
+Got Type Def: fillsettingstype
+Got Type Def: find_t
+Got Type Def: font_names
+Got Type Def: fpos_t
+Got Type Def: ftime
+Got Type Def: graphics_drivers
+Got Type Def: graphics_errors
+Got Type Def: graphics_modes
+Got Type Def: jmp_buf
+Got Type Def: lconv
+Got Type Def: ldiv_t
+Got Type Def: line_styles
+Got Type Def: line_widths
+Got Type Def: linesettingstype
+Got Type Def: palettetype
+Got Type Def: pointtype
+Got Type Def: ptrdiff_t
+Got Type Def: putimage_ops
+Got Type Def: sig_atomic_t
+Got Type Def: size_t
+Got Type Def: stat
+Got Type Def: text_info
+Got Type Def: text_just
+Got Type Def: text_modes
+Got Type Def: textsettingstype
+Got Type Def: time
+Got Type Def: time_t
+Got Type Def: timeb
+Got Type Def: tm
+Got Type Def: utimbuf
+Got Type Def: va_list
+Got Type Def: viewporttype
+Got Type Def: wchar_t
+Got Type Def: xfcb
+Compiling all type regex...
+Calculating dependency for: _7B3C5D519F2E4A5BE311CA6A6DE1B2A0
+Calculating dependency for: _979FA3DE6ECCF956231BFC297C4278E6
+Calculating dependency for: _B8243ED19B76CA5D55F9F69ED1E7C09F
+Calculating dependency for: _C967B4BD5950CD7FE5A55F6326D513E0
+Calculating dependency for: _DD2596440A2D8284D7D9C623DB5462ED
+Calculating dependency for: _F537039E3C3D15C2CDBD1FBA107663C2
+Calculating dependency for: MACRO_MULTIFILEOPENORD
+Calculating dependency for: MACRO_FORMATDLGORD30
+Calculating dependency for: MACRO_FORMATDLGORD31
+Calculating dependency for: MACRO_PRNSETUPDLGORD
+Calculating dependency for: MACRO_REPLACEDLGORD
+Calculating dependency for: MACRO__HEAPCORRUPT
+Calculating dependency for: MACRO_BITSPERBYTE
+Calculating dependency for: MACRO_FILEOPENORD
+Calculating dependency for: MACRO_PRINTDLGORD
+Calculating dependency for: MACRO_SHIFTSTATUS
+Calculating dependency for: MACRO_DMAXPOWTWO
+Calculating dependency for: MACRO_FINDDLGORD
+Calculating dependency for: MACRO_FMAXPOWTWO
+Calculating dependency for: MACRO_FONTDLGORD
+Calculating dependency for: MACRO__FREEENTRY
+Calculating dependency for: MACRO__HEAPEMPTY
+Calculating dependency for: fillsettingstype
+Calculating dependency for: graphics_drivers
+Calculating dependency for: linesettingstype
+Calculating dependency for: textsettingstype
+Calculating dependency for: MACRO_HIDDENBIT
+Calculating dependency for: MACRO_MAXCOLORS
+Calculating dependency for: MACRO_WILDCARDS
+Calculating dependency for: MACRO__BADVALUE
+Calculating dependency for: MACRO__NOCURSOR
+Calculating dependency for: graphics_errors
+Calculating dependency for: MACRO_FILENAME
+Calculating dependency for: MACRO_MAXDRIVE
+Calculating dependency for: MACRO_MAXSHORT
+Calculating dependency for: MACRO_O_APPEND
+Calculating dependency for: MACRO__BADNODE
+Calculating dependency for: MACRO__DEXPLEN
+Calculating dependency for: MACRO__EXPBASE
+Calculating dependency for: MACRO__FEXPLEN
+Calculating dependency for: MACRO__HARDERR
+Calculating dependency for: MACRO__HEAPEND
+Calculating dependency for: MACRO__LENBASE
+Calculating dependency for: MACRO__PRINTER
+Calculating dependency for: MACRO_ctlFirst
+Calculating dependency for: graphics_modes
+Calculating dependency for: MACRO_DMAXEXP
+Calculating dependency for: MACRO_DMINEXP
+Calculating dependency for: MACRO_DSIGNIF
+Calculating dependency for: MACRO_FMAXEXP
+Calculating dependency for: MACRO_FMINEXP
+Calculating dependency for: MACRO_FSIGNIF
+Calculating dependency for: MACRO_MAXFILE
+Calculating dependency for: MACRO_MAXLONG
+Calculating dependency for: MACRO_MAXPATH
+Calculating dependency for: MACRO_ctlLast
+Calculating dependency for: MACRO_pshHelp
+Calculating dependency for: arccoordstype
+Calculating dependency for: dosSearchInfo
+Calculating dependency for: fill_patterns
+Calculating dependency for: MACRO_BUFSIZ
+Calculating dependency for: MACRO_HANDLE
+Calculating dependency for: MACRO_HIBITI
+Calculating dependency for: MACRO_HIBITS
+Calculating dependency for: MACRO_MAXDIR
+Calculating dependency for: MACRO_MAXEXT
+Calculating dependency for: MACRO_MAXINT
+Calculating dependency for: MACRO_MCW_IC
+Calculating dependency for: MACRO_MCW_PC
+Calculating dependency for: MACRO_MCW_RC
+Calculating dependency for: MACRO_SIGNAL
+Calculating dependency for: MACRO__IOFBF
+Calculating dependency for: MACRO__NFILE
+Calculating dependency for: putimage_ops
+Calculating dependency for: sig_atomic_t
+Calculating dependency for: viewporttype
+Calculating dependency for: MACRO_CCERR
+Calculating dependency for: MACRO_CDERR
+Calculating dependency for: MACRO_CFERR
+Calculating dependency for: MACRO_COLOR
+Calculating dependency for: MACRO_ERRNO
+Calculating dependency for: MACRO_FNERR
+Calculating dependency for: MACRO_FOPEN
+Calculating dependency for: MACRO_FRERR
+Calculating dependency for: MACRO_PDERR
+Calculating dependency for: MACRO_READY
+Calculating dependency for: MACRO_SCHAR
+Calculating dependency for: MACRO_ULONG
+Calculating dependency for: MACRO_USHRT
+Calculating dependency for: MACRO__DISK
+Calculating dependency for: MACRO__IEEE
+Calculating dependency for: MACRO__TIME
+Calculating dependency for: MACRO_chx10
+Calculating dependency for: MACRO_chx11
+Calculating dependency for: MACRO_chx12
+Calculating dependency for: MACRO_chx13
+Calculating dependency for: MACRO_chx14
+Calculating dependency for: MACRO_chx15
+Calculating dependency for: MACRO_chx16
+Calculating dependency for: MACRO_cmb10
+Calculating dependency for: MACRO_cmb11
+Calculating dependency for: MACRO_cmb12
+Calculating dependency for: MACRO_cmb13
+Calculating dependency for: MACRO_cmb14
+Calculating dependency for: MACRO_cmb15
+Calculating dependency for: MACRO_cmb16
+Calculating dependency for: MACRO_edt10
+Calculating dependency for: MACRO_edt11
+Calculating dependency for: MACRO_edt12
+Calculating dependency for: MACRO_edt13
+Calculating dependency for: MACRO_edt14
+Calculating dependency for: MACRO_edt15
+Calculating dependency for: MACRO_edt16
+Calculating dependency for: MACRO_lst10
+Calculating dependency for: MACRO_lst11
+Calculating dependency for: MACRO_lst12
+Calculating dependency for: MACRO_lst13
+Calculating dependency for: MACRO_lst14
+Calculating dependency for: MACRO_lst15
+Calculating dependency for: MACRO_lst16
+Calculating dependency for: MACRO_psh10
+Calculating dependency for: MACRO_psh11
+Calculating dependency for: MACRO_psh12
+Calculating dependency for: MACRO_psh13
+Calculating dependency for: MACRO_psh14
+Calculating dependency for: MACRO_psh15
+Calculating dependency for: MACRO_psh16
+Calculating dependency for: MACRO_rad10
+Calculating dependency for: MACRO_rad11
+Calculating dependency for: MACRO_rad12
+Calculating dependency for: MACRO_rad13
+Calculating dependency for: MACRO_rad14
+Calculating dependency for: MACRO_rad15
+Calculating dependency for: MACRO_rad16
+Calculating dependency for: MACRO_stc10
+Calculating dependency for: MACRO_stc11
+Calculating dependency for: MACRO_stc12
+Calculating dependency for: MACRO_stc13
+Calculating dependency for: MACRO_stc14
+Calculating dependency for: MACRO_stc15
+Calculating dependency for: MACRO_stc16
+Calculating dependency for: MACRO_stc17
+Calculating dependency for: MACRO_stc18
+Calculating dependency for: MACRO_stc19
+Calculating dependency for: MACRO_stc20
+Calculating dependency for: MACRO_stc21
+Calculating dependency for: MACRO_stc22
+Calculating dependency for: MACRO_stc23
+Calculating dependency for: MACRO_stc24
+Calculating dependency for: MACRO_stc25
+Calculating dependency for: MACRO_stc26
+Calculating dependency for: MACRO_stc27
+Calculating dependency for: MACRO_stc28
+Calculating dependency for: MACRO_stc29
+Calculating dependency for: MACRO_stc30
+Calculating dependency for: MACRO_stc31
+Calculating dependency for: MACRO_stc32
+Calculating dependency for: _CatcherPTR
+Calculating dependency for: _exceptionl
+Calculating dependency for: farheapinfo
+Calculating dependency for: line_styles
+Calculating dependency for: line_widths
+Calculating dependency for: palettetype
+Calculating dependency for: CGA_COLORS
+Calculating dependency for: EGA_COLORS
+Calculating dependency for: MACRO_CHAR
+Calculating dependency for: MACRO_EXIT
+Calculating dependency for: MACRO_LONG
+Calculating dependency for: MACRO_MODE
+Calculating dependency for: MACRO_NFDS
+Calculating dependency for: MACRO_NULL
+Calculating dependency for: MACRO_READ
+Calculating dependency for: MACRO_SEEK
+Calculating dependency for: MACRO_SEGV
+Calculating dependency for: MACRO_SHRT
+Calculating dependency for: MACRO_UINT
+Calculating dependency for: MACRO_USER
+Calculating dependency for: MACRO_WAIT
+Calculating dependency for: MACRO__COM
+Calculating dependency for: MACRO__MAX
+Calculating dependency for: MACRO_chx1
+Calculating dependency for: MACRO_chx2
+Calculating dependency for: MACRO_chx3
+Calculating dependency for: MACRO_chx4
+Calculating dependency for: MACRO_chx5
+Calculating dependency for: MACRO_chx6
+Calculating dependency for: MACRO_chx7
+Calculating dependency for: MACRO_chx8
+Calculating dependency for: MACRO_chx9
+Calculating dependency for: MACRO_cmb1
+Calculating dependency for: MACRO_cmb2
+Calculating dependency for: MACRO_cmb3
+Calculating dependency for: MACRO_cmb4
+Calculating dependency for: MACRO_cmb5
+Calculating dependency for: MACRO_cmb6
+Calculating dependency for: MACRO_cmb7
+Calculating dependency for: MACRO_cmb8
+Calculating dependency for: MACRO_cmb9
+Calculating dependency for: MACRO_edt1
+Calculating dependency for: MACRO_edt2
+Calculating dependency for: MACRO_edt3
+Calculating dependency for: MACRO_edt4
+Calculating dependency for: MACRO_edt5
+Calculating dependency for: MACRO_edt6
+Calculating dependency for: MACRO_edt7
+Calculating dependency for: MACRO_edt8
+Calculating dependency for: MACRO_edt9
+Calculating dependency for: MACRO_frm1
+Calculating dependency for: MACRO_frm2
+Calculating dependency for: MACRO_frm3
+Calculating dependency for: MACRO_frm4
+Calculating dependency for: MACRO_grp1
+Calculating dependency for: MACRO_grp2
+Calculating dependency for: MACRO_grp3
+Calculating dependency for: MACRO_grp4
+Calculating dependency for: MACRO_ico1
+Calculating dependency for: MACRO_ico2
+Calculating dependency for: MACRO_ico3
+Calculating dependency for: MACRO_ico4
+Calculating dependency for: MACRO_lst1
+Calculating dependency for: MACRO_lst2
+Calculating dependency for: MACRO_lst3
+Calculating dependency for: MACRO_lst4
+Calculating dependency for: MACRO_lst5
+Calculating dependency for: MACRO_lst6
+Calculating dependency for: MACRO_lst7
+Calculating dependency for: MACRO_lst8
+Calculating dependency for: MACRO_lst9
+Calculating dependency for: MACRO_psh1
+Calculating dependency for: MACRO_psh2
+Calculating dependency for: MACRO_psh3
+Calculating dependency for: MACRO_psh4
+Calculating dependency for: MACRO_psh5
+Calculating dependency for: MACRO_psh6
+Calculating dependency for: MACRO_psh7
+Calculating dependency for: MACRO_psh8
+Calculating dependency for: MACRO_psh9
+Calculating dependency for: MACRO_rad1
+Calculating dependency for: MACRO_rad2
+Calculating dependency for: MACRO_rad3
+Calculating dependency for: MACRO_rad4
+Calculating dependency for: MACRO_rad5
+Calculating dependency for: MACRO_rad6
+Calculating dependency for: MACRO_rad7
+Calculating dependency for: MACRO_rad8
+Calculating dependency for: MACRO_rad9
+Calculating dependency for: MACRO_rct1
+Calculating dependency for: MACRO_rct2
+Calculating dependency for: MACRO_rct3
+Calculating dependency for: MACRO_rct4
+Calculating dependency for: MACRO_scr1
+Calculating dependency for: MACRO_scr2
+Calculating dependency for: MACRO_scr3
+Calculating dependency for: MACRO_scr4
+Calculating dependency for: MACRO_scr5
+Calculating dependency for: MACRO_scr6
+Calculating dependency for: MACRO_scr7
+Calculating dependency for: MACRO_scr8
+Calculating dependency for: MACRO_stc1
+Calculating dependency for: MACRO_stc2
+Calculating dependency for: MACRO_stc3
+Calculating dependency for: MACRO_stc4
+Calculating dependency for: MACRO_stc5
+Calculating dependency for: MACRO_stc6
+Calculating dependency for: MACRO_stc7
+Calculating dependency for: MACRO_stc8
+Calculating dependency for: MACRO_stc9
+Calculating dependency for: diskfree_t
+Calculating dependency for: diskinfo_t
+Calculating dependency for: font_names
+Calculating dependency for: text_modes
+Calculating dependency for: MACRO_DIG
+Calculating dependency for: MACRO_DIR
+Calculating dependency for: MACRO_DLG
+Calculating dependency for: MACRO_EOF
+Calculating dependency for: MACRO_EXP
+Calculating dependency for: MACRO_FLT
+Calculating dependency for: MACRO_FPE
+Calculating dependency for: MACRO_ILL
+Calculating dependency for: MACRO_INT
+Calculating dependency for: MACRO_MAX
+Calculating dependency for: MACRO_MCW
+Calculating dependency for: MACRO_NUM
+Calculating dependency for: MACRO_SIG
+Calculating dependency for: MACRO_SYS
+Calculating dependency for: MACRO_TMP
+Calculating dependency for: MACRO__IS
+Calculating dependency for: __jmp_buf
+Calculating dependency for: _complexl
+Calculating dependency for: dosdate_t
+Calculating dependency for: dostime_t
+Calculating dependency for: exception
+Calculating dependency for: pointtype
+Calculating dependency for: ptrdiff_t
+Calculating dependency for: text_info
+Calculating dependency for: text_just
+Calculating dependency for: BYTEREGS
+Calculating dependency for: DOSERROR
+Calculating dependency for: MACRO_EM
+Calculating dependency for: MACRO_FA
+Calculating dependency for: MACRO_IC
+Calculating dependency for: MACRO_LC
+Calculating dependency for: MACRO_LK
+Calculating dependency for: MACRO_MB
+Calculating dependency for: MACRO_PC
+Calculating dependency for: MACRO_RC
+Calculating dependency for: MACRO_SH
+Calculating dependency for: MACRO_SW
+Calculating dependency for: MACRO__A
+Calculating dependency for: MACRO__F
+Calculating dependency for: MACRO__O
+Calculating dependency for: WORDREGS
+Calculating dependency for: atexit_t
+Calculating dependency for: COUNTRY
+Calculating dependency for: MACRO_L
+Calculating dependency for: MACRO_O
+Calculating dependency for: MACRO_P
+Calculating dependency for: MACRO_S
+Calculating dependency for: REGPACK
+Calculating dependency for: _mexcep
+Calculating dependency for: clock_t
+Calculating dependency for: complex
+Calculating dependency for: fatinfo
+Calculating dependency for: jmp_buf
+Calculating dependency for: utimbuf
+Calculating dependency for: wchar_t
+Calculating dependency for: COLORS
+Calculating dependency for: devhdr
+Calculating dependency for: dirent
+Calculating dependency for: find_t
+Calculating dependency for: fpos_t
+Calculating dependency for: ldiv_t
+Calculating dependency for: size_t
+Calculating dependency for: time_t
+Calculating dependency for: SREGS
+Calculating dependency for: dfree
+Calculating dependency for: div_t
+Calculating dependency for: ffblk
+Calculating dependency for: ftime
+Calculating dependency for: lconv
+Calculating dependency for: timeb
+Calculating dependency for: FILE
+Calculating dependency for: REGS
+Calculating dependency for: date
+Calculating dependency for: stat
+Calculating dependency for: time
+Calculating dependency for: xfcb
+Calculating dependency for: DIR
+Calculating dependency for: fcb
+Calculating dependency for: tm
+Type hierarchy analysis finished:
+_7B3C5D519F2E4A5BE311CA6A6DE1B2A0 -> []
+_979FA3DE6ECCF956231BFC297C4278E6 -> []
+_B8243ED19B76CA5D55F9F69ED1E7C09F -> []
+_C967B4BD5950CD7FE5A55F6326D513E0 -> []
+_DD2596440A2D8284D7D9C623DB5462ED -> []
+MACRO_MULTIFILEOPENORD -> []
+MACRO_FORMATDLGORD30 -> []
+MACRO_FORMATDLGORD31 -> []
+MACRO_PRNSETUPDLGORD -> []
+MACRO_REPLACEDLGORD -> []
+MACRO__HEAPCORRUPT -> []
+MACRO_BITSPERBYTE -> []
+MACRO_FILEOPENORD -> []
+MACRO_PRINTDLGORD -> []
+MACRO_SHIFTSTATUS -> []
+MACRO_DMAXPOWTWO -> []
+MACRO_FINDDLGORD -> []
+MACRO_FMAXPOWTWO -> []
+MACRO_FONTDLGORD -> []
+MACRO__FREEENTRY -> []
+MACRO__HEAPEMPTY -> []
+fillsettingstype -> []
+graphics_drivers -> []
+linesettingstype -> []
+textsettingstype -> []
+MACRO_HIDDENBIT -> []
+MACRO_MAXCOLORS -> []
+MACRO_WILDCARDS -> []
+MACRO__BADVALUE -> []
+MACRO__NOCURSOR -> []
+graphics_errors -> []
+MACRO_FILENAME -> []
+MACRO_MAXDRIVE -> []
+MACRO_MAXSHORT -> []
+MACRO_O_APPEND -> []
+MACRO__BADNODE -> []
+MACRO__DEXPLEN -> []
+MACRO__EXPBASE -> []
+MACRO__FEXPLEN -> []
+MACRO__HARDERR -> []
+MACRO__HEAPEND -> []
+MACRO__LENBASE -> []
+MACRO__PRINTER -> []
+MACRO_ctlFirst -> []
+graphics_modes -> []
+MACRO_DMAXEXP -> []
+MACRO_DMINEXP -> []
+MACRO_DSIGNIF -> []
+MACRO_FMAXEXP -> []
+MACRO_FMINEXP -> []
+MACRO_FSIGNIF -> []
+MACRO_MAXFILE -> []
+MACRO_MAXLONG -> []
+MACRO_MAXPATH -> []
+MACRO_ctlLast -> []
+MACRO_pshHelp -> []
+arccoordstype -> []
+dosSearchInfo -> []
+fill_patterns -> []
+MACRO_BUFSIZ -> []
+MACRO_HANDLE -> []
+MACRO_HIBITI -> []
+MACRO_HIBITS -> []
+MACRO_MAXDIR -> []
+MACRO_MAXEXT -> []
+MACRO_MAXINT -> []
+MACRO_MCW_IC -> []
+MACRO_MCW_PC -> []
+MACRO_MCW_RC -> []
+MACRO_SIGNAL -> []
+MACRO__IOFBF -> []
+MACRO__NFILE -> []
+putimage_ops -> []
+sig_atomic_t -> []
+viewporttype -> []
+MACRO_CCERR -> []
+MACRO_CDERR -> []
+MACRO_CFERR -> []
+MACRO_COLOR -> []
+MACRO_ERRNO -> []
+MACRO_FNERR -> []
+MACRO_FOPEN -> []
+MACRO_FRERR -> []
+MACRO_PDERR -> []
+MACRO_READY -> []
+MACRO_SCHAR -> []
+MACRO_ULONG -> []
+MACRO_USHRT -> []
+MACRO__DISK -> []
+MACRO__IEEE -> []
+MACRO__TIME -> []
+MACRO_chx10 -> []
+MACRO_chx11 -> []
+MACRO_chx12 -> []
+MACRO_chx13 -> []
+MACRO_chx14 -> []
+MACRO_chx15 -> []
+MACRO_chx16 -> []
+MACRO_cmb10 -> []
+MACRO_cmb11 -> []
+MACRO_cmb12 -> []
+MACRO_cmb13 -> []
+MACRO_cmb14 -> []
+MACRO_cmb15 -> []
+MACRO_cmb16 -> []
+MACRO_edt10 -> []
+MACRO_edt11 -> []
+MACRO_edt12 -> []
+MACRO_edt13 -> []
+MACRO_edt14 -> []
+MACRO_edt15 -> []
+MACRO_edt16 -> []
+MACRO_lst10 -> []
+MACRO_lst11 -> []
+MACRO_lst12 -> []
+MACRO_lst13 -> []
+MACRO_lst14 -> []
+MACRO_lst15 -> []
+MACRO_lst16 -> []
+MACRO_psh10 -> []
+MACRO_psh11 -> []
+MACRO_psh12 -> []
+MACRO_psh13 -> []
+MACRO_psh14 -> []
+MACRO_psh15 -> []
+MACRO_psh16 -> []
+MACRO_rad10 -> []
+MACRO_rad11 -> []
+MACRO_rad12 -> []
+MACRO_rad13 -> []
+MACRO_rad14 -> []
+MACRO_rad15 -> []
+MACRO_rad16 -> []
+MACRO_stc10 -> []
+MACRO_stc11 -> []
+MACRO_stc12 -> []
+MACRO_stc13 -> []
+MACRO_stc14 -> []
+MACRO_stc15 -> []
+MACRO_stc16 -> []
+MACRO_stc17 -> []
+MACRO_stc18 -> []
+MACRO_stc19 -> []
+MACRO_stc20 -> []
+MACRO_stc21 -> []
+MACRO_stc22 -> []
+MACRO_stc23 -> []
+MACRO_stc24 -> []
+MACRO_stc25 -> []
+MACRO_stc26 -> []
+MACRO_stc27 -> []
+MACRO_stc28 -> []
+MACRO_stc29 -> []
+MACRO_stc30 -> []
+MACRO_stc31 -> []
+MACRO_stc32 -> []
+_CatcherPTR -> []
+_exceptionl -> []
+farheapinfo -> []
+line_styles -> []
+line_widths -> []
+palettetype -> []
+CGA_COLORS -> []
+EGA_COLORS -> []
+MACRO_CHAR -> []
+MACRO_EXIT -> []
+MACRO_LONG -> []
+MACRO_MODE -> []
+MACRO_NFDS -> []
+MACRO_NULL -> []
+MACRO_READ -> []
+MACRO_SEEK -> []
+MACRO_SEGV -> []
+MACRO_SHRT -> []
+MACRO_UINT -> []
+MACRO_USER -> []
+MACRO_WAIT -> []
+MACRO__COM -> []
+MACRO__MAX -> []
+MACRO_chx1 -> []
+MACRO_chx2 -> []
+MACRO_chx3 -> []
+MACRO_chx4 -> []
+MACRO_chx5 -> []
+MACRO_chx6 -> []
+MACRO_chx7 -> []
+MACRO_chx8 -> []
+MACRO_chx9 -> []
+MACRO_cmb1 -> []
+MACRO_cmb2 -> []
+MACRO_cmb3 -> []
+MACRO_cmb4 -> []
+MACRO_cmb5 -> []
+MACRO_cmb6 -> []
+MACRO_cmb7 -> []
+MACRO_cmb8 -> []
+MACRO_cmb9 -> []
+MACRO_edt1 -> []
+MACRO_edt2 -> []
+MACRO_edt3 -> []
+MACRO_edt4 -> []
+MACRO_edt5 -> []
+MACRO_edt6 -> []
+MACRO_edt7 -> []
+MACRO_edt8 -> []
+MACRO_edt9 -> []
+MACRO_frm1 -> []
+MACRO_frm2 -> []
+MACRO_frm3 -> []
+MACRO_frm4 -> []
+MACRO_grp1 -> []
+MACRO_grp2 -> []
+MACRO_grp3 -> []
+MACRO_grp4 -> []
+MACRO_ico1 -> []
+MACRO_ico2 -> []
+MACRO_ico3 -> []
+MACRO_ico4 -> []
+MACRO_lst1 -> []
+MACRO_lst2 -> []
+MACRO_lst3 -> []
+MACRO_lst4 -> []
+MACRO_lst5 -> []
+MACRO_lst6 -> []
+MACRO_lst7 -> []
+MACRO_lst8 -> []
+MACRO_lst9 -> []
+MACRO_psh1 -> []
+MACRO_psh2 -> []
+MACRO_psh3 -> []
+MACRO_psh4 -> []
+MACRO_psh5 -> []
+MACRO_psh6 -> []
+MACRO_psh7 -> []
+MACRO_psh8 -> []
+MACRO_psh9 -> []
+MACRO_rad1 -> []
+MACRO_rad2 -> []
+MACRO_rad3 -> []
+MACRO_rad4 -> []
+MACRO_rad5 -> []
+MACRO_rad6 -> []
+MACRO_rad7 -> []
+MACRO_rad8 -> []
+MACRO_rad9 -> []
+MACRO_rct1 -> []
+MACRO_rct2 -> []
+MACRO_rct3 -> []
+MACRO_rct4 -> []
+MACRO_scr1 -> []
+MACRO_scr2 -> []
+MACRO_scr3 -> []
+MACRO_scr4 -> []
+MACRO_scr5 -> []
+MACRO_scr6 -> []
+MACRO_scr7 -> []
+MACRO_scr8 -> []
+MACRO_stc1 -> []
+MACRO_stc2 -> []
+MACRO_stc3 -> []
+MACRO_stc4 -> []
+MACRO_stc5 -> []
+MACRO_stc6 -> []
+MACRO_stc7 -> []
+MACRO_stc8 -> []
+MACRO_stc9 -> []
+diskfree_t -> []
+diskinfo_t -> []
+font_names -> []
+text_modes -> []
+MACRO_DIG -> []
+MACRO_DIR -> []
+MACRO_DLG -> []
+MACRO_EOF -> []
+MACRO_EXP -> []
+MACRO_FLT -> []
+MACRO_FPE -> []
+MACRO_ILL -> []
+MACRO_INT -> []
+MACRO_MAX -> []
+MACRO_MCW -> []
+MACRO_NUM -> []
+MACRO_SIG -> []
+MACRO_SYS -> []
+MACRO_TMP -> []
+MACRO__IS -> []
+__jmp_buf -> []
+_complexl -> []
+dosdate_t -> []
+dostime_t -> []
+exception -> []
+pointtype -> []
+ptrdiff_t -> []
+text_info -> []
+text_just -> []
+BYTEREGS -> []
+DOSERROR -> []
+MACRO_EM -> []
+MACRO_FA -> []
+MACRO_IC -> []
+MACRO_LC -> []
+MACRO_LK -> []
+MACRO_MB -> []
+MACRO_PC -> []
+MACRO_RC -> []
+MACRO_SH -> []
+MACRO_SW -> []
+MACRO__A -> []
+MACRO__F -> []
+MACRO__O -> []
+WORDREGS -> []
+atexit_t -> []
+COUNTRY -> []
+MACRO_L -> []
+MACRO_O -> []
+MACRO_P -> []
+MACRO_S -> []
+REGPACK -> []
+clock_t -> []
+complex -> []
+fatinfo -> []
+jmp_buf -> []
+wchar_t -> []
+COLORS -> []
+devhdr -> []
+dirent -> []
+find_t -> []
+fpos_t -> []
+ldiv_t -> []
+size_t -> []
+time_t -> []
+SREGS -> []
+dfree -> []
+div_t -> []
+ffblk -> []
+ftime -> []
+lconv -> []
+timeb -> []
+FILE -> []
+date -> []
+stat -> []
+time -> []
+DIR -> []
+fcb -> []
+tm -> []
+_F537039E3C3D15C2CDBD1FBA107663C2 -> ['dirent']
+_mexcep -> ['_C967B4BD5950CD7FE5A55F6326D513E0']
+utimbuf -> ['time_t']
+xfcb -> ['fcb']
+REGS -> ['WORDREGS', 'BYTEREGS']
+========= Ghidra Hdr Gen finished!

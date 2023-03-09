@@ -1,0 +1,190 @@
+[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmpgepv9yex/typDef.json',
+  '/tmp/tmpgepv9yex/regexRet.json'
+]
+Calculating dependency for MACRO_SYS
+Calculating dependency for MACRO___ARM
+Calculating dependency for MACRO___NR
+Calculating dependency for __kernel_ulong_t
+Calculating dependency for __old_kernel_stat
+Calculating dependency for __user_cap_data_struct
+Calculating dependency for __user_cap_header_struct
+Calculating dependency for aio_context_t
+Calculating dependency for bpf_attr
+Calculating dependency for cap_user_data_t
+Calculating dependency for cap_user_header_t
+Calculating dependency for compat_stat
+Calculating dependency for compat_timeval
+Calculating dependency for file_handle
+Calculating dependency for getcpu_cache
+Calculating dependency for iattr
+Calculating dependency for inode
+Calculating dependency for io_event
+Calculating dependency for iocb
+Calculating dependency for kexec_segment
+Calculating dependency for key_serial_t
+Calculating dependency for linux_dirent
+Calculating dependency for linux_dirent64
+Calculating dependency for list_head
+Calculating dependency for mmap_arg_struct
+Calculating dependency for mmsghdr
+Calculating dependency for msgbuf
+Calculating dependency for new_utsname
+Calculating dependency for nfsctl_arg
+Calculating dependency for old_linux_dirent
+Calculating dependency for old_sigset_t
+Calculating dependency for old_utsname
+Calculating dependency for oldold_utsname
+Calculating dependency for perf_event_attr
+Calculating dependency for qid_t
+Calculating dependency for rlimit64
+Calculating dependency for robust_list_head
+Calculating dependency for sched_attr
+Calculating dependency for sel_arg_struct
+Calculating dependency for semaphore
+Calculating dependency for stat64
+Calculating dependency for statfs64
+Calculating dependency for u32
+Calculating dependency for u64
+Calculating dependency for user_msghdr
+Replacing template arg round 1
+Got Type Def: MACRO_SYS
+Got Type Def: MACRO___ARM
+Got Type Def: MACRO___NR
+Got Type Def: __kernel_ulong_t
+Got Type Def: __old_kernel_stat
+Got Type Def: __user_cap_data_struct
+Got Type Def: __user_cap_header_struct
+Got Type Def: aio_context_t
+Got Type Def: bpf_attr
+Got Type Def: cap_user_data_t
+Got Type Def: cap_user_header_t
+Got Type Def: compat_stat
+Got Type Def: compat_timeval
+Got Type Def: file_handle
+Got Type Def: getcpu_cache
+Got Type Def: iattr
+Got Type Def: inode
+Got Type Def: io_event
+Got Type Def: iocb
+Got Type Def: kexec_segment
+Got Type Def: key_serial_t
+Got Type Def: linux_dirent
+Got Type Def: linux_dirent64
+Got Type Def: list_head
+Got Type Def: mmap_arg_struct
+Got Type Def: mmsghdr
+Got Type Def: msgbuf
+Got Type Def: new_utsname
+Got Type Def: nfsctl_arg
+Got Type Def: old_linux_dirent
+Got Type Def: old_sigset_t
+Got Type Def: old_utsname
+Got Type Def: oldold_utsname
+Got Type Def: perf_event_attr
+Got Type Def: qid_t
+Got Type Def: rlimit64
+Got Type Def: robust_list_head
+Got Type Def: sched_attr
+Got Type Def: sel_arg_struct
+Got Type Def: semaphore
+Got Type Def: stat64
+Got Type Def: statfs64
+Got Type Def: u32
+Got Type Def: u64
+Got Type Def: user_msghdr
+Compiling all type regex...
+Calculating dependency for: __user_cap_header_struct
+Calculating dependency for: __user_cap_data_struct
+Calculating dependency for: __old_kernel_stat
+Calculating dependency for: cap_user_header_t
+Calculating dependency for: __kernel_ulong_t
+Calculating dependency for: old_linux_dirent
+Calculating dependency for: robust_list_head
+Calculating dependency for: cap_user_data_t
+Calculating dependency for: mmap_arg_struct
+Calculating dependency for: perf_event_attr
+Calculating dependency for: compat_timeval
+Calculating dependency for: linux_dirent64
+Calculating dependency for: oldold_utsname
+Calculating dependency for: sel_arg_struct
+Calculating dependency for: aio_context_t
+Calculating dependency for: kexec_segment
+Calculating dependency for: getcpu_cache
+Calculating dependency for: key_serial_t
+Calculating dependency for: linux_dirent
+Calculating dependency for: old_sigset_t
+Calculating dependency for: MACRO___ARM
+Calculating dependency for: compat_stat
+Calculating dependency for: file_handle
+Calculating dependency for: new_utsname
+Calculating dependency for: old_utsname
+Calculating dependency for: user_msghdr
+Calculating dependency for: MACRO___NR
+Calculating dependency for: nfsctl_arg
+Calculating dependency for: sched_attr
+Calculating dependency for: MACRO_SYS
+Calculating dependency for: list_head
+Calculating dependency for: semaphore
+Calculating dependency for: bpf_attr
+Calculating dependency for: io_event
+Calculating dependency for: rlimit64
+Calculating dependency for: statfs64
+Calculating dependency for: mmsghdr
+Calculating dependency for: msgbuf
+Calculating dependency for: stat64
+Calculating dependency for: iattr
+Calculating dependency for: inode
+Calculating dependency for: qid_t
+Calculating dependency for: iocb
+Calculating dependency for: u32
+Calculating dependency for: u64
+Type hierarchy analysis finished:
+__user_cap_header_struct -> []
+__user_cap_data_struct -> []
+__old_kernel_stat -> []
+cap_user_header_t -> []
+__kernel_ulong_t -> []
+old_linux_dirent -> []
+robust_list_head -> []
+cap_user_data_t -> []
+mmap_arg_struct -> []
+perf_event_attr -> []
+compat_timeval -> []
+linux_dirent64 -> []
+oldold_utsname -> []
+sel_arg_struct -> []
+kexec_segment -> []
+getcpu_cache -> []
+key_serial_t -> []
+linux_dirent -> []
+old_sigset_t -> []
+MACRO___ARM -> []
+compat_stat -> []
+file_handle -> []
+new_utsname -> []
+old_utsname -> []
+user_msghdr -> []
+MACRO___NR -> []
+nfsctl_arg -> []
+sched_attr -> []
+MACRO_SYS -> []
+list_head -> []
+semaphore -> []
+bpf_attr -> []
+io_event -> []
+rlimit64 -> []
+statfs64 -> []
+mmsghdr -> []
+msgbuf -> []
+stat64 -> []
+iattr -> []
+inode -> []
+qid_t -> []
+iocb -> []
+u32 -> []
+u64 -> []
+aio_context_t -> ['__kernel_ulong_t']
+========= Ghidra Hdr Gen finished!

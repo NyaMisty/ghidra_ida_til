@@ -1,0 +1,971 @@
+[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmp554rh7b2/typDef.json',
+  '/tmp/tmp554rh7b2/regexRet.json'
+]
+Calculating dependency for _49112922E8D3FA36A9D9A6626290371D
+Calculating dependency for _5D287BBCEE976282B532DF578B48FE30
+Calculating dependency for _708EB2C8D47456B2C174260C174C4FAC
+Calculating dependency for _92231A9D73296187DBEF5930036406A4
+Calculating dependency for _95C3CB16824D66B4D3D3A1F25D6CE7B3
+Calculating dependency for _F8345695F188CA62739CDC0353D986D0
+Calculating dependency for BYTEREGS
+Calculating dependency for DOSERROR
+Calculating dependency for FILE
+Calculating dependency for MACRO_BUFSIZ
+Calculating dependency for MACRO_CHAR
+Calculating dependency for MACRO_CLK
+Calculating dependency for MACRO_CLOCKS
+Calculating dependency for MACRO_DBL
+Calculating dependency for MACRO_DBL_RADIX
+Calculating dependency for MACRO_DOMAIN
+Calculating dependency for MACRO_DOS_CW
+Calculating dependency for MACRO_DOS_EM
+Calculating dependency for MACRO_DOS_LC
+Calculating dependency for MACRO_DOS_MAX
+Calculating dependency for MACRO_DOS_PC
+Calculating dependency for MACRO_DOS_RC
+Calculating dependency for MACRO_DOS_SW
+Calculating dependency for MACRO_EOF
+Calculating dependency for MACRO_ERRNO
+Calculating dependency for MACRO_EXIT
+Calculating dependency for MACRO_FILE_MODE
+Calculating dependency for MACRO_FLT
+Calculating dependency for MACRO_FPE
+Calculating dependency for MACRO_IC
+Calculating dependency for MACRO_LDBL
+Calculating dependency for MACRO_LDBL_RADIX
+Calculating dependency for MACRO_LK
+Calculating dependency for MACRO_MCW
+Calculating dependency for MACRO_MCW_RC
+Calculating dependency for MACRO_MIN
+Calculating dependency for MACRO_MODE
+Calculating dependency for MACRO_NSIG
+Calculating dependency for MACRO_NULL
+Calculating dependency for MACRO_O
+Calculating dependency for MACRO_OLD
+Calculating dependency for MACRO_OVERFLOW
+Calculating dependency for MACRO_P
+Calculating dependency for MACRO_PLOSS
+Calculating dependency for MACRO_P_NOWAITO
+Calculating dependency for MACRO_SEEK
+Calculating dependency for MACRO_SH
+Calculating dependency for MACRO_SIGNAL
+Calculating dependency for MACRO_SYS
+Calculating dependency for MACRO_TLOSS
+Calculating dependency for MACRO__A
+Calculating dependency for MACRO__ANALOG
+Calculating dependency for MACRO__BLACK
+Calculating dependency for MACRO__BRIGHTWHITE
+Calculating dependency for MACRO__BROWN
+Calculating dependency for MACRO__COM
+Calculating dependency for MACRO__CW
+Calculating dependency for MACRO__CYAN
+Calculating dependency for MACRO__DBL
+Calculating dependency for MACRO__DEFAULTMODE
+Calculating dependency for MACRO__DISK
+Calculating dependency for MACRO__DOMAIN
+Calculating dependency for MACRO__EM
+Calculating dependency for MACRO__ERESNOCOLOR
+Calculating dependency for MACRO__FPE
+Calculating dependency for MACRO__FREEENTRY
+Calculating dependency for MACRO__GAND
+Calculating dependency for MACRO__GBORDER
+Calculating dependency for MACRO__GCLEARSCREEN
+Calculating dependency for MACRO__GCURSOROFF
+Calculating dependency for MACRO__GFILLINTERIOR
+Calculating dependency for MACRO__GOR
+Calculating dependency for MACRO__GPRESET
+Calculating dependency for MACRO__GPSET
+Calculating dependency for MACRO__GRAY
+Calculating dependency for MACRO__GRCORRUPTEDFONTFILE
+Calculating dependency for MACRO__GREEN
+Calculating dependency for MACRO__GRFONTFILENOTFOUND
+Calculating dependency for MACRO__GRINSUFFICIENTMEMORY
+Calculating dependency for MACRO__GRINVALIDFONTFILE
+Calculating dependency for MACRO__GRINVALIDIMAGEBUFFER
+Calculating dependency for MACRO__GRINVALIDPARAMETER
+Calculating dependency for MACRO__GRMODENOTSUPPORTED
+Calculating dependency for MACRO__GRNOOUTPUT
+Calculating dependency for MACRO__GRNOTINPROPERMODE
+Calculating dependency for MACRO__GROK
+Calculating dependency for MACRO__GRPARAMETERALTERED
+Calculating dependency for MACRO__GSCROLLDOWN
+Calculating dependency for MACRO__GSCROLLUP
+Calculating dependency for MACRO__GWRAPOFF
+Calculating dependency for MACRO__HARDERR
+Calculating dependency for MACRO__HEAP
+Calculating dependency for MACRO__HEAPBADBEGIN
+Calculating dependency for MACRO__HEAPBADNODE
+Calculating dependency for MACRO__HEAPBADPTR
+Calculating dependency for MACRO__HEAPEMPTY
+Calculating dependency for MACRO__HEAPEND
+Calculating dependency for MACRO__HEAPOK
+Calculating dependency for MACRO__HRES16COLOR
+Calculating dependency for MACRO__HRESBW
+Calculating dependency for MACRO__IC
+Calculating dependency for MACRO__IOFBF
+Calculating dependency for MACRO__IONBF
+Calculating dependency for MACRO__IOREAD
+Calculating dependency for MACRO__JBLEN
+Calculating dependency for MACRO__KEYBRD
+Calculating dependency for MACRO__LDBL
+Calculating dependency for MACRO__LIGHTBLUE
+Calculating dependency for MACRO__LIGHTCYAN
+Calculating dependency for MACRO__LIGHTGREEN
+Calculating dependency for MACRO__LIGHTMAGENTA
+Calculating dependency for MACRO__LIGHTRED
+Calculating dependency for MACRO__LIGHTYELLOW
+Calculating dependency for MACRO__LK
+Calculating dependency for MACRO__MAGENTA
+Calculating dependency for MACRO__MAX
+Calculating dependency for MACRO__MAXCOLORMODE
+Calculating dependency for MACRO__MAXRESMODE
+Calculating dependency for MACRO__MAXTEXTROWS
+Calculating dependency for MACRO__MCW
+Calculating dependency for MACRO__MCW_IC
+Calculating dependency for MACRO__MCW_PC
+Calculating dependency for MACRO__MCW_RC
+Calculating dependency for MACRO__MDPA
+Calculating dependency for MACRO__MODE7OFF
+Calculating dependency for MACRO__MODEFHITOOFF
+Calculating dependency for MACRO__MODEFHITOON
+Calculating dependency for MACRO__MODEFOFF
+Calculating dependency for MACRO__MODEFONTOHI
+Calculating dependency for MACRO__MODEFONTOOFF
+Calculating dependency for MACRO__MONO
+Calculating dependency for MACRO__MRES16COLOR
+Calculating dependency for MACRO__MRES256COLOR
+Calculating dependency for MACRO__MRESNOCOLOR
+Calculating dependency for MACRO__NFILE
+Calculating dependency for MACRO__NKEYBRD
+Calculating dependency for MACRO__NULLSEG
+Calculating dependency for MACRO__O
+Calculating dependency for MACRO__OEGA
+Calculating dependency for MACRO__OLD
+Calculating dependency for MACRO__OVERFLOW
+Calculating dependency for MACRO__OVGA
+Calculating dependency for MACRO__P
+Calculating dependency for MACRO__PC
+Calculating dependency for MACRO__PG
+Calculating dependency for MACRO__PLOSS
+Calculating dependency for MACRO__PRINTER
+Calculating dependency for MACRO__P_NOWAITO
+Calculating dependency for MACRO__RC
+Calculating dependency for MACRO__RED
+Calculating dependency for MACRO__S
+Calculating dependency for MACRO__SH
+Calculating dependency for MACRO__SRES16COLOR
+Calculating dependency for MACRO__SRES256COLOR
+Calculating dependency for MACRO__SVGA
+Calculating dependency for MACRO__SW
+Calculating dependency for MACRO__SYS
+Calculating dependency for MACRO__TEXTBW40
+Calculating dependency for MACRO__TEXTC80
+Calculating dependency for MACRO__TEXTMONO
+Calculating dependency for MACRO__TIME
+Calculating dependency for MACRO__TLOSS
+Calculating dependency for MACRO__UPPER
+Calculating dependency for MACRO__VM
+Calculating dependency for MACRO__VRES16COLOR
+Calculating dependency for MACRO__VRES256COLOR
+Calculating dependency for MACRO__VRES2COLOR
+Calculating dependency for MACRO__WHITE
+Calculating dependency for MACRO__XRES16COLOR
+Calculating dependency for MACRO__XRES256COLOR
+Calculating dependency for MACRO__YELLOW
+Calculating dependency for MACRO__ZRES16COLOR
+Calculating dependency for MACRO__ZRES256COLOR
+Calculating dependency for REGS
+Calculating dependency for SREGS
+Calculating dependency for WORDREGS
+Calculating dependency for _BYTEREGS
+Calculating dependency for _DOSERROR
+Calculating dependency for _HEAPINFO
+Calculating dependency for _REGS
+Calculating dependency for _SREGS
+Calculating dependency for _WORDREGS
+Calculating dependency for __segment
+Calculating dependency for _axistype
+Calculating dependency for _charmap
+Calculating dependency for _chartenv
+Calculating dependency for _complex
+Calculating dependency for _complexl
+Calculating dependency for _dev_t
+Calculating dependency for _diskfree_t
+Calculating dependency for _diskinfo_t
+Calculating dependency for _div_t
+Calculating dependency for _dosdate_t
+Calculating dependency for _dostime_t
+Calculating dependency for _exception
+Calculating dependency for _exceptionl
+Calculating dependency for _fillmap
+Calculating dependency for _find_t
+Calculating dependency for _fonexit_t
+Calculating dependency for _fontinfo
+Calculating dependency for _heapinfo
+Calculating dependency for _ino_t
+Calculating dependency for _iobuf
+Calculating dependency for _ldiv_t
+Calculating dependency for _legendtype
+Calculating dependency for _off_t
+Calculating dependency for _onexit_t
+Calculating dependency for _paletteentry
+Calculating dependency for _palettetype
+Calculating dependency for _rccoord
+Calculating dependency for _stat
+Calculating dependency for _styleset
+Calculating dependency for _timeb
+Calculating dependency for _titletype
+Calculating dependency for _utimbuf
+Calculating dependency for _videoconfig
+Calculating dependency for _vmhnd_t
+Calculating dependency for _windowtype
+Calculating dependency for _wxycoord
+Calculating dependency for _xycoord
+Calculating dependency for clock_t
+Calculating dependency for complex
+Calculating dependency for dev_t
+Calculating dependency for div_t
+Calculating dependency for fpos_t
+Calculating dependency for ino_t
+Calculating dependency for jmp_buf
+Calculating dependency for lconv
+Calculating dependency for ldiv_t
+Calculating dependency for off_t
+Calculating dependency for onexit_t
+Calculating dependency for ptrdiff_t
+Calculating dependency for sig_atomic_t
+Calculating dependency for size_t
+Calculating dependency for stat
+Calculating dependency for time_t
+Calculating dependency for timeb
+Calculating dependency for tm
+Calculating dependency for utimbuf
+Calculating dependency for wchar_t
+Replacing template arg round 1
+Got Type Def: _49112922E8D3FA36A9D9A6626290371D
+Got Type Def: _5D287BBCEE976282B532DF578B48FE30
+Got Type Def: _708EB2C8D47456B2C174260C174C4FAC
+Got Type Def: _92231A9D73296187DBEF5930036406A4
+Got Type Def: _95C3CB16824D66B4D3D3A1F25D6CE7B3
+Got Type Def: _F8345695F188CA62739CDC0353D986D0
+Got Type Def: BYTEREGS
+Got Type Def: DOSERROR
+Got Type Def: FILE
+Got Type Def: MACRO_BUFSIZ
+Got Type Def: MACRO_CHAR
+Got Type Def: MACRO_CLK
+Got Type Def: MACRO_CLOCKS
+Got Type Def: MACRO_DBL
+Got Type Def: MACRO_DBL_RADIX
+Got Type Def: MACRO_DOMAIN
+Got Type Def: MACRO_DOS_CW
+Got Type Def: MACRO_DOS_EM
+Got Type Def: MACRO_DOS_LC
+Got Type Def: MACRO_DOS_MAX
+Got Type Def: MACRO_DOS_PC
+Got Type Def: MACRO_DOS_RC
+Got Type Def: MACRO_DOS_SW
+Got Type Def: MACRO_EOF
+Got Type Def: MACRO_ERRNO
+Got Type Def: MACRO_EXIT
+Got Type Def: MACRO_FILE_MODE
+Got Type Def: MACRO_FLT
+Got Type Def: MACRO_FPE
+Got Type Def: MACRO_IC
+Got Type Def: MACRO_LDBL
+Got Type Def: MACRO_LDBL_RADIX
+Got Type Def: MACRO_LK
+Got Type Def: MACRO_MCW
+Got Type Def: MACRO_MCW_RC
+Got Type Def: MACRO_MIN
+Got Type Def: MACRO_MODE
+Got Type Def: MACRO_NSIG
+Got Type Def: MACRO_NULL
+Got Type Def: MACRO_O
+Got Type Def: MACRO_OLD
+Got Type Def: MACRO_OVERFLOW
+Got Type Def: MACRO_P
+Got Type Def: MACRO_PLOSS
+Got Type Def: MACRO_P_NOWAITO
+Got Type Def: MACRO_SEEK
+Got Type Def: MACRO_SH
+Got Type Def: MACRO_SIGNAL
+Got Type Def: MACRO_SYS
+Got Type Def: MACRO_TLOSS
+Got Type Def: MACRO__A
+Got Type Def: MACRO__ANALOG
+Got Type Def: MACRO__BLACK
+Got Type Def: MACRO__BRIGHTWHITE
+Got Type Def: MACRO__BROWN
+Got Type Def: MACRO__COM
+Got Type Def: MACRO__CW
+Got Type Def: MACRO__CYAN
+Got Type Def: MACRO__DBL
+Got Type Def: MACRO__DEFAULTMODE
+Got Type Def: MACRO__DISK
+Got Type Def: MACRO__DOMAIN
+Got Type Def: MACRO__EM
+Got Type Def: MACRO__ERESNOCOLOR
+Got Type Def: MACRO__FPE
+Got Type Def: MACRO__FREEENTRY
+Got Type Def: MACRO__GAND
+Got Type Def: MACRO__GBORDER
+Got Type Def: MACRO__GCLEARSCREEN
+Got Type Def: MACRO__GCURSOROFF
+Got Type Def: MACRO__GFILLINTERIOR
+Got Type Def: MACRO__GOR
+Got Type Def: MACRO__GPRESET
+Got Type Def: MACRO__GPSET
+Got Type Def: MACRO__GRAY
+Got Type Def: MACRO__GRCORRUPTEDFONTFILE
+Got Type Def: MACRO__GREEN
+Got Type Def: MACRO__GRFONTFILENOTFOUND
+Got Type Def: MACRO__GRINSUFFICIENTMEMORY
+Got Type Def: MACRO__GRINVALIDFONTFILE
+Got Type Def: MACRO__GRINVALIDIMAGEBUFFER
+Got Type Def: MACRO__GRINVALIDPARAMETER
+Got Type Def: MACRO__GRMODENOTSUPPORTED
+Got Type Def: MACRO__GRNOOUTPUT
+Got Type Def: MACRO__GRNOTINPROPERMODE
+Got Type Def: MACRO__GROK
+Got Type Def: MACRO__GRPARAMETERALTERED
+Got Type Def: MACRO__GSCROLLDOWN
+Got Type Def: MACRO__GSCROLLUP
+Got Type Def: MACRO__GWRAPOFF
+Got Type Def: MACRO__HARDERR
+Got Type Def: MACRO__HEAP
+Got Type Def: MACRO__HEAPBADBEGIN
+Got Type Def: MACRO__HEAPBADNODE
+Got Type Def: MACRO__HEAPBADPTR
+Got Type Def: MACRO__HEAPEMPTY
+Got Type Def: MACRO__HEAPEND
+Got Type Def: MACRO__HEAPOK
+Got Type Def: MACRO__HRES16COLOR
+Got Type Def: MACRO__HRESBW
+Got Type Def: MACRO__IC
+Got Type Def: MACRO__IOFBF
+Got Type Def: MACRO__IONBF
+Got Type Def: MACRO__IOREAD
+Got Type Def: MACRO__JBLEN
+Got Type Def: MACRO__KEYBRD
+Got Type Def: MACRO__LDBL
+Got Type Def: MACRO__LIGHTBLUE
+Got Type Def: MACRO__LIGHTCYAN
+Got Type Def: MACRO__LIGHTGREEN
+Got Type Def: MACRO__LIGHTMAGENTA
+Got Type Def: MACRO__LIGHTRED
+Got Type Def: MACRO__LIGHTYELLOW
+Got Type Def: MACRO__LK
+Got Type Def: MACRO__MAGENTA
+Got Type Def: MACRO__MAX
+Got Type Def: MACRO__MAXCOLORMODE
+Got Type Def: MACRO__MAXRESMODE
+Got Type Def: MACRO__MAXTEXTROWS
+Got Type Def: MACRO__MCW
+Got Type Def: MACRO__MCW_IC
+Got Type Def: MACRO__MCW_PC
+Got Type Def: MACRO__MCW_RC
+Got Type Def: MACRO__MDPA
+Got Type Def: MACRO__MODE7OFF
+Got Type Def: MACRO__MODEFHITOOFF
+Got Type Def: MACRO__MODEFHITOON
+Got Type Def: MACRO__MODEFOFF
+Got Type Def: MACRO__MODEFONTOHI
+Got Type Def: MACRO__MODEFONTOOFF
+Got Type Def: MACRO__MONO
+Got Type Def: MACRO__MRES16COLOR
+Got Type Def: MACRO__MRES256COLOR
+Got Type Def: MACRO__MRESNOCOLOR
+Got Type Def: MACRO__NFILE
+Got Type Def: MACRO__NKEYBRD
+Got Type Def: MACRO__NULLSEG
+Got Type Def: MACRO__O
+Got Type Def: MACRO__OEGA
+Got Type Def: MACRO__OLD
+Got Type Def: MACRO__OVERFLOW
+Got Type Def: MACRO__OVGA
+Got Type Def: MACRO__P
+Got Type Def: MACRO__PC
+Got Type Def: MACRO__PG
+Got Type Def: MACRO__PLOSS
+Got Type Def: MACRO__PRINTER
+Got Type Def: MACRO__P_NOWAITO
+Got Type Def: MACRO__RC
+Got Type Def: MACRO__RED
+Got Type Def: MACRO__S
+Got Type Def: MACRO__SH
+Got Type Def: MACRO__SRES16COLOR
+Got Type Def: MACRO__SRES256COLOR
+Got Type Def: MACRO__SVGA
+Got Type Def: MACRO__SW
+Got Type Def: MACRO__SYS
+Got Type Def: MACRO__TEXTBW40
+Got Type Def: MACRO__TEXTC80
+Got Type Def: MACRO__TEXTMONO
+Got Type Def: MACRO__TIME
+Got Type Def: MACRO__TLOSS
+Got Type Def: MACRO__UPPER
+Got Type Def: MACRO__VM
+Got Type Def: MACRO__VRES16COLOR
+Got Type Def: MACRO__VRES256COLOR
+Got Type Def: MACRO__VRES2COLOR
+Got Type Def: MACRO__WHITE
+Got Type Def: MACRO__XRES16COLOR
+Got Type Def: MACRO__XRES256COLOR
+Got Type Def: MACRO__YELLOW
+Got Type Def: MACRO__ZRES16COLOR
+Got Type Def: MACRO__ZRES256COLOR
+Got Type Def: REGS
+Got Type Def: SREGS
+Got Type Def: WORDREGS
+Got Type Def: _BYTEREGS
+Got Type Def: _DOSERROR
+Got Type Def: _HEAPINFO
+Got Type Def: _REGS
+Got Type Def: _SREGS
+Got Type Def: _WORDREGS
+Got Type Def: __segment
+Got Type Def: _axistype
+Got Type Def: _charmap
+Got Type Def: _chartenv
+Got Type Def: _complex
+Got Type Def: _complexl
+Got Type Def: _dev_t
+Got Type Def: _diskfree_t
+Got Type Def: _diskinfo_t
+Got Type Def: _div_t
+Got Type Def: _dosdate_t
+Got Type Def: _dostime_t
+Got Type Def: _exception
+Got Type Def: _exceptionl
+Got Type Def: _fillmap
+Got Type Def: _find_t
+Got Type Def: _fonexit_t
+Got Type Def: _fontinfo
+Got Type Def: _heapinfo
+Got Type Def: _ino_t
+Got Type Def: _iobuf
+Got Type Def: _ldiv_t
+Got Type Def: _legendtype
+Got Type Def: _off_t
+Got Type Def: _onexit_t
+Got Type Def: _paletteentry
+Got Type Def: _palettetype
+Got Type Def: _rccoord
+Got Type Def: _stat
+Got Type Def: _styleset
+Got Type Def: _timeb
+Got Type Def: _titletype
+Got Type Def: _utimbuf
+Got Type Def: _videoconfig
+Got Type Def: _vmhnd_t
+Got Type Def: _windowtype
+Got Type Def: _wxycoord
+Got Type Def: _xycoord
+Got Type Def: clock_t
+Got Type Def: complex
+Got Type Def: dev_t
+Got Type Def: div_t
+Got Type Def: fpos_t
+Got Type Def: ino_t
+Got Type Def: jmp_buf
+Got Type Def: lconv
+Got Type Def: ldiv_t
+Got Type Def: off_t
+Got Type Def: onexit_t
+Got Type Def: ptrdiff_t
+Got Type Def: sig_atomic_t
+Got Type Def: size_t
+Got Type Def: stat
+Got Type Def: time_t
+Got Type Def: timeb
+Got Type Def: tm
+Got Type Def: utimbuf
+Got Type Def: va_list
+Got Type Def: wchar_t
+Compiling all type regex...
+Calculating dependency for: _49112922E8D3FA36A9D9A6626290371D
+Calculating dependency for: _5D287BBCEE976282B532DF578B48FE30
+Calculating dependency for: _708EB2C8D47456B2C174260C174C4FAC
+Calculating dependency for: _92231A9D73296187DBEF5930036406A4
+Calculating dependency for: _95C3CB16824D66B4D3D3A1F25D6CE7B3
+Calculating dependency for: _F8345695F188CA62739CDC0353D986D0
+Calculating dependency for: MACRO__GRINSUFFICIENTMEMORY
+Calculating dependency for: MACRO__GRINVALIDIMAGEBUFFER
+Calculating dependency for: MACRO__GRCORRUPTEDFONTFILE
+Calculating dependency for: MACRO__GRFONTFILENOTFOUND
+Calculating dependency for: MACRO__GRINVALIDPARAMETER
+Calculating dependency for: MACRO__GRMODENOTSUPPORTED
+Calculating dependency for: MACRO__GRPARAMETERALTERED
+Calculating dependency for: MACRO__GRINVALIDFONTFILE
+Calculating dependency for: MACRO__GRNOTINPROPERMODE
+Calculating dependency for: MACRO__GFILLINTERIOR
+Calculating dependency for: MACRO__GCLEARSCREEN
+Calculating dependency for: MACRO__HEAPBADBEGIN
+Calculating dependency for: MACRO__LIGHTMAGENTA
+Calculating dependency for: MACRO__MAXCOLORMODE
+Calculating dependency for: MACRO__MODEFHITOOFF
+Calculating dependency for: MACRO__MODEFONTOOFF
+Calculating dependency for: MACRO__MRES256COLOR
+Calculating dependency for: MACRO__SRES256COLOR
+Calculating dependency for: MACRO__VRES256COLOR
+Calculating dependency for: MACRO__XRES256COLOR
+Calculating dependency for: MACRO__ZRES256COLOR
+Calculating dependency for: MACRO__BRIGHTWHITE
+Calculating dependency for: MACRO__DEFAULTMODE
+Calculating dependency for: MACRO__ERESNOCOLOR
+Calculating dependency for: MACRO__GSCROLLDOWN
+Calculating dependency for: MACRO__HEAPBADNODE
+Calculating dependency for: MACRO__HRES16COLOR
+Calculating dependency for: MACRO__LIGHTYELLOW
+Calculating dependency for: MACRO__MAXTEXTROWS
+Calculating dependency for: MACRO__MODEFHITOON
+Calculating dependency for: MACRO__MODEFONTOHI
+Calculating dependency for: MACRO__MRES16COLOR
+Calculating dependency for: MACRO__MRESNOCOLOR
+Calculating dependency for: MACRO__SRES16COLOR
+Calculating dependency for: MACRO__VRES16COLOR
+Calculating dependency for: MACRO__XRES16COLOR
+Calculating dependency for: MACRO__ZRES16COLOR
+Calculating dependency for: MACRO__GCURSOROFF
+Calculating dependency for: MACRO__GRNOOUTPUT
+Calculating dependency for: MACRO__HEAPBADPTR
+Calculating dependency for: MACRO__LIGHTGREEN
+Calculating dependency for: MACRO__MAXRESMODE
+Calculating dependency for: MACRO__VRES2COLOR
+Calculating dependency for: MACRO_LDBL_RADIX
+Calculating dependency for: MACRO__FREEENTRY
+Calculating dependency for: MACRO__GSCROLLUP
+Calculating dependency for: MACRO__HEAPEMPTY
+Calculating dependency for: MACRO__LIGHTBLUE
+Calculating dependency for: MACRO__LIGHTCYAN
+Calculating dependency for: MACRO__P_NOWAITO
+Calculating dependency for: MACRO_DBL_RADIX
+Calculating dependency for: MACRO_FILE_MODE
+Calculating dependency for: MACRO_P_NOWAITO
+Calculating dependency for: MACRO__GWRAPOFF
+Calculating dependency for: MACRO__LIGHTRED
+Calculating dependency for: MACRO__MODE7OFF
+Calculating dependency for: MACRO__MODEFOFF
+Calculating dependency for: MACRO__OVERFLOW
+Calculating dependency for: MACRO__TEXTBW40
+Calculating dependency for: MACRO__TEXTMONO
+Calculating dependency for: MACRO_OVERFLOW
+Calculating dependency for: MACRO__GBORDER
+Calculating dependency for: MACRO__GPRESET
+Calculating dependency for: MACRO__HARDERR
+Calculating dependency for: MACRO__HEAPEND
+Calculating dependency for: MACRO__MAGENTA
+Calculating dependency for: MACRO__NKEYBRD
+Calculating dependency for: MACRO__NULLSEG
+Calculating dependency for: MACRO__PRINTER
+Calculating dependency for: MACRO__TEXTC80
+Calculating dependency for: MACRO_DOS_MAX
+Calculating dependency for: MACRO__ANALOG
+Calculating dependency for: MACRO__DOMAIN
+Calculating dependency for: MACRO__HEAPOK
+Calculating dependency for: MACRO__HRESBW
+Calculating dependency for: MACRO__IOREAD
+Calculating dependency for: MACRO__KEYBRD
+Calculating dependency for: MACRO__MCW_IC
+Calculating dependency for: MACRO__MCW_PC
+Calculating dependency for: MACRO__MCW_RC
+Calculating dependency for: MACRO__YELLOW
+Calculating dependency for: _paletteentry
+Calculating dependency for: MACRO_BUFSIZ
+Calculating dependency for: MACRO_CLOCKS
+Calculating dependency for: MACRO_DOMAIN
+Calculating dependency for: MACRO_DOS_CW
+Calculating dependency for: MACRO_DOS_EM
+Calculating dependency for: MACRO_DOS_LC
+Calculating dependency for: MACRO_DOS_PC
+Calculating dependency for: MACRO_DOS_RC
+Calculating dependency for: MACRO_DOS_SW
+Calculating dependency for: MACRO_MCW_RC
+Calculating dependency for: MACRO_SIGNAL
+Calculating dependency for: MACRO__BLACK
+Calculating dependency for: MACRO__BROWN
+Calculating dependency for: MACRO__GPSET
+Calculating dependency for: MACRO__GREEN
+Calculating dependency for: MACRO__IOFBF
+Calculating dependency for: MACRO__IONBF
+Calculating dependency for: MACRO__JBLEN
+Calculating dependency for: MACRO__NFILE
+Calculating dependency for: MACRO__PLOSS
+Calculating dependency for: MACRO__TLOSS
+Calculating dependency for: MACRO__UPPER
+Calculating dependency for: MACRO__WHITE
+Calculating dependency for: _palettetype
+Calculating dependency for: _videoconfig
+Calculating dependency for: sig_atomic_t
+Calculating dependency for: MACRO_ERRNO
+Calculating dependency for: MACRO_PLOSS
+Calculating dependency for: MACRO_TLOSS
+Calculating dependency for: MACRO__CYAN
+Calculating dependency for: MACRO__DISK
+Calculating dependency for: MACRO__GAND
+Calculating dependency for: MACRO__GRAY
+Calculating dependency for: MACRO__GROK
+Calculating dependency for: MACRO__HEAP
+Calculating dependency for: MACRO__LDBL
+Calculating dependency for: MACRO__MDPA
+Calculating dependency for: MACRO__MONO
+Calculating dependency for: MACRO__OEGA
+Calculating dependency for: MACRO__OVGA
+Calculating dependency for: MACRO__SVGA
+Calculating dependency for: MACRO__TIME
+Calculating dependency for: _diskfree_t
+Calculating dependency for: _diskinfo_t
+Calculating dependency for: _exceptionl
+Calculating dependency for: _legendtype
+Calculating dependency for: _windowtype
+Calculating dependency for: MACRO_CHAR
+Calculating dependency for: MACRO_EXIT
+Calculating dependency for: MACRO_LDBL
+Calculating dependency for: MACRO_MODE
+Calculating dependency for: MACRO_NSIG
+Calculating dependency for: MACRO_NULL
+Calculating dependency for: MACRO_SEEK
+Calculating dependency for: MACRO__COM
+Calculating dependency for: MACRO__DBL
+Calculating dependency for: MACRO__FPE
+Calculating dependency for: MACRO__GOR
+Calculating dependency for: MACRO__MAX
+Calculating dependency for: MACRO__MCW
+Calculating dependency for: MACRO__OLD
+Calculating dependency for: MACRO__RED
+Calculating dependency for: MACRO__SYS
+Calculating dependency for: _dosdate_t
+Calculating dependency for: _dostime_t
+Calculating dependency for: _exception
+Calculating dependency for: _fonexit_t
+Calculating dependency for: _titletype
+Calculating dependency for: MACRO_CLK
+Calculating dependency for: MACRO_DBL
+Calculating dependency for: MACRO_EOF
+Calculating dependency for: MACRO_FLT
+Calculating dependency for: MACRO_FPE
+Calculating dependency for: MACRO_MCW
+Calculating dependency for: MACRO_MIN
+Calculating dependency for: MACRO_OLD
+Calculating dependency for: MACRO_SYS
+Calculating dependency for: MACRO__CW
+Calculating dependency for: MACRO__EM
+Calculating dependency for: MACRO__IC
+Calculating dependency for: MACRO__LK
+Calculating dependency for: MACRO__PC
+Calculating dependency for: MACRO__PG
+Calculating dependency for: MACRO__RC
+Calculating dependency for: MACRO__SH
+Calculating dependency for: MACRO__SW
+Calculating dependency for: MACRO__VM
+Calculating dependency for: _BYTEREGS
+Calculating dependency for: _DOSERROR
+Calculating dependency for: _HEAPINFO
+Calculating dependency for: _WORDREGS
+Calculating dependency for: __segment
+Calculating dependency for: _axistype
+Calculating dependency for: _chartenv
+Calculating dependency for: _complexl
+Calculating dependency for: _fontinfo
+Calculating dependency for: _heapinfo
+Calculating dependency for: _onexit_t
+Calculating dependency for: _styleset
+Calculating dependency for: _wxycoord
+Calculating dependency for: ptrdiff_t
+Calculating dependency for: BYTEREGS
+Calculating dependency for: DOSERROR
+Calculating dependency for: MACRO_IC
+Calculating dependency for: MACRO_LK
+Calculating dependency for: MACRO_SH
+Calculating dependency for: MACRO__A
+Calculating dependency for: MACRO__O
+Calculating dependency for: MACRO__P
+Calculating dependency for: MACRO__S
+Calculating dependency for: WORDREGS
+Calculating dependency for: _charmap
+Calculating dependency for: _complex
+Calculating dependency for: _fillmap
+Calculating dependency for: _rccoord
+Calculating dependency for: _utimbuf
+Calculating dependency for: _vmhnd_t
+Calculating dependency for: _xycoord
+Calculating dependency for: onexit_t
+Calculating dependency for: MACRO_O
+Calculating dependency for: MACRO_P
+Calculating dependency for: _find_t
+Calculating dependency for: _ldiv_t
+Calculating dependency for: clock_t
+Calculating dependency for: complex
+Calculating dependency for: jmp_buf
+Calculating dependency for: utimbuf
+Calculating dependency for: wchar_t
+Calculating dependency for: _SREGS
+Calculating dependency for: _dev_t
+Calculating dependency for: _div_t
+Calculating dependency for: _ino_t
+Calculating dependency for: _iobuf
+Calculating dependency for: _off_t
+Calculating dependency for: _timeb
+Calculating dependency for: fpos_t
+Calculating dependency for: ldiv_t
+Calculating dependency for: size_t
+Calculating dependency for: time_t
+Calculating dependency for: SREGS
+Calculating dependency for: _REGS
+Calculating dependency for: _stat
+Calculating dependency for: dev_t
+Calculating dependency for: div_t
+Calculating dependency for: ino_t
+Calculating dependency for: lconv
+Calculating dependency for: off_t
+Calculating dependency for: timeb
+Calculating dependency for: FILE
+Calculating dependency for: REGS
+Calculating dependency for: stat
+Calculating dependency for: tm
+Type hierarchy analysis finished:
+_49112922E8D3FA36A9D9A6626290371D -> []
+_5D287BBCEE976282B532DF578B48FE30 -> []
+MACRO__GRINSUFFICIENTMEMORY -> []
+MACRO__GRINVALIDIMAGEBUFFER -> []
+MACRO__GRCORRUPTEDFONTFILE -> []
+MACRO__GRFONTFILENOTFOUND -> []
+MACRO__GRINVALIDPARAMETER -> []
+MACRO__GRMODENOTSUPPORTED -> []
+MACRO__GRPARAMETERALTERED -> []
+MACRO__GRINVALIDFONTFILE -> []
+MACRO__GRNOTINPROPERMODE -> []
+MACRO__GFILLINTERIOR -> []
+MACRO__GCLEARSCREEN -> []
+MACRO__HEAPBADBEGIN -> []
+MACRO__LIGHTMAGENTA -> []
+MACRO__MAXCOLORMODE -> []
+MACRO__MODEFHITOOFF -> []
+MACRO__MODEFONTOOFF -> []
+MACRO__MRES256COLOR -> []
+MACRO__SRES256COLOR -> []
+MACRO__VRES256COLOR -> []
+MACRO__XRES256COLOR -> []
+MACRO__ZRES256COLOR -> []
+MACRO__BRIGHTWHITE -> []
+MACRO__DEFAULTMODE -> []
+MACRO__ERESNOCOLOR -> []
+MACRO__GSCROLLDOWN -> []
+MACRO__HEAPBADNODE -> []
+MACRO__HRES16COLOR -> []
+MACRO__LIGHTYELLOW -> []
+MACRO__MAXTEXTROWS -> []
+MACRO__MODEFHITOON -> []
+MACRO__MODEFONTOHI -> []
+MACRO__MRES16COLOR -> []
+MACRO__MRESNOCOLOR -> []
+MACRO__SRES16COLOR -> []
+MACRO__VRES16COLOR -> []
+MACRO__XRES16COLOR -> []
+MACRO__ZRES16COLOR -> []
+MACRO__GCURSOROFF -> []
+MACRO__GRNOOUTPUT -> []
+MACRO__HEAPBADPTR -> []
+MACRO__LIGHTGREEN -> []
+MACRO__MAXRESMODE -> []
+MACRO__VRES2COLOR -> []
+MACRO_LDBL_RADIX -> []
+MACRO__FREEENTRY -> []
+MACRO__GSCROLLUP -> []
+MACRO__HEAPEMPTY -> []
+MACRO__LIGHTBLUE -> []
+MACRO__LIGHTCYAN -> []
+MACRO__P_NOWAITO -> []
+MACRO_DBL_RADIX -> []
+MACRO_FILE_MODE -> []
+MACRO_P_NOWAITO -> []
+MACRO__GWRAPOFF -> []
+MACRO__LIGHTRED -> []
+MACRO__MODE7OFF -> []
+MACRO__MODEFOFF -> []
+MACRO__OVERFLOW -> []
+MACRO__TEXTBW40 -> []
+MACRO__TEXTMONO -> []
+MACRO_OVERFLOW -> []
+MACRO__GBORDER -> []
+MACRO__GPRESET -> []
+MACRO__HARDERR -> []
+MACRO__HEAPEND -> []
+MACRO__MAGENTA -> []
+MACRO__NKEYBRD -> []
+MACRO__NULLSEG -> []
+MACRO__PRINTER -> []
+MACRO__TEXTC80 -> []
+MACRO_DOS_MAX -> []
+MACRO__ANALOG -> []
+MACRO__DOMAIN -> []
+MACRO__HEAPOK -> []
+MACRO__HRESBW -> []
+MACRO__IOREAD -> []
+MACRO__KEYBRD -> []
+MACRO__MCW_IC -> []
+MACRO__MCW_PC -> []
+MACRO__MCW_RC -> []
+MACRO__YELLOW -> []
+_paletteentry -> []
+MACRO_BUFSIZ -> []
+MACRO_CLOCKS -> []
+MACRO_DOMAIN -> []
+MACRO_DOS_CW -> []
+MACRO_DOS_EM -> []
+MACRO_DOS_LC -> []
+MACRO_DOS_PC -> []
+MACRO_DOS_RC -> []
+MACRO_DOS_SW -> []
+MACRO_MCW_RC -> []
+MACRO_SIGNAL -> []
+MACRO__BLACK -> []
+MACRO__BROWN -> []
+MACRO__GPSET -> []
+MACRO__GREEN -> []
+MACRO__IOFBF -> []
+MACRO__IONBF -> []
+MACRO__JBLEN -> []
+MACRO__NFILE -> []
+MACRO__PLOSS -> []
+MACRO__TLOSS -> []
+MACRO__UPPER -> []
+MACRO__WHITE -> []
+_videoconfig -> []
+sig_atomic_t -> []
+MACRO_ERRNO -> []
+MACRO_PLOSS -> []
+MACRO_TLOSS -> []
+MACRO__CYAN -> []
+MACRO__DISK -> []
+MACRO__GAND -> []
+MACRO__GRAY -> []
+MACRO__GROK -> []
+MACRO__HEAP -> []
+MACRO__LDBL -> []
+MACRO__MDPA -> []
+MACRO__MONO -> []
+MACRO__OEGA -> []
+MACRO__OVGA -> []
+MACRO__SVGA -> []
+MACRO__TIME -> []
+_diskfree_t -> []
+_diskinfo_t -> []
+_exceptionl -> []
+_legendtype -> []
+_windowtype -> []
+MACRO_CHAR -> []
+MACRO_EXIT -> []
+MACRO_LDBL -> []
+MACRO_MODE -> []
+MACRO_NSIG -> []
+MACRO_NULL -> []
+MACRO_SEEK -> []
+MACRO__COM -> []
+MACRO__DBL -> []
+MACRO__FPE -> []
+MACRO__GOR -> []
+MACRO__MAX -> []
+MACRO__MCW -> []
+MACRO__OLD -> []
+MACRO__RED -> []
+MACRO__SYS -> []
+_dosdate_t -> []
+_dostime_t -> []
+_exception -> []
+_fonexit_t -> []
+_titletype -> []
+MACRO_CLK -> []
+MACRO_DBL -> []
+MACRO_EOF -> []
+MACRO_FLT -> []
+MACRO_FPE -> []
+MACRO_MCW -> []
+MACRO_MIN -> []
+MACRO_OLD -> []
+MACRO_SYS -> []
+MACRO__CW -> []
+MACRO__EM -> []
+MACRO__IC -> []
+MACRO__LK -> []
+MACRO__PC -> []
+MACRO__PG -> []
+MACRO__RC -> []
+MACRO__SH -> []
+MACRO__SW -> []
+MACRO__VM -> []
+_BYTEREGS -> []
+_DOSERROR -> []
+_HEAPINFO -> []
+_WORDREGS -> []
+__segment -> []
+_axistype -> []
+_chartenv -> []
+_complexl -> []
+_fontinfo -> []
+_onexit_t -> []
+_styleset -> []
+_wxycoord -> []
+ptrdiff_t -> []
+BYTEREGS -> []
+DOSERROR -> []
+MACRO_IC -> []
+MACRO_LK -> []
+MACRO_SH -> []
+MACRO__A -> []
+MACRO__O -> []
+MACRO__P -> []
+MACRO__S -> []
+WORDREGS -> []
+_charmap -> []
+_complex -> []
+_fillmap -> []
+_rccoord -> []
+_vmhnd_t -> []
+_xycoord -> []
+onexit_t -> []
+MACRO_O -> []
+MACRO_P -> []
+_find_t -> []
+_ldiv_t -> []
+clock_t -> []
+complex -> []
+jmp_buf -> []
+wchar_t -> []
+_SREGS -> []
+_dev_t -> []
+_div_t -> []
+_ino_t -> []
+_iobuf -> []
+_off_t -> []
+fpos_t -> []
+ldiv_t -> []
+size_t -> []
+time_t -> []
+SREGS -> []
+dev_t -> []
+div_t -> []
+ino_t -> []
+lconv -> []
+off_t -> []
+FILE -> []
+tm -> []
+_708EB2C8D47456B2C174260C174C4FAC -> ['_titletype']
+_92231A9D73296187DBEF5930036406A4 -> ['_fillmap']
+_95C3CB16824D66B4D3D3A1F25D6CE7B3 -> ['_windowtype']
+_palettetype -> ['_paletteentry']
+_heapinfo -> ['size_t']
+_utimbuf -> ['time_t']
+utimbuf -> ['time_t']
+_timeb -> ['time_t']
+timeb -> ['time_t']
+_REGS -> ['_WORDREGS', '_BYTEREGS']
+REGS -> ['WORDREGS', 'BYTEREGS']
+_F8345695F188CA62739CDC0353D986D0 -> ['_windowtype', '_titletype', '_axistype', '_legendtype']
+_stat -> ['_dev_t', '_ino_t', '_off_t', 'time_t']
+stat -> ['_dev_t', '_ino_t', '_off_t', 'time_t']
+========= Ghidra Hdr Gen finished!

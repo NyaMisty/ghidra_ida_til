@@ -1,0 +1,1816 @@
+Replacing template arg round 1
+Got Type Def: _09EE49AD0A975A087641D8B4D0DF4D82
+Got Type Def: _2AFDC37A845A031E02844C4CE6A53ED2
+Got Type Def: _2BF33A8332CBFCE1BB184E853130170B
+Got Type Def: _2E2849121B5A1F88FBA23A7F4BCDE329
+Got Type Def: _39C2C374778D70AF45AB155893CBA35F
+Got Type Def: _78243EDB552F1A28DD94BB546CFE6E3D
+Got Type Def: _91AF93DF9160876FBA1CDBF34D6E05E8
+Got Type Def: _A4752B4F8E92EE6FE72360C4B48BE096
+Got Type Def: _BC5ECE20E40C10210AFE8CEDCDB6CC1A
+Got Type Def: _C435AAD07FF115A04870B39292383D43
+Got Type Def: _CAF393BCBC2CA6886BFCF5DF33463490
+Got Type Def: _CD0F2999C8B85746BE1E263AC63D16E1
+Got Type Def: _D7875A75BADF243094067BEA569A4E3F
+Got Type Def: _E6CD71273B3F71C282D8510EF52343BB
+Got Type Def: _EB5B9CCC078DEABABAED69F2F8ADE8FA
+Got Type Def: ASSEMBLYMETADATA
+Got Type Def: AppDomainID
+Got Type Def: AssemblyID
+Got Type Def: CLASSVERSION
+Got Type Def: COINITICOR
+Got Type Def: COINITIEE
+Got Type Def: CORDB_ADDRESS
+Got Type Def: CORDB_REGISTER
+Got Type Def: CORSvc
+Got Type Def: COR_DEBUG_IL_TO_NATIVE_MAP
+Got Type Def: COR_DEBUG_STEP_RANGE
+Got Type Def: COR_FIELD_OFFSET
+Got Type Def: COR_GC_STATS
+Got Type Def: COR_GC_STAT_TYPES
+Got Type Def: COR_GC_THREAD_STATS
+Got Type Def: COR_GC_THREAD_STATS_TYPES
+Got Type Def: COR_IL_MAP
+Got Type Def: COR_IPMAP_ENTRY
+Got Type Def: COR_NATIVE_LINK
+Got Type Def: COR_PRF_JIT_CACHE
+Got Type Def: COR_PRF_MISC
+Got Type Def: COR_PRF_MONITOR
+Got Type Def: COR_PRF_SUSPEND_REASON
+Got Type Def: COR_PRF_TRANSITION_REASON
+Got Type Def: COR_PUB_ENUMPROCESS
+Got Type Def: COR_SECATTR
+Got Type Def: COR_SIGNATURE
+Got Type Def: COUNINITIEE
+Got Type Def: CVID
+Got Type Def: CVStruct
+Got Type Def: CeeSectionAttr
+Got Type Def: CeeSectionRelocExtra
+Got Type Def: CeeSectionRelocType
+Got Type Def: ClassID
+Got Type Def: ComCallUnmarshal
+Got Type Def: ContextID
+Got Type Def: CorArgType
+Got Type Def: CorAssemblyFlags
+Got Type Def: CorAssemblyRefFlags
+Got Type Def: CorAttributeTargets
+Got Type Def: CorBaseType
+Got Type Def: CorCallingConvention
+Got Type Def: CorCheckDuplicatesFor
+Got Type Def: CorDebug
+Got Type Def: CorDebugChainReason
+Got Type Def: CorDebugCreateProcessFlags
+Got Type Def: CorDebugIlToNativeMappingTypes
+Got Type Def: CorDebugIntercept
+Got Type Def: CorDebugMappingResult
+Got Type Def: CorDebugRegister
+Got Type Def: CorDebugStepReason
+Got Type Def: CorDebugThreadState
+Got Type Def: CorDebugUnmappedStop
+Got Type Def: CorDebugUserState
+Got Type Def: CorDeclSecurity
+Got Type Def: CorElementType
+Got Type Def: CorErrorIfEmitOutOfOrder
+Got Type Def: CorEventAttr
+Got Type Def: CorExceptionFlag
+Got Type Def: CorFieldAttr
+Got Type Def: CorFileFlags
+Got Type Def: CorILMethodFlags
+Got Type Def: CorILMethodSect
+Got Type Def: CorImportOptions
+Got Type Def: CorManifestResourceFlags
+Got Type Def: CorMethodAttr
+Got Type Def: CorMethodImpl
+Got Type Def: CorMethodSemanticsAttr
+Got Type Def: CorNativeLinkFlags
+Got Type Def: CorNativeLinkType
+Got Type Def: CorNativeType
+Got Type Def: CorNotificationForTokenMovement
+Got Type Def: CorOpenFlags
+Got Type Def: CorParamAttr
+Got Type Def: CorPinvokeMap
+Got Type Def: CorPropertyAttr
+Got Type Def: CorRefToDefCheck
+Got Type Def: CorRegFlags
+Got Type Def: CorRegTypeAttr
+Got Type Def: CorRuntimeHost
+Got Type Def: CorSaveSize
+Got Type Def: CorSerializationType
+Got Type Def: CorSetENC
+Got Type Def: CorSymAddrKind
+Got Type Def: CorSymBinder
+Got Type Def: CorSymReader
+Got Type Def: CorSymWriter
+Got Type Def: CorThreadSafetyOptions
+Got Type Def: CorTokenType
+Got Type Def: CorTypeAttr
+Got Type Def: CorUnmanagedCallingConvention
+Got Type Def: CorValidatorModuleType
+Got Type Def: CorpubPublish
+Got Type Def: FunctionEnter
+Got Type Def: FunctionID
+Got Type Def: FunctionIDMapper
+Got Type Def: FunctionLeave
+Got Type Def: FunctionTailcall
+Got Type Def: HCEESECTION
+Got Type Def: HCORENUM
+Got Type Def: HDOMAINENUM
+Got Type Def: HPROCESS
+Got Type Def: HTHREAD
+Got Type Def: IAppDomainBinding
+Got Type Def: IAppDomainBindingVtbl
+Got Type Def: ICORSvcDbgInfo
+Got Type Def: ICORSvcDbgInfoVtbl
+Got Type Def: ICORSvcDbgNotify
+Got Type Def: ICORSvcDbgNotifyVtbl
+Got Type Def: ICatalogServices
+Got Type Def: ICatalogServicesVtbl
+Got Type Def: ICeeGen
+Got Type Def: ICeeGenVtbl
+Got Type Def: ICorConfiguration
+Got Type Def: ICorConfigurationVtbl
+Got Type Def: ICorDebug
+Got Type Def: ICorDebugAppDomain
+Got Type Def: ICorDebugAppDomainEnum
+Got Type Def: ICorDebugAppDomainEnumVtbl
+Got Type Def: ICorDebugAppDomainVtbl
+Got Type Def: ICorDebugArrayValue
+Got Type Def: ICorDebugArrayValueVtbl
+Got Type Def: ICorDebugAssembly
+Got Type Def: ICorDebugAssemblyEnum
+Got Type Def: ICorDebugAssemblyEnumVtbl
+Got Type Def: ICorDebugAssemblyVtbl
+Got Type Def: ICorDebugBoxValue
+Got Type Def: ICorDebugBoxValueVtbl
+Got Type Def: ICorDebugBreakpoint
+Got Type Def: ICorDebugBreakpointEnum
+Got Type Def: ICorDebugBreakpointEnumVtbl
+Got Type Def: ICorDebugBreakpointVtbl
+Got Type Def: ICorDebugChain
+Got Type Def: ICorDebugChainEnum
+Got Type Def: ICorDebugChainEnumVtbl
+Got Type Def: ICorDebugChainVtbl
+Got Type Def: ICorDebugClass
+Got Type Def: ICorDebugClassVtbl
+Got Type Def: ICorDebugCode
+Got Type Def: ICorDebugCodeVtbl
+Got Type Def: ICorDebugContext
+Got Type Def: ICorDebugContextVtbl
+Got Type Def: ICorDebugController
+Got Type Def: ICorDebugControllerVtbl
+Got Type Def: ICorDebugEditAndContinueErrorInfo
+Got Type Def: ICorDebugEditAndContinueErrorInfoVtbl
+Got Type Def: ICorDebugEditAndContinueSnapshot
+Got Type Def: ICorDebugEditAndContinueSnapshotVtbl
+Got Type Def: ICorDebugEnum
+Got Type Def: ICorDebugEnumVtbl
+Got Type Def: ICorDebugErrorInfoEnum
+Got Type Def: ICorDebugErrorInfoEnumVtbl
+Got Type Def: ICorDebugEval
+Got Type Def: ICorDebugEvalVtbl
+Got Type Def: ICorDebugFrame
+Got Type Def: ICorDebugFrameEnum
+Got Type Def: ICorDebugFrameEnumVtbl
+Got Type Def: ICorDebugFrameVtbl
+Got Type Def: ICorDebugFunction
+Got Type Def: ICorDebugFunctionBreakpoint
+Got Type Def: ICorDebugFunctionBreakpointVtbl
+Got Type Def: ICorDebugFunctionVtbl
+Got Type Def: ICorDebugGenericValue
+Got Type Def: ICorDebugGenericValueVtbl
+Got Type Def: ICorDebugHeapValue
+Got Type Def: ICorDebugHeapValueVtbl
+Got Type Def: ICorDebugILFrame
+Got Type Def: ICorDebugILFrameVtbl
+Got Type Def: ICorDebugManagedCallback
+Got Type Def: ICorDebugManagedCallbackVtbl
+Got Type Def: ICorDebugModule
+Got Type Def: ICorDebugModuleBreakpoint
+Got Type Def: ICorDebugModuleBreakpointVtbl
+Got Type Def: ICorDebugModuleEnum
+Got Type Def: ICorDebugModuleEnumVtbl
+Got Type Def: ICorDebugModuleVtbl
+Got Type Def: ICorDebugNativeFrame
+Got Type Def: ICorDebugNativeFrameVtbl
+Got Type Def: ICorDebugObjectEnum
+Got Type Def: ICorDebugObjectEnumVtbl
+Got Type Def: ICorDebugObjectValue
+Got Type Def: ICorDebugObjectValueVtbl
+Got Type Def: ICorDebugProcess
+Got Type Def: ICorDebugProcessEnum
+Got Type Def: ICorDebugProcessEnumVtbl
+Got Type Def: ICorDebugProcessVtbl
+Got Type Def: ICorDebugReferenceValue
+Got Type Def: ICorDebugReferenceValueVtbl
+Got Type Def: ICorDebugRegisterSet
+Got Type Def: ICorDebugRegisterSetVtbl
+Got Type Def: ICorDebugStepper
+Got Type Def: ICorDebugStepperEnum
+Got Type Def: ICorDebugStepperEnumVtbl
+Got Type Def: ICorDebugStepperVtbl
+Got Type Def: ICorDebugStringValue
+Got Type Def: ICorDebugStringValueVtbl
+Got Type Def: ICorDebugThread
+Got Type Def: ICorDebugThreadEnum
+Got Type Def: ICorDebugThreadEnumVtbl
+Got Type Def: ICorDebugThreadVtbl
+Got Type Def: ICorDebugUnmanagedCallback
+Got Type Def: ICorDebugUnmanagedCallbackVtbl
+Got Type Def: ICorDebugValue
+Got Type Def: ICorDebugValueBreakpoint
+Got Type Def: ICorDebugValueBreakpointVtbl
+Got Type Def: ICorDebugValueEnum
+Got Type Def: ICorDebugValueEnumVtbl
+Got Type Def: ICorDebugValueVtbl
+Got Type Def: ICorDebugVtbl
+Got Type Def: ICorModule
+Got Type Def: ICorModuleInitializeFlags
+Got Type Def: ICorModuleVtbl
+Got Type Def: ICorProfilerCallback
+Got Type Def: ICorProfilerCallbackVtbl
+Got Type Def: ICorProfilerInfo
+Got Type Def: ICorProfilerInfoVtbl
+Got Type Def: ICorPublish
+Got Type Def: ICorPublishAppDomain
+Got Type Def: ICorPublishAppDomainEnum
+Got Type Def: ICorPublishAppDomainEnumVtbl
+Got Type Def: ICorPublishAppDomainVtbl
+Got Type Def: ICorPublishEnum
+Got Type Def: ICorPublishEnumVtbl
+Got Type Def: ICorPublishProcess
+Got Type Def: ICorPublishProcessEnum
+Got Type Def: ICorPublishProcessEnumVtbl[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmpurd8fsi5/typDef.json',
+  '/tmp/tmpurd8fsi5/regexRet.json'
+]
+Calculating dependency for _09EE49AD0A975A087641D8B4D0DF4D82
+Calculating dependency for _2AFDC37A845A031E02844C4CE6A53ED2
+Calculating dependency for _2BF33A8332CBFCE1BB184E853130170B
+Calculating dependency for _2E2849121B5A1F88FBA23A7F4BCDE329
+Calculating dependency for _39C2C374778D70AF45AB155893CBA35F
+Calculating dependency for _78243EDB552F1A28DD94BB546CFE6E3D
+Calculating dependency for _91AF93DF9160876FBA1CDBF34D6E05E8
+Calculating dependency for _A4752B4F8E92EE6FE72360C4B48BE096
+Calculating dependency for _BC5ECE20E40C10210AFE8CEDCDB6CC1A
+Calculating dependency for _C435AAD07FF115A04870B39292383D43
+Calculating dependency for _CAF393BCBC2CA6886BFCF5DF33463490
+Calculating dependency for _CD0F2999C8B85746BE1E263AC63D16E1
+Calculating dependency for _D7875A75BADF243094067BEA569A4E3F
+Calculating dependency for _E6CD71273B3F71C282D8510EF52343BB
+Calculating dependency for _EB5B9CCC078DEABABAED69F2F8ADE8FA
+Calculating dependency for ASSEMBLYMETADATA
+Calculating dependency for AppDomainID
+Calculating dependency for AssemblyID
+Calculating dependency for CLASSVERSION
+Calculating dependency for COINITICOR
+Calculating dependency for COINITIEE
+Calculating dependency for CORDB_ADDRESS
+Calculating dependency for CORDB_REGISTER
+Calculating dependency for CORSvc
+Calculating dependency for COR_DEBUG_IL_TO_NATIVE_MAP
+Calculating dependency for COR_DEBUG_STEP_RANGE
+Calculating dependency for COR_FIELD_OFFSET
+Calculating dependency for COR_GC_STATS
+Calculating dependency for COR_GC_STAT_TYPES
+Calculating dependency for COR_GC_THREAD_STATS
+Calculating dependency for COR_GC_THREAD_STATS_TYPES
+Calculating dependency for COR_IL_MAP
+Calculating dependency for COR_IPMAP_ENTRY
+Calculating dependency for COR_NATIVE_LINK
+Calculating dependency for COR_PRF_JIT_CACHE
+Calculating dependency for COR_PRF_MISC
+Calculating dependency for COR_PRF_MONITOR
+Calculating dependency for COR_PRF_SUSPEND_REASON
+Calculating dependency for COR_PRF_TRANSITION_REASON
+Calculating dependency for COR_PUB_ENUMPROCESS
+Calculating dependency for COR_SECATTR
+Calculating dependency for COR_SIGNATURE
+Calculating dependency for COUNINITIEE
+Calculating dependency for CVID
+Calculating dependency for CVStruct
+Calculating dependency for CeeSectionAttr
+Calculating dependency for CeeSectionRelocExtra
+Calculating dependency for CeeSectionRelocType
+Calculating dependency for ClassID
+Calculating dependency for ComCallUnmarshal
+Calculating dependency for ContextID
+Calculating dependency for CorArgType
+Calculating dependency for CorAssemblyFlags
+Calculating dependency for CorAssemblyRefFlags
+Calculating dependency for CorAttributeTargets
+Calculating dependency for CorBaseType
+Calculating dependency for CorCallingConvention
+Calculating dependency for CorCheckDuplicatesFor
+Calculating dependency for CorDebug
+Calculating dependency for CorDebugChainReason
+Calculating dependency for CorDebugCreateProcessFlags
+Calculating dependency for CorDebugIlToNativeMappingTypes
+Calculating dependency for CorDebugIntercept
+Calculating dependency for CorDebugMappingResult
+Calculating dependency for CorDebugRegister
+Calculating dependency for CorDebugStepReason
+Calculating dependency for CorDebugThreadState
+Calculating dependency for CorDebugUnmappedStop
+Calculating dependency for CorDebugUserState
+Calculating dependency for CorDeclSecurity
+Calculating dependency for CorElementType
+Calculating dependency for CorErrorIfEmitOutOfOrder
+Calculating dependency for CorEventAttr
+Calculating dependency for CorExceptionFlag
+Calculating dependency for CorFieldAttr
+Calculating dependency for CorFileFlags
+Calculating dependency for CorILMethodFlags
+Calculating dependency for CorILMethodSect
+Calculating dependency for CorImportOptions
+Calculating dependency for CorManifestResourceFlags
+Calculating dependency for CorMethodAttr
+Calculating dependency for CorMethodImpl
+Calculating dependency for CorMethodSemanticsAttr
+Calculating dependency for CorNativeLinkFlags
+Calculating dependency for CorNativeLinkType
+Calculating dependency for CorNativeType
+Calculating dependency for CorNotificationForTokenMovement
+Calculating dependency for CorOpenFlags
+Calculating dependency for CorParamAttr
+Calculating dependency for CorPinvokeMap
+Calculating dependency for CorPropertyAttr
+Calculating dependency for CorRefToDefCheck
+Calculating dependency for CorRegFlags
+Calculating dependency for CorRegTypeAttr
+Calculating dependency for CorRuntimeHost
+Calculating dependency for CorSaveSize
+Calculating dependency for CorSerializationType
+Calculating dependency for CorSetENC
+Calculating dependency for CorSymAddrKind
+Calculating dependency for CorSymBinder
+Calculating dependency for CorSymReader
+Calculating dependency for CorSymWriter
+Calculating dependency for CorThreadSafetyOptions
+Calculating dependency for CorTokenType
+Calculating dependency for CorTypeAttr
+Calculating dependency for CorUnmanagedCallingConvention
+Calculating dependency for CorValidatorModuleType
+Calculating dependency for CorpubPublish
+Calculating dependency for FunctionEnter
+Calculating dependency for FunctionID
+Calculating dependency for FunctionIDMapper
+Calculating dependency for FunctionLeave
+Calculating dependency for FunctionTailcall
+Calculating dependency for HCEESECTION
+Calculating dependency for HCORENUM
+Calculating dependency for HDOMAINENUM
+Calculating dependency for HPROCESS
+Calculating dependency for HTHREAD
+Calculating dependency for IAppDomainBinding
+Calculating dependency for IAppDomainBindingVtbl
+Calculating dependency for ICORSvcDbgInfo
+Calculating dependency for ICORSvcDbgInfoVtbl
+Calculating dependency for ICORSvcDbgNotify
+Calculating dependency for ICORSvcDbgNotifyVtbl
+Calculating dependency for ICatalogServices
+Calculating dependency for ICatalogServicesVtbl
+Calculating dependency for ICeeGen
+Calculating dependency for ICeeGenVtbl
+Calculating dependency for ICorConfiguration
+Calculating dependency for ICorConfigurationVtbl
+Calculating dependency for ICorDebug
+Calculating dependency for ICorDebugAppDomain
+Calculating dependency for ICorDebugAppDomainEnum
+Calculating dependency for ICorDebugAppDomainEnumVtbl
+Calculating dependency for ICorDebugAppDomainVtbl
+Calculating dependency for ICorDebugArrayValue
+Calculating dependency for ICorDebugArrayValueVtbl
+Calculating dependency for ICorDebugAssembly
+Calculating dependency for ICorDebugAssemblyEnum
+Calculating dependency for ICorDebugAssemblyEnumVtbl
+Calculating dependency for ICorDebugAssemblyVtbl
+Calculating dependency for ICorDebugBoxValue
+Calculating dependency for ICorDebugBoxValueVtbl
+Calculating dependency for ICorDebugBreakpoint
+Calculating dependency for ICorDebugBreakpointEnum
+Calculating dependency for ICorDebugBreakpointEnumVtbl
+Calculating dependency for ICorDebugBreakpointVtbl
+Calculating dependency for ICorDebugChain
+Calculating dependency for ICorDebugChainEnum
+Calculating dependency for ICorDebugChainEnumVtbl
+Calculating dependency for ICorDebugChainVtbl
+Calculating dependency for ICorDebugClass
+Calculating dependency for ICorDebugClassVtbl
+Calculating dependency for ICorDebugCode
+Calculating dependency for ICorDebugCodeVtbl
+Calculating dependency for ICorDebugContext
+Calculating dependency for ICorDebugContextVtbl
+Calculating dependency for ICorDebugController
+Calculating dependency for ICorDebugControllerVtbl
+Calculating dependency for ICorDebugEditAndContinueErrorInfo
+Calculating dependency for ICorDebugEditAndContinueErrorInfoVtbl
+Calculating dependency for ICorDebugEditAndContinueSnapshot
+Calculating dependency for ICorDebugEditAndContinueSnapshotVtbl
+Calculating dependency for ICorDebugEnum
+Calculating dependency for ICorDebugEnumVtbl
+Calculating dependency for ICorDebugErrorInfoEnum
+Calculating dependency for ICorDebugErrorInfoEnumVtbl
+Calculating dependency for ICorDebugEval
+Calculating dependency for ICorDebugEvalVtbl
+Calculating dependency for ICorDebugFrame
+Calculating dependency for ICorDebugFrameEnum
+Calculating dependency for ICorDebugFrameEnumVtbl
+Calculating dependency for ICorDebugFrameVtbl
+Calculating dependency for ICorDebugFunction
+Calculating dependency for ICorDebugFunctionBreakpoint
+Calculating dependency for ICorDebugFunctionBreakpointVtbl
+Calculating dependency for ICorDebugFunctionVtbl
+Calculating dependency for ICorDebugGenericValue
+Calculating dependency for ICorDebugGenericValueVtbl
+Calculating dependency for ICorDebugHeapValue
+Calculating dependency for ICorDebugHeapValueVtbl
+Calculating dependency for ICorDebugILFrame
+Calculating dependency for ICorDebugILFrameVtbl
+Calculating dependency for ICorDebugManagedCallback
+Calculating dependency for ICorDebugManagedCallbackVtbl
+Calculating dependency for ICorDebugModule
+Calculating dependency for ICorDebugModuleBreakpoint
+Calculating dependency for ICorDebugModuleBreakpointVtbl
+Calculating dependency for ICorDebugModuleEnum
+Calculating dependency for ICorDebugModuleEnumVtbl
+Calculating dependency for ICorDebugModuleVtbl
+Calculating dependency for ICorDebugNativeFrame
+Calculating dependency for ICorDebugNativeFrameVtbl
+Calculating dependency for ICorDebugObjectEnum
+Calculating dependency for ICorDebugObjectEnumVtbl
+Calculating dependency for ICorDebugObjectValue
+Calculating dependency for ICorDebugObjectValueVtbl
+Calculating dependency for ICorDebugProcess
+Calculating dependency for ICorDebugProcessEnum
+Calculating dependency for ICorDebugProcessEnumVtbl
+Calculating dependency for ICorDebugProcessVtbl
+Calculating dependency for ICorDebugReferenceValue
+Calculating dependency for ICorDebugReferenceValueVtbl
+Calculating dependency for ICorDebugRegisterSet
+Calculating dependency for ICorDebugRegisterSetVtbl
+Calculating dependency for ICorDebugStepper
+Calculating dependency for ICorDebugStepperEnum
+Calculating dependency for ICorDebugStepperEnumVtbl
+Calculating dependency for ICorDebugStepperVtbl
+Calculating dependency for ICorDebugStringValue
+Calculating dependency for ICorDebugStringValueVtbl
+Calculating dependency for ICorDebugThread
+Calculating dependency for ICorDebugThreadEnum
+Calculating dependency for ICorDebugThreadEnumVtbl
+Calculating dependency for ICorDebugThreadVtbl
+Calculating dependency for ICorDebugUnmanagedCallback
+Calculating dependency for ICorDebugUnmanagedCallbackVtbl
+Calculating dependency for ICorDebugValue
+Calculating dependency for ICorDebugValueBreakpoint
+Calculating dependency for ICorDebugValueBreakpointVtbl
+Calculating dependency for ICorDebugValueEnum
+Calculating dependency for ICorDebugValueEnumVtbl
+Calculating dependency for ICorDebugValueVtbl
+Calculating dependency for ICorDebugVtbl
+Calculating dependency for ICorModule
+Calculating dependency for ICorModuleInitializeFlags
+Calculating dependency for ICorModuleVtbl
+Calculating dependency for ICorProfilerCallback
+Calculating dependency for ICorProfilerCallbackVtbl
+Calculating dependency for ICorProfilerInfo
+Calculating dependency for ICorProfilerInfoVtbl
+Calculating dependency for ICorPublish
+Calculating dependency for ICorPublishAppDomain
+Calculating dependency for ICorPublishAppDomainEnum
+Calculating dependency for ICorPublishAppDomainEnumVtbl
+Calculating dependency for ICorPublishAppDomainVtbl
+Calculating dependency for ICorPublishEnum
+Calculating dependency for ICorPublishEnumVtbl
+Calculating dependency for ICorPublishProcess
+Calculating dependency for ICorPublishProcessEnum
+Calculating dependency for ICorPublishProcessEnumVtbl
+Calculating dependency for ICorPublishProcessVtbl
+Calculating dependency for ICorPublishVtbl
+Calculating dependency for ICorRuntimeHost
+Calculating dependency for ICorRuntimeHostVtbl
+Calculating dependency for ICorThreadpool
+Calculating dependency for ICorThreadpoolVtbl
+Calculating dependency for IDebuggerThreadControl
+Calculating dependency for IDebuggerThreadControlVtbl
+Calculating dependency for IGCHost
+Calculating dependency for IGCHostControl
+Calculating dependency for IGCHostControlVtbl
+Calculating dependency for IGCHostVtbl
+Calculating dependency for IGCThreadControl
+Calculating dependency for IGCThreadControlVtbl
+Calculating dependency for IHostFilter
+Calculating dependency for IHostFilterVtbl
+Calculating dependency for ILoader
+Calculating dependency for ILoaderVtbl
+Calculating dependency for IMAGE_COR20_HEADER
+Calculating dependency for IMAGE_COR_FIXUPENTRY
+Calculating dependency for IMAGE_COR_ILMETHOD
+Calculating dependency for IMAGE_COR_ILMETHOD_FAT
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL___97EB6520089C60904EC79B11B3B4B333
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_FAT
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_EH_SMALL
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_FAT
+Calculating dependency for IMAGE_COR_ILMETHOD_SECT_SMALL
+Calculating dependency for IMAGE_COR_ILMETHOD_TINY
+Calculating dependency for IMAGE_COR_MIH_ENTRY
+Calculating dependency for IMAGE_COR_NATIVE_DESCRIPTOR
+Calculating dependency for IMAGE_COR_VTABLEFIXUP
+Calculating dependency for IMAGE_COR_X86_RUNTIME_FUNCTION_ENTRY
+Calculating dependency for IManagedObject
+Calculating dependency for IManagedObjectVtbl
+Calculating dependency for IMapToken
+Calculating dependency for IMapTokenVtbl
+Calculating dependency for IMetaDataAssemblyEmit
+Calculating dependency for IMetaDataAssemblyEmitVtbl
+Calculating dependency for IMetaDataAssemblyImport
+Calculating dependency for IMetaDataAssemblyImportVtbl
+Calculating dependency for IMetaDataCFC
+Calculating dependency for IMetaDataCFCVtbl
+Calculating dependency for IMetaDataConverter
+Calculating dependency for IMetaDataConverterVtbl
+Calculating dependency for IMetaDataDispenser
+Calculating dependency for IMetaDataDispenserEx
+Calculating dependency for IMetaDataDispenserExVtbl
+Calculating dependency for IMetaDataDispenserVtbl
+Calculating dependency for IMetaDataEmit
+Calculating dependency for IMetaDataEmitVtbl
+Calculating dependency for IMetaDataError
+Calculating dependency for IMetaDataErrorVtbl
+Calculating dependency for IMetaDataFilter
+Calculating dependency for IMetaDataFilterVtbl
+Calculating dependency for IMetaDataImport
+Calculating dependency for IMetaDataImportVtbl
+Calculating dependency for IMetaDataTables
+Calculating dependency for IMetaDataTablesVtbl
+Calculating dependency for IMetaDataValidate
+Calculating dependency for IMetaDataValidateVtbl
+Calculating dependency for IMethodMalloc
+Calculating dependency for IMethodMallocVtbl
+Calculating dependency for IObjectHandle
+Calculating dependency for IObjectHandleVtbl
+Calculating dependency for ISymUnmanagedBinder
+Calculating dependency for ISymUnmanagedBinderVtbl
+Calculating dependency for ISymUnmanagedDocument
+Calculating dependency for ISymUnmanagedDocumentVtbl
+Calculating dependency for ISymUnmanagedDocumentWriter
+Calculating dependency for ISymUnmanagedDocumentWriterVtbl
+Calculating dependency for ISymUnmanagedMethod
+Calculating dependency for ISymUnmanagedMethodVtbl
+Calculating dependency for ISymUnmanagedNamespace
+Calculating dependency for ISymUnmanagedNamespaceVtbl
+Calculating dependency for ISymUnmanagedReader
+Calculating dependency for ISymUnmanagedReaderVtbl
+Calculating dependency for ISymUnmanagedScope
+Calculating dependency for ISymUnmanagedScopeVtbl
+Calculating dependency for ISymUnmanagedVariable
+Calculating dependency for ISymUnmanagedVariableVtbl
+Calculating dependency for ISymUnmanagedWriter
+Calculating dependency for ISymUnmanagedWriterVtbl
+Calculating dependency for IVEHandler
+Calculating dependency for IVEHandlerVtbl
+Calculating dependency for IValidator
+Calculating dependency for IValidatorVtbl
+Calculating dependency for LogSwitchCallReason
+Calculating dependency for LoggingLevelEnum
+Calculating dependency for MACRO_CEE
+Calculating dependency for MACRO_CLDB
+Calculating dependency for MACRO_CLDB_E
+Calculating dependency for MACRO_COR
+Calculating dependency for MACRO_CORDBG
+Calculating dependency for MACRO_CORPROF
+Calculating dependency for MACRO_CORSEC
+Calculating dependency for MACRO_COR_E
+Calculating dependency for MACRO_EXP
+Calculating dependency for MACRO_FHUGE
+Calculating dependency for MACRO_FUSION
+Calculating dependency for MACRO_ISS
+Calculating dependency for MACRO_LHUGE
+Calculating dependency for MACRO_MSCOR_FACILITY
+Calculating dependency for MACRO_MSCOR_FL
+Calculating dependency for MACRO_MSCOR_INF
+Calculating dependency for MACRO_MSCOR_META
+Calculating dependency for MACRO_MSCOR_SECURITY
+Calculating dependency for MACRO_MSCOR_SN
+Calculating dependency for MACRO_MSCOR_VER
+Calculating dependency for MACRO_MSEE
+Calculating dependency for MACRO_NAN
+Calculating dependency for MACRO_TLBX
+Calculating dependency for MACRO_VLDTR
+Calculating dependency for MACRO__D0
+Calculating dependency for MACRO__D1
+Calculating dependency for MACRO__D2
+Calculating dependency for MACRO__D3
+Calculating dependency for MACRO__DBIAS
+Calculating dependency for MACRO__DFRAC
+Calculating dependency for MACRO__DLONG
+Calculating dependency for MACRO__DMAX
+Calculating dependency for MACRO__DOFF
+Calculating dependency for MACRO__F0
+Calculating dependency for MACRO__F1
+Calculating dependency for MACRO__FBIAS
+Calculating dependency for MACRO__FFRAC
+Calculating dependency for MACRO__FMAX
+Calculating dependency for MACRO__FOFF
+Calculating dependency for MACRO__FRND
+Calculating dependency for MACRO__L0
+Calculating dependency for MACRO__L1
+Calculating dependency for MACRO__L2
+Calculating dependency for MACRO__L3
+Calculating dependency for MACRO__LMASK
+Calculating dependency for MACRO__LMAX
+Calculating dependency for MACRO__LOFF
+Calculating dependency for MACRO_mdTokenNil
+Calculating dependency for MDUTF8CSTR
+Calculating dependency for MDUTF8STR
+Calculating dependency for ModuleID
+Calculating dependency for MonitorID
+Calculating dependency for OSINFO
+Calculating dependency for ObjectID
+Calculating dependency for PCCOR_SIGNATURE
+Calculating dependency for PCOR_SIGNATURE
+Calculating dependency for PPSECURITY_PROPS
+Calculating dependency for PPSECURITY_VALUE
+Calculating dependency for PSECURITY_PROPS
+Calculating dependency for PSECURITY_VALUE
+Calculating dependency for ProcessID
+Calculating dependency for PublicKeyBlob
+Calculating dependency for RID
+Calculating dependency for ReplacesCorHdrNumericDefines
+Calculating dependency for ReplacesGeneralNumericDefines
+Calculating dependency for STARTUP_FLAGS
+Calculating dependency for TDestructorCallback
+Calculating dependency for ThreadID
+Calculating dependency for VEContext
+Calculating dependency for VEHandlerClass
+Calculating dependency for WAITORTIMERCALLBACK
+Calculating dependency for _COR_GC_STATS
+Calculating dependency for _COR_GC_THREAD_STATS
+Calculating dependency for _VerError
+Calculating dependency for __MIDL___MIDL_itf_corprof_0000_0001
+Calculating dependency for __MIDL___MIDL_itf_corprof_0000_0002
+Calculating dependency for __MIDL___MIDL_itf_corprof_0000_0003
+Calculating dependency for __MIDL___MIDL_itf_corprof_0000_0004
+Calculating dependency for __MIDL___MIDL_itf_corprof_0000_0005
+Calculating dependency for __MIDL___MIDL_itf_corpub_0000_0001
+Calculating dependency for __MIDL___MIDL_itf_gchost_0000_0001
+Calculating dependency for __MIDL___MIDL_itf_gchost_0000_0002
+Calculating dependency for __MIDL___MIDL_itf_mscoree_0000_0001
+Calculating dependency for mdAssembly
+Calculating dependency for mdAssemblyRef
+Calculating dependency for mdCPToken
+Calculating dependency for mdComType
+Calculating dependency for mdCustomAttribute
+Calculating dependency for mdCustomValue
+Calculating dependency for mdEvent
+Calculating dependency for mdExecutionLocation
+Calculating dependency for mdFieldDef
+Calculating dependency for mdFile
+Calculating dependency for mdInterfaceImpl
+Calculating dependency for mdLocalVar
+Calculating dependency for mdLocalVarScope
+Calculating dependency for mdLocalizedResource
+Calculating dependency for mdManifestResource
+Calculating dependency for mdMemberRef
+Calculating dependency for mdMethodDef
+Calculating dependency for mdModule
+Calculating dependency for mdModuleRef
+Calculating dependency for mdParamDef
+Calculating dependency for mdPermission
+Calculating dependency for mdProperty
+Calculating dependency for mdScope
+Calculating dependency for mdSignature
+Calculating dependency for mdSourceFile
+Calculating dependency for mdString
+Calculating dependency for mdToken
+Calculating dependency for mdTypeDef
+Calculating dependency for mdTypeRef
+Calculating dependency for mdTypeSpec
+Calculating dependency for tagCOINITCOR
+Calculating dependency for tagCOINITEE
+Calculating dependency for tagCOUNINITEE
+Calculating dependency for tag_VerError
+
+Got Type Def: ICorPublishProcessVtbl
+Got Type Def: ICorPublishVtbl
+Got Type Def: ICorRuntimeHost
+Got Type Def: ICorRuntimeHostVtbl
+Got Type Def: ICorThreadpool
+Got Type Def: ICorThreadpoolVtbl
+Got Type Def: IDebuggerThreadControl
+Got Type Def: IDebuggerThreadControlVtbl
+Got Type Def: IGCHost
+Got Type Def: IGCHostControl
+Got Type Def: IGCHostControlVtbl
+Got Type Def: IGCHostVtbl
+Got Type Def: IGCThreadControl
+Got Type Def: IGCThreadControlVtbl
+Got Type Def: IHostFilter
+Got Type Def: IHostFilterVtbl
+Got Type Def: ILoader
+Got Type Def: ILoaderVtbl
+Got Type Def: IMAGE_COR20_HEADER
+Got Type Def: IMAGE_COR_FIXUPENTRY
+Got Type Def: IMAGE_COR_ILMETHOD
+Got Type Def: IMAGE_COR_ILMETHOD_FAT
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL___97EB6520089C60904EC79B11B3B4B333
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_FAT
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_EH_SMALL
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_FAT
+Got Type Def: IMAGE_COR_ILMETHOD_SECT_SMALL
+Got Type Def: IMAGE_COR_ILMETHOD_TINY
+Got Type Def: IMAGE_COR_MIH_ENTRY
+Got Type Def: IMAGE_COR_NATIVE_DESCRIPTOR
+Got Type Def: IMAGE_COR_VTABLEFIXUP
+Got Type Def: IMAGE_COR_X86_RUNTIME_FUNCTION_ENTRY
+Got Type Def: IManagedObject
+Got Type Def: IManagedObjectVtbl
+Got Type Def: IMapToken
+Got Type Def: IMapTokenVtbl
+Got Type Def: IMetaDataAssemblyEmit
+Got Type Def: IMetaDataAssemblyEmitVtbl
+Got Type Def: IMetaDataAssemblyImport
+Got Type Def: IMetaDataAssemblyImportVtbl
+Got Type Def: IMetaDataCFC
+Got Type Def: IMetaDataCFCVtbl
+Got Type Def: IMetaDataConverter
+Got Type Def: IMetaDataConverterVtbl
+Got Type Def: IMetaDataDispenser
+Got Type Def: IMetaDataDispenserEx
+Got Type Def: IMetaDataDispenserExVtbl
+Got Type Def: IMetaDataDispenserVtbl
+Got Type Def: IMetaDataEmit
+Got Type Def: IMetaDataEmitVtbl
+Got Type Def: IMetaDataError
+Got Type Def: IMetaDataErrorVtbl
+Got Type Def: IMetaDataFilter
+Got Type Def: IMetaDataFilterVtbl
+Got Type Def: IMetaDataImport
+Got Type Def: IMetaDataImportVtbl
+Got Type Def: IMetaDataTables
+Got Type Def: IMetaDataTablesVtbl
+Got Type Def: IMetaDataValidate
+Got Type Def: IMetaDataValidateVtbl
+Got Type Def: IMethodMalloc
+Got Type Def: IMethodMallocVtbl
+Got Type Def: IObjectHandle
+Got Type Def: IObjectHandleVtbl
+Got Type Def: ISymUnmanagedBinder
+Got Type Def: ISymUnmanagedBinderVtbl
+Got Type Def: ISymUnmanagedDocument
+Got Type Def: ISymUnmanagedDocumentVtbl
+Got Type Def: ISymUnmanagedDocumentWriter
+Got Type Def: ISymUnmanagedDocumentWriterVtbl
+Got Type Def: ISymUnmanagedMethod
+Got Type Def: ISymUnmanagedMethodVtbl
+Got Type Def: ISymUnmanagedNamespace
+Got Type Def: ISymUnmanagedNamespaceVtbl
+Got Type Def: ISymUnmanagedReader
+Got Type Def: ISymUnmanagedReaderVtbl
+Got Type Def: ISymUnmanagedScope
+Got Type Def: ISymUnmanagedScopeVtbl
+Got Type Def: ISymUnmanagedVariable
+Got Type Def: ISymUnmanagedVariableVtbl
+Got Type Def: ISymUnmanagedWriter
+Got Type Def: ISymUnmanagedWriterVtbl
+Got Type Def: IVEHandler
+Got Type Def: IVEHandlerVtbl
+Got Type Def: IValidator
+Got Type Def: IValidatorVtbl
+Got Type Def: LogSwitchCallReason
+Got Type Def: LoggingLevelEnum
+Got Type Def: MACRO_CEE
+Got Type Def: MACRO_CLDB
+Got Type Def: MACRO_CLDB_E
+Got Type Def: MACRO_COR
+Got Type Def: MACRO_CORDBG
+Got Type Def: MACRO_CORPROF
+Got Type Def: MACRO_CORSEC
+Got Type Def: MACRO_COR_E
+Got Type Def: MACRO_EXP
+Got Type Def: MACRO_FHUGE
+Got Type Def: MACRO_FUSION
+Got Type Def: MACRO_ISS
+Got Type Def: MACRO_LHUGE
+Got Type Def: MACRO_MSCOR_FACILITY
+Got Type Def: MACRO_MSCOR_FL
+Got Type Def: MACRO_MSCOR_INF
+Got Type Def: MACRO_MSCOR_META
+Got Type Def: MACRO_MSCOR_SECURITY
+Got Type Def: MACRO_MSCOR_SN
+Got Type Def: MACRO_MSCOR_VER
+Got Type Def: MACRO_MSEE
+Got Type Def: MACRO_NAN
+Got Type Def: MACRO_TLBX
+Got Type Def: MACRO_VLDTR
+Got Type Def: MACRO__D0
+Got Type Def: MACRO__D1
+Got Type Def: MACRO__D2
+Got Type Def: MACRO__D3
+Got Type Def: MACRO__DBIAS
+Got Type Def: MACRO__DFRAC
+Got Type Def: MACRO__DLONG
+Got Type Def: MACRO__DMAX
+Got Type Def: MACRO__DOFF
+Got Type Def: MACRO__F0
+Got Type Def: MACRO__F1
+Got Type Def: MACRO__FBIAS
+Got Type Def: MACRO__FFRAC
+Got Type Def: MACRO__FMAX
+Got Type Def: MACRO__FOFF
+Got Type Def: MACRO__FRND
+Got Type Def: MACRO__L0
+Got Type Def: MACRO__L1
+Got Type Def: MACRO__L2
+Got Type Def: MACRO__L3
+Got Type Def: MACRO__LMASK
+Got Type Def: MACRO__LMAX
+Got Type Def: MACRO__LOFF
+Got Type Def: MACRO_mdTokenNil
+Got Type Def: MDUTF8CSTR
+Got Type Def: MDUTF8STR
+Got Type Def: ModuleID
+Got Type Def: MonitorID
+Got Type Def: OSINFO
+Got Type Def: ObjectID
+Got Type Def: PCCOR_SIGNATURE
+Got Type Def: PCOR_SIGNATURE
+Got Type Def: PPSECURITY_PROPS
+Got Type Def: PPSECURITY_VALUE
+Got Type Def: PSECURITY_PROPS
+Got Type Def: PSECURITY_VALUE
+Got Type Def: ProcessID
+Got Type Def: PublicKeyBlob
+Got Type Def: RID
+Got Type Def: ReplacesCorHdrNumericDefines
+Got Type Def: ReplacesGeneralNumericDefines
+Got Type Def: STARTUP_FLAGS
+Got Type Def: TDestructorCallback
+Got Type Def: ThreadID
+Got Type Def: VEContext
+Got Type Def: VEHandlerClass
+Got Type Def: WAITORTIMERCALLBACK
+Got Type Def: _COR_GC_STATS
+Got Type Def: _COR_GC_THREAD_STATS
+Got Type Def: _VerError
+Got Type Def: __MIDL___MIDL_itf_corprof_0000_0001
+Got Type Def: __MIDL___MIDL_itf_corprof_0000_0002
+Got Type Def: __MIDL___MIDL_itf_corprof_0000_0003
+Got Type Def: __MIDL___MIDL_itf_corprof_0000_0004
+Got Type Def: __MIDL___MIDL_itf_corprof_0000_0005
+Got Type Def: __MIDL___MIDL_itf_corpub_0000_0001
+Got Type Def: __MIDL___MIDL_itf_gchost_0000_0001
+Got Type Def: __MIDL___MIDL_itf_gchost_0000_0002
+Got Type Def: __MIDL___MIDL_itf_mscoree_0000_0001
+Got Type Def: mdAssembly
+Got Type Def: mdAssemblyRef
+Got Type Def: mdCPToken
+Got Type Def: mdComType
+Got Type Def: mdCustomAttribute
+Got Type Def: mdCustomValue
+Got Type Def: mdEvent
+Got Type Def: mdExecutionLocation
+Got Type Def: mdFieldDef
+Got Type Def: mdFile
+Got Type Def: mdInterfaceImpl
+Got Type Def: mdLocalVar
+Got Type Def: mdLocalVarScope
+Got Type Def: mdLocalizedResource
+Got Type Def: mdManifestResource
+Got Type Def: mdMemberRef
+Got Type Def: mdMethodDef
+Got Type Def: mdModule
+Got Type Def: mdModuleRef
+Got Type Def: mdParamDef
+Got Type Def: mdPermission
+Got Type Def: mdProperty
+Got Type Def: mdScope
+Got Type Def: mdSignature
+Got Type Def: mdSourceFile
+Got Type Def: mdString
+Got Type Def: mdToken
+Got Type Def: mdTypeDef
+Got Type Def: mdTypeRef
+Got Type Def: mdTypeSpec
+Got Type Def: tagCOINITCOR
+Got Type Def: tagCOINITEE
+Got Type Def: tagCOUNINITEE
+Got Type Def: tag_VerError
+Fixing nested struct!
+   Ori struct: struct IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT {CorExceptionFlag Flags;DWORD TryOffset;DWORD TryLength;DWORD HandlerOffset;DWORD HandlerLength;union {DWORD ClassToken;DWORD FilterOffset;};};
+   New struct: struct IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT {CorExceptionFlag Flags;DWORD TryOffset;DWORD TryLength;DWORD HandlerOffset;DWORD HandlerLength;IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333 __anonymous0;};
+Fixing nested struct!
+   Ori struct: struct IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL {__int32 Flags : 16;unsigned __int32 TryOffset : 16;unsigned __int32 TryLength : 8;unsigned __int32 HandlerOffset : 16;unsigned __int32 HandlerLength : 8;union {DWORD ClassToken;DWORD FilterOffset;};};
+   New struct: struct IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL {__int32 Flags : 16;unsigned __int32 TryOffset : 16;unsigned __int32 TryLength : 8;unsigned __int32 HandlerOffset : 16;unsigned __int32 HandlerLength : 8;IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333 __anonymous0;};
+Compiling all type regex...
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL___97EB6520089C60904EC79B11B3B4B333
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL
+Calculating dependency for: ICorDebugEditAndContinueErrorInfoVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT
+Calculating dependency for: ICorDebugEditAndContinueSnapshotVtbl
+Calculating dependency for: IMAGE_COR_X86_RUNTIME_FUNCTION_ENTRY
+Calculating dependency for: __MIDL___MIDL_itf_corprof_0000_0001
+Calculating dependency for: __MIDL___MIDL_itf_corprof_0000_0002
+Calculating dependency for: __MIDL___MIDL_itf_corprof_0000_0003
+Calculating dependency for: __MIDL___MIDL_itf_corprof_0000_0004
+Calculating dependency for: __MIDL___MIDL_itf_corprof_0000_0005
+Calculating dependency for: __MIDL___MIDL_itf_mscoree_0000_0001
+Calculating dependency for: __MIDL___MIDL_itf_corpub_0000_0001
+Calculating dependency for: __MIDL___MIDL_itf_gchost_0000_0001
+Calculating dependency for: __MIDL___MIDL_itf_gchost_0000_0002
+Calculating dependency for: _09EE49AD0A975A087641D8B4D0DF4D82
+Calculating dependency for: _2AFDC37A845A031E02844C4CE6A53ED2
+Calculating dependency for: _2BF33A8332CBFCE1BB184E853130170B
+Calculating dependency for: _2E2849121B5A1F88FBA23A7F4BCDE329
+Calculating dependency for: _39C2C374778D70AF45AB155893CBA35F
+Calculating dependency for: _78243EDB552F1A28DD94BB546CFE6E3D
+Calculating dependency for: _91AF93DF9160876FBA1CDBF34D6E05E8
+Calculating dependency for: _A4752B4F8E92EE6FE72360C4B48BE096
+Calculating dependency for: _BC5ECE20E40C10210AFE8CEDCDB6CC1A
+Calculating dependency for: _C435AAD07FF115A04870B39292383D43
+Calculating dependency for: _CAF393BCBC2CA6886BFCF5DF33463490
+Calculating dependency for: _CD0F2999C8B85746BE1E263AC63D16E1
+Calculating dependency for: _D7875A75BADF243094067BEA569A4E3F
+Calculating dependency for: _E6CD71273B3F71C282D8510EF52343BB
+Calculating dependency for: _EB5B9CCC078DEABABAED69F2F8ADE8FA
+Calculating dependency for: ICorDebugEditAndContinueErrorInfo
+Calculating dependency for: ICorDebugEditAndContinueSnapshot
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_SMALL
+Calculating dependency for: CorNotificationForTokenMovement
+Calculating dependency for: ICorDebugFunctionBreakpointVtbl
+Calculating dependency for: ISymUnmanagedDocumentWriterVtbl
+Calculating dependency for: CorDebugIlToNativeMappingTypes
+Calculating dependency for: ICorDebugUnmanagedCallbackVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH_FAT
+Calculating dependency for: CorUnmanagedCallingConvention
+Calculating dependency for: ICorDebugModuleBreakpointVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_SMALL
+Calculating dependency for: ReplacesGeneralNumericDefines
+Calculating dependency for: ICorDebugManagedCallbackVtbl
+Calculating dependency for: ICorDebugValueBreakpointVtbl
+Calculating dependency for: ICorPublishAppDomainEnumVtbl
+Calculating dependency for: ReplacesCorHdrNumericDefines
+Calculating dependency for: ICorDebugBreakpointEnumVtbl
+Calculating dependency for: ICorDebugFunctionBreakpoint
+Calculating dependency for: ICorDebugReferenceValueVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_FAT
+Calculating dependency for: IMAGE_COR_NATIVE_DESCRIPTOR
+Calculating dependency for: IMetaDataAssemblyImportVtbl
+Calculating dependency for: ISymUnmanagedDocumentWriter
+Calculating dependency for: COR_DEBUG_IL_TO_NATIVE_MAP
+Calculating dependency for: CorDebugCreateProcessFlags
+Calculating dependency for: ICorDebugAppDomainEnumVtbl
+Calculating dependency for: ICorDebugErrorInfoEnumVtbl
+Calculating dependency for: ICorDebugUnmanagedCallback
+Calculating dependency for: ICorPublishProcessEnumVtbl
+Calculating dependency for: IDebuggerThreadControlVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_SECT_EH
+Calculating dependency for: ISymUnmanagedNamespaceVtbl
+Calculating dependency for: COR_GC_THREAD_STATS_TYPES
+Calculating dependency for: COR_PRF_TRANSITION_REASON
+Calculating dependency for: ICorDebugAssemblyEnumVtbl
+Calculating dependency for: ICorDebugGenericValueVtbl
+Calculating dependency for: ICorDebugModuleBreakpoint
+Calculating dependency for: ICorModuleInitializeFlags
+Calculating dependency for: IMetaDataAssemblyEmitVtbl
+Calculating dependency for: ISymUnmanagedDocumentVtbl
+Calculating dependency for: ISymUnmanagedVariableVtbl
+Calculating dependency for: CorErrorIfEmitOutOfOrder
+Calculating dependency for: CorManifestResourceFlags
+Calculating dependency for: ICorDebugManagedCallback
+Calculating dependency for: ICorDebugNativeFrameVtbl
+Calculating dependency for: ICorDebugObjectValueVtbl
+Calculating dependency for: ICorDebugProcessEnumVtbl
+Calculating dependency for: ICorDebugRegisterSetVtbl
+Calculating dependency for: ICorDebugStepperEnumVtbl
+Calculating dependency for: ICorDebugStringValueVtbl
+Calculating dependency for: ICorDebugValueBreakpoint
+Calculating dependency for: ICorProfilerCallbackVtbl
+Calculating dependency for: ICorPublishAppDomainEnum
+Calculating dependency for: ICorPublishAppDomainVtbl
+Calculating dependency for: IMetaDataDispenserExVtbl
+Calculating dependency for: ICorDebugArrayValueVtbl
+Calculating dependency for: ICorDebugBreakpointEnum
+Calculating dependency for: ICorDebugBreakpointVtbl
+Calculating dependency for: ICorDebugControllerVtbl
+Calculating dependency for: ICorDebugModuleEnumVtbl
+Calculating dependency for: ICorDebugObjectEnumVtbl
+Calculating dependency for: ICorDebugReferenceValue
+Calculating dependency for: ICorDebugThreadEnumVtbl
+Calculating dependency for: IMAGE_COR_ILMETHOD_TINY
+Calculating dependency for: IMetaDataAssemblyImport
+Calculating dependency for: ISymUnmanagedBinderVtbl
+Calculating dependency for: ISymUnmanagedMethodVtbl
+Calculating dependency for: ISymUnmanagedReaderVtbl
+Calculating dependency for: ISymUnmanagedWriterVtbl
+Calculating dependency for: COR_PRF_SUSPEND_REASON
+Calculating dependency for: CorMethodSemanticsAttr
+Calculating dependency for: CorThreadSafetyOptions
+Calculating dependency for: CorValidatorModuleType
+Calculating dependency for: ICorDebugAppDomainEnum
+Calculating dependency for: ICorDebugAppDomainVtbl
+Calculating dependency for: ICorDebugChainEnumVtbl
+Calculating dependency for: ICorDebugErrorInfoEnum
+Calculating dependency for: ICorDebugFrameEnumVtbl
+Calculating dependency for: ICorDebugHeapValueVtbl
+Calculating dependency for: ICorDebugValueEnumVtbl
+Calculating dependency for: ICorPublishProcessEnum
+Calculating dependency for: ICorPublishProcessVtbl
+Calculating dependency for: IDebuggerThreadControl
+Calculating dependency for: IMAGE_COR_ILMETHOD_FAT
+Calculating dependency for: IMetaDataConverterVtbl
+Calculating dependency for: IMetaDataDispenserVtbl
+Calculating dependency for: ISymUnmanagedNamespace
+Calculating dependency for: ISymUnmanagedScopeVtbl
+Calculating dependency for: CorCheckDuplicatesFor
+Calculating dependency for: CorDebugMappingResult
+Calculating dependency for: IAppDomainBindingVtbl
+Calculating dependency for: ICorConfigurationVtbl
+Calculating dependency for: ICorDebugAssemblyEnum
+Calculating dependency for: ICorDebugAssemblyVtbl
+Calculating dependency for: ICorDebugBoxValueVtbl
+Calculating dependency for: ICorDebugFunctionVtbl
+Calculating dependency for: ICorDebugGenericValue
+Calculating dependency for: IMAGE_COR_VTABLEFIXUP
+Calculating dependency for: IMetaDataAssemblyEmit
+Calculating dependency for: IMetaDataValidateVtbl
+Calculating dependency for: ISymUnmanagedDocument
+Calculating dependency for: ISymUnmanagedVariable
+Calculating dependency for: COR_DEBUG_STEP_RANGE
+Calculating dependency for: CeeSectionRelocExtra
+Calculating dependency for: CorCallingConvention
+Calculating dependency for: CorDebugUnmappedStop
+Calculating dependency for: CorSerializationType
+Calculating dependency for: ICORSvcDbgNotifyVtbl
+Calculating dependency for: ICatalogServicesVtbl
+Calculating dependency for: ICorDebugContextVtbl
+Calculating dependency for: ICorDebugILFrameVtbl
+Calculating dependency for: ICorDebugNativeFrame
+Calculating dependency for: ICorDebugObjectValue
+Calculating dependency for: ICorDebugProcessEnum
+Calculating dependency for: ICorDebugProcessVtbl
+Calculating dependency for: ICorDebugRegisterSet
+Calculating dependency for: ICorDebugStepperEnum
+Calculating dependency for: ICorDebugStepperVtbl
+Calculating dependency for: ICorDebugStringValue
+Calculating dependency for: ICorProfilerCallback
+Calculating dependency for: ICorProfilerInfoVtbl
+Calculating dependency for: ICorPublishAppDomain
+Calculating dependency for: IGCThreadControlVtbl
+Calculating dependency for: IMAGE_COR_FIXUPENTRY
+Calculating dependency for: IMetaDataDispenserEx
+Calculating dependency for: MACRO_MSCOR_FACILITY
+Calculating dependency for: MACRO_MSCOR_SECURITY
+Calculating dependency for: _COR_GC_THREAD_STATS
+Calculating dependency for: COR_GC_THREAD_STATS
+Calculating dependency for: COR_PUB_ENUMPROCESS
+Calculating dependency for: CeeSectionRelocType
+Calculating dependency for: CorAssemblyRefFlags
+Calculating dependency for: CorAttributeTargets
+Calculating dependency for: CorDebugChainReason
+Calculating dependency for: CorDebugThreadState
+Calculating dependency for: ICorDebugArrayValue
+Calculating dependency for: ICorDebugBreakpoint
+Calculating dependency for: ICorDebugController
+Calculating dependency for: ICorDebugModuleEnum
+Calculating dependency for: ICorDebugModuleVtbl
+Calculating dependency for: ICorDebugObjectEnum
+Calculating dependency for: ICorDebugThreadEnum
+Calculating dependency for: ICorDebugThreadVtbl
+Calculating dependency for: ICorPublishEnumVtbl
+Calculating dependency for: ICorRuntimeHostVtbl
+Calculating dependency for: IMAGE_COR_MIH_ENTRY
+Calculating dependency for: IMetaDataFilterVtbl
+Calculating dependency for: IMetaDataImportVtbl
+Calculating dependency for: IMetaDataTablesVtbl
+Calculating dependency for: ISymUnmanagedBinder
+Calculating dependency for: ISymUnmanagedMethod
+Calculating dependency for: ISymUnmanagedReader
+Calculating dependency for: ISymUnmanagedWriter
+Calculating dependency for: LogSwitchCallReason
+Calculating dependency for: TDestructorCallback
+Calculating dependency for: WAITORTIMERCALLBACK
+Calculating dependency for: mdExecutionLocation
+Calculating dependency for: mdLocalizedResource
+Calculating dependency for: CorDebugStepReason
+Calculating dependency for: CorNativeLinkFlags
+Calculating dependency for: ICORSvcDbgInfoVtbl
+Calculating dependency for: ICorDebugAppDomain
+Calculating dependency for: ICorDebugChainEnum
+Calculating dependency for: ICorDebugChainVtbl
+Calculating dependency for: ICorDebugClassVtbl
+Calculating dependency for: ICorDebugFrameEnum
+Calculating dependency for: ICorDebugFrameVtbl
+Calculating dependency for: ICorDebugHeapValue
+Calculating dependency for: ICorDebugValueEnum
+Calculating dependency for: ICorDebugValueVtbl
+Calculating dependency for: ICorPublishProcess
+Calculating dependency for: ICorThreadpoolVtbl
+Calculating dependency for: IGCHostControlVtbl
+Calculating dependency for: IMAGE_COR20_HEADER
+Calculating dependency for: IMAGE_COR_ILMETHOD
+Calculating dependency for: IManagedObjectVtbl
+Calculating dependency for: IMetaDataConverter
+Calculating dependency for: IMetaDataDispenser
+Calculating dependency for: IMetaDataErrorVtbl
+Calculating dependency for: ISymUnmanagedScope
+Calculating dependency for: mdManifestResource
+Calculating dependency for: COR_GC_STAT_TYPES
+Calculating dependency for: COR_PRF_JIT_CACHE
+Calculating dependency for: CorDebugIntercept
+Calculating dependency for: CorDebugUserState
+Calculating dependency for: CorNativeLinkType
+Calculating dependency for: IAppDomainBinding
+Calculating dependency for: ICorConfiguration
+Calculating dependency for: ICorDebugAssembly
+Calculating dependency for: ICorDebugBoxValue
+Calculating dependency for: ICorDebugCodeVtbl
+Calculating dependency for: ICorDebugEnumVtbl
+Calculating dependency for: ICorDebugEvalVtbl
+Calculating dependency for: ICorDebugFunction
+Calculating dependency for: IMetaDataEmitVtbl
+Calculating dependency for: IMetaDataValidate
+Calculating dependency for: IMethodMallocVtbl
+Calculating dependency for: IObjectHandleVtbl
+Calculating dependency for: mdCustomAttribute
+Calculating dependency for: ASSEMBLYMETADATA
+Calculating dependency for: COR_FIELD_OFFSET
+Calculating dependency for: ComCallUnmarshal
+Calculating dependency for: CorAssemblyFlags
+Calculating dependency for: CorDebugRegister
+Calculating dependency for: CorExceptionFlag
+Calculating dependency for: CorILMethodFlags
+Calculating dependency for: CorImportOptions
+Calculating dependency for: CorRefToDefCheck
+Calculating dependency for: FunctionIDMapper
+Calculating dependency for: FunctionTailcall
+Calculating dependency for: ICORSvcDbgNotify
+Calculating dependency for: ICatalogServices
+Calculating dependency for: ICorDebugContext
+Calculating dependency for: ICorDebugILFrame
+Calculating dependency for: ICorDebugProcess
+Calculating dependency for: ICorDebugStepper
+Calculating dependency for: ICorProfilerInfo
+Calculating dependency for: IGCThreadControl
+Calculating dependency for: IMetaDataCFCVtbl
+Calculating dependency for: LoggingLevelEnum
+Calculating dependency for: MACRO_MSCOR_META
+Calculating dependency for: MACRO_mdTokenNil
+Calculating dependency for: PPSECURITY_PROPS
+Calculating dependency for: PPSECURITY_VALUE
+Calculating dependency for: COR_IPMAP_ENTRY
+Calculating dependency for: COR_NATIVE_LINK
+Calculating dependency for: COR_PRF_MONITOR
+Calculating dependency for: CorDeclSecurity
+Calculating dependency for: CorILMethodSect
+Calculating dependency for: CorPropertyAttr
+Calculating dependency for: ICorDebugModule
+Calculating dependency for: ICorDebugThread
+Calculating dependency for: ICorPublishEnum
+Calculating dependency for: ICorPublishVtbl
+Calculating dependency for: ICorRuntimeHost
+Calculating dependency for: IHostFilterVtbl
+Calculating dependency for: IMetaDataFilter
+Calculating dependency for: IMetaDataImport
+Calculating dependency for: IMetaDataTables
+Calculating dependency for: MACRO_MSCOR_INF
+Calculating dependency for: MACRO_MSCOR_VER
+Calculating dependency for: PCCOR_SIGNATURE
+Calculating dependency for: PSECURITY_PROPS
+Calculating dependency for: PSECURITY_VALUE
+Calculating dependency for: mdInterfaceImpl
+Calculating dependency for: mdLocalVarScope
+Calculating dependency for: CORDB_REGISTER
+Calculating dependency for: CeeSectionAttr
+Calculating dependency for: CorElementType
+Calculating dependency for: CorRegTypeAttr
+Calculating dependency for: CorRuntimeHost
+Calculating dependency for: CorSymAddrKind
+Calculating dependency for: ICORSvcDbgInfo
+Calculating dependency for: ICorDebugChain
+Calculating dependency for: ICorDebugClass
+Calculating dependency for: ICorDebugFrame
+Calculating dependency for: ICorDebugValue
+Calculating dependency for: ICorModuleVtbl
+Calculating dependency for: ICorThreadpool
+Calculating dependency for: IGCHostControl
+Calculating dependency for: IManagedObject
+Calculating dependency for: IMetaDataError
+Calculating dependency for: IVEHandlerVtbl
+Calculating dependency for: IValidatorVtbl
+Calculating dependency for: MACRO_MSCOR_FL
+Calculating dependency for: MACRO_MSCOR_SN
+Calculating dependency for: PCOR_SIGNATURE
+Calculating dependency for: VEHandlerClass
+Calculating dependency for: CORDB_ADDRESS
+Calculating dependency for: COR_SIGNATURE
+Calculating dependency for: CorMethodAttr
+Calculating dependency for: CorMethodImpl
+Calculating dependency for: CorNativeType
+Calculating dependency for: CorPinvokeMap
+Calculating dependency for: CorpubPublish
+Calculating dependency for: FunctionEnter
+Calculating dependency for: FunctionLeave
+Calculating dependency for: ICorDebugCode
+Calculating dependency for: ICorDebugEnum
+Calculating dependency for: ICorDebugEval
+Calculating dependency for: ICorDebugVtbl
+Calculating dependency for: IMapTokenVtbl
+Calculating dependency for: IMetaDataEmit
+Calculating dependency for: IMethodMalloc
+Calculating dependency for: IObjectHandle
+Calculating dependency for: MACRO_CORPROF
+Calculating dependency for: PublicKeyBlob
+Calculating dependency for: STARTUP_FLAGS
+Calculating dependency for: _COR_GC_STATS
+Calculating dependency for: mdAssemblyRef
+Calculating dependency for: mdCustomValue
+Calculating dependency for: tagCOUNINITEE
+Calculating dependency for: CLASSVERSION
+Calculating dependency for: COR_GC_STATS
+Calculating dependency for: COR_PRF_MISC
+Calculating dependency for: CorEventAttr
+Calculating dependency for: CorFieldAttr
+Calculating dependency for: CorFileFlags
+Calculating dependency for: CorOpenFlags
+Calculating dependency for: CorParamAttr
+Calculating dependency for: CorSymBinder
+Calculating dependency for: CorSymReader
+Calculating dependency for: CorSymWriter
+Calculating dependency for: CorTokenType
+Calculating dependency for: IMetaDataCFC
+Calculating dependency for: MACRO_CLDB_E
+Calculating dependency for: MACRO_CORDBG
+Calculating dependency for: MACRO_CORSEC
+Calculating dependency for: MACRO_FUSION
+Calculating dependency for: MACRO__DBIAS
+Calculating dependency for: MACRO__DFRAC
+Calculating dependency for: MACRO__DLONG
+Calculating dependency for: MACRO__FBIAS
+Calculating dependency for: MACRO__FFRAC
+Calculating dependency for: MACRO__LMASK
+Calculating dependency for: mdPermission
+Calculating dependency for: mdSourceFile
+Calculating dependency for: tagCOINITCOR
+Calculating dependency for: tag_VerError
+Calculating dependency for: AppDomainID
+Calculating dependency for: COR_SECATTR
+Calculating dependency for: COUNINITIEE
+Calculating dependency for: CorBaseType
+Calculating dependency for: CorRegFlags
+Calculating dependency for: CorSaveSize
+Calculating dependency for: CorTypeAttr
+Calculating dependency for: HCEESECTION
+Calculating dependency for: HDOMAINENUM
+Calculating dependency for: ICeeGenVtbl
+Calculating dependency for: ICorPublish
+Calculating dependency for: IGCHostVtbl
+Calculating dependency for: IHostFilter
+Calculating dependency for: ILoaderVtbl
+Calculating dependency for: MACRO_COR_E
+Calculating dependency for: MACRO_FHUGE
+Calculating dependency for: MACRO_LHUGE
+Calculating dependency for: MACRO_VLDTR
+Calculating dependency for: MACRO__DMAX
+Calculating dependency for: MACRO__DOFF
+Calculating dependency for: MACRO__FMAX
+Calculating dependency for: MACRO__FOFF
+Calculating dependency for: MACRO__FRND
+Calculating dependency for: MACRO__LMAX
+Calculating dependency for: MACRO__LOFF
+Calculating dependency for: mdMemberRef
+Calculating dependency for: mdMethodDef
+Calculating dependency for: mdModuleRef
+Calculating dependency for: mdSignature
+Calculating dependency for: tagCOINITEE
+Calculating dependency for: AssemblyID
+Calculating dependency for: COINITICOR
+Calculating dependency for: COR_IL_MAP
+Calculating dependency for: CorArgType
+Calculating dependency for: FunctionID
+Calculating dependency for: ICorModule
+Calculating dependency for: IVEHandler
+Calculating dependency for: IValidator
+Calculating dependency for: MACRO_CLDB
+Calculating dependency for: MACRO_MSEE
+Calculating dependency for: MACRO_TLBX
+Calculating dependency for: MDUTF8CSTR
+Calculating dependency for: mdAssembly
+Calculating dependency for: mdFieldDef
+Calculating dependency for: mdLocalVar
+Calculating dependency for: mdParamDef
+Calculating dependency for: mdProperty
+Calculating dependency for: mdTypeSpec
+Calculating dependency for: COINITIEE
+Calculating dependency for: ContextID
+Calculating dependency for: CorSetENC
+Calculating dependency for: ICorDebug
+Calculating dependency for: IMapToken
+Calculating dependency for: MACRO_CEE
+Calculating dependency for: MACRO_COR
+Calculating dependency for: MACRO_EXP
+Calculating dependency for: MACRO_ISS
+Calculating dependency for: MACRO_NAN
+Calculating dependency for: MACRO__D0
+Calculating dependency for: MACRO__D1
+Calculating dependency for: MACRO__D2
+Calculating dependency for: MACRO__D3
+Calculating dependency for: MACRO__F0
+Calculating dependency for: MACRO__F1
+Calculating dependency for: MACRO__L0
+Calculating dependency for: MACRO__L1
+Calculating dependency for: MACRO__L2
+Calculating dependency for: MACRO__L3
+Calculating dependency for: MDUTF8STR
+Calculating dependency for: MonitorID
+Calculating dependency for: ProcessID
+Calculating dependency for: VEContext
+Calculating dependency for: _VerError
+Calculating dependency for: mdCPToken
+Calculating dependency for: mdComType
+Calculating dependency for: mdTypeDef
+Calculating dependency for: mdTypeRef
+Calculating dependency for: CVStruct
+Calculating dependency for: CorDebug
+Calculating dependency for: HCORENUM
+Calculating dependency for: HPROCESS
+Calculating dependency for: ModuleID
+Calculating dependency for: ObjectID
+Calculating dependency for: ThreadID
+Calculating dependency for: mdModule
+Calculating dependency for: mdString
+Calculating dependency for: ClassID
+Calculating dependency for: HTHREAD
+Calculating dependency for: ICeeGen
+Calculating dependency for: IGCHost
+Calculating dependency for: ILoader
+Calculating dependency for: mdEvent
+Calculating dependency for: mdScope
+Calculating dependency for: mdToken
+Calculating dependency for: CORSvc
+Calculating dependency for: OSINFO
+Calculating dependency for: mdFile
+Calculating dependency for: CVID
+Calculating dependency for: RID
+Type hierarchy analysis finished:
+IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL___97EB6520089C60904EC79B11B3B4B333 -> []
+IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333 -> []
+IMAGE_COR_X86_RUNTIME_FUNCTION_ENTRY -> []
+__MIDL___MIDL_itf_corprof_0000_0001 -> []
+__MIDL___MIDL_itf_corprof_0000_0002 -> []
+__MIDL___MIDL_itf_corprof_0000_0003 -> []
+__MIDL___MIDL_itf_corprof_0000_0004 -> []
+__MIDL___MIDL_itf_corprof_0000_0005 -> []
+__MIDL___MIDL_itf_mscoree_0000_0001 -> []
+__MIDL___MIDL_itf_corpub_0000_0001 -> []
+__MIDL___MIDL_itf_gchost_0000_0001 -> []
+__MIDL___MIDL_itf_gchost_0000_0002 -> []
+_09EE49AD0A975A087641D8B4D0DF4D82 -> []
+_2AFDC37A845A031E02844C4CE6A53ED2 -> []
+_2BF33A8332CBFCE1BB184E853130170B -> []
+_39C2C374778D70AF45AB155893CBA35F -> []
+_78243EDB552F1A28DD94BB546CFE6E3D -> []
+_91AF93DF9160876FBA1CDBF34D6E05E8 -> []
+_A4752B4F8E92EE6FE72360C4B48BE096 -> []
+_BC5ECE20E40C10210AFE8CEDCDB6CC1A -> []
+_C435AAD07FF115A04870B39292383D43 -> []
+_CAF393BCBC2CA6886BFCF5DF33463490 -> []
+_CD0F2999C8B85746BE1E263AC63D16E1 -> []
+_D7875A75BADF243094067BEA569A4E3F -> []
+_EB5B9CCC078DEABABAED69F2F8ADE8FA -> []
+ICorDebugEditAndContinueErrorInfo -> []
+ICorDebugEditAndContinueSnapshot -> []
+CorNotificationForTokenMovement -> []
+ICorDebugFunctionBreakpointVtbl -> []
+ISymUnmanagedDocumentWriterVtbl -> []
+CorDebugIlToNativeMappingTypes -> []
+ICorDebugUnmanagedCallbackVtbl -> []
+CorUnmanagedCallingConvention -> []
+ICorDebugModuleBreakpointVtbl -> []
+IMAGE_COR_ILMETHOD_SECT_SMALL -> []
+ReplacesGeneralNumericDefines -> []
+ICorDebugValueBreakpointVtbl -> []
+ICorPublishAppDomainEnumVtbl -> []
+ReplacesCorHdrNumericDefines -> []
+ICorDebugBreakpointEnumVtbl -> []
+ICorDebugFunctionBreakpoint -> []
+IMAGE_COR_ILMETHOD_SECT_FAT -> []
+IMAGE_COR_NATIVE_DESCRIPTOR -> []
+ISymUnmanagedDocumentWriter -> []
+COR_DEBUG_IL_TO_NATIVE_MAP -> []
+CorDebugCreateProcessFlags -> []
+ICorDebugAppDomainEnumVtbl -> []
+ICorDebugErrorInfoEnumVtbl -> []
+ICorDebugUnmanagedCallback -> []
+ICorPublishProcessEnumVtbl -> []
+IDebuggerThreadControlVtbl -> []
+ISymUnmanagedNamespaceVtbl -> []
+ICorDebugAssemblyEnumVtbl -> []
+ICorDebugModuleBreakpoint -> []
+ISymUnmanagedDocumentVtbl -> []
+ISymUnmanagedVariableVtbl -> []
+CorErrorIfEmitOutOfOrder -> []
+CorManifestResourceFlags -> []
+ICorDebugManagedCallback -> []
+ICorDebugProcessEnumVtbl -> []
+ICorDebugStepperEnumVtbl -> []
+ICorDebugValueBreakpoint -> []
+ICorPublishAppDomainEnum -> []
+ICorPublishAppDomainVtbl -> []
+IMetaDataDispenserExVtbl -> []
+ICorDebugBreakpointEnum -> []
+ICorDebugBreakpointVtbl -> []
+ICorDebugModuleEnumVtbl -> []
+ICorDebugReferenceValue -> []
+ICorDebugThreadEnumVtbl -> []
+IMAGE_COR_ILMETHOD_TINY -> []
+IMetaDataAssemblyImport -> []
+ISymUnmanagedBinderVtbl -> []
+CorMethodSemanticsAttr -> []
+CorThreadSafetyOptions -> []
+ICorDebugAppDomainEnum -> []
+ICorDebugChainEnumVtbl -> []
+ICorDebugErrorInfoEnum -> []
+ICorDebugFrameEnumVtbl -> []
+ICorDebugValueEnumVtbl -> []
+ICorPublishProcessEnum -> []
+ICorPublishProcessVtbl -> []
+IDebuggerThreadControl -> []
+IMetaDataConverterVtbl -> []
+IMetaDataDispenserVtbl -> []
+ISymUnmanagedNamespace -> []
+ISymUnmanagedScopeVtbl -> []
+CorCheckDuplicatesFor -> []
+CorDebugMappingResult -> []
+IAppDomainBindingVtbl -> []
+ICorConfigurationVtbl -> []
+ICorDebugAssemblyEnum -> []
+ICorDebugAssemblyVtbl -> []
+ICorDebugGenericValue -> []
+IMAGE_COR_VTABLEFIXUP -> []
+IMetaDataAssemblyEmit -> []
+IMetaDataValidateVtbl -> []
+ISymUnmanagedDocument -> []
+ISymUnmanagedVariable -> []
+COR_DEBUG_STEP_RANGE -> []
+CeeSectionRelocExtra -> []
+CorCallingConvention -> []
+CorDebugUnmappedStop -> []
+CorSerializationType -> []
+ICORSvcDbgNotifyVtbl -> []
+ICatalogServicesVtbl -> []
+ICorDebugNativeFrame -> []
+ICorDebugObjectValue -> []
+ICorDebugProcessEnum -> []
+ICorDebugRegisterSet -> []
+ICorDebugStepperEnum -> []
+ICorDebugStringValue -> []
+ICorProfilerCallback -> []
+ICorPublishAppDomain -> []
+IGCThreadControlVtbl -> []
+IMAGE_COR_FIXUPENTRY -> []
+IMetaDataDispenserEx -> []
+MACRO_MSCOR_FACILITY -> []
+MACRO_MSCOR_SECURITY -> []
+_COR_GC_THREAD_STATS -> []
+COR_GC_THREAD_STATS -> []
+CorAssemblyRefFlags -> []
+CorAttributeTargets -> []
+CorDebugChainReason -> []
+CorDebugThreadState -> []
+ICorDebugArrayValue -> []
+ICorDebugBreakpoint -> []
+ICorDebugController -> []
+ICorDebugModuleEnum -> []
+ICorDebugObjectEnum -> []
+ICorDebugThreadEnum -> []
+ICorPublishEnumVtbl -> []
+IMetaDataTablesVtbl -> []
+ISymUnmanagedBinder -> []
+ISymUnmanagedMethod -> []
+ISymUnmanagedReader -> []
+ISymUnmanagedWriter -> []
+LogSwitchCallReason -> []
+TDestructorCallback -> []
+WAITORTIMERCALLBACK -> []
+CorDebugStepReason -> []
+ICORSvcDbgInfoVtbl -> []
+ICorDebugAppDomain -> []
+ICorDebugChainEnum -> []
+ICorDebugFrameEnum -> []
+ICorDebugHeapValue -> []
+ICorDebugValueEnum -> []
+ICorPublishProcess -> []
+IGCHostControlVtbl -> []
+IMAGE_COR20_HEADER -> []
+IManagedObjectVtbl -> []
+IMetaDataConverter -> []
+IMetaDataDispenser -> []
+ISymUnmanagedScope -> []
+CorDebugIntercept -> []
+CorDebugUserState -> []
+IAppDomainBinding -> []
+ICorConfiguration -> []
+ICorDebugAssembly -> []
+ICorDebugBoxValue -> []
+ICorDebugEnumVtbl -> []
+ICorDebugFunction -> []
+IMetaDataValidate -> []
+IMethodMallocVtbl -> []
+IObjectHandleVtbl -> []
+ASSEMBLYMETADATA -> []
+ComCallUnmarshal -> []
+CorAssemblyFlags -> []
+CorDebugRegister -> []
+CorExceptionFlag -> []
+CorILMethodFlags -> []
+CorImportOptions -> []
+CorRefToDefCheck -> []
+ICORSvcDbgNotify -> []
+ICatalogServices -> []
+ICorDebugContext -> []
+ICorDebugILFrame -> []
+ICorDebugProcess -> []
+ICorDebugStepper -> []
+ICorProfilerInfo -> []
+IGCThreadControl -> []
+LoggingLevelEnum -> []
+MACRO_MSCOR_META -> []
+MACRO_mdTokenNil -> []
+PPSECURITY_PROPS -> []
+PPSECURITY_VALUE -> []
+COR_IPMAP_ENTRY -> []
+COR_NATIVE_LINK -> []
+CorDeclSecurity -> []
+CorILMethodSect -> []
+CorPropertyAttr -> []
+ICorDebugModule -> []
+ICorDebugThread -> []
+ICorPublishEnum -> []
+ICorRuntimeHost -> []
+IMetaDataFilter -> []
+IMetaDataImport -> []
+IMetaDataTables -> []
+MACRO_MSCOR_INF -> []
+MACRO_MSCOR_VER -> []
+PSECURITY_PROPS -> []
+PSECURITY_VALUE -> []
+CORDB_REGISTER -> []
+CorElementType -> []
+CorRuntimeHost -> []
+CorSymAddrKind -> []
+ICORSvcDbgInfo -> []
+ICorDebugChain -> []
+ICorDebugClass -> []
+ICorDebugFrame -> []
+ICorDebugValue -> []
+ICorModuleVtbl -> []
+ICorThreadpool -> []
+IGCHostControl -> []
+IManagedObject -> []
+IMetaDataError -> []
+MACRO_MSCOR_FL -> []
+MACRO_MSCOR_SN -> []
+VEHandlerClass -> []
+CORDB_ADDRESS -> []
+COR_SIGNATURE -> []
+CorMethodAttr -> []
+CorMethodImpl -> []
+CorNativeType -> []
+CorPinvokeMap -> []
+CorpubPublish -> []
+ICorDebugCode -> []
+ICorDebugEnum -> []
+ICorDebugEval -> []
+IMetaDataEmit -> []
+IMethodMalloc -> []
+IObjectHandle -> []
+MACRO_CORPROF -> []
+PublicKeyBlob -> []
+_COR_GC_STATS -> []
+tagCOUNINITEE -> []
+CLASSVERSION -> []
+COR_GC_STATS -> []
+CorEventAttr -> []
+CorFieldAttr -> []
+CorFileFlags -> []
+CorOpenFlags -> []
+CorParamAttr -> []
+CorSymBinder -> []
+CorSymReader -> []
+CorSymWriter -> []
+CorTokenType -> []
+IMetaDataCFC -> []
+MACRO_CLDB_E -> []
+MACRO_CORDBG -> []
+MACRO_CORSEC -> []
+MACRO_FUSION -> []
+MACRO__DBIAS -> []
+MACRO__DFRAC -> []
+MACRO__DLONG -> []
+MACRO__FBIAS -> []
+MACRO__FFRAC -> []
+MACRO__LMASK -> []
+tagCOINITCOR -> []
+tag_VerError -> []
+AppDomainID -> []
+CorBaseType -> []
+CorSaveSize -> []
+CorTypeAttr -> []
+HCEESECTION -> []
+HDOMAINENUM -> []
+ICorPublish -> []
+IHostFilter -> []
+ILoaderVtbl -> []
+MACRO_COR_E -> []
+MACRO_FHUGE -> []
+MACRO_LHUGE -> []
+MACRO_VLDTR -> []
+MACRO__DMAX -> []
+MACRO__DOFF -> []
+MACRO__FMAX -> []
+MACRO__FOFF -> []
+MACRO__FRND -> []
+MACRO__LMAX -> []
+MACRO__LOFF -> []
+tagCOINITEE -> []
+AssemblyID -> []
+COR_IL_MAP -> []
+CorArgType -> []
+FunctionID -> []
+ICorModule -> []
+IVEHandler -> []
+IValidator -> []
+MACRO_CLDB -> []
+MACRO_MSEE -> []
+MACRO_TLBX -> []
+MDUTF8CSTR -> []
+ContextID -> []
+CorSetENC -> []
+ICorDebug -> []
+IMapToken -> []
+MACRO_CEE -> []
+MACRO_COR -> []
+MACRO_EXP -> []
+MACRO_ISS -> []
+MACRO_NAN -> []
+MACRO__D0 -> []
+MACRO__D1 -> []
+MACRO__D2 -> []
+MACRO__D3 -> []
+MACRO__F0 -> []
+MACRO__F1 -> []
+MACRO__L0 -> []
+MACRO__L1 -> []
+MACRO__L2 -> []
+MACRO__L3 -> []
+MDUTF8STR -> []
+MonitorID -> []
+ProcessID -> []
+_VerError -> []
+CVStruct -> []
+CorDebug -> []
+HCORENUM -> []
+HPROCESS -> []
+ModuleID -> []
+ObjectID -> []
+ThreadID -> []
+ClassID -> []
+HTHREAD -> []
+ICeeGen -> []
+IGCHost -> []
+ILoader -> []
+mdScope -> []
+mdToken -> []
+CORSvc -> []
+OSINFO -> []
+CVID -> []
+RID -> []
+IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL -> ['IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333']
+ICorDebugEditAndContinueErrorInfoVtbl -> ['mdToken']
+_2E2849121B5A1F88FBA23A7F4BCDE329 -> ['mdMemberRef']
+_E6CD71273B3F71C282D8510EF52343BB -> ['OSINFO']
+ICorDebugManagedCallbackVtbl -> ['CorDebugStepReason']
+COR_GC_THREAD_STATS_TYPES -> ['__MIDL___MIDL_itf_gchost_0000_0002']
+COR_PRF_TRANSITION_REASON -> ['__MIDL___MIDL_itf_corprof_0000_0004']
+ICorModuleInitializeFlags -> ['_C435AAD07FF115A04870B39292383D43']
+ICorDebugRegisterSetVtbl -> ['CORDB_REGISTER']
+ICorDebugControllerVtbl -> ['CorDebugThreadState']
+ICorDebugObjectEnumVtbl -> ['CORDB_ADDRESS']
+ISymUnmanagedMethodVtbl -> ['mdMethodDef']
+COR_PRF_SUSPEND_REASON -> ['__MIDL___MIDL_itf_corprof_0000_0005']
+CorValidatorModuleType -> ['_A4752B4F8E92EE6FE72360C4B48BE096']
+ICorDebugAppDomainVtbl -> ['CorDebugThreadState']
+IMAGE_COR_ILMETHOD_FAT -> ['mdSignature']
+COR_PUB_ENUMPROCESS -> ['__MIDL___MIDL_itf_corpub_0000_0001']
+CeeSectionRelocType -> ['_91AF93DF9160876FBA1CDBF34D6E05E8']
+ICorRuntimeHostVtbl -> ['HDOMAINENUM']
+IMAGE_COR_MIH_ENTRY -> ['mdToken']
+IMetaDataFilterVtbl -> ['mdToken']
+mdExecutionLocation -> ['mdToken']
+mdLocalizedResource -> ['mdToken']
+CorNativeLinkFlags -> ['_09EE49AD0A975A087641D8B4D0DF4D82']
+ICorThreadpoolVtbl -> ['WAITORTIMERCALLBACK']
+IMetaDataErrorVtbl -> ['mdToken']
+mdManifestResource -> ['mdToken']
+COR_GC_STAT_TYPES -> ['__MIDL___MIDL_itf_gchost_0000_0001']
+COR_PRF_JIT_CACHE -> ['__MIDL___MIDL_itf_corprof_0000_0003']
+CorNativeLinkType -> ['_CD0F2999C8B85746BE1E263AC63D16E1']
+ICorDebugEvalVtbl -> ['CorElementType']
+mdCustomAttribute -> ['mdToken']
+COR_FIELD_OFFSET -> ['mdFieldDef']
+FunctionIDMapper -> ['FunctionID']
+FunctionTailcall -> ['FunctionID']
+COR_PRF_MONITOR -> ['__MIDL___MIDL_itf_corprof_0000_0001']
+ICorPublishVtbl -> ['COR_PUB_ENUMPROCESS']
+IHostFilterVtbl -> ['mdToken']
+PCCOR_SIGNATURE -> ['COR_SIGNATURE']
+mdInterfaceImpl -> ['mdToken']
+mdLocalVarScope -> ['mdToken']
+CeeSectionAttr -> ['_EB5B9CCC078DEABABAED69F2F8ADE8FA']
+CorRegTypeAttr -> ['CorTypeAttr']
+IVEHandlerVtbl -> ['VEContext']
+IValidatorVtbl -> ['VEContext']
+PCOR_SIGNATURE -> ['COR_SIGNATURE']
+FunctionEnter -> ['FunctionID']
+FunctionLeave -> ['FunctionID']
+ICorDebugVtbl -> ['CorDebugCreateProcessFlags']
+IMapTokenVtbl -> ['mdToken']
+STARTUP_FLAGS -> ['__MIDL___MIDL_itf_mscoree_0000_0001']
+mdAssemblyRef -> ['mdToken']
+mdCustomValue -> ['mdCustomAttribute']
+COR_PRF_MISC -> ['__MIDL___MIDL_itf_corprof_0000_0002']
+mdPermission -> ['mdToken']
+mdSourceFile -> ['mdToken']
+COR_SECATTR -> ['mdMemberRef']
+COUNINITIEE -> ['tagCOUNINITEE']
+CorRegFlags -> ['_BC5ECE20E40C10210AFE8CEDCDB6CC1A']
+mdMemberRef -> ['mdToken']
+mdMethodDef -> ['mdToken']
+mdModuleRef -> ['mdToken']
+mdSignature -> ['mdToken']
+COINITICOR -> ['tagCOINITCOR']
+mdAssembly -> ['mdToken']
+mdFieldDef -> ['mdToken']
+mdLocalVar -> ['mdToken']
+mdParamDef -> ['mdToken']
+mdProperty -> ['mdToken']
+mdTypeSpec -> ['mdToken']
+COINITIEE -> ['tagCOINITEE']
+VEContext -> ['_VerError']
+mdCPToken -> ['mdToken']
+mdComType -> ['mdToken']
+mdTypeDef -> ['mdToken']
+mdTypeRef -> ['mdToken']
+mdModule -> ['mdToken']
+mdString -> ['mdToken']
+mdEvent -> ['mdToken']
+mdFile -> ['mdToken']
+IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT -> ['CorExceptionFlag', 'IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT___97EB6520089C60904EC79B11B3B4B333']
+ICorDebugEditAndContinueSnapshotVtbl -> ['mdToken', 'COR_IL_MAP']
+IMAGE_COR_ILMETHOD_SECT_EH_SMALL -> ['IMAGE_COR_ILMETHOD_SECT_SMALL', 'IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_SMALL']
+IMAGE_COR_ILMETHOD_SECT_EH_FAT -> ['IMAGE_COR_ILMETHOD_SECT_FAT', 'IMAGE_COR_ILMETHOD_SECT_EH_CLAUSE_FAT']
+ICorDebugReferenceValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+IMAGE_COR_ILMETHOD_SECT_EH -> ['IMAGE_COR_ILMETHOD_SECT_EH_SMALL', 'IMAGE_COR_ILMETHOD_SECT_EH_FAT']
+ICorDebugGenericValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+ICorDebugStringValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+ICorDebugArrayValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+ISymUnmanagedReaderVtbl -> ['mdMethodDef', 'mdToken']
+ICorDebugHeapValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+ICorDebugBoxValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+ICorDebugFunctionVtbl -> ['mdMethodDef', 'mdSignature']
+ICorDebugChainVtbl -> ['CORDB_ADDRESS', 'CorDebugChainReason']
+ICorDebugClassVtbl -> ['mdTypeDef', 'mdFieldDef']
+ICorDebugFrameVtbl -> ['mdMethodDef', 'CORDB_ADDRESS']
+ICorDebugValueVtbl -> ['CorElementType', 'CORDB_ADDRESS']
+IMAGE_COR_ILMETHOD -> ['IMAGE_COR_ILMETHOD_TINY', 'IMAGE_COR_ILMETHOD_FAT']
+ICorDebugCodeVtbl -> ['CORDB_ADDRESS', 'COR_DEBUG_IL_TO_NATIVE_MAP']
+IMetaDataCFCVtbl -> ['mdMethodDef', 'mdCPToken']
+ICeeGenVtbl -> ['HCEESECTION', 'CeeSectionRelocType']
+IGCHostVtbl -> ['COR_GC_STATS', 'COR_GC_THREAD_STATS']
+ISymUnmanagedWriterVtbl -> ['mdMethodDef', 'mdTypeDef', 'mdToken']
+ICorDebugILFrameVtbl -> ['mdMethodDef', 'CORDB_ADDRESS', 'CorDebugMappingResult']
+ICorDebugProcessVtbl -> ['CorDebugThreadState', 'HPROCESS', 'CORDB_ADDRESS']
+ICorDebugStepperVtbl -> ['CorDebugIntercept', 'CorDebugUnmappedStop', 'COR_DEBUG_STEP_RANGE']
+ICorDebugThreadVtbl -> ['HTHREAD', 'CorDebugThreadState', 'CorDebugUserState']
+ICorDebugNativeFrameVtbl -> ['mdMethodDef', 'CORDB_ADDRESS', 'CorDebugRegister', 'PCCOR_SIGNATURE']
+ICorDebugObjectValueVtbl -> ['CorElementType', 'CORDB_ADDRESS', 'mdFieldDef', 'mdMemberRef']
+ICorDebugContextVtbl -> ['CorElementType', 'CORDB_ADDRESS', 'mdFieldDef', 'mdMemberRef']
+ICorDebugModuleVtbl -> ['CORDB_ADDRESS', 'mdMethodDef', 'mdTypeDef', 'mdModule', 'mdFieldDef']
+IMetaDataAssemblyEmitVtbl -> ['ASSEMBLYMETADATA', 'mdAssembly', 'mdExecutionLocation', 'mdAssemblyRef', 'mdFile', 'mdToken', 'mdTypeDef', 'mdComType', 'mdManifestResource']
+IMetaDataAssemblyImportVtbl -> ['mdAssembly', 'ASSEMBLYMETADATA', 'mdAssemblyRef', 'mdExecutionLocation', 'mdFile', 'mdComType', 'mdToken', 'mdTypeDef', 'mdManifestResource', 'HCORENUM']
+ICorProfilerCallbackVtbl -> ['AppDomainID', 'AssemblyID', 'ModuleID', 'ClassID', 'FunctionID', 'COR_PRF_JIT_CACHE', 'ThreadID', 'MonitorID', 'ObjectID', 'COR_PRF_TRANSITION_REASON', 'COR_PRF_SUSPEND_REASON']
+ICorProfilerInfoVtbl -> ['ObjectID', 'ClassID', 'ModuleID', 'mdTypeDef', 'FunctionID', 'mdToken', 'ThreadID', 'FunctionEnter', 'FunctionLeave', 'FunctionTailcall', 'FunctionIDMapper', 'mdModule', 'AssemblyID', 'mdMethodDef', 'AppDomainID', 'ProcessID', 'COR_IL_MAP', 'ContextID']
+IMetaDataImportVtbl -> ['HCORENUM', 'mdTypeDef', 'mdInterfaceImpl', 'mdTypeRef', 'mdToken', 'mdModule', 'CLASSVERSION', 'mdMethodDef', 'mdFieldDef', 'mdParamDef', 'mdMemberRef', 'mdPermission', 'PCCOR_SIGNATURE', 'mdProperty', 'mdEvent', 'COR_FIELD_OFFSET', 'mdSignature', 'mdModuleRef', 'mdTypeSpec', 'MDUTF8CSTR', 'mdString', 'mdCustomValue']
+IMetaDataEmitVtbl -> ['CorSaveSize', 'CLASSVERSION', 'mdToken', 'mdTypeDef', 'PCCOR_SIGNATURE', 'mdMethodDef', 'mdTypeRef', 'mdExecutionLocation', 'mdMemberRef', 'mdEvent', 'COR_FIELD_OFFSET', 'mdPermission', 'mdSignature', 'mdModuleRef', 'mdTypeSpec', 'mdString', 'mdCustomValue', 'mdFieldDef', 'mdProperty', 'mdParamDef', 'COR_SECATTR', 'PCOR_SIGNATURE']
+========= Ghidra Hdr Gen finished!

@@ -1,0 +1,26 @@
+[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmp0e9hjl5k/typDef.json',
+  '/tmp/tmp0e9hjl5k/regexRet.json'
+]
+Calculating dependency for MACRO_TERMINATE
+Calculating dependency for NLMInfo
+Calculating dependency for NLMInfo___BE50D700E82C118F824F656CD86EE57D
+Calculating dependency for size_t
+Replacing template arg round 1
+Got Type Def: MACRO_TERMINATE
+Got Type Def: NLMInfo
+Got Type Def: NLMInfo___BE50D700E82C118F824F656CD86EE57D
+Got Type Def: size_t
+Compiling all type regex...
+Calculating dependency for: NLMInfo___BE50D700E82C118F824F656CD86EE57D
+Calculating dependency for: MACRO_TERMINATE
+Calculating dependency for: NLMInfo
+Calculating dependency for: size_t
+Type hierarchy analysis finished:
+NLMInfo___BE50D700E82C118F824F656CD86EE57D -> []
+MACRO_TERMINATE -> []
+size_t -> []
+NLMInfo -> ['NLMInfo___BE50D700E82C118F824F656CD86EE57D', 'size_t']
+========= Ghidra Hdr Gen finished!

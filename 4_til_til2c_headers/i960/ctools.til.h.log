@@ -1,0 +1,1083 @@
+Replacing template arg round 1
+Got Type Def: _0554C5062FE80602C743D66204778E58
+Got Type Def: _309E767B38E0F56B2BA55602F70B4C9D
+Got Type Def: _3F581B6531335414AE756F75454F2E82
+Got Type Def: _43F96AB7E0863611CA835205784F2C38
+Got Type Def: _493CA05364BF72A191D12A6CE1F5C4F2
+Got Type Def: _50ED887AC6017A66B8EAA74FFE58097B
+Got Type Def: _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED
+Got Type Def: _614C51839E4B572536ABAC622211158D
+Got Type Def: _9EBC41FFF556B489F8C85024CEE79EE0
+Got Type Def: ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF
+Got Type Def: _AF597710AF055A26EEBCC1959186803D
+Got Type Def: _C10BE4AA5ABBE9CF0190D94D38E21A7E
+Got Type Def: _C30F6B78C55B18D81F89BF422211A708
+Got Type Def: _C5BE20A0C40D8563A650CCBEA0046DA0
+Got Type Def: _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1
+Got Type Def: _D6DBDCC01C14E54BC13EF8EC02363BCA
+Got Type Def: ADDR
+Got Type Def: AOUTHDR
+Got Type Def: BREEZE_SYSPROC_ENTRIES
+Got Type Def: CIO_DEV
+Got Type Def: FAULT_RECORD
+Got Type Def: FAULT_TABLE
+Got Type Def: FAULT_TABLE_ENTRY
+Got Type Def: FILE
+Got Type Def: FPREG
+Got Type Def: INTERNAL_DATA_RAM
+Got Type Def: INTERRUPT_RECORD
+Got Type Def: INTERRUPT_TABLE
+Got Type Def: MACRO_ADDR
+Got Type Def: MACRO_AFP
+Got Type Def: MACRO_APIC
+Got Type Def: MACRO_ARITHMETIC
+Got Type Def: MACRO_ARITHMETIC_ZERO
+Got Type Def: MACRO_ARTYPE
+Got Type Def: MACRO_BAD
+Got Type Def: MACRO_BEGINNING
+Got Type Def: MACRO_BOARD
+Got Type Def: MACRO_BOARD_REV
+Got Type Def: MACRO_BOOL
+Got Type Def: MACRO_BYTE
+Got Type Def: MACRO_C
+Got Type Def: MACRO_CHAR
+Got Type Def: MACRO_CHAR_MIN
+Got Type Def: MACRO_CIO
+Got Type Def: MACRO_CLOCKS
+Got Type Def: MACRO_CLOSED
+Got Type Def: MACRO_CODE
+Got Type Def: MACRO_CONSTRAINT
+Got Type Def: MACRO_CONTENTS
+Got Type Def: MACRO_CONTROL
+Got Type Def: MACRO_CPU
+Got Type Def: MACRO_CRYSTALTIME
+Got Type Def: MACRO_DBL
+Got Type Def: MACRO_DESCRIPTOR
+Got Type Def: MACRO_DFLTPORT
+Got Type Def: MACRO_DIMNUM
+Got Type Def: MACRO_DT
+Got Type Def: MACRO_EOF
+Got Type Def: MACRO_ERR
+Got Type Def: MACRO_ERRNO
+Got Type Def: MACRO_ERROR
+Got Type Def: MACRO_EVENT
+Got Type Def: MACRO_EVENT_NOTICE
+Got Type Def: MACRO_EXIT
+Got Type Def: MACRO_EXTENDED
+Got Type Def: MACRO_F
+Got Type Def: MACRO_FAILURE
+Got Type Def: MACRO_FAULT
+Got Type Def: MACRO_FILNMLEN
+Got Type Def: MACRO_FLASH
+Got Type Def: MACRO_FLASH_ADDR
+Got Type Def: MACRO_FLOATING
+Got Type Def: MACRO_FLT
+Got Type Def: MACRO_FP
+Got Type Def: MACRO_FPX
+Got Type Def: MACRO_FP_80BIT
+Got Type Def: MACRO_FREQ
+Got Type Def: MACRO_G960
+Got Type Def: MACRO_G960_NON
+Got Type Def: MACRO_I960ARNMSZ
+Got Type Def: MACRO_I960ROMAGIC
+Got Type Def: MACRO_I960RWMAGIC
+Got Type Def: MACRO_IAC
+Got Type Def: MACRO_INIT_ERROR
+Got Type Def: MACRO_INT
+Got Type Def: MACRO_INTEGER
+Got Type Def: MACRO_INTP
+Got Type Def: MACRO_INVALID
+Got Type Def: MACRO_INVALID_DESCRIPTOR
+Got Type Def: MACRO_INVALID_OPERAND
+Got Type Def: MACRO_INVALID_SEGMENT
+Got Type Def: MACRO_IRQ
+Got Type Def: MACRO_L
+Got Type Def: MACRO_LC
+Got Type Def: MACRO_LDBL
+Got Type Def: MACRO_LED
+Got Type Def: MACRO_LED_4
+Got Type Def: MACRO_LENGTH
+Got Type Def: MACRO_LONG
+Got Type Def: MACRO_LPTOFF
+Got Type Def: MACRO_LPTON
+Got Type Def: MACRO_MACHINE
+Got Type Def: MACRO_MAGIC_NUMBER
+Got Type Def: MACRO_MAX
+Got Type Def: MACRO_MB
+Got Type Def: MACRO_N
+Got Type Def: MACRO_NMAGIC
+Got Type Def: MACRO_NMI
+Got Type Def: MACRO_NO
+Got Type Def: MACRO_NOCLOSE
+Got Type Def: MACRO_NO_ADDR
+Got Type Def: MACRO_NULL
+Got Type Def: MACRO_NUM
+Got Type Def: MACRO_N_BTMASK
+Got Type Def: MACRO_O
+Got Type Def: MACRO_OFFSET
+Got Type Def: MACRO_OKFSEEK
+Got Type Def: MACRO_OMAGIC
+Got Type Def: MACRO_ON
+Got Type Def: MACRO_OPERATION
+Got Type Def: MACRO_P
+Got Type Def: MACRO_PAGE
+Got Type Def: MACRO_PIN
+Got Type Def: MACRO_PP
+Got Type Def: MACRO_PRIVILEGED
+Got Type Def: MACRO_PROC
+Got Type Def: MACRO_PROTECTION
+Got Type Def: MACRO_R
+Got Type Def: MACRO_RAND
+Got Type Def: MACRO_REAL
+Got Type Def: MACRO_REG
+Got Type Def: MACRO_RESERVED
+Got Type Def: MACRO_RESERVED_0
+Got Type Def: MACRO_ROLL
+Got Type Def: MACRO_S
+Got Type Def: MACRO_SARMAG
+Got Type Def: MACRO_SCHAR
+Got Type Def: MACRO_SEEK
+Got Type Def: MACRO_SHRT
+Got Type Def: MACRO_SIGNAL
+Got Type Def: MACRO_SQ
+Got Type Def: MACRO_SQUALL
+Got Type Def: MACRO_SQUALL_BASE
+Got Type Def: MACRO_STRUCTURAL
+Got Type Def: MACRO_STYP
+Got Type Def: MACRO_SYMNMLEN
+Got Type Def: MACRO_SYMTBL
+Got Type Def: MACRO_SubBNR
+Got Type Def: MACRO_T
+Got Type Def: MACRO_TCGETA
+Got Type Def: MACRO_TICKS_PER_SECOND
+Got Type Def: MACRO_TIME
+Got Type Def: MACRO_TIMER0
+Got Type Def: MACRO_TMR
+Got Type Def: MACRO_TRACE
+Got Type Def: MACRO_TRIPLE
+Got Type Def: MACRO_TYPE
+Got Type Def: MACRO_UINT
+Got Type Def: MACRO_UNALIGNED
+Got Type Def: MACRO_UNIMPLEMENTED
+Got Type Def: MACRO_USHRT
+Got Type Def: MACRO_VECTOR
+Got Type Def: MACRO_VIRTUAL
+Got Type Def: MACRO_XINT
+Got Type Def: MACRO_XINT0
+Got Type Def: MACRO_XINT3
+Got Type Def: MACRO_XINT5
+Got Type Def: MACRO_XINT6
+Got Type Def: MACRO_XINT7
+Got Type Def: MACRO__EXIT
+Got Type Def: MACRO__INIT
+Got Type Def: MACRO__IOFBF
+Got Type Def: MACRO__NUL
+Got Type Def: MACRO__U
+Got Type Def: MACRO___EDOM
+Got Type Def: MACRO___ERANGE
+Got Type Def: MACRO___M
+Got Type Def: MACRO____SAVEREGS
+Got Type Def: PC_REG_IMAGE
+Got Type Def: REG
+Got Type Def: STATUS
+Got Type Def: SYS_PROC_TABLE
+Got Type Def: TC_REG_IMAGE
+Got Type Def: UCHAR
+Got Type Def: UCHARSTAR
+Got Type Def: UINT
+Got Type Def: UINT16
+Got Type Def: UINT32
+Got Type Def: UINT8
+Got Type Def: ULONG
+Got Type Def: ULONGSTAR
+Got Type Def: UREG
+Got Type Def: USHORT
+Got Type Def: USHORTSTAR
+Got Type Def: __div_t
+Got Type Def: __jmp_buf
+Got Type Def: __ldiv_t
+Got Type Def: __ulong_ulong_t
+Got Type Def: __va_list
+Got Type Def: _ac
+Got Type Def: _exit
+Got Type Def: _iobuf
+Got Type Def: _stdio
+Got Type Def: _thread
+Got Type Def: _tzset
+Got Type Def: _va_list
+Got Type Def: aouthdr
+Got Type Def: ar_hdr
+Got Type Def: archdr
+Got Type Def: auxent
+Got Type Def: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774
+Got Type Def: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67
+Got Type Def: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1
+Got Type Def: auxent___5FADB47FFB037D854D1655A50EB77723
+Got Type Def: auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC
+Got Type Def: auxent___8F4557F59A0AC54BBDF79BA682331165
+Got Type Def: auxent______332FB6BD0E947E8D57E9558DE0242FBC
+Got Type Def: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67
+Got Type Def: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B
+Got Type Def: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556
+Got Type Def: auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664
+Got Type Def: auxent_________93D0B1966774B86D3450284C91FC650B
+Got Type Def: auxent_________A4FE982D5F029E6ACEFDE76E40C46556
+Got Type Def: auxent______FAC801B16405A3810F07150B5E65B5F1
+Got Type Def: auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664
+Got Type Def: auxent___A5EFB98F0E3FBB707E554563B78D0188
+Got Type Def: auxent___C1C66AEADBC811FD8102DF151B04BBB6
+Got Type Def: auxent___F460BEB6336398C870E506DAD23CA9F2
+Got Type Def: auxent___FB1486A92607447806F09823D579EE12
+Got Type Def: bpt
+Got Type Def: cio
+Got Type Def: clock_t
+Got Type Def: dev_t
+Got Type Def: div_t
+Got Type Def: fild
+Got Type Def: fild___653642B1EA6CBF762575E67BB3D4C945
+Got Type Def: filehdr
+Got Type Def: fpos_t
+Got Type Def: jmp_buf
+Got Type Def: lconv
+Got Type Def: ldfile
+Got Type Def: ldiv_t
+Got Type Def: lineno
+Got Type Def: lineno___4D6E082ABC3813EFAD274BDB52D637EC
+Got Type Def: mode_t
+Got Type Def: off_t
+Got Type Def: ptrdiff_t
+Got Type Def: reloc
+Got Type Def: scnhdr
+Got Type Def: sig_atomic_t
+Got Type Def: size_t
+Got Type Def: stat
+Got Type Def: syment
+Got Type Def: syment______FF8ECF8B5000729F16967D2BEB64C9EE
+Got Type Def: syment___DDDE857849BC8DF52744F40651AC3747
+Got Type Def: syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE
+Got Type Def: time_t
+Got Type Def: tm
+Got Type Def: u_char
+Got Type Def: u_int
+Got Type Def: u_long
+Got Type Def: u_short
+Got Type Def: uchar
+Got Type Def: uint[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmpuf_hxoy5/typDef.json',
+  '/tmp/tmpuf_hxoy5/regexRet.json'
+]
+Calculating dependency for _0554C5062FE80602C743D66204778E58
+Calculating dependency for _309E767B38E0F56B2BA55602F70B4C9D
+Calculating dependency for _3F581B6531335414AE756F75454F2E82
+Calculating dependency for _43F96AB7E0863611CA835205784F2C38
+Calculating dependency for _493CA05364BF72A191D12A6CE1F5C4F2
+Calculating dependency for _50ED887AC6017A66B8EAA74FFE58097B
+Calculating dependency for _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED
+Calculating dependency for _614C51839E4B572536ABAC622211158D
+Calculating dependency for _9EBC41FFF556B489F8C85024CEE79EE0
+Calculating dependency for ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF
+Calculating dependency for _AF597710AF055A26EEBCC1959186803D
+Calculating dependency for _C10BE4AA5ABBE9CF0190D94D38E21A7E
+Calculating dependency for _C30F6B78C55B18D81F89BF422211A708
+Calculating dependency for _C5BE20A0C40D8563A650CCBEA0046DA0
+Calculating dependency for _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1
+Calculating dependency for _D6DBDCC01C14E54BC13EF8EC02363BCA
+Calculating dependency for ADDR
+Calculating dependency for AOUTHDR
+Calculating dependency for BREEZE_SYSPROC_ENTRIES
+Calculating dependency for CIO_DEV
+Calculating dependency for FAULT_RECORD
+Calculating dependency for FAULT_TABLE
+Calculating dependency for FAULT_TABLE_ENTRY
+Calculating dependency for FILE
+Calculating dependency for FPREG
+Calculating dependency for INTERNAL_DATA_RAM
+Calculating dependency for INTERRUPT_RECORD
+Calculating dependency for INTERRUPT_TABLE
+Calculating dependency for MACRO_ADDR
+Calculating dependency for MACRO_AFP
+Calculating dependency for MACRO_APIC
+Calculating dependency for MACRO_ARITHMETIC
+Calculating dependency for MACRO_ARITHMETIC_ZERO
+Calculating dependency for MACRO_ARTYPE
+Calculating dependency for MACRO_BAD
+Calculating dependency for MACRO_BEGINNING
+Calculating dependency for MACRO_BOARD
+Calculating dependency for MACRO_BOARD_REV
+Calculating dependency for MACRO_BOOL
+Calculating dependency for MACRO_BYTE
+Calculating dependency for MACRO_C
+Calculating dependency for MACRO_CHAR
+Calculating dependency for MACRO_CHAR_MIN
+Calculating dependency for MACRO_CIO
+Calculating dependency for MACRO_CLOCKS
+Calculating dependency for MACRO_CLOSED
+Calculating dependency for MACRO_CODE
+Calculating dependency for MACRO_CONSTRAINT
+Calculating dependency for MACRO_CONTENTS
+Calculating dependency for MACRO_CONTROL
+Calculating dependency for MACRO_CPU
+Calculating dependency for MACRO_CRYSTALTIME
+Calculating dependency for MACRO_DBL
+Calculating dependency for MACRO_DESCRIPTOR
+Calculating dependency for MACRO_DFLTPORT
+Calculating dependency for MACRO_DIMNUM
+Calculating dependency for MACRO_DT
+Calculating dependency for MACRO_EOF
+Calculating dependency for MACRO_ERR
+Calculating dependency for MACRO_ERRNO
+Calculating dependency for MACRO_ERROR
+Calculating dependency for MACRO_EVENT
+Calculating dependency for MACRO_EVENT_NOTICE
+Calculating dependency for MACRO_EXIT
+Calculating dependency for MACRO_EXTENDED
+Calculating dependency for MACRO_F
+Calculating dependency for MACRO_FAILURE
+Calculating dependency for MACRO_FAULT
+Calculating dependency for MACRO_FILNMLEN
+Calculating dependency for MACRO_FLASH
+Calculating dependency for MACRO_FLASH_ADDR
+Calculating dependency for MACRO_FLOATING
+Calculating dependency for MACRO_FLT
+Calculating dependency for MACRO_FP
+Calculating dependency for MACRO_FPX
+Calculating dependency for MACRO_FP_80BIT
+Calculating dependency for MACRO_FREQ
+Calculating dependency for MACRO_G960
+Calculating dependency for MACRO_G960_NON
+Calculating dependency for MACRO_I960ARNMSZ
+Calculating dependency for MACRO_I960ROMAGIC
+Calculating dependency for MACRO_I960RWMAGIC
+Calculating dependency for MACRO_IAC
+Calculating dependency for MACRO_INIT_ERROR
+Calculating dependency for MACRO_INT
+Calculating dependency for MACRO_INTEGER
+Calculating dependency for MACRO_INTP
+Calculating dependency for MACRO_INVALID
+Calculating dependency for MACRO_INVALID_DESCRIPTOR
+Calculating dependency for MACRO_INVALID_OPERAND
+Calculating dependency for MACRO_INVALID_SEGMENT
+Calculating dependency for MACRO_IRQ
+Calculating dependency for MACRO_L
+Calculating dependency for MACRO_LC
+Calculating dependency for MACRO_LDBL
+Calculating dependency for MACRO_LED
+Calculating dependency for MACRO_LED_4
+Calculating dependency for MACRO_LENGTH
+Calculating dependency for MACRO_LONG
+Calculating dependency for MACRO_LPTOFF
+Calculating dependency for MACRO_LPTON
+Calculating dependency for MACRO_MACHINE
+Calculating dependency for MACRO_MAGIC_NUMBER
+Calculating dependency for MACRO_MAX
+Calculating dependency for MACRO_MB
+Calculating dependency for MACRO_N
+Calculating dependency for MACRO_NMAGIC
+Calculating dependency for MACRO_NMI
+Calculating dependency for MACRO_NO
+Calculating dependency for MACRO_NOCLOSE
+Calculating dependency for MACRO_NO_ADDR
+Calculating dependency for MACRO_NULL
+Calculating dependency for MACRO_NUM
+Calculating dependency for MACRO_N_BTMASK
+Calculating dependency for MACRO_O
+Calculating dependency for MACRO_OFFSET
+Calculating dependency for MACRO_OKFSEEK
+Calculating dependency for MACRO_OMAGIC
+Calculating dependency for MACRO_ON
+Calculating dependency for MACRO_OPERATION
+Calculating dependency for MACRO_P
+Calculating dependency for MACRO_PAGE
+Calculating dependency for MACRO_PIN
+Calculating dependency for MACRO_PP
+Calculating dependency for MACRO_PRIVILEGED
+Calculating dependency for MACRO_PROC
+Calculating dependency for MACRO_PROTECTION
+Calculating dependency for MACRO_R
+Calculating dependency for MACRO_RAND
+Calculating dependency for MACRO_REAL
+Calculating dependency for MACRO_REG
+Calculating dependency for MACRO_RESERVED
+Calculating dependency for MACRO_RESERVED_0
+Calculating dependency for MACRO_ROLL
+Calculating dependency for MACRO_S
+Calculating dependency for MACRO_SARMAG
+Calculating dependency for MACRO_SCHAR
+Calculating dependency for MACRO_SEEK
+Calculating dependency for MACRO_SHRT
+Calculating dependency for MACRO_SIGNAL
+Calculating dependency for MACRO_SQ
+Calculating dependency for MACRO_SQUALL
+Calculating dependency for MACRO_SQUALL_BASE
+Calculating dependency for MACRO_STRUCTURAL
+Calculating dependency for MACRO_STYP
+Calculating dependency for MACRO_SYMNMLEN
+Calculating dependency for MACRO_SYMTBL
+Calculating dependency for MACRO_SubBNR
+Calculating dependency for MACRO_T
+Calculating dependency for MACRO_TCGETA
+Calculating dependency for MACRO_TICKS_PER_SECOND
+Calculating dependency for MACRO_TIME
+Calculating dependency for MACRO_TIMER0
+Calculating dependency for MACRO_TMR
+Calculating dependency for MACRO_TRACE
+Calculating dependency for MACRO_TRIPLE
+Calculating dependency for MACRO_TYPE
+Calculating dependency for MACRO_UINT
+Calculating dependency for MACRO_UNALIGNED
+Calculating dependency for MACRO_UNIMPLEMENTED
+Calculating dependency for MACRO_USHRT
+Calculating dependency for MACRO_VECTOR
+Calculating dependency for MACRO_VIRTUAL
+Calculating dependency for MACRO_XINT
+Calculating dependency for MACRO_XINT0
+Calculating dependency for MACRO_XINT3
+Calculating dependency for MACRO_XINT5
+Calculating dependency for MACRO_XINT6
+Calculating dependency for MACRO_XINT7
+Calculating dependency for MACRO__EXIT
+Calculating dependency for MACRO__INIT
+Calculating dependency for MACRO__IOFBF
+Calculating dependency for MACRO__NUL
+Calculating dependency for MACRO__U
+Calculating dependency for MACRO___EDOM
+Calculating dependency for MACRO___ERANGE
+Calculating dependency for MACRO___M
+Calculating dependency for MACRO____SAVEREGS
+Calculating dependency for PC_REG_IMAGE
+Calculating dependency for REG
+Calculating dependency for STATUS
+Calculating dependency for SYS_PROC_TABLE
+Calculating dependency for TC_REG_IMAGE
+Calculating dependency for UCHAR
+Calculating dependency for UCHARSTAR
+Calculating dependency for UINT
+Calculating dependency for UINT16
+Calculating dependency for UINT32
+Calculating dependency for UINT8
+Calculating dependency for ULONG
+Calculating dependency for ULONGSTAR
+Calculating dependency for UREG
+Calculating dependency for USHORT
+Calculating dependency for USHORTSTAR
+Calculating dependency for __div_t
+Calculating dependency for __jmp_buf
+Calculating dependency for __ldiv_t
+Calculating dependency for __ulong_ulong_t
+Calculating dependency for __va_list
+Calculating dependency for _ac
+Calculating dependency for _exit
+Calculating dependency for _iobuf
+Calculating dependency for _stdio
+Calculating dependency for _thread
+Calculating dependency for _tzset
+Calculating dependency for _va_list
+Calculating dependency for aouthdr
+Calculating dependency for ar_hdr
+Calculating dependency for archdr
+Calculating dependency for auxent
+Calculating dependency for auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774
+Calculating dependency for auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67
+Calculating dependency for auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1
+Calculating dependency for auxent___5FADB47FFB037D854D1655A50EB77723
+Calculating dependency for auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC
+Calculating dependency for auxent___8F4557F59A0AC54BBDF79BA682331165
+Calculating dependency for auxent______332FB6BD0E947E8D57E9558DE0242FBC
+Calculating dependency for auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67
+Calculating dependency for auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B
+Calculating dependency for auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556
+Calculating dependency for auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664
+Calculating dependency for auxent_________93D0B1966774B86D3450284C91FC650B
+Calculating dependency for auxent_________A4FE982D5F029E6ACEFDE76E40C46556
+Calculating dependency for auxent______FAC801B16405A3810F07150B5E65B5F1
+Calculating dependency for auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664
+Calculating dependency for auxent___A5EFB98F0E3FBB707E554563B78D0188
+Calculating dependency for auxent___C1C66AEADBC811FD8102DF151B04BBB6
+Calculating dependency for auxent___F460BEB6336398C870E506DAD23CA9F2
+Calculating dependency for auxent___FB1486A92607447806F09823D579EE12
+Calculating dependency for bpt
+Calculating dependency for cio
+Calculating dependency for clock_t
+Calculating dependency for dev_t
+Calculating dependency for div_t
+Calculating dependency for fild
+Calculating dependency for fild___653642B1EA6CBF762575E67BB3D4C945
+Calculating dependency for filehdr
+Calculating dependency for fpos_t
+Calculating dependency for jmp_buf
+Calculating dependency for lconv
+Calculating dependency for ldfile
+Calculating dependency for ldiv_t
+Calculating dependency for lineno
+Calculating dependency for lineno___4D6E082ABC3813EFAD274BDB52D637EC
+Calculating dependency for mode_t
+Calculating dependency for off_t
+Calculating dependency for ptrdiff_t
+Calculating dependency for reloc
+Calculating dependency for scnhdr
+Calculating dependency for sig_atomic_t
+Calculating dependency for size_t
+Calculating dependency for stat
+Calculating dependency for syment
+Calculating dependency for syment______FF8ECF8B5000729F16967D2BEB64C9EE
+Calculating dependency for syment___DDDE857849BC8DF52744F40651AC3747
+Calculating dependency for syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE
+Calculating dependency for time_t
+Calculating dependency for tm
+Calculating dependency for u_char
+Calculating dependency for u_int
+Calculating dependency for u_long
+Calculating dependency for u_short
+Calculating dependency for uchar
+Calculating dependency for uint
+Calculating dependency for ulong
+Calculating dependency for ulong_ulong_t
+Calculating dependency for ushort
+Calculating dependency for wchar_t
+
+Got Type Def: ulong
+Got Type Def: ulong_ulong_t
+Got Type Def: ushort
+Got Type Def: va_list
+Got Type Def: wchar_t
+Compiling all type regex...
+Calculating dependency for: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B
+Calculating dependency for: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556
+Calculating dependency for: auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664
+Calculating dependency for: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67
+Calculating dependency for: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1
+Calculating dependency for: auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC
+Calculating dependency for: syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE
+Calculating dependency for: ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF
+Calculating dependency for: _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED
+Calculating dependency for: _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1
+Calculating dependency for: auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664
+Calculating dependency for: auxent_________93D0B1966774B86D3450284C91FC650B
+Calculating dependency for: auxent_________A4FE982D5F029E6ACEFDE76E40C46556
+Calculating dependency for: auxent______332FB6BD0E947E8D57E9558DE0242FBC
+Calculating dependency for: auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67
+Calculating dependency for: auxent______FAC801B16405A3810F07150B5E65B5F1
+Calculating dependency for: syment______FF8ECF8B5000729F16967D2BEB64C9EE
+Calculating dependency for: auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774
+Calculating dependency for: auxent___5FADB47FFB037D854D1655A50EB77723
+Calculating dependency for: auxent___8F4557F59A0AC54BBDF79BA682331165
+Calculating dependency for: auxent___A5EFB98F0E3FBB707E554563B78D0188
+Calculating dependency for: auxent___C1C66AEADBC811FD8102DF151B04BBB6
+Calculating dependency for: auxent___F460BEB6336398C870E506DAD23CA9F2
+Calculating dependency for: auxent___FB1486A92607447806F09823D579EE12
+Calculating dependency for: lineno___4D6E082ABC3813EFAD274BDB52D637EC
+Calculating dependency for: syment___DDDE857849BC8DF52744F40651AC3747
+Calculating dependency for: fild___653642B1EA6CBF762575E67BB3D4C945
+Calculating dependency for: _0554C5062FE80602C743D66204778E58
+Calculating dependency for: _309E767B38E0F56B2BA55602F70B4C9D
+Calculating dependency for: _3F581B6531335414AE756F75454F2E82
+Calculating dependency for: _43F96AB7E0863611CA835205784F2C38
+Calculating dependency for: _493CA05364BF72A191D12A6CE1F5C4F2
+Calculating dependency for: _50ED887AC6017A66B8EAA74FFE58097B
+Calculating dependency for: _614C51839E4B572536ABAC622211158D
+Calculating dependency for: _9EBC41FFF556B489F8C85024CEE79EE0
+Calculating dependency for: _AF597710AF055A26EEBCC1959186803D
+Calculating dependency for: _C10BE4AA5ABBE9CF0190D94D38E21A7E
+Calculating dependency for: _C30F6B78C55B18D81F89BF422211A708
+Calculating dependency for: _C5BE20A0C40D8563A650CCBEA0046DA0
+Calculating dependency for: _D6DBDCC01C14E54BC13EF8EC02363BCA
+Calculating dependency for: MACRO_INVALID_DESCRIPTOR
+Calculating dependency for: BREEZE_SYSPROC_ENTRIES
+Calculating dependency for: MACRO_TICKS_PER_SECOND
+Calculating dependency for: MACRO_ARITHMETIC_ZERO
+Calculating dependency for: MACRO_INVALID_OPERAND
+Calculating dependency for: MACRO_INVALID_SEGMENT
+Calculating dependency for: MACRO_UNIMPLEMENTED
+Calculating dependency for: MACRO_EVENT_NOTICE
+Calculating dependency for: MACRO_MAGIC_NUMBER
+Calculating dependency for: FAULT_TABLE_ENTRY
+Calculating dependency for: INTERNAL_DATA_RAM
+Calculating dependency for: MACRO_CRYSTALTIME
+Calculating dependency for: MACRO_I960ROMAGIC
+Calculating dependency for: MACRO_I960RWMAGIC
+Calculating dependency for: MACRO_SQUALL_BASE
+Calculating dependency for: MACRO____SAVEREGS
+Calculating dependency for: INTERRUPT_RECORD
+Calculating dependency for: MACRO_ARITHMETIC
+Calculating dependency for: MACRO_CONSTRAINT
+Calculating dependency for: MACRO_DESCRIPTOR
+Calculating dependency for: MACRO_FLASH_ADDR
+Calculating dependency for: MACRO_I960ARNMSZ
+Calculating dependency for: MACRO_INIT_ERROR
+Calculating dependency for: MACRO_PRIVILEGED
+Calculating dependency for: MACRO_PROTECTION
+Calculating dependency for: MACRO_RESERVED_0
+Calculating dependency for: MACRO_STRUCTURAL
+Calculating dependency for: INTERRUPT_TABLE
+Calculating dependency for: MACRO_BEGINNING
+Calculating dependency for: MACRO_BOARD_REV
+Calculating dependency for: MACRO_OPERATION
+Calculating dependency for: MACRO_UNALIGNED
+Calculating dependency for: __ulong_ulong_t
+Calculating dependency for: MACRO_CHAR_MIN
+Calculating dependency for: MACRO_CONTENTS
+Calculating dependency for: MACRO_DFLTPORT
+Calculating dependency for: MACRO_EXTENDED
+Calculating dependency for: MACRO_FILNMLEN
+Calculating dependency for: MACRO_FLOATING
+Calculating dependency for: MACRO_FP_80BIT
+Calculating dependency for: MACRO_G960_NON
+Calculating dependency for: MACRO_N_BTMASK
+Calculating dependency for: MACRO_RESERVED
+Calculating dependency for: MACRO_SYMNMLEN
+Calculating dependency for: MACRO___ERANGE
+Calculating dependency for: SYS_PROC_TABLE
+Calculating dependency for: MACRO_CONTROL
+Calculating dependency for: MACRO_FAILURE
+Calculating dependency for: MACRO_INTEGER
+Calculating dependency for: MACRO_INVALID
+Calculating dependency for: MACRO_MACHINE
+Calculating dependency for: MACRO_NOCLOSE
+Calculating dependency for: MACRO_NO_ADDR
+Calculating dependency for: MACRO_OKFSEEK
+Calculating dependency for: MACRO_VIRTUAL
+Calculating dependency for: ulong_ulong_t
+Calculating dependency for: FAULT_RECORD
+Calculating dependency for: MACRO_ARTYPE
+Calculating dependency for: MACRO_CLOCKS
+Calculating dependency for: MACRO_CLOSED
+Calculating dependency for: MACRO_DIMNUM
+Calculating dependency for: MACRO_LENGTH
+Calculating dependency for: MACRO_LPTOFF
+Calculating dependency for: MACRO_NMAGIC
+Calculating dependency for: MACRO_OFFSET
+Calculating dependency for: MACRO_OMAGIC
+Calculating dependency for: MACRO_SARMAG
+Calculating dependency for: MACRO_SIGNAL
+Calculating dependency for: MACRO_SQUALL
+Calculating dependency for: MACRO_SYMTBL
+Calculating dependency for: MACRO_SubBNR
+Calculating dependency for: MACRO_TCGETA
+Calculating dependency for: MACRO_TIMER0
+Calculating dependency for: MACRO_TRIPLE
+Calculating dependency for: MACRO_VECTOR
+Calculating dependency for: MACRO__IOFBF
+Calculating dependency for: MACRO___EDOM
+Calculating dependency for: PC_REG_IMAGE
+Calculating dependency for: TC_REG_IMAGE
+Calculating dependency for: sig_atomic_t
+Calculating dependency for: FAULT_TABLE
+Calculating dependency for: MACRO_BOARD
+Calculating dependency for: MACRO_ERRNO
+Calculating dependency for: MACRO_ERROR
+Calculating dependency for: MACRO_EVENT
+Calculating dependency for: MACRO_FAULT
+Calculating dependency for: MACRO_FLASH
+Calculating dependency for: MACRO_LED_4
+Calculating dependency for: MACRO_LPTON
+Calculating dependency for: MACRO_SCHAR
+Calculating dependency for: MACRO_TRACE
+Calculating dependency for: MACRO_USHRT
+Calculating dependency for: MACRO_XINT0
+Calculating dependency for: MACRO_XINT3
+Calculating dependency for: MACRO_XINT5
+Calculating dependency for: MACRO_XINT6
+Calculating dependency for: MACRO_XINT7
+Calculating dependency for: MACRO__EXIT
+Calculating dependency for: MACRO__INIT
+Calculating dependency for: MACRO_ADDR
+Calculating dependency for: MACRO_APIC
+Calculating dependency for: MACRO_BOOL
+Calculating dependency for: MACRO_BYTE
+Calculating dependency for: MACRO_CHAR
+Calculating dependency for: MACRO_CODE
+Calculating dependency for: MACRO_EXIT
+Calculating dependency for: MACRO_FREQ
+Calculating dependency for: MACRO_G960
+Calculating dependency for: MACRO_INTP
+Calculating dependency for: MACRO_LDBL
+Calculating dependency for: MACRO_LONG
+Calculating dependency for: MACRO_NULL
+Calculating dependency for: MACRO_PAGE
+Calculating dependency for: MACRO_PROC
+Calculating dependency for: MACRO_RAND
+Calculating dependency for: MACRO_REAL
+Calculating dependency for: MACRO_ROLL
+Calculating dependency for: MACRO_SEEK
+Calculating dependency for: MACRO_SHRT
+Calculating dependency for: MACRO_STYP
+Calculating dependency for: MACRO_TIME
+Calculating dependency for: MACRO_TYPE
+Calculating dependency for: MACRO_UINT
+Calculating dependency for: MACRO_XINT
+Calculating dependency for: MACRO__NUL
+Calculating dependency for: USHORTSTAR
+Calculating dependency for: MACRO_AFP
+Calculating dependency for: MACRO_BAD
+Calculating dependency for: MACRO_CIO
+Calculating dependency for: MACRO_CPU
+Calculating dependency for: MACRO_DBL
+Calculating dependency for: MACRO_EOF
+Calculating dependency for: MACRO_ERR
+Calculating dependency for: MACRO_FLT
+Calculating dependency for: MACRO_FPX
+Calculating dependency for: MACRO_IAC
+Calculating dependency for: MACRO_INT
+Calculating dependency for: MACRO_IRQ
+Calculating dependency for: MACRO_LED
+Calculating dependency for: MACRO_MAX
+Calculating dependency for: MACRO_NMI
+Calculating dependency for: MACRO_NUM
+Calculating dependency for: MACRO_PIN
+Calculating dependency for: MACRO_REG
+Calculating dependency for: MACRO_TMR
+Calculating dependency for: MACRO___M
+Calculating dependency for: UCHARSTAR
+Calculating dependency for: ULONGSTAR
+Calculating dependency for: __jmp_buf
+Calculating dependency for: __va_list
+Calculating dependency for: ptrdiff_t
+Calculating dependency for: MACRO_DT
+Calculating dependency for: MACRO_FP
+Calculating dependency for: MACRO_LC
+Calculating dependency for: MACRO_MB
+Calculating dependency for: MACRO_NO
+Calculating dependency for: MACRO_ON
+Calculating dependency for: MACRO_PP
+Calculating dependency for: MACRO_SQ
+Calculating dependency for: MACRO__U
+Calculating dependency for: __ldiv_t
+Calculating dependency for: _va_list
+Calculating dependency for: AOUTHDR
+Calculating dependency for: CIO_DEV
+Calculating dependency for: MACRO_C
+Calculating dependency for: MACRO_F
+Calculating dependency for: MACRO_L
+Calculating dependency for: MACRO_N
+Calculating dependency for: MACRO_O
+Calculating dependency for: MACRO_P
+Calculating dependency for: MACRO_R
+Calculating dependency for: MACRO_S
+Calculating dependency for: MACRO_T
+Calculating dependency for: __div_t
+Calculating dependency for: _thread
+Calculating dependency for: aouthdr
+Calculating dependency for: clock_t
+Calculating dependency for: filehdr
+Calculating dependency for: jmp_buf
+Calculating dependency for: u_short
+Calculating dependency for: wchar_t
+Calculating dependency for: STATUS
+Calculating dependency for: UINT16
+Calculating dependency for: UINT32
+Calculating dependency for: USHORT
+Calculating dependency for: _iobuf
+Calculating dependency for: _stdio
+Calculating dependency for: _tzset
+Calculating dependency for: ar_hdr
+Calculating dependency for: archdr
+Calculating dependency for: auxent
+Calculating dependency for: fpos_t
+Calculating dependency for: ldfile
+Calculating dependency for: ldiv_t
+Calculating dependency for: lineno
+Calculating dependency for: mode_t
+Calculating dependency for: scnhdr
+Calculating dependency for: size_t
+Calculating dependency for: syment
+Calculating dependency for: time_t
+Calculating dependency for: u_char
+Calculating dependency for: u_long
+Calculating dependency for: ushort
+Calculating dependency for: FPREG
+Calculating dependency for: UCHAR
+Calculating dependency for: UINT8
+Calculating dependency for: ULONG
+Calculating dependency for: _exit
+Calculating dependency for: dev_t
+Calculating dependency for: div_t
+Calculating dependency for: lconv
+Calculating dependency for: off_t
+Calculating dependency for: reloc
+Calculating dependency for: u_int
+Calculating dependency for: uchar
+Calculating dependency for: ulong
+Calculating dependency for: ADDR
+Calculating dependency for: FILE
+Calculating dependency for: UINT
+Calculating dependency for: UREG
+Calculating dependency for: fild
+Calculating dependency for: stat
+Calculating dependency for: uint
+Calculating dependency for: REG
+Calculating dependency for: _ac
+Calculating dependency for: bpt
+Calculating dependency for: cio
+Calculating dependency for: tm
+Type hierarchy analysis finished:
+auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B -> []
+auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556 -> []
+auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664 -> []
+auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC -> []
+syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE -> []
+____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF -> []
+_50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED -> []
+auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664 -> []
+auxent_________93D0B1966774B86D3450284C91FC650B -> []
+auxent_________A4FE982D5F029E6ACEFDE76E40C46556 -> []
+auxent______332FB6BD0E947E8D57E9558DE0242FBC -> []
+syment______FF8ECF8B5000729F16967D2BEB64C9EE -> []
+auxent___8F4557F59A0AC54BBDF79BA682331165 -> []
+auxent___A5EFB98F0E3FBB707E554563B78D0188 -> []
+auxent___C1C66AEADBC811FD8102DF151B04BBB6 -> []
+auxent___F460BEB6336398C870E506DAD23CA9F2 -> []
+auxent___FB1486A92607447806F09823D579EE12 -> []
+lineno___4D6E082ABC3813EFAD274BDB52D637EC -> []
+fild___653642B1EA6CBF762575E67BB3D4C945 -> []
+_309E767B38E0F56B2BA55602F70B4C9D -> []
+_3F581B6531335414AE756F75454F2E82 -> []
+_43F96AB7E0863611CA835205784F2C38 -> []
+_493CA05364BF72A191D12A6CE1F5C4F2 -> []
+_614C51839E4B572536ABAC622211158D -> []
+_AF597710AF055A26EEBCC1959186803D -> []
+_C10BE4AA5ABBE9CF0190D94D38E21A7E -> []
+MACRO_INVALID_DESCRIPTOR -> []
+BREEZE_SYSPROC_ENTRIES -> []
+MACRO_TICKS_PER_SECOND -> []
+MACRO_ARITHMETIC_ZERO -> []
+MACRO_INVALID_OPERAND -> []
+MACRO_INVALID_SEGMENT -> []
+MACRO_UNIMPLEMENTED -> []
+MACRO_EVENT_NOTICE -> []
+MACRO_MAGIC_NUMBER -> []
+FAULT_TABLE_ENTRY -> []
+INTERNAL_DATA_RAM -> []
+MACRO_CRYSTALTIME -> []
+MACRO_I960ROMAGIC -> []
+MACRO_I960RWMAGIC -> []
+MACRO_SQUALL_BASE -> []
+MACRO____SAVEREGS -> []
+INTERRUPT_RECORD -> []
+MACRO_ARITHMETIC -> []
+MACRO_CONSTRAINT -> []
+MACRO_DESCRIPTOR -> []
+MACRO_FLASH_ADDR -> []
+MACRO_I960ARNMSZ -> []
+MACRO_INIT_ERROR -> []
+MACRO_PRIVILEGED -> []
+MACRO_PROTECTION -> []
+MACRO_RESERVED_0 -> []
+MACRO_STRUCTURAL -> []
+INTERRUPT_TABLE -> []
+MACRO_BEGINNING -> []
+MACRO_BOARD_REV -> []
+MACRO_OPERATION -> []
+MACRO_UNALIGNED -> []
+__ulong_ulong_t -> []
+MACRO_CHAR_MIN -> []
+MACRO_CONTENTS -> []
+MACRO_DFLTPORT -> []
+MACRO_EXTENDED -> []
+MACRO_FILNMLEN -> []
+MACRO_FLOATING -> []
+MACRO_FP_80BIT -> []
+MACRO_G960_NON -> []
+MACRO_N_BTMASK -> []
+MACRO_RESERVED -> []
+MACRO_SYMNMLEN -> []
+MACRO___ERANGE -> []
+SYS_PROC_TABLE -> []
+MACRO_CONTROL -> []
+MACRO_FAILURE -> []
+MACRO_INTEGER -> []
+MACRO_INVALID -> []
+MACRO_MACHINE -> []
+MACRO_NOCLOSE -> []
+MACRO_NO_ADDR -> []
+MACRO_OKFSEEK -> []
+MACRO_VIRTUAL -> []
+ulong_ulong_t -> []
+FAULT_RECORD -> []
+MACRO_ARTYPE -> []
+MACRO_CLOCKS -> []
+MACRO_CLOSED -> []
+MACRO_DIMNUM -> []
+MACRO_LENGTH -> []
+MACRO_LPTOFF -> []
+MACRO_NMAGIC -> []
+MACRO_OFFSET -> []
+MACRO_OMAGIC -> []
+MACRO_SARMAG -> []
+MACRO_SIGNAL -> []
+MACRO_SQUALL -> []
+MACRO_SYMTBL -> []
+MACRO_SubBNR -> []
+MACRO_TCGETA -> []
+MACRO_TIMER0 -> []
+MACRO_TRIPLE -> []
+MACRO_VECTOR -> []
+MACRO__IOFBF -> []
+MACRO___EDOM -> []
+PC_REG_IMAGE -> []
+TC_REG_IMAGE -> []
+sig_atomic_t -> []
+FAULT_TABLE -> []
+MACRO_BOARD -> []
+MACRO_ERRNO -> []
+MACRO_ERROR -> []
+MACRO_EVENT -> []
+MACRO_FAULT -> []
+MACRO_FLASH -> []
+MACRO_LED_4 -> []
+MACRO_LPTON -> []
+MACRO_SCHAR -> []
+MACRO_TRACE -> []
+MACRO_USHRT -> []
+MACRO_XINT0 -> []
+MACRO_XINT3 -> []
+MACRO_XINT5 -> []
+MACRO_XINT6 -> []
+MACRO_XINT7 -> []
+MACRO__EXIT -> []
+MACRO__INIT -> []
+MACRO_ADDR -> []
+MACRO_APIC -> []
+MACRO_BOOL -> []
+MACRO_BYTE -> []
+MACRO_CHAR -> []
+MACRO_CODE -> []
+MACRO_EXIT -> []
+MACRO_FREQ -> []
+MACRO_G960 -> []
+MACRO_INTP -> []
+MACRO_LDBL -> []
+MACRO_LONG -> []
+MACRO_NULL -> []
+MACRO_PAGE -> []
+MACRO_PROC -> []
+MACRO_RAND -> []
+MACRO_REAL -> []
+MACRO_ROLL -> []
+MACRO_SEEK -> []
+MACRO_SHRT -> []
+MACRO_STYP -> []
+MACRO_TIME -> []
+MACRO_TYPE -> []
+MACRO_UINT -> []
+MACRO_XINT -> []
+MACRO__NUL -> []
+USHORTSTAR -> []
+MACRO_AFP -> []
+MACRO_BAD -> []
+MACRO_CIO -> []
+MACRO_CPU -> []
+MACRO_DBL -> []
+MACRO_EOF -> []
+MACRO_ERR -> []
+MACRO_FLT -> []
+MACRO_FPX -> []
+MACRO_IAC -> []
+MACRO_INT -> []
+MACRO_IRQ -> []
+MACRO_LED -> []
+MACRO_MAX -> []
+MACRO_NMI -> []
+MACRO_NUM -> []
+MACRO_PIN -> []
+MACRO_REG -> []
+MACRO_TMR -> []
+MACRO___M -> []
+UCHARSTAR -> []
+ULONGSTAR -> []
+__jmp_buf -> []
+__va_list -> []
+ptrdiff_t -> []
+MACRO_DT -> []
+MACRO_FP -> []
+MACRO_LC -> []
+MACRO_MB -> []
+MACRO_NO -> []
+MACRO_ON -> []
+MACRO_PP -> []
+MACRO_SQ -> []
+MACRO__U -> []
+__ldiv_t -> []
+_va_list -> []
+AOUTHDR -> []
+CIO_DEV -> []
+MACRO_C -> []
+MACRO_F -> []
+MACRO_L -> []
+MACRO_N -> []
+MACRO_O -> []
+MACRO_P -> []
+MACRO_R -> []
+MACRO_S -> []
+MACRO_T -> []
+__div_t -> []
+_thread -> []
+aouthdr -> []
+clock_t -> []
+filehdr -> []
+jmp_buf -> []
+u_short -> []
+wchar_t -> []
+STATUS -> []
+UINT16 -> []
+UINT32 -> []
+USHORT -> []
+_tzset -> []
+ar_hdr -> []
+archdr -> []
+fpos_t -> []
+ldiv_t -> []
+mode_t -> []
+scnhdr -> []
+size_t -> []
+time_t -> []
+u_char -> []
+u_long -> []
+ushort -> []
+FPREG -> []
+UCHAR -> []
+UINT8 -> []
+ULONG -> []
+_exit -> []
+dev_t -> []
+div_t -> []
+lconv -> []
+off_t -> []
+reloc -> []
+u_int -> []
+uchar -> []
+ulong -> []
+ADDR -> []
+FILE -> []
+UINT -> []
+uint -> []
+REG -> []
+_ac -> []
+cio -> []
+tm -> []
+auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1 -> ['auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664']
+_C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1 -> ['____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF']
+auxent______FAC801B16405A3810F07150B5E65B5F1 -> ['auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664']
+auxent___5FADB47FFB037D854D1655A50EB77723 -> ['auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC']
+syment___DDDE857849BC8DF52744F40651AC3747 -> ['syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE']
+_0554C5062FE80602C743D66204778E58 -> ['FAULT_TABLE_ENTRY']
+_50ED887AC6017A66B8EAA74FFE58097B -> ['_50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED']
+_C5BE20A0C40D8563A650CCBEA0046DA0 -> ['_C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1']
+_iobuf -> ['FILE']
+_stdio -> ['FILE']
+lineno -> ['lineno___4D6E082ABC3813EFAD274BDB52D637EC']
+syment -> ['syment___DDDE857849BC8DF52744F40651AC3747']
+UREG -> ['REG']
+fild -> ['fild___653642B1EA6CBF762575E67BB3D4C945']
+stat -> ['time_t']
+bpt -> ['ADDR']
+auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67 -> ['auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556', 'auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B']
+auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67 -> ['auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556', 'auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B']
+auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774 -> ['auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1', 'auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67']
+_9EBC41FFF556B489F8C85024CEE79EE0 -> ['UINT32', 'STATUS']
+_C30F6B78C55B18D81F89BF422211A708 -> ['UINT32', 'BREEZE_SYSPROC_ENTRIES']
+_D6DBDCC01C14E54BC13EF8EC02363BCA -> ['UINT32', 'BREEZE_SYSPROC_ENTRIES']
+ldfile -> ['FILE', 'filehdr']
+auxent -> ['auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774', 'auxent___5FADB47FFB037D854D1655A50EB77723', 'auxent___FB1486A92607447806F09823D579EE12', 'auxent___F460BEB6336398C870E506DAD23CA9F2', 'auxent___A5EFB98F0E3FBB707E554563B78D0188', 'auxent___C1C66AEADBC811FD8102DF151B04BBB6', 'auxent___8F4557F59A0AC54BBDF79BA682331165']
+========= Ghidra Hdr Gen finished!

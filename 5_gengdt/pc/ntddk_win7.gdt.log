@@ -1,0 +1,79 @@
++ realpath 4_til_til2c_headers/pc/ntddk_win7.til.h
++ export INPUTHDR=/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/4_til_til2c_headers/pc/ntddk_win7.til.h
++ realpath 5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
++ export OUTPUTGDT=/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
++ t=import sys,os; deps=[c.strip() for c in sys.argv[1].split(":") if c.strip()]; print(":".join(os.path.realpath(c) for c in deps))
++ python3 -c import sys,os; deps=[c.strip() for c in sys.argv[1].split(":") if c.strip()]; print(":".join(os.path.realpath(c) for c in deps)) 
++ export DEPENDGDTS=
++ realpath 5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
++ MYTMPDIR=/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt_tmpprj
++ mkdir /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt_tmpprj
++ trap rm -rf -- "$MYTMPDIR" EXIT
++ export PROJECT_DIR=/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt_tmpprj
++ export PROJECT_NAME=ghidra_helper
++ export SCRIPT_PATH=/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/headlessParseC.py
++ echo /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/4_til_til2c_headers/pc/ntddk_win7.til.h
+/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/4_til_til2c_headers/pc/ntddk_win7.til.h
++ echo /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
+/mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
++ echo
+
++ export WSLENV=WT_SESSION:WT_SESSION::WT_PROFILE_ID:JUPYTER_CONNECTION/p:WSL_DISTRO_NAME/w:WT_PROFILE_ID:PROJECT_DIR/p:PROJECT_NAME:SCRIPT_PATH/p:INPUTHDR/p:OUTPUTGDT/p:DEPENDGDTS/l
++ dirname /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt
++ cd /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc
++ + yes
+cmd.exe /c E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\support\analyzeHeadless.bat %PROJECT_DIR% %PROJECT_NAME% -preScript %SCRIPT_PATH% %INPUTHDR% %OUTPUTGDT% %DEPENDGDTS%
+INFO  Using log config file: jar:file:/E:/ScoopSpace/apps/ghidramod/10.3-20230303-1b209c717/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml (LoggingInitialization)  
+Hooking class docking.DialogComponentProvider
+write failed 32: Broken pipe
+INFO  Using log file: C:\Users\Misty\.ghidra\.ghidra_10.3_DEV\application.log (LoggingInitialization)  
+Cur clsLoader: ghidra.GhidraClassLoader@7d417077
+INFO  Loading user preferences: C:\Users\Misty\.ghidra\.ghidra_10.3_DEV\preferences (Preferences)  
+Hooking class javax.swing.JButton
+INFO  Loading previous preferences: C:\Users\Misty\.ghidra\.ghidra_10.2_DEV\preferences (Preferences)  
+Cur clsLoader: null
+INFO  Searching for classes... (ClassSearcher)  
+INFO  Class search complete (6743 ms) (ClassSearcher)  
+INFO  Initializing SSL Context (SSLContextInitializer)  
+INFO  Initializing Random Number Generator... (SecureRandomFactory)  
+INFO  Random Number Generator initialization complete: SHA1PRNG (SecureRandomFactory)  
+INFO  Trust manager disabled, cacerts have not been set (ApplicationTrustManagerFactory)  
+WARN  Neither the -import parameter nor the -process parameter was specified; therefore, the specified prescripts and/or postscripts will be executed without any type of program context. (HeadlessAnalyzer)  
+INFO  HEADLESS Script Paths:
+    C:\Users\Misty\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\Base\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Processors\DATA\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\GnuDemangler\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\PDB\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\Python\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Debug\Debugger-agent-frida\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\SystemEmulation\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Processors\8051\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\Decompiler\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\VersionTracking\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Processors\JVM\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Debug\Debugger-agent-dbgmodel-traceloader\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\BytePatterns\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\FileFormats\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\FunctionID\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Processors\PIC\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Features\MicrosoftCodeAnalyzer\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Processors\Atmel\ghidra_scripts
+    E:\ScoopSpace\apps\ghidramod\10.3-20230303-1b209c717\Ghidra\Debug\Debugger\ghidra_scripts (HeadlessAnalyzer)  
+INFO  HEADLESS: execution starts (HeadlessAnalyzer)  
+INFO  Creating project: D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\5_gengdt\pc\ntddk_win7.gdt_tmp.gdt_tmpprj\ghidra_helper (HeadlessAnalyzer)  
+INFO  Creating project: D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\5_gengdt\pc\ntddk_win7.gdt_tmp.gdt_tmpprj\ghidra_helper (DefaultProject)  
+INFO  SCRIPT: D:\Workspaces\UtilWorkspace\Reverse\IDAPlugins\idatil2c\headlessParseC.py (HeadlessAnalyzer)  
+[u'D:\\Workspaces\\UtilWorkspace\\Reverse\\GhidraTools\\ghidra_ida_til\\4_til_til2c_headers\\pc\\ntddk_win7.til.h', u'D:\\Workspaces\\UtilWorkspace\\Reverse\\GhidraTools\\ghidra_ida_til\\5_gengdt\\pc\\ntddk_win7.gdt_tmp.gdt', u'']
+INFO  PreProcessing D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\ntddk_win7.til.h (ConsoleTaskMonitor)  
+INFO  parse D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\ntddk_win7.til.h (CParserUtils)  
+INFO  Parsing C (ConsoleTaskMonitor)  
+Parsing result: 
+
+Parsing Succeeded! Got 49520 types
+INFO  Waiting for pre-save to complete... (ConsoleTaskMonitor)  
+INFO  Saving file... (ConsoleTaskMonitor)  
+INFO  Completing file save... (ConsoleTaskMonitor)  
+INFO  Waiting... (ConsoleTaskMonitor)  
+INFO  Packing file... (ConsoleTaskMonitor)  
++ rm -rf -- /mnt/d/Workspaces/UtilWorkspace/Reverse/GhidraTools/ghidra_ida_til/5_gengdt/pc/ntddk_win7.gdt_tmp.gdt_tmpprj

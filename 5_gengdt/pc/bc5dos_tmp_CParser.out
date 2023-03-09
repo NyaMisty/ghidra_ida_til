@@ -1,0 +1,352 @@
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\bc5dos.til.h"
+/// #define GHIDRA ===DEFINED
+
+/// #ifndef INCLUDE_GUARD_bc5dos_til ===true
+
+/// #define INCLUDE_GUARD_bc5dos_til ===DEFINED
+
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\5_gengdt\pc\.\..\..\..\..\IDAPlugins\idatil2c\common.h"
+
+
+/// #define __int64  long long ===DEFINED
+/// #define __int32  int ===DEFINED
+/// #define __int16  short ===DEFINED
+/// #define __int8  char ===DEFINED
+
+/// #ifdef GHIDRA ===true
+
+typedef struct {
+    long long u1;
+    long long u2;
+} __int128;
+typedef struct {
+    unsigned long long u1;
+    unsigned long long u2;
+} __uint128;
+/// #endif ===true
+
+
+typedef char int8_t;
+typedef short int16_t;
+typedef int int32_t;
+typedef long long int64_t;
+
+typedef unsigned char uint8_t;
+typedef unsigned short uint16_t;
+typedef unsigned int uint32_t;
+typedef unsigned long long uint64_t;
+
+/// #define _BYTE  uint8_t ===DEFINED
+/// #define _WORD  uint16_t ===DEFINED
+/// #define _QWORD  uint64_t ===DEFINED
+/// #define _DWORD  uint32_t ===DEFINED
+
+
+
+/// #ifndef HAVETYPE_bool ===true
+
+/// #define bool  char ===DEFINED
+/// #endif ===true
+
+
+/// #ifndef HAVETYPE___u32 ===true
+
+typedef uint32_t __u32;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u16 ===true
+
+typedef uint16_t __u16;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u64 ===true
+
+typedef uint64_t __u64;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_uid32_t ===true
+
+typedef unsigned int __kernel_uid32_t;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_mqd_t ===true
+
+typedef int __kernel_mqd_t;
+/// #endif ===true
+
+
+
+/// #define __fastcall ===DEFINED
+
+/// #define __unaligned ===DEFINED
+
+/// #define __stdcall ===DEFINED
+
+/// #define __cppobj ===DEFINED
+
+/// #define __declspec([x])   ===DEFINED
+/// #define __hidden ===DEFINED
+
+/// #define __cdecl ===DEFINED
+
+/// #define __noreturn ===DEFINED
+
+
+/// #define const ===DEFINED
+
+/// #define this  _this ===DEFINED
+
+typedef char _Mbstatet;
+
+typedef void **va_list;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+#line 4: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\bc5dos.til.h"
+
+
+
+
+struct _7B3C5D519F2E4A5BE311CA6A6DE1B2A0;
+struct _979FA3DE6ECCF956231BFC297C4278E6;
+struct _B8243ED19B76CA5D55F9F69ED1E7C09F;
+struct _DD2596440A2D8284D7D9C623DB5462ED;
+struct _F537039E3C3D15C2CDBD1FBA107663C2;
+struct fillsettingstype;
+struct linesettingstype;
+struct textsettingstype;
+struct arccoordstype;
+struct viewporttype;
+struct _exceptionl;
+struct farheapinfo;
+struct palettetype;
+struct diskfree_t;
+struct diskinfo_t;
+struct __jmp_buf;
+struct _complexl;
+struct _heapinfo;
+struct dosdate_t;
+struct dostime_t;
+struct exception;
+struct pointtype;
+struct text_info;
+struct BYTEREGS;
+struct DOSERROR;
+struct WORDREGS;
+struct COUNTRY;
+struct REGPACK;
+struct complex;
+struct fatinfo;
+struct utimbuf;
+struct devhdr;
+struct dirent;
+struct find_t;
+struct SREGS;
+struct dfree;
+struct ffblk;
+struct ftime;
+struct lconv;
+struct timeb;
+union REGS;
+struct date;
+struct stat;
+struct time;
+struct xfcb;
+struct fcb;
+struct tm;
+
+struct _7B3C5D519F2E4A5BE311CA6A6DE1B2A0 {int level;unsigned int flags;char fd;unsigned char hold;int bsize;unsigned char *buffer;unsigned char *curp;unsigned int istemp;int token;};
+struct _979FA3DE6ECCF956231BFC297C4278E6 {int quot;int rem;};
+struct _B8243ED19B76CA5D55F9F69ED1E7C09F {int quot;int rem;};
+enum _C967B4BD5950CD7FE5A55F6326D513E0 {DOMAIN = 0x1,SING = 0x2,OVERFLOW = 0x3,UNDERFLOW = 0x4,TLOSS = 0x5,PLOSS = 0x6,STACKFAULT = 0x7,};
+struct _DD2596440A2D8284D7D9C623DB5462ED {char ds_drive;char ds_pattern[13];char ds_reserved[7];char ds_attrib;int ds_time;int ds_date;int ds_size;char ds_nameZ[13];};
+enum MACRO__HEAPCORRUPT {_HEAPCORRUPT = -1,};
+enum MACRO_BITSPERBYTE {BITSPERBYTE = 8,};
+enum MACRO_SHIFTSTATUS {_KEYBRD_SHIFTSTATUS = 2,_NKEYBRD_SHIFTSTATUS = 18,};
+enum MACRO_DMAXPOWTWO {DMAXPOWTWO = 0x3FF,};
+enum MACRO_FMAXPOWTWO {FMAXPOWTWO = 0x7F,};
+enum MACRO__FREEENTRY {_FREEENTRY = 3,_USEDENTRY = 4,};
+enum MACRO__HEAPEMPTY {_HEAPEMPTY = 1,_HEAPOK = 2,};
+struct fillsettingstype {int pattern;int color;};
+enum graphics_drivers {DETECT = 0x0,CGA = 0x1,MCGA = 0x2,EGA = 0x3,EGA64 = 0x4,EGAMONO = 0x5,IBM8514 = 0x6,HERCMONO = 0x7,ATT400 = 0x8,VGA = 0x9,PC3270 = 0xA,CURRENT_DRIVER = 0xFFFF,};
+struct linesettingstype {int linestyle;unsigned int upattern;int thickness;};
+struct textsettingstype {int font;int direction;int charsize;int horiz;int vert;};
+enum MACRO_HIDDENBIT {HIDDENBIT = 1,};
+enum MACRO_WILDCARDS {WILDCARDS = 0x1,EXTENSION = 0x2,FILENAME = 0x4,DIRECTORY = 0x8,DRIVE = 0x10,};
+enum MACRO__BADVALUE {_BADVALUE = -3,};
+enum MACRO__NOCURSOR {_NOCURSOR = 0,_SOLIDCURSOR = 1,_NORMALCURSOR = 2,BLINK = 128,};
+enum MACRO___Seg0000 {__Seg0000 = 0x0,__Seg0040 = 0x40,__SegA000 = 0xA000,};
+enum MACRO___SegB000 {__SegB000 = 0xB000,};
+enum MACRO___SegB800 {__SegB800 = 0xB800,};
+enum MACRO___SegC000 {__SegC000 = 0xC000,};
+enum MACRO___SegD000 {__SegD000 = 0xD000,};
+enum MACRO___SegE000 {__SegE000 = 0xE000,};
+enum MACRO___SegF000 {__SegF000 = 0xF000,};
+enum MACRO___SegIncr {__SegIncr = 0x100,};
+enum graphics_errors {grOk = 0x0,grNoInitGraph = 0xFFFF,grNotDetected = 0xFFFE,grFileNotFound = 0xFFFD,grInvalidDriver = 0xFFFC,grNoLoadMem = 0xFFFB,grNoScanMem = 0xFFFA,grNoFloodMem = 0xFFF9,grFontNotFound = 0xFFF8,grNoFontMem = 0xFFF7,grInvalidMode = 0xFFF6,grError = 0xFFF5,grIOerror = 0xFFF4,grInvalidFont = 0xFFF3,grInvalidFontNum = 0xFFF2,grInvalidVersion = 0xFFEE,};
+enum MACRO_FILENAME {FILENAME_MAX = 80,MB_CUR_MAX = 1,RAND_MAX = 32767,};
+enum MACRO_MAXDRIVE {MAXDRIVE = 3,MAXPATH = 80,};
+enum MACRO_MAXSHORT {MAXSHORT = 0x7FFF,};
+enum MACRO__BADNODE {_BADNODE = -2,};
+enum MACRO__HARDERR {_HARDERR_IGNORE = 0,_HARDERR_RETRY = 1,_HARDERR_ABORT = 2,_HARDERR_FAIL = 3,};
+enum MACRO__HEAPEND {_HEAPEND = 5,};
+enum MACRO__PRINTER {_PRINTER_WRITE = 0,_PRINTER_INIT = 1,_PRINTER_STATUS = 2,};
+enum graphics_modes {CGAC0 = 0x0,CGAC1 = 0x1,CGAC2 = 0x2,CGAC3 = 0x3,CGAHI = 0x4,MCGAC0 = 0x0,MCGAC1 = 0x1,MCGAC2 = 0x2,MCGAC3 = 0x3,MCGAMED = 0x4,MCGAHI = 0x5,EGALO = 0x0,EGAHI = 0x1,EGA64LO = 0x0,EGA64HI = 0x1,EGAMONOHI = 0x0,HERCMONOHI = 0x0,ATT400C0 = 0x0,ATT400C1 = 0x1,ATT400C2 = 0x2,ATT400C3 = 0x3,ATT400MED = 0x4,ATT400HI = 0x5,VGALO = 0x0,VGAMED = 0x1,VGAHI = 0x2,PC3270HI = 0x0,IBM8514LO = 0x0,IBM8514HI = 0x1,};
+enum MACRO_DEXPLEN {DEXPLEN = 11,};
+enum MACRO_DMAXEXP {DMAXEXP = 308,};
+enum MACRO_DMINEXP {DMINEXP = -307,};
+enum MACRO_DSIGNIF {DSIGNIF = 53,};
+enum MACRO_EXPBASE {EXPBASE = 2,};
+enum MACRO_FEXPLEN {FEXPLEN = 8,};
+enum MACRO_FMAXEXP {FMAXEXP = 38,};
+enum MACRO_FMINEXP {FMINEXP = -37,};
+enum MACRO_FSIGNIF {FSIGNIF = 24,};
+enum MACRO_LENBASE {LENBASE = 1,};
+enum MACRO_MAXFILE {MAXFILE = 9,};
+enum MACRO_MAXLONG {MAXLONG = 0xFFFF,HIBITL = 0x0,};
+struct arccoordstype {int x;int y;int xstart;int ystart;int xend;int yend;};
+typedef struct _DD2596440A2D8284D7D9C623DB5462ED dosSearchInfo;
+enum fill_patterns {EMPTY_FILL = 0x0,SOLID_FILL = 0x1,LINE_FILL = 0x2,LTSLASH_FILL = 0x3,SLASH_FILL = 0x4,BKSLASH_FILL = 0x5,LTBKSLASH_FILL = 0x6,HATCH_FILL = 0x7,XHATCH_FILL = 0x8,INTERLEAVE_FILL = 0x9,WIDE_DOT_FILL = 0xA,CLOSE_DOT_FILL = 0xB,USER_FILL = 0xC,};
+enum MACRO_BUFSIZ {BUFSIZ = 512,};
+enum MACRO_HIBITI {HIBITI = 0x8000,};
+enum MACRO_MAXDIR {MAXDIR = 66,};
+enum MACRO_MAXEXT {MAXEXT = 5,};
+enum MACRO_MAXINT {MAXINT = 0x7FFF,HIBITS = 0x8000,};
+enum MACRO_SIGNAL {SIGABRT = 22,SIGFPE = 8,SIGILL = 4,SIGINT = 2,SIGSEGV = 11,SIGTERM = 15,};
+enum MACRO__IOFBF {_IOFBF = 0,_IOLBF = 1,_IONBF = 2,};
+enum putimage_ops {COPY_PUT = 0x0,XOR_PUT = 0x1,OR_PUT = 0x2,AND_PUT = 0x3,NOT_PUT = 0x4,};
+typedef int sig_atomic_t;
+struct viewporttype {int left;int top;int right;int bottom;int clip;};
+enum MACRO_ERRNO {EZERO = 0,EINVFNC = 1,ENOFILE = 2,ENOPATH = 3,ECONTR = 7,EINVMEM = 9,EINVENV = 10,EINVFMT = 11,EINVACC = 12,EINVDAT = 13,EINVDRV = 15,ECURDIR = 16,ENOTSAM = 17,ENMFILE = 18,ENOENT = 2,EMFILE = 4,EACCES = 5,EBADF = 6,ENOMEM = 8,EFAULT = 14,ENODEV = 15,EINVAL = 19,E2BIG = 20,ENOEXEC = 21,EXDEV = 22,ENFILE = 23,ECHILD = 24,ENOTTY = 25,ETXTBSY = 26,EFBIG = 27,ENOSPC = 28,ESPIPE = 29,EROFS = 30,EMLINK = 31,EPIPE = 32,EDOM = 33,ERANGE = 34,EEXIST = 35,EDEADLOCK = 36,EPERM = 37,ESRCH = 38,EINTR = 39,EIO = 40,ENXIO = 41,EAGAIN = 42,ENOTBLK = 43,EBUSY = 44,ENOTDIR = 45,EISDIR = 46,EUCLEAN = 47,O_RDONLY = 1,O_WRONLY = 2,O_RDWR = 4,O_CREAT = 256,O_TRUNC = 512,O_EXCL = 1024,_O_RUNFLAGS = 1792,_O_WRITABLE = 256,_O_EOF = 512,O_APPEND = 2048,O_CHANGED = 4096,O_DEVICE = 8192,O_TEXT = 16384,O_BINARY = -32768,O_NOINHERIT = 128,O_DENYALL = 16,O_DENYWRITE = 32,O_DENYREAD = 48,O_DENYNONE = 64,FLT_RADIX = 2,FLT_ROUNDS = 1,FLT_GUARD = 1,FLT_NORMALIZE = 1,DBL_DIG = 15,FLT_DIG = 6,LDBL_DIG = 18,DBL_MANT_DIG = 53,FLT_MANT_DIG = 24,LDBL_MANT_DIG = 64,DBL_MAX_EXP = 1024,FLT_MAX_EXP = 128,LDBL_MAX_EXP = 16384,DBL_MAX_10_EXP = 308,FLT_MAX_10_EXP = 38,LDBL_MAX_10_EXP = 4932,DBL_MIN_10_EXP = -307,FLT_MIN_10_EXP = -37,LDBL_MIN_10_EXP = -4931,DBL_MIN_EXP = -1021,FLT_MIN_EXP = -125,LDBL_MIN_EXP = -16381,SW_INVALID = 1,SW_DENORMAL = 2,SW_ZERODIVIDE = 4,SW_OVERFLOW = 8,SW_UNDERFLOW = 16,SW_INEXACT = 32,SW_STACKFAULT = 64,MCW_EM = 63,EM_INVALID = 1,EM_DENORMAL = 2,EM_ZERODIVIDE = 4,EM_OVERFLOW = 8,EM_UNDERFLOW = 16,EM_INEXACT = 32,MCW_IC = 4096,IC_AFFINE = 4096,IC_PROJECTIVE = 0,MCW_RC = 3072,RC_CHOP = 3072,RC_UP = 2048,RC_DOWN = 1024,RC_NEAR = 0,MCW_PC = 768,PC_24 = 0,PC_53 = 512,PC_64 = 768,FPE_INTOVFLOW = 126,FPE_INTDIV0 = 127,FPE_INVALID = 129,FPE_ZERODIVIDE = 131,FPE_OVERFLOW = 132,FPE_UNDERFLOW = 133,FPE_INEXACT = 134,FPE_STACKFAULT = 135,FPE_EXPLICITGEN = 140,SEGV_BOUND = 10,SEGV_EXPLICITGEN = 11,ILL_EXECUTION = 20,ILL_EXPLICITGEN = 21,HORIZ_DIR = 0,VERT_DIR = 1,USER_CHAR_SIZE = 0,MAXCOLORS = 15,_NFILE_ = 50,HANDLE_MAX = 50,CHAR_BIT = 8,MB_LEN_MAX = 2,SCHAR_MIN = -128,SCHAR_MAX = 127,UCHAR_MAX = 255,CHAR_MIN = -128,CHAR_MAX = 127,SHRT_MIN = -32768,SHRT_MAX = 32767,USHRT_MAX = -1,LONG_MIN = 0,LONG_MAX = -1,ULONG_MAX = -1,INT_MIN = -32768,INT_MAX = 32767,UINT_MAX = -1,LC_ALL = 0,LC_COLLATE = 1,LC_CTYPE = 2,LC_MONETARY = 3,LC_NUMERIC = 4,LC_TIME = 5,LC_MESSAGES = 6,LC_userdef = 7,LC_LAST = 7,P_WAIT = 0,P_NOWAIT = 1,P_OVERLAY = 2,P_NOWAITO = 3,P_DETACH = 4,WAIT_CHILD = 0,WAIT_GRANDCHILD = 1,SH_COMPAT = 0,SH_DENYRW = 16,SH_DENYWR = 32,SH_DENYRD = 48,SH_DENYNO = 64,SH_DENYNONE = 64,SIG_DFL = 0,SIG_IGN = 1,SIG_ERR = -1,};
+enum MACRO_READY {_KEYBRD_READY = 1,_NKEYBRD_READY = 17,};
+enum MACRO__DISK {_DISK_RESET = 0,_DISK_STATUS = 1,_DISK_READ = 2,_DISK_WRITE = 3,_DISK_VERIFY = 4,_DISK_FORMAT = 5,};
+enum MACRO__TIME {_TIME_GETCLOCK = 0,_TIME_SETCLOCK = 1,};
+typedef void (*_CatcherPTR)();
+struct _exceptionl {int type;char *name;long double arg1;long double arg2;long double retval;};
+struct farheapinfo {void *ptr;unsigned int size;int in_use;};
+enum line_styles {SOLID_LINE = 0x0,DOTTED_LINE = 0x1,CENTER_LINE = 0x2,DASHED_LINE = 0x3,USERBIT_LINE = 0x4,};
+enum line_widths {NORM_WIDTH = 0x1,THICK_WIDTH = 0x3,};
+struct palettetype {unsigned char size;signed char colors[16];};
+enum CGA_COLORS {CGA_LIGHTGREEN = 0x1,CGA_LIGHTRED = 0x2,CGA_YELLOW = 0x3,CGA_LIGHTCYAN = 0x1,CGA_LIGHTMAGENTA = 0x2,CGA_WHITE = 0x3,CGA_GREEN = 0x1,CGA_RED = 0x2,CGA_BROWN = 0x3,CGA_CYAN = 0x1,CGA_MAGENTA = 0x2,CGA_LIGHTGRAY = 0x3,};
+enum EGA_COLORS {EGA_BLACK = 0x0,EGA_BLUE = 0x1,EGA_GREEN = 0x2,EGA_CYAN = 0x3,EGA_RED = 0x4,EGA_MAGENTA = 0x5,EGA_BROWN = 0x14,EGA_LIGHTGRAY = 0x7,EGA_DARKGRAY = 0x38,EGA_LIGHTBLUE = 0x39,EGA_LIGHTGREEN = 0x3A,EGA_LIGHTCYAN = 0x3B,EGA_LIGHTRED = 0x3C,EGA_LIGHTMAGENTA = 0x3D,EGA_YELLOW = 0x3E,EGA_WHITE = 0x3F,};
+enum MACRO_EXIT {EXIT_SUCCESS = 0,EXIT_FAILURE = 1,};
+enum MACRO_IEEE {IEEE = 1,};
+enum MACRO_MODE {DOS_MODE = 0,OS2_MODE = 1,};
+enum MACRO_NFDS {NFDS = 20,};
+enum MACRO_NSIG {NSIG = 23,};
+enum MACRO_NULL {NULL = 0,};
+enum MACRO_READ {_KEYBRD_READ = 0,_NKEYBRD_READ = 16,};
+enum MACRO_SEEK {SEEK_CUR = 1,SEEK_END = 2,SEEK_SET = 0,};
+enum MACRO_WEOF {WEOF = 0xFFFF,};
+enum MACRO__COM {_COM_INIT = 0,_COM_SEND = 1,_COM_RECEIVE = 2,_COM_STATUS = 3,_COM_CHR7 = 2,_COM_CHR8 = 3,_COM_STOP1 = 0,_COM_STOP2 = 4,_COM_NOPARITY = 0,_COM_EVENPARITY = 24,_COM_ODDPARITY = 8,_COM_110 = 0,_COM_150 = 32,_COM_300 = 64,_COM_600 = 96,_COM_1200 = 128,_COM_2400 = 160,_COM_4800 = 192,_COM_9600 = 224,};
+enum MACRO__MAX {_MAX_PATH = 80,_MAX_DRIVE = 3,_MAX_DIR = 66,_MAX_FNAME = 9,_MAX_EXT = 5,};
+struct diskfree_t {unsigned int total_clusters;unsigned int avail_clusters;unsigned int sectors_per_cluster;unsigned int bytes_per_sector;};
+struct diskinfo_t {unsigned int drive;unsigned int head;unsigned int track;unsigned int sector;unsigned int nsectors;void *buffer;};
+enum font_names {DEFAULT_FONT = 0x0,TRIPLEX_FONT = 0x1,SMALL_FONT = 0x2,SANS_SERIF_FONT = 0x3,GOTHIC_FONT = 0x4,SCRIPT_FONT = 0x5,SIMPLEX_FONT = 0x6,TRIPLEX_SCR_FONT = 0x7,COMPLEX_FONT = 0x8,EUROPEAN_FONT = 0x9,BOLD_FONT = 0xA,};
+enum text_modes {LASTMODE = 0xFFFF,BW40 = 0x0,C40 = 0x1,BW80 = 0x2,C80 = 0x3,MONO = 0x7,C4350 = 0x40,};
+enum MACRO_EOF {EOF = -1,};
+enum MACRO_MAX {TMP_MAX = 0xFFFF,FOPEN_MAX = 0x32,};
+enum MACRO_SYS {SYS_OPEN = 50,};
+enum MACRO__IS {_IS_SP = 1,_IS_DIG = 2,_IS_UPP = 4,_IS_LOW = 8,_IS_HEX = 16,_IS_CTL = 32,_IS_PUN = 64,_IS_BLK = 128,_IS_ALPHA = 12,_IS_ALNUM = 14,_IS_GRAPH = 94,};
+typedef struct _heapinfo _HEAPINFO;
+struct __jmp_buf {unsigned int j_sp;unsigned int j_ss;unsigned int j_flag;unsigned int j_cs;unsigned int j_ip;unsigned int j_bp;unsigned int j_di;unsigned int j_es;unsigned int j_si;unsigned int j_ds;unsigned int j_excep;unsigned int j_context;};
+struct _complexl {long double x;long double y;};
+struct dosdate_t {unsigned char day;unsigned char month;unsigned int year;unsigned char dayofweek;};
+struct dostime_t {unsigned char hour;unsigned char minute;unsigned char second;unsigned char hsecond;};
+struct exception {int type;char *name;double arg1;double arg2;double retval;};
+struct pointtype {int x;int y;};
+typedef int ptrdiff_t;
+struct text_info {unsigned char winleft;unsigned char wintop;unsigned char winright;unsigned char winbottom;unsigned char attribute;unsigned char normattr;unsigned char currmode;unsigned char screenheight;unsigned char screenwidth;unsigned char curx;unsigned char cury;};
+enum text_just {LEFT_TEXT = 0x0,CENTER_TEXT = 0x1,RIGHT_TEXT = 0x2,BOTTOM_TEXT = 0x0,TOP_TEXT = 0x2,};
+struct BYTEREGS {unsigned char al;unsigned char ah;unsigned char bl;unsigned char bh;unsigned char cl;unsigned char ch;unsigned char dl;unsigned char dh;};
+struct DOSERROR {int de_exterror;char de_class;char de_action;char de_locus;};
+enum MACRO_FA {FA_NORMAL = 0x0,FA_RDONLY = 0x1,FA_HIDDEN = 0x2,FA_SYSTEM = 0x4,FA_LABEL = 0x8,FA_DIREC = 0x10,FA_ARCH = 0x20,};
+enum MACRO_LK {LK_UNLCK = 0,LK_LOCK = 1,LK_NBLCK = 2,LK_RLCK = 3,LK_NBRLCK = 4,};
+enum MACRO__A {_A_NORMAL = 0x0,_A_RDONLY = 0x1,_A_HIDDEN = 0x2,_A_SYSTEM = 0x4,_A_VOLID = 0x8,_A_SUBDIR = 0x10,_A_ARCH = 0x20,};
+enum MACRO__F {_F_RDWR = 0x3,_F_READ = 0x1,_F_WRIT = 0x2,_F_BUF = 0x4,_F_LBUF = 0x8,_F_ERR = 0x10,_F_EOF = 0x20,_F_BIN = 0x40,_F_IN = 0x80,_F_OUT = 0x100,_F_TERM = 0x200,};
+struct WORDREGS {unsigned int ax;unsigned int bx;unsigned int cx;unsigned int dx;unsigned int si;unsigned int di;unsigned int cflag;unsigned int flags;};
+typedef void (*atexit_t)();
+struct COUNTRY {int co_date;char co_curr[5];char co_thsep[2];char co_desep[2];char co_dtsep[2];char co_tmsep[2];char co_currstyle;char co_digits;char co_time;int co_case;char co_dasep[2];char co_fill[10];};
+enum MACRO_L {L_ctermid = 5,L_tmpnam = 13,};
+enum MACRO_S {S_IFMT = 0xF000,S_IFDIR = 0x4000,S_IFIFO = 0x1000,S_IFCHR = 0x2000,S_IFBLK = 0x3000,S_IFREG = 0x8000,S_IREAD = 0x100,S_IWRITE = 0x80,S_IEXEC = 0x40,};
+struct REGPACK {unsigned int r_ax;unsigned int r_bx;unsigned int r_cx;unsigned int r_dx;unsigned int r_bp;unsigned int r_si;unsigned int r_di;unsigned int r_ds;unsigned int r_es;unsigned int r_flags;};
+typedef signed char _TSCHAR;
+typedef unsigned char _TUCHAR;
+typedef char _TXCHAR;
+typedef int clock_t;
+struct complex {double x;double y;};
+struct fatinfo {char fi_sclus;char fi_fatid;unsigned int fi_nclus;int fi_bysec;};
+typedef struct __jmp_buf jmp_buf[1];
+/// #define wchar_t  unsigned int ===DEFINED
+enum COLORS {BLACK = 0x0,BLUE = 0x1,GREEN = 0x2,CYAN = 0x3,RED = 0x4,MAGENTA = 0x5,BROWN = 0x6,LIGHTGRAY = 0x7,DARKGRAY = 0x8,LIGHTBLUE = 0x9,LIGHTGREEN = 0xA,LIGHTCYAN = 0xB,LIGHTRED = 0xC,LIGHTMAGENTA = 0xD,YELLOW = 0xE,WHITE = 0xF,};
+typedef char _TCHAR;
+struct devhdr {int dh_next;int dh_attr;unsigned int dh_strat;unsigned int dh_inter;char dh_name[8];};
+struct dirent {char d_name[13];};
+struct find_t {char reserved[21];char attrib;unsigned int wr_time;unsigned int wr_date;int size;char name[13];};
+typedef int fpos_t;
+typedef struct _B8243ED19B76CA5D55F9F69ED1E7C09F ldiv_t;
+typedef unsigned int size_t;
+typedef int time_t;
+typedef unsigned int uint16;
+typedef unsigned int uint32;
+struct SREGS {unsigned int es;unsigned int cs;unsigned int ss;unsigned int ds;};
+typedef int _TINT;
+struct dfree {unsigned int df_avail;unsigned int df_total;unsigned int df_bsec;unsigned int df_sclus;};
+typedef struct _979FA3DE6ECCF956231BFC297C4278E6 div_t;
+struct ffblk {char ff_reserved[21];char ff_attrib;unsigned int ff_ftime;unsigned int ff_fdate;int ff_fsize;char ff_name[13];};
+struct ftime {unsigned short ft_tsec : 5;unsigned short ft_min : 6;unsigned short ft_hour : 5;unsigned short ft_day : 5;unsigned short ft_month : 4;unsigned short ft_year : 7;};
+typedef signed int int16;
+typedef signed int int32;
+struct lconv {char *decimal_point;char *thousands_sep;char *grouping;char *int_curr_symbol;char *currency_symbol;char *mon_decimal_point;char *mon_thousands_sep;char *mon_grouping;char *positive_sign;char *negative_sign;char int_frac_digits;char frac_digits;char p_cs_precedes;char p_sep_by_space;char n_cs_precedes;char n_sep_by_space;char p_sign_posn;char n_sign_posn;};
+struct timeb {int time;int millitm;int timezone;int dstflag;};
+typedef unsigned char uint8;
+typedef struct _7B3C5D519F2E4A5BE311CA6A6DE1B2A0 FILE;
+struct date {int da_year;char da_day;char da_mon;};
+typedef signed char int8;
+struct stat {int st_dev;int st_ino;int st_mode;int st_nlink;int st_uid;int st_gid;int st_rdev;int st_size;int st_atime;int st_mtime;int st_ctime;};
+struct time {unsigned char ti_min;unsigned char ti_hour;unsigned char ti_hund;unsigned char ti_sec;};
+typedef struct _F537039E3C3D15C2CDBD1FBA107663C2 DIR;
+struct fcb {char fcb_drive;char fcb_name[8];char fcb_ext[3];int fcb_curblk;int fcb_recsize;int fcb_filsize;int fcb_date;char fcb_resv[10];char fcb_currec;int fcb_random;};
+struct tm {int tm_sec;int tm_min;int tm_hour;int tm_mday;int tm_mon;int tm_year;int tm_wday;int tm_yday;int tm_isdst;};
+struct _F537039E3C3D15C2CDBD1FBA107663C2 {char _d_reserved[30];struct dirent _d_dirent;char *_d_dirname;char _d_first;unsigned char _d_magic;};
+struct _heapinfo {int *_pentry;int *__pentry;size_t _size;int _useflag;};
+typedef enum _C967B4BD5950CD7FE5A55F6326D513E0 _mexcep;
+struct utimbuf {time_t actime;time_t modtime;};
+typedef unsigned int wint_t;
+struct xfcb {char xfcb_flag;char xfcb_resv[5];char xfcb_attr;struct fcb xfcb_fcb;};
+union REGS {struct WORDREGS x;struct BYTEREGS h;};
+
+
+
+/// #endif ===true
+
+

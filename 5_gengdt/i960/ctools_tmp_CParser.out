@@ -1,0 +1,479 @@
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\i960\ctools.til.h"
+/// #define GHIDRA ===DEFINED
+
+/// #ifndef INCLUDE_GUARD_ctools_til ===true
+
+/// #define INCLUDE_GUARD_ctools_til ===DEFINED
+
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\5_gengdt\i960\.\..\..\..\..\IDAPlugins\idatil2c\common.h"
+
+
+/// #define __int64  long long ===DEFINED
+/// #define __int32  int ===DEFINED
+/// #define __int16  short ===DEFINED
+/// #define __int8  char ===DEFINED
+
+/// #ifdef GHIDRA ===true
+
+typedef struct {
+    long long u1;
+    long long u2;
+} __int128;
+typedef struct {
+    unsigned long long u1;
+    unsigned long long u2;
+} __uint128;
+/// #endif ===true
+
+
+typedef char int8_t;
+typedef short int16_t;
+typedef int int32_t;
+typedef long long int64_t;
+
+typedef unsigned char uint8_t;
+typedef unsigned short uint16_t;
+typedef unsigned int uint32_t;
+typedef unsigned long long uint64_t;
+
+/// #define _BYTE  uint8_t ===DEFINED
+/// #define _WORD  uint16_t ===DEFINED
+/// #define _QWORD  uint64_t ===DEFINED
+/// #define _DWORD  uint32_t ===DEFINED
+
+
+
+/// #ifndef HAVETYPE_bool ===true
+
+/// #define bool  char ===DEFINED
+/// #endif ===true
+
+
+/// #ifndef HAVETYPE___u32 ===true
+
+typedef uint32_t __u32;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u16 ===true
+
+typedef uint16_t __u16;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u64 ===true
+
+typedef uint64_t __u64;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_uid32_t ===true
+
+typedef unsigned int __kernel_uid32_t;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_mqd_t ===true
+
+typedef int __kernel_mqd_t;
+/// #endif ===true
+
+
+
+/// #define __fastcall ===DEFINED
+
+/// #define __unaligned ===DEFINED
+
+/// #define __stdcall ===DEFINED
+
+/// #define __cppobj ===DEFINED
+
+/// #define __declspec([x])   ===DEFINED
+/// #define __hidden ===DEFINED
+
+/// #define __cdecl ===DEFINED
+
+/// #define __noreturn ===DEFINED
+
+
+/// #define const ===DEFINED
+
+/// #define this  _this ===DEFINED
+
+typedef char _Mbstatet;
+
+typedef void **va_list;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+#line 4: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\i960\ctools.til.h"
+
+
+
+
+struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B;
+struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556;
+struct auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664;
+union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67;
+union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1;
+struct auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC;
+struct syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE;
+struct ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF;
+struct _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED;
+union _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1;
+struct auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664;
+struct auxent_________93D0B1966774B86D3450284C91FC650B;
+struct auxent_________A4FE982D5F029E6ACEFDE76E40C46556;
+struct auxent______332FB6BD0E947E8D57E9558DE0242FBC;
+union auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67;
+union auxent______FAC801B16405A3810F07150B5E65B5F1;
+struct syment______FF8ECF8B5000729F16967D2BEB64C9EE;
+struct auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774;
+union auxent___5FADB47FFB037D854D1655A50EB77723;
+struct auxent___8F4557F59A0AC54BBDF79BA682331165;
+struct auxent___A5EFB98F0E3FBB707E554563B78D0188;
+struct auxent___C1C66AEADBC811FD8102DF151B04BBB6;
+struct auxent___F460BEB6336398C870E506DAD23CA9F2;
+struct auxent___FB1486A92607447806F09823D579EE12;
+union lineno___4D6E082ABC3813EFAD274BDB52D637EC;
+union syment___DDDE857849BC8DF52744F40651AC3747;
+struct fild___653642B1EA6CBF762575E67BB3D4C945;
+struct _0554C5062FE80602C743D66204778E58;
+struct _309E767B38E0F56B2BA55602F70B4C9D;
+struct _3F581B6531335414AE756F75454F2E82;
+struct _43F96AB7E0863611CA835205784F2C38;
+struct _493CA05364BF72A191D12A6CE1F5C4F2;
+struct _50ED887AC6017A66B8EAA74FFE58097B;
+struct _614C51839E4B572536ABAC622211158D;
+struct _9EBC41FFF556B489F8C85024CEE79EE0;
+struct _AF597710AF055A26EEBCC1959186803D;
+struct _C10BE4AA5ABBE9CF0190D94D38E21A7E;
+struct _C30F6B78C55B18D81F89BF422211A708;
+struct _C5BE20A0C40D8563A650CCBEA0046DA0;
+struct _D6DBDCC01C14E54BC13EF8EC02363BCA;
+struct __ulong_ulong_t;
+struct __jmp_buf;
+struct __va_list;
+struct __ldiv_t;
+struct __div_t;
+struct _thread;
+struct aouthdr;
+struct filehdr;
+struct _iobuf;
+struct _stdio;
+struct _tzset;
+struct ar_hdr;
+union auxent;
+struct ldfile;
+struct lineno;
+struct scnhdr;
+struct syment;
+struct _exit;
+struct lconv;
+struct reloc;
+union fild;
+struct stat;
+struct _ac;
+struct bpt;
+struct cio;
+struct tm;
+
+struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B {unsigned short x_dimen[4];};
+struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556 {int x_lnnoptr;int x_endndx;};
+struct auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664 {unsigned short x_lnno;unsigned short x_size;};
+struct auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC {int x_zeroes;int x_offset;};
+struct syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE {int _n_zeroes;int _n_offset;};
+struct ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF {int zeroes;char *nam_ptr;};
+struct _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED {double value;unsigned char flags;};
+struct auxent_________6A81AB9DD74A0937A06BA2C0FB9C8664 {unsigned short x_lnno;unsigned short x_size;};
+struct auxent_________93D0B1966774B86D3450284C91FC650B {unsigned short x_dimen[4];};
+struct auxent_________A4FE982D5F029E6ACEFDE76E40C46556 {int x_lnnoptr;int x_endndx;};
+struct auxent______332FB6BD0E947E8D57E9558DE0242FBC {int x_zeroes;int x_offset;};
+struct syment______FF8ECF8B5000729F16967D2BEB64C9EE {int _n_zeroes;int _n_offset;};
+struct auxent___8F4557F59A0AC54BBDF79BA682331165 {unsigned int x_timestamp;char x_idstring[20];};
+struct auxent___A5EFB98F0E3FBB707E554563B78D0188 {int x_stindx;};
+struct auxent___C1C66AEADBC811FD8102DF151B04BBB6 {unsigned int x_balntry;};
+struct auxent___F460BEB6336398C870E506DAD23CA9F2 {int x_tvfill;unsigned short x_tvlen;unsigned short x_tvran[2];};
+struct auxent___FB1486A92607447806F09823D579EE12 {int x_scnlen;unsigned short x_nreloc;unsigned short x_nlinno;};
+union lineno___4D6E082ABC3813EFAD274BDB52D637EC {int l_symndx;int l_paddr;};
+struct fild___653642B1EA6CBF762575E67BB3D4C945 {int w1;int w2;int w3;int op;};
+struct _309E767B38E0F56B2BA55602F70B4C9D {unsigned int pending_priorities;unsigned int pending_interrupts[8];void (**interrupt_proc)();};
+struct _3F581B6531335414AE756F75454F2E82 {int trace_enable : 1;int execution_mode : 1;int : 7;int resume : 1;int trace_fault_pend : 1;int reserved_1 : 2;int state : 1;int : 2;int priority : 5;int internal_state : 11;};
+struct _43F96AB7E0863611CA835205784F2C38 {void (*flt_hndlr)();int magic_number;};
+struct _493CA05364BF72A191D12A6CE1F5C4F2 {unsigned int pc;unsigned int ac;unsigned char vector_number;};
+struct _614C51839E4B572536ABAC622211158D {unsigned int sysp_res1[3];void *super_stack;unsigned int sysp_res2[8];void (**sysp_entry)();};
+struct _AF597710AF055A26EEBCC1959186803D {int : 1;int instruction_mode : 1;int branch_mode : 1;int call_mode : 1;int return_mode : 1;int prereturn_mode : 1;int supervisor_mode : 1;int breakpoint_mode : 1;int : 9;int instruction_event : 1;int branch_event : 1;int call_event : 1;int return_event : 1;int prereturn_event : 1;int supervisor_event : 1;int breakpoint_event : 1;int hw_bp_inst_1 : 1;int hw_bp_inst_0 : 1;int hw_bp_data_1 : 1;int hw_bp_data_0 : 1;int : 4;};
+struct _C10BE4AA5ABBE9CF0190D94D38E21A7E {unsigned int pc;unsigned int ac;unsigned int type;unsigned int *addr;};
+enum MACRO_INVALID_DESCRIPTOR {INVALID_DESCRIPTOR = 1,};
+typedef struct _9EBC41FFF556B489F8C85024CEE79EE0 BREEZE_SYSPROC_ENTRIES;
+enum MACRO_TICKS_PER_SECOND {MIN_TICKS_PER_SECOND = 1,MAX_TICKS_PER_SECOND = 10000,};
+enum MACRO_ARITHMETIC_ZERO {ARITHMETIC_ZERO_DIVIDE = 0x2,};
+enum MACRO_INVALID_OPERAND {INVALID_OPERAND = 0x4,};
+enum MACRO_INVALID_SEGMENT {INVALID_SEGMENT_TABLE_ENTRY = 1,INVALID_PAGE_TABLE_DIR_ENTRY = 2,INVALID_PAGE_TABLE_ENTRY = 3,};
+enum MACRO_UNIMPLEMENTED {UNIMPLEMENTED = 0x2,};
+enum MACRO_EVENT_NOTICE {EVENT_NOTICE = 1,};
+enum MACRO_MAGIC_NUMBER {FAULT_MAGIC_NUMBER = 0x27F,TRACE_MAGIC_NUMBER = 0x2BF,};
+typedef struct _43F96AB7E0863611CA835205784F2C38 FAULT_TABLE_ENTRY;
+typedef struct _C30F6B78C55B18D81F89BF422211A708 INTERNAL_DATA_RAM;
+enum MACRO_CRYSTALTIME {CRYSTALTIME = 2,};
+enum MACRO_I960ROMAGIC {I960ROMAGIC = 0x160,};
+enum MACRO_I960RWMAGIC {I960RWMAGIC = 0x161,};
+enum MACRO_SQUALL_BASE {SQUALL_BASE_ADDR = 0xC0000000,};
+enum MACRO____SAVEREGS {___SAVEREGS = 8,};
+typedef struct _493CA05364BF72A191D12A6CE1F5C4F2 INTERRUPT_RECORD;
+enum MACRO_ARITHMETIC {ARITHMETIC_FAULT = 3,};
+enum MACRO_CONSTRAINT {CONSTRAINT_FAULT = 5,CONSTRAINT_RANGE = 1,};
+enum MACRO_DESCRIPTOR {DESCRIPTOR = 0xD,};
+enum MACRO_FLASH_ADDR {FLASH_ADDR_RP = 0xFEF80000,FLASH_ADDR_INCR_RP = 0x40000,FLASH_ADDR_RD = 0xFEC00000,FLASH_ADDR_INCR_RD = 0x200000,FLASH_ADDR_RN = 0xFEE00000,FLASH_ADDR_INCR_RN = 0x200000,};
+enum MACRO_I960ARNMSZ {I960ARNMSZ = 11,};
+enum MACRO_INIT_ERROR {_EXIT_INIT_ERROR = 1,_STDIO_INIT_ERROR = 2,_THREAD_INIT_ERROR = 3,};
+enum MACRO_PRIVILEGED {PRIVILEGED = 2,};
+enum MACRO_PROTECTION {PROTECTION_FAULT = 7,};
+enum MACRO_RESERVED_0 {RESERVED = 0,};
+enum MACRO_STRUCTURAL {STRUCTURAL_FAULT = 9,};
+typedef struct _309E767B38E0F56B2BA55602F70B4C9D INTERRUPT_TABLE;
+enum MACRO_BEGINNING {BEGINNING = 0,CURRENT = 1,END = 2,};
+enum MACRO_BOARD_REV {BOARD_REV_MASK = 0xF0,};
+enum MACRO_OPERATION {OPERATION_FAULT = 2,};
+enum MACRO_UNALIGNED {UNALIGNED = 0x3,};
+struct __ulong_ulong_t {unsigned int lo;unsigned int hi;};
+enum MACRO_CHAR_MIN {CHAR_MIN = -128,CHAR_MAX = 127,};
+enum MACRO_CONTENTS {CONTENTS = 2,PROCESS = 12,};
+enum MACRO_DFLTPORT {DFLTPORT = 0,XTAL = 1843200,};
+enum MACRO_EXTENDED {EXTENDED = 10,QUAD = 16,};
+enum MACRO_FILNMLEN {FILNMLEN = 14,};
+enum MACRO_FLOATING {FLOATING_POINT_FAULT = 4,FLOATING_OVERFLOW = 1,FLOATING_UNDERFLOW = 2,FLOATING_INVALID_OPERATION = 4,FLOATING_ZERO_DIVIDE = 8,FLOATING_INEXACT = 16,FLOATING_RESERVED_ENCODING = 32,};
+enum MACRO_FP_80BIT {FP_80BIT = 1,FP_64BIT = 2,};
+enum MACRO_G960_NON {G960_NON_REQUEST = 0x55,};
+enum MACRO_N_BTMASK {N_BTMASK = 0x1F,N_TMASK = 0x60,N_BTSHFT = 0x5,N_TSHIFT = 0x2,};
+enum MACRO_RESERVED {RESERVED_AREA1 = 0xFEFC0000,RESERVED_AREA2 = 0xFEFD0000,RESERVED_AREA3 = 0xFEFE0000,RESERVED_AREA4 = 0xFEFF0000,RESERVED_AREA_SIZE = 0x40000,};
+enum MACRO_SYMNMLEN {SYMNMLEN = 8,};
+enum MACRO___ERANGE {__ERANGE = 34,};
+typedef struct _614C51839E4B572536ABAC622211158D SYS_PROC_TABLE;
+enum MACRO_CONTROL {CONTROL = 1,DISPATCH = 2,};
+enum MACRO_FAILURE {FAILURE = 0,};
+enum MACRO_INTEGER {INTEGER_OVERFLOW = 0x1,};
+enum MACRO_INVALID {INVALID_OPCODE = 0x1,};
+enum MACRO_MACHINE {MACHINE_FAULT = 8,};
+enum MACRO_NOCLOSE {NOCLOSE = 0,BADINDEX = -1,};
+enum MACRO_NO_ADDR {NO_ADDR = 0xFFFFFFFF,};
+enum MACRO_OKFSEEK {OKFSEEK = 0,};
+enum MACRO_VIRTUAL {VIRTUAL_MEMORY_FAULT = 6,};
+typedef struct __ulong_ulong_t ulong_ulong_t;
+typedef struct _C10BE4AA5ABBE9CF0190D94D38E21A7E FAULT_RECORD;
+enum MACRO_ARTYPE {ARTYPE = 0xFF65,};
+enum MACRO_CLOCKS {CLOCKS_PER_SEC = 100,};
+enum MACRO_CLOSED {CLOSED = 1,};
+enum MACRO_DIMNUM {DIMNUM = 4,};
+enum MACRO_LENGTH {LENGTH = 2,};
+enum MACRO_LPTOFF {LPTOFF = 0x53,};
+enum MACRO_NMAGIC {NMAGIC = 0x108,};
+enum MACRO_OFFSET {TIMER0_OFFSET = 1,TIMER1_OFFSET = 2,};
+enum MACRO_OMAGIC {OMAGIC = 0x107,};
+enum MACRO_SARMAG {SARMAG = 8,};
+enum MACRO_SIGNAL {SIGILL = 1,SIGINT = 2,SIGTERM = 5,SIGFPE = 8,SIGSEGV = 9,SIGABRT = 10,SIGUSR1 = 0,SIGALLOC = 3,SIGFREE = 4,SIGREAD = 6,SIGWRITE = 7,SIGUSR2 = 11,SIGSIZE = 12,};
+enum MACRO_SQUALL {SQUALL_DATA_DIR_REG = 0x2B,SQUALL_DATA_OFFSET = 0x3,SQUALL_CLOCK_OFFSET = 0x2,};
+enum MACRO_SYMTBL {SYMTBL = 0,SUCCESS = 1,};
+enum MACRO_SubBNR {SubBNR_ADDR = 0x101A,PRSR_ADDR = 0x1050,ARSR_ADDR = 0x1300,AWR_ADDR = 0x1308,MBCR_ADDR = 0x1500,MBBAR0_ADDR = 0x1504,MBRWS0_ADDR = 0x1508,MBWWS0_ADDR = 0x150C,MBBAR1_ADDR = 0x1510,MBRWS1_ADDR = 0x1514,MBWWS1_ADDR = 0x1518,DBCR_ADDR = 0x151C,DBAR_ADDR = 0x1520,DRWS_ADDR = 0x1524,DWWS_ADDR = 0x1528,DRIR_ADDR = 0x152C,DPER_ADDR = 0x1530,BMER_ADDR = 0x1534,MEAR_ADDR = 0x1538,LPISR_ADDR = 0x153C,LBACR_ADDR = 0x1600,LBALCR_ADDR = 0x1604,PDDIR_ADDR = 0x1710,APICIDR_ADDR = 0x1780,APICARBID_ADDR = 0x1784,EVR_ADDR = 0x1788,IMR_ADDR = 0x178C,APICCSR_ADDR = 0x1790,RRCR_ADDR = 0x12C4,CSR_ADDR = 0x12CC,};
+enum MACRO_TCGETA {TCGETA = 0,TCSETAF = 1,};
+enum MACRO_TIMER0 {TIMER0_VECTOR = 0x12,TIMER1_VECTOR = 0x22,};
+enum MACRO_TRIPLE {TRIPLE = 12,};
+enum MACRO_VECTOR {XINT0_VECTOR = 0x82,XINT1_VECTOR = 0x92,XINT2_VECTOR = 0xA2,XINT3_VECTOR = 0xB2,XINT4_VECTOR = 0xC2,XINT5_VECTOR = 0xD2,XINT6_VECTOR = 0xE2,XINT7_VECTOR = 0xF2,UART_VECTOR = 0xD2,};
+enum MACRO__IOFBF {_IOFBF = 0x0,_IOREAD = 0x1,_IOWRT = 0x2,_IONBF = 0x4,_IOMYBUF = 0x8,_IOEOF = 0x10,_IOERR = 0x20,_IOLBF = 0x40,_IORW = 0x80,_IODIRTY = 0x200,};
+enum MACRO___EDOM {__EDOM = 33,};
+typedef struct _3F581B6531335414AE756F75454F2E82 PC_REG_IMAGE;
+typedef struct _AF597710AF055A26EEBCC1959186803D TC_REG_IMAGE;
+typedef char sig_atomic_t;
+typedef struct _0554C5062FE80602C743D66204778E58 FAULT_TABLE;
+enum MACRO_BOARD {BOARD_REV = 0,BOARD_REV_RN = 0,BOARD_REV_RM = 0,BOARD_REV_RP = 16,BOARD_REV_RD = 32,};
+enum MACRO_ERRNO {OK = 0,EPERM = 1,ENOENT = 2,ESRCH = 3,EINTR = 4,EIO = 5,ENXIO = 6,E2BIG = 7,ENOEXEC = 8,EBADF = 9,ECHILD = 10,EAGAIN = 11,ENOMEM = 12,EACCES = 13,EFAULT = 14,ENOTBLK = 15,EBUSY = 16,EEXIST = 17,EXDEV = 18,ENODEV = 19,ENOTDIR = 20,EISDIR = 21,EINVAL = 22,ENFILE = 23,EMFILE = 24,ENOTTY = 25,ETXTBSY = 26,EFBIG = 27,ENOSPC = 28,ESPIPE = 29,EROFS = 30,EMLINK = 31,EPIPE = 32,EDOM = 33,ERANGE = 34,EDEADLOCK = 36,ESIGNAL = 37,EFREE = 38,_NUM_ERR_NUMS = 39,E_LOCKED = 101,E_BAD_CALL = 102,E_LONG_STRING = 103,};
+enum MACRO_ERROR {ERROR = -1,};
+enum MACRO_EVENT {EVENT = 0xE,};
+enum MACRO_FAULT {PARALLEL_FAULT = 0,TRACE_FAULT = 1,};
+enum MACRO_FLASH {FLASH_WIDTH = 1,FLASH_TIME_ADJUST = 1,};
+enum MACRO_LED_4 {LED_4 = 0x10,LED_5 = 0x20,LED_6 = 0x40,LED_7 = 0x80,};
+enum MACRO_LPTON {LPTON = 0x53,};
+enum MACRO_SCHAR {SCHAR_MAX = 127,SCHAR_MIN = -128,};
+enum MACRO_TRACE {INSTRUCTION_TRACE = 2,BRANCH_TRACE = 4,CALL_TRACE = 8,RETURN_TRACE = 16,PRERETURN_TRACE = 32,SUPERVISOR_TRACE = 64,BREAKPOINT_TRACE = 128,};
+enum MACRO_USHRT {USHRT_MAX = 65535,ULONG_MAX = -1,};
+enum MACRO_XINT0 {XINT0 = 0,XINT1 = 1,XINT2 = 2,};
+enum MACRO_XINT3 {XINT3 = 3,XINT4 = 4,};
+enum MACRO_XINT5 {XINT5 = 5,};
+enum MACRO_XINT6 {XINT6 = 6,};
+enum MACRO_XINT7 {XINT7 = 7,};
+enum MACRO__EXIT {_EXIT_HANDLER_MAX = 32,};
+enum MACRO__INIT {_INIT_OK = 0,};
+enum MACRO_ADDR {DLMCON_ADDR = 0xFF008100,LMAR0_ADDR = 0xFF008108,LMMR0_ADDR = 0xFF00810C,LMAR1_ADDR = 0xFF008110,LMMR1_ADDR = 0xFF008114,IPB0_ADDR = 0xFF008400,IPB1_ADDR = 0xFF008404,DAB0_ADDR = 0xFF008420,DAB1_ADDR = 0xFF008424,BPCON_ADDR = 0xFF008440,IPND_ADDR = 0xFF008500,IMSK_ADDR = 0xFF008504,ICON_ADDR = 0xFF008510,IMAP0_ADDR = 0xFF008520,IMAP1_ADDR = 0xFF008524,IMAP2_ADDR = 0xFF008528,PMCON0_ADDR = 0xFF008600,PMCON2_ADDR = 0xFF008608,PMCON4_ADDR = 0xFF008610,PMCON6_ADDR = 0xFF008618,PMCON8_ADDR = 0xFF008620,PMCON10_ADDR = 0xFF008628,PMCON12_ADDR = 0xFF008630,PMCON14_ADDR = 0xFF008638,BCON_ADDR = 0xFF0086FC,PRCB_ADDR = 0xFF008700,ISP_ADDR = 0xFF008704,SSP_ADDR = 0xFF008708,DEVID_ADDR = 0xFF008710,TRR0_ADDR = 0xFF000300,TCR0_ADDR = 0xFF000304,TMR0_ADDR = 0xFF000308,TRR1_ADDR = 0xFF000310,TCR1_ADDR = 0xFF000314,TMR1_ADDR = 0xFF000318,VIDR_ADDR = 0x1000,DIDR_ADDR = 0x1002,PCMDR_ADDR = 0x1004,PSR_ADDR = 0x1006,RIDR_ADDR = 0x1008,CCR_ADDR = 0x1009,CLSR_ADDR = 0x100C,PLTR_ADDR = 0x100D,HTR_ADDR = 0x100E,PBNR_ADDR = 0x1018,SBNR_ADDR = 0x1019,SUBBNR_ADDR = 0x101A,SLTR_ADDR = 0x101B,IOBR_ADDR = 0x101C,IOLR_ADDR = 0x101D,SSR_ADDR = 0x101E,MBR_ADDR = 0x1020,MLR_ADDR = 0x1022,PMBR_ADDR = 0x1024,PMLR_ADDR = 0x1026,BSVIR_ADDR = 0x1034,BSIR_ADDR = 0x1036,BCR_ADDR = 0x103E,EBCR_ADDR = 0x1040,SISR_ADDR = 0x1042,PBISR_ADDR = 0x1044,SBISR_ADDR = 0x1048,SACR_ADDR = 0x104C,SIOBR_ADDR = 0x1054,SIOLR_ADDR = 0x1055,SCCR_ADDR = 0x1056,SMBR_ADDR = 0x1058,SMLR_ADDR = 0x105A,SDER_ADDR = 0x105C,QCR_ADDR = 0x105E,CDTR_ADDR = 0x1060,GMTR_ADDR = 0x1100,ESR_ADDR = 0x1104,EMISR_ADDR = 0x1108,GTSR_ADDR = 0x1110,PECR1_ADDR = 0x1114,PECR2_ADDR = 0x1118,PECR3_ADDR = 0x111C,PECR4_ADDR = 0x1120,PECR5_ADDR = 0x1124,PECR6_ADDR = 0x1128,PECR7_ADDR = 0x112C,PECR8_ADDR = 0x1130,PECR9_ADDR = 0x1134,PECR10_ADDR = 0x1138,PECR11_ADDR = 0x113C,PECR12_ADDR = 0x1140,PECR13_ADDR = 0x1144,PECR14_ADDR = 0x1148,ATUVID_ADDR = 0x1200,ATUDID_ADDR = 0x1202,PATUCMD_ADDR = 0x1204,PATUSR_ADDR = 0x1206,ATURID_ADDR = 0x1208,ATUCCR_ADDR = 0x1209,ATUCLSR_ADDR = 0x120C,ATULT_ADDR = 0x120D,ATUHTR_ADDR = 0x120E,ATUBISTR_ADDR = 0x120F,PIABAR_ADDR = 0x1210,ASVIR_ADDR = 0x122C,ASIR_ADDR = 0x122E,ERBAR_ADDR = 0x1230,ATUILR_ADDR = 0x123C,ATUIPR_ADDR = 0x123D,ATUMGNT_ADDR = 0x123E,ATUMLAT_ADDR = 0x123F,PIALR_ADDR = 0x1240,PIATVR_ADDR = 0x1244,SIABAR_ADDR = 0x1248,SIALR_ADDR = 0x124C,SIATVR_ADDR = 0x1250,POMWVR_ADDR = 0x1254,PODWVR_ADDR = 0x1260,POUDR_ADDR = 0x1264,SOMWVR_ADDR = 0x1268,SOIOWVR_ADDR = 0x126C,ERLR_ADDR = 0x1274,ERTVR_ADDR = 0x1278,ATUCR_ADDR = 0x1288,PATUISR_ADDR = 0x1290,SATUISR_ADDR = 0x1294,SATUCMD_ADDR = 0x1298,SATUSR_ADDR = 0x129A,SODWVR_ADDR = 0x129C,SOUDR_ADDR = 0x12A0,POCCAR_ADDR = 0x12A4,SOCCAR_ADDR = 0x12A8,POCCDR_ADDR = 0x12AC,SOCCDR_ADDR = 0x12B0,PAQCR_ADDR = 0x12B4,SAQCR_ADDR = 0x12B8,PAIMR_ADDR = 0x12BC,SAIMR_ADDR = 0x12C0,IMR0_ADDR = 0x1310,IMR1_ADDR = 0x1314,OMR0_ADDR = 0x1318,OMR1_ADDR = 0x131C,IDR_ADDR = 0x1320,IISR_ADDR = 0x1324,IIMR_ADDR = 0x1328,ODR_ADDR = 0x132C,OISR_ADDR = 0x1330,OIMR_ADDR = 0x1334,MUCR_ADDR = 0x1350,QBAR_ADDR = 0x1354,IFHPR_ADDR = 0x1360,IFTPR_ADDR = 0x1364,IPHPR_ADDR = 0x1368,IPTPR_ADDR = 0x136C,OFHPR_ADDR = 0x1370,OFTPR_ADDR = 0x1374,OPHPR_ADDR = 0x1378,OPTPR_ADDR = 0x137C,IAR_ADDR = 0x1380,CCR0_ADDR = 0x1400,CSR0_ADDR = 0x1404,DAR0_ADDR = 0x140C,NDAR0_ADDR = 0x1410,PADR0_ADDR = 0x1414,PUADR0_ADDR = 0x1418,LADR0_ADDR = 0x141C,BCR0_ADDR = 0x1420,DCR0_ADDR = 0x1424,CCR1_ADDR = 0x1440,CSR1_ADDR = 0x1444,DAR1_ADDR = 0x144C,NDAR1_ADDR = 0x1450,PADR1_ADDR = 0x1454,PUADR1_ADDR = 0x1458,LADR1_ADDR = 0x145C,BCR1_ADDR = 0x1460,DCR1_ADDR = 0x1464,CCR2_ADDR = 0x1480,CSR2_ADDR = 0x1484,DAR2_ADDR = 0x148C,NDAR2_ADDR = 0x1490,PADR2_ADDR = 0x1494,PUADR2_ADDR = 0x1498,LADR2_ADDR = 0x149C,BCR2_ADDR = 0x14A0,DCR2_ADDR = 0x14A4,SDIR_ADDR = 0x1500,SDCR_ADDR = 0x1504,SDBR_ADDR = 0x1508,SBR0_ADDR = 0x150C,SBR1_ADDR = 0x1510,SDPR0_ADDR = 0x1514,SDPR1_ADDR = 0x1518,SDPR2_ADDR = 0x151C,SDPR3_ADDR = 0x1520,SDPR4_ADDR = 0x1524,SDPR5_ADDR = 0x1528,SDPR6_ADDR = 0x152C,SDPR7_ADDR = 0x1530,ECCR_ADDR = 0x1534,ELOG0_ADDR = 0x1538,ELOG1_ADDR = 0x153C,ECAR0_ADDR = 0x1540,ECAR1_ADDR = 0x1544,ECTST_ADDR = 0x1548,FEBR0_ADDR = 0x154C,FEBR1_ADDR = 0x1550,FBSR0_ADDR = 0x1554,FBSR1_ADDR = 0x1558,FWSR0_ADDR = 0x155C,FWSR1_ADDR = 0x1560,MCISR_ADDR = 0x1564,RFR_ADDR = 0x1568,IACR_ADDR = 0x1600,MLTR_ADDR = 0x1604,MTTR_ADDR = 0x1608,BIUCR_ADDR = 0x1640,BIUISR_ADDR = 0x1644,ICR_ADDR = 0x1680,ISR_ADDR = 0x1684,ISAR_ADDR = 0x1688,IDBR_ADDR = 0x168C,ICCR_ADDR = 0x1690,IBMR_ADDR = 0x1694,NISR_ADDR = 0x1700,X7ISR_ADDR = 0x1704,X6ISR_ADDR = 0x1708,PDIDR_ADDR = 0x1710,ACR_ADDR = 0x1800,ASR_ADDR = 0x1804,ADAR_ADDR = 0x1808,ANDAR_ADDR = 0x180C,SAR1_ADDR = 0x1810,SAR2_ADDR = 0x1814,SAR3_ADDR = 0x1818,SAR4_ADDR = 0x181C,DAR_ADDR = 0x1820,ABCR_ADDR = 0x1824,ADCR_ADDR = 0x1828,SAR5_ADDR = 0x182C,SAR6_ADDR = 0x1830,SAR7_ADDR = 0x1834,SAR8_ADDR = 0x1838,};
+enum MACRO_APIC {APIC_INTP = 7,P_PCIBR_ERR_INTP = 248,S_PCIBR_ERR_INTP = 248,PATU_ERR_INTP = 248,SATU_ERR_INTP = 248,LPROC_ERR_INTP = 248,DMA0_ERR_INTP = 248,DMA1_ERR_INTP = 248,DMA2_ERR_INTP = 248,MU_NMI_INTP = 248,};
+enum MACRO_BOOL {FALSE = 0,TRUE = 1,};
+enum MACRO_BYTE {BYTE = 1,SHORT = 2,WORD = 4,LONG = 8,};
+enum MACRO_CHAR {CHAR_BIT = 8,};
+enum MACRO_CODE {BIG_ENDIAN_CODE = 0,MRI_CODE = 0,};
+enum MACRO_EXIT {EXIT_FAILURE = 1,EXIT_SUCCESS = 0,};
+enum MACRO_FREQ {FREQ_4_MHZ = 0,FREQ_8_MHZ = 1,FREQ_16_MHZ = 2,FREQ_20_MHZ = 3,FREQ_25_MHZ = 4,FREQ_33_MHZ = 5,FREQ_40_MHZ = 6,FREQ_50_MHZ = 7,};
+enum MACRO_G960 {G960_CBREAK = 2,G960_ECHO = 3,};
+enum MACRO_INTP {DMA0_INTP = 6,DMA1_INTP = 6,DMA2_INTP = 6,I2C_INTP = 7,MU_INTP = 7,PATU_BIST_INTP = 7,};
+enum MACRO_LDBL {LDBL_DIG = 18,LDBL_MANT_DIG = 64,LDBL_MAX_EXP = 16384,LDBL_MAX_10_EXP = 4932,LDBL_MIN_EXP = -16381,LDBL_MIN_10_EXP = -4931,};
+enum MACRO_LONG {LONG_MAX = 2147483647,LONG_MIN = -2147483648,};
+enum MACRO_NULL {NULL = 0,BUFSIZ = 1024,};
+enum MACRO_PAGE {PAGE_RIGHTS = 4,};
+enum MACRO_PROC {PROC_MODEL_RM = 0x3000,PROC_MODEL_RN = 0x2000,PROC_MODEL_MASK = 0xF000,};
+enum MACRO_RAND {RAND_MAX = 0x7FFF,MB_CUR_MAX = 0x1,};
+enum MACRO_REAL {REAL_4_MHZ = 3750000,REAL_8_MHZ = 7760000,REAL_16_MHZ = 16110000,REAL_20_MHZ = 20050000,REAL_25_MHZ = 25060000,REAL_33_MHZ = 33410000,REAL_40_MHZ = 40090000,REAL_50_MHZ = 50110000,};
+enum MACRO_ROLL {ROLL_32_BITS = 0xFFFFFFFF,};
+enum MACRO_SEEK {SEEK_SET = 0,SEEK_CUR = 1,SEEK_END = 2,};
+enum MACRO_SHRT {SHRT_MAX = 32767,SHRT_MIN = -32768,};
+enum MACRO_STYP {STYP_REG = 0x0,STYP_DSECT = 0x1,STYP_NOLOAD = 0x2,STYP_GROUP = 0x4,STYP_PAD = 0x8,STYP_COPY = 0x10,STYP_INFO = 0x200,STYP_TEXT = 0x20,STYP_DATA = 0x40,STYP_BSS = 0x80,};
+enum MACRO_TIME {TIME_SLICE = 1,};
+enum MACRO_TYPE {TYPE_FAULT = 0xA,TYPE_MISMATCH = 0x1,};
+enum MACRO_UINT {UINT_MAX = -1,UCHAR_MAX = 255,};
+enum MACRO_XINT {XINT_TIMER0 = 12,XINT_TIMER1 = 13,};
+enum MACRO__NUL {_NUL = 0,};
+typedef unsigned short *USHORTSTAR;
+enum MACRO_AFP {AFP_FAULT_ADDSUB = 1,AFP_FAULT_DIVIDE = 2,AFP_FAULT_MULTIP = 3,AFP_FAULT_ITOF = 4,AFP_FAULT_UITOF = 5,AFP_FAULT_LDTOD = 6,AFP_FAULT_DTOLD = 7,AFP_FAULT_LDTOF = 8,AFP_FAULT_FTOLD = 9,AFP_FAULT_DTOF = 10,AFP_FAULT_FTOD = 11,AFP_FAULT_COMPARE = 12,AFP_FAULT_SCALE = 13,AFP_FAULT_LOGB = 14,AFP_FAULT_REM = 15,AFP_FAULT_RINT = 16,AFP_FAULT_RMD = 17,AFP_FAULT_ROUND = 18,AFP_FAULT_CEIL = 19,AFP_FAULT_FLOOR = 20,};
+enum MACRO_BAD {BAD_ACCESS = 1,};
+enum MACRO_CIO {CIO_CLK = 4000000,};
+enum MACRO_CPU {CPU_TYPE_SA_SB = 0,CPU_TYPE_KA_KB = 1,CPU_TYPE_CA_CF = 2,CPU_TYPE_HX = 3,CPU_TYPE_JX = 4,};
+enum MACRO_DBL {DBL_DIG = 15,DBL_MANT_DIG = 53,DBL_MAX_EXP = 1024,DBL_MAX_10_EXP = 308,DBL_MIN_EXP = -1021,DBL_MIN_10_EXP = -307,};
+enum MACRO_EOF {EOF = -1,};
+enum MACRO_ERR {ERR = -1,};
+enum MACRO_FLT {FLT_RADIX = 2,FLT_DIG = 6,FLT_MANT_DIG = 24,FLT_MAX_EXP = 128,FLT_MAX_10_EXP = 38,FLT_MIN_EXP = -125,FLT_MIN_10_EXP = -37,};
+enum MACRO_FPX {FPX_INVOP = 0x4,FPX_ZDIV = 0x8,FPX_OVFL = 0x1,FPX_UNFL = 0x2,FPX_INEX = 0x10,FPX_CLEX = 0x0,FPX_ALL = 0x1F,};
+enum MACRO_IAC {IAC = 3,};
+enum MACRO_INT {INT_MAX = 2147483647,INT_MIN = -2147483648,};
+enum MACRO_IRQ {TIMER0_IRQ = 12,TIMER1_IRQ = 13,};
+enum MACRO_LED {LED_0 = 0x1,LED_1 = 0x2,LED_2 = 0x4,LED_3 = 0x8,};
+enum MACRO_MAX {FOPEN_MAX = 15,TMP_MAX = 25,FILENAME_MAX = 128,};
+enum MACRO_NMI {NMI_INT = 248,};
+enum MACRO_NUM {NUM_REGS = 48,NUM_FP_REGS = 4,};
+enum MACRO_PIN {FAN_LOSS_PIN = 4,UART_XINT_PIN = 5,};
+enum MACRO_REG {REG_R0 = 0,REG_PFP = 0,REG_R1 = 1,REG_SP = 1,REG_R2 = 2,REG_RIP = 2,REG_IP = 2,REG_R3 = 3,REG_R4 = 4,REG_R5 = 5,REG_R6 = 6,REG_R7 = 7,REG_R8 = 8,REG_R9 = 9,REG_R10 = 10,REG_R11 = 11,REG_R12 = 12,REG_R13 = 13,REG_R14 = 14,REG_R15 = 15,REG_G0 = 16,REG_G1 = 17,REG_G2 = 18,REG_G3 = 19,REG_G4 = 20,REG_G5 = 21,REG_G6 = 22,REG_G7 = 23,REG_G8 = 24,REG_G9 = 25,REG_G10 = 26,REG_G11 = 27,REG_G12 = 28,REG_G13 = 29,REG_G14 = 30,REG_G15 = 31,REG_FP = 31,REG_PC = 32,REG_AC = 33,REG_TC = 34,REG_SF0 = 35,REG_SF1 = 36,REG_IPND = 35,REG_IMSK = 36,REG_SF2 = 37,REG_DMAC = 37,REG_CCON = 37,REG_SF3 = 38,REG_SF4 = 39,REG_ICON = 38,REG_GCON = 39,REG_E24 = 40,REG_E25 = 41,REG_E26 = 42,REG_ISP = 42,REG_E27 = 43,REG_IEH = 43,REG_E28 = 44,REG_E31 = 45,REG_EPR = 46,REG_PCC = 47,REG_FP0 = 0,REG_FP1 = 1,REG_FP2 = 2,REG_FP3 = 3,};
+enum MACRO_TMR {TMR_TERMINAL_CNT = 1,TMR_ENABLE = 2,TMR_AUTO_RELOAD = 4,TMR_SUP_WRITE = 8,TMR_1_X_CLOCK = 0,TMR_1_2_X_CLOCK = 16,TMR_1_4_X_CLOCK = 256,TMR_1_8_X_CLOCK = 272,};
+enum MACRO___M {__M_INF_LOW__ = 0x0,__M_INF_HIGH__ = 0x7FF00000,__M_NEG_INF_HIGH__ = 0xFFF00000,};
+typedef unsigned char *UCHARSTAR;
+typedef unsigned int *ULONGSTAR;
+struct __jmp_buf {int _q0;int _q1;int _q2;int _q3;};
+struct __va_list {char *p;char *regtop;};
+typedef int ptrdiff_t;
+enum MACRO_DT {DT_NON = 0,DT_PTR = 1,DT_FCN = 2,DT_ARY = 3,};
+enum MACRO_FP {FP_RN = 0,FP_RM = 1,FP_RP = 2,FP_RZ = 3,};
+enum MACRO_LC {LC_ALL = 0,LC_COLLATE = 1,LC_CTYPE = 2,LC_MONETARY = 3,LC_NUMERIC = 4,LC_TIME = 5,LC_MAX = 6,};
+enum MACRO_MB {MB_LEN_MAX = 1,};
+enum MACRO_NO {NO_SQUALL = 0x100002,};
+enum MACRO_ON {ON_BOARD_DATA_DIR_REG = 0x2B,ON_BOARD_DATA_OFFSET = 0x1,ON_BOARD_CLOCK_OFFSET = 0x0,};
+enum MACRO_PP {PP_DATA_ADDR = 0xB0080004,PP_STAT_ADDR = 0xB0080000,PP_CTRL_ADDR = 0xB0080000,PP_READ_STATUS = 0x32,PP_ERR_BIT = 0x1,PP_SEL_BIT = 0x2,PP_POUT_BIT = 0x4,PP_INIT_BITS = 0x3,};
+enum MACRO_SQ {SQ_01_PORT_OFFSET = 0x0,SQ_01_CA_OFFSET = 0x10,};
+enum MACRO__U {_U = 0x1,_L = 0x2,_N = 0x4,_S = 0x8,_P = 0x10,_C = 0x20,_SP = 0x40,_X = 0x80,};
+struct __ldiv_t {int rem;int quot;};
+typedef struct __va_list _va_list;
+typedef struct aouthdr AOUTHDR;
+typedef struct cio CIO_DEV;
+enum MACRO_C {C_EFCN = -1,C_NULL = 0,C_AUTO = 1,C_EXT = 2,C_STAT = 3,C_REG = 4,C_EXTDEF = 5,C_LABEL = 6,C_ULABEL = 7,C_MOS = 8,C_ARG = 9,C_STRTAG = 10,C_MOU = 11,C_UNTAG = 12,C_TPDEF = 13,C_USTATIC = 14,C_ENTAG = 15,C_MOE = 16,C_REGPARM = 17,C_FIELD = 18,C_AUTOARG = 19,C_BLOCK = 100,C_FCN = 101,C_EOS = 102,C_FILE = 103,C_LINE = 104,C_ALIAS = 105,C_HIDDEN = 106,C_SCALL = 107,C_LEAFEXT = 108,C_LEAFSTAT = 113,};
+enum MACRO_F {F_RELFLG = 0x1,F_EXEC = 0x2,F_LNNO = 0x4,F_LSYMS = 0x8,F_AR32WR = 0x10,F_COMP_SYMTAB = 0x20,F_PIC = 0x40,F_PID = 0x80,F_LINKPID = 0x100,F_SECT_SYM = 0x200,F_BIG_ENDIAN_TARGET = 0x400,F_CCINFO = 0x800,F_I960TYPE = 0xF000,F_I960CORE = 0x1000,F_I960CORE1 = 0x1000,F_I960KB = 0x2000,F_I960SB = 0x2000,F_I960CA = 0x5000,F_I960CX = 0x5000,F_I960KA = 0x6000,F_I960SA = 0x6000,F_I960JX = 0x7000,F_I960HX = 0x8000,F_I960CORE2 = 0x9000,F_I960JL = 0xA000,F_I960P80 = 0xB000,F_I960CORE0 = 0xC000,F_I960CORE3 = 0xD000,F_PTRIZED = 0xF000,};
+enum MACRO_L {L_tmpnam = 9,};
+enum MACRO_N {N_UNDEF = 0,N_ABS = -1,N_DEBUG = -2,N_TV = -3,};
+enum MACRO_O {O_RDONLY = 0x0,O_WRONLY = 0x1,O_RDWR = 0x2,O_APPEND = 0x8,O_CREAT = 0x100,O_TRUNC = 0x200,O_EXCL = 0x400,O_TEXT = 0x4000,O_BINARY = 0x8000,};
+enum MACRO_P {P_TV = -4,};
+enum MACRO_R {R_RELLONG = 17,R_RELLONG_SUB = 18,R_RELSHORT = 22,R_IPRMED = 25,R_OPTCALL = 27,R_OPTCALLX = 28,R_OPTCALLXA = 32,};
+enum MACRO_S {S_IFMT = 0xE000,S_IFIFO = 0x1000,S_IFCHR = 0x2000,S_IFDIR = 0x4000,S_IFBLK = 0x6000,S_IFREG = 0x8000,S_ISUID = 0x800,S_ISGID = 0x400,S_ISVTX = 0x200,S_IREAD = 0x100,S_IWRITE = 0x80,S_IEXEC = 0x40,S_ENFMT = 0x400,S_IRWXU = 0x1C0,S_IRUSR = 0x100,S_IWUSR = 0x80,S_IXUSR = 0x40,S_IRWXG = 0x38,S_IRGRP = 0x20,S_IWGRP = 0x10,S_IXGRP = 0x8,S_IRWXO = 0x7,S_IROTH = 0x4,S_IWOTH = 0x2,S_IXOTH = 0x1,};
+enum MACRO_T {T_NULL = 0,T_VOID = 1,T_CHAR = 2,T_SHORT = 3,T_INT = 4,T_LONG = 5,T_FLOAT = 6,T_DOUBLE = 7,T_STRUCT = 8,T_UNION = 9,T_ENUM = 10,T_MOE = 11,T_UCHAR = 12,T_USHORT = 13,T_UINT = 14,T_ULONG = 15,T_LNGDBL = 16,T_LONGLONG = 17,T_ULONGLONG = 18,};
+struct __div_t {int rem;int quot;};
+struct _thread {int errno;char *_strtok_buffer;struct tm *_gmtime_buffer;void *_malloc_sem;unsigned int _rand_seed;char _asctime_buffer[26];};
+struct aouthdr {short magic;short vstamp;unsigned int tsize;unsigned int dsize;unsigned int bsize;unsigned int entry;unsigned int text_start;unsigned int data_start;unsigned int tagentries;};
+typedef unsigned int clock_t;
+struct filehdr {unsigned short f_magic;unsigned short f_nscns;int f_timdat;int f_symptr;int f_nsyms;unsigned short f_opthdr;unsigned short f_flags;};
+typedef struct __jmp_buf jmp_buf[8];
+typedef unsigned short u_short;
+/// #define wchar_t  char ===DEFINED
+typedef int STATUS;
+typedef unsigned short UINT16;
+typedef unsigned int UINT32;
+typedef unsigned short USHORT;
+struct _tzset {char *_tzname[2];int _timezone;int _daylight;};
+struct ar_hdr {char ar_name[16];char ar_date[12];char ar_uid[6];char ar_gid[6];char ar_mode[8];char ar_size[10];char ar_fmag[2];};
+typedef struct _C5BE20A0C40D8563A650CCBEA0046DA0 archdr;
+typedef int fpos_t;
+typedef struct __ldiv_t ldiv_t;
+typedef unsigned int mode_t;
+struct scnhdr {char s_name[8];int s_paddr;int s_vaddr;int s_size;int s_scnptr;int s_relptr;int s_lnnoptr;unsigned short s_nreloc;unsigned short s_nlnno;int s_flags;unsigned int s_align;};
+typedef unsigned int size_t;
+typedef unsigned int time_t;
+typedef unsigned char u_char;
+typedef unsigned int u_long;
+typedef unsigned short ushort;
+typedef struct _50ED887AC6017A66B8EAA74FFE58097B FPREG;
+typedef unsigned char UCHAR;
+typedef unsigned char UINT8;
+typedef unsigned int ULONG;
+struct _exit {void *open_stream_sem;struct _iobuf *open_stream_list;void *exit_handler_sem;int exit_handler_count;void (**exit_handler_list)();};
+typedef short dev_t;
+typedef struct __div_t div_t;
+struct lconv {char *decimal_point;char *thousands_sep;char *grouping;char *int_curr_symbol;char *currency_symbol;char *mon_decimal_point;char *mon_thousands_sep;char *mon_grouping;char *positive_sign;char *negative_sign;char int_frac_digits;char frac_digits;char p_cs_precedes;char p_sep_by_space;char n_cs_precedes;char n_sep_by_space;char p_sign_posn;char n_sign_posn;};
+typedef int off_t;
+struct reloc {int r_vaddr;int r_symndx;unsigned short r_type;char pad[2];};
+typedef unsigned int u_int;
+typedef unsigned char uchar;
+typedef unsigned int ulong;
+typedef unsigned int ADDR;
+typedef struct _iobuf FILE;
+typedef unsigned int UINT;
+typedef unsigned int uint;
+typedef unsigned int REG;
+struct _ac {unsigned int cc : 3;unsigned int as : 4;unsigned int : 1;unsigned int iovfl_flg : 1;unsigned int : 3;unsigned int iovfl_msk : 1;unsigned int : 2;unsigned int nif : 1;unsigned int fpflags : 5;unsigned int : 3;unsigned int fpmasks : 5;unsigned int normmode : 1;unsigned int rndmode : 2;};
+struct cio {unsigned char cdata;unsigned char pad1[3];unsigned char bdata;unsigned char pad2[3];unsigned char adata;unsigned char pad3[3];unsigned char ctrl;};
+struct tm {int tm_sec;int tm_min;int tm_hour;int tm_mday;int tm_mon;int tm_year;int tm_wday;int tm_yday;int tm_isdst;};
+union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1 {struct auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664 x_lnsz;int x_fsize;};
+union _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1 {char ar_name[16];struct ____434781A782036FF19EE5B574607C3CF1___17EE914C568619DF5A10326B87E5E3BF a_n;};
+union auxent______FAC801B16405A3810F07150B5E65B5F1 {struct auxent______FAC801B16405A3810F07150B5E65B5F1___6A81AB9DD74A0937A06BA2C0FB9C8664 x_lnsz;int x_fsize;};
+union auxent___5FADB47FFB037D854D1655A50EB77723 {char x_fname[14];struct auxent___5FADB47FFB037D854D1655A50EB77723___332FB6BD0E947E8D57E9558DE0242FBC x_n;};
+union syment___DDDE857849BC8DF52744F40651AC3747 {char _n_name[8];struct syment___DDDE857849BC8DF52744F40651AC3747___FF8ECF8B5000729F16967D2BEB64C9EE _n_n;char *_n_nptr[2];};
+struct _0554C5062FE80602C743D66204778E58 {FAULT_TABLE_ENTRY ft_entry[32];};
+struct _50ED887AC6017A66B8EAA74FFE58097B {long double fp80;struct _50ED887AC6017A66B8EAA74FFE58097B___2F6BD4A8C61D546A920BFF7E05CF8CED fp64;};
+struct _C5BE20A0C40D8563A650CCBEA0046DA0 {union _C5BE20A0C40D8563A650CCBEA0046DA0___434781A782036FF19EE5B574607C3CF1 n;int ar_date;int ar_uid;int ar_gid;int ar_mode;int ar_size;};
+struct _iobuf {unsigned char *_ptr;int _cnt;unsigned char *_base;int _flag;int _fd;int _size;char *_temp_name;void *_sem;FILE *_next_stream;};
+struct _stdio {FILE _stdin;FILE _stdout;FILE _stderr;};
+struct lineno {union lineno___4D6E082ABC3813EFAD274BDB52D637EC l_addr;unsigned short l_lnno;char padding[2];};
+struct syment {union syment___DDDE857849BC8DF52744F40651AC3747 _n;int n_value;short n_scnum;unsigned short n_flags;unsigned int n_type;char n_sclass;char n_numaux;char pad2[2];};
+typedef REG UREG[48];
+union fild {struct fild___653642B1EA6CBF762575E67BB3D4C945 f1;long double f2;};
+struct stat {short st_dev;unsigned short st_ino;unsigned short st_mode;short st_nlink;unsigned short st_uid;unsigned short st_gid;short st_rdev;int st_size;time_t st_atime;time_t st_mtime;time_t st_ctime;};
+struct bpt {char type;char active;char mode;ADDR addr;};
+union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67 {struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556 x_fcn;struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B x_ary;};
+union auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67 {struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___A4FE982D5F029E6ACEFDE76E40C46556 x_fcn;struct auxent______5426BF9CDAC0D098DF12E4CF0DDB9B67___93D0B1966774B86D3450284C91FC650B x_ary;};
+struct auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774 {int x_tagndx;union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___FAC801B16405A3810F07150B5E65B5F1 x_misc;union auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774___5426BF9CDAC0D098DF12E4CF0DDB9B67 x_fcnary;unsigned short x_tvndx;};
+struct _9EBC41FFF556B489F8C85024CEE79EE0 {UINT32 number;STATUS (*proc)();};
+struct _C30F6B78C55B18D81F89BF422211A708 {UINT32 nmi_vector;UINT32 optional_int_vectors[15];BREEZE_SYSPROC_ENTRIES breeze_sys_procs[118];UINT32 dummy;UINT32 dram_base;UINT32 led_value;UINT32 dram_size;};
+struct _D6DBDCC01C14E54BC13EF8EC02363BCA {UINT32 nmi_vector;UINT32 optional_int_vectors[15];BREEZE_SYSPROC_ENTRIES breeze_sys_procs[119];UINT32 led_value;UINT32 dram_size;};
+struct ldfile {int _fnum_;FILE *ioptr;int offset;struct filehdr header;unsigned short type;char *spellings;int arstrsize;};
+union auxent {struct auxent___5EA42CFE0E3DB3BB9D91F0BBA790C774 x_sym;union auxent___5FADB47FFB037D854D1655A50EB77723 x_file;struct auxent___FB1486A92607447806F09823D579EE12 x_scn;struct auxent___F460BEB6336398C870E506DAD23CA9F2 x_tv;struct auxent___A5EFB98F0E3FBB707E554563B78D0188 x_sc;struct auxent___C1C66AEADBC811FD8102DF151B04BBB6 x_bal;struct auxent___8F4557F59A0AC54BBDF79BA682331165 x_ident;char a[24];};
+
+
+
+/// #endif ===true
+
+

@@ -1,0 +1,679 @@
+[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmpdaquxow1/typDef.json',
+  '/tmp/tmpdaquxow1/regexRet.json'
+]
+Calculating dependency for _17D82F5356DDC0EEDBCECCE0B5949A4F
+Calculating dependency for _416FD6CB8AAC8B76D031AA5EECE44784
+Calculating dependency for _416FD6CB8AAC8B76D031AA5EECE44784___B0EF9FAA8D8A8E319588C268DB835124
+Calculating dependency for _5CBEDA5D0476602ACDBC03C2C85B14FB
+Calculating dependency for _FA216CD0C98C3E74292B35D1DCE1ABF6
+Calculating dependency for _FA216CD0C98C3E74292B35D1DCE1ABF6___CCEA058AB41892FC51360BD3E0279821
+Calculating dependency for FILE
+Calculating dependency for FILEHANDLE
+Calculating dependency for Flag
+Calculating dependency for MACRO_ARMDSP
+Calculating dependency for MACRO_BUFSIZ
+Calculating dependency for MACRO_CHAR
+Calculating dependency for MACRO_CHAR_MIN
+Calculating dependency for MACRO_CLK
+Calculating dependency for MACRO_CLOCKS
+Calculating dependency for MACRO_DIG
+Calculating dependency for MACRO_DIVBYZERO
+Calculating dependency for MACRO_EDOM
+Calculating dependency for MACRO_EOF
+Calculating dependency for MACRO_ESIGNUM
+Calculating dependency for MACRO_EXIT
+Calculating dependency for MACRO_EXP
+Calculating dependency for MACRO_FE
+Calculating dependency for MACRO_FLT
+Calculating dependency for MACRO_FLT_ROUNDS_IS_CONSTANT
+Calculating dependency for MACRO_FOPEN
+Calculating dependency for MACRO_INT
+Calculating dependency for MACRO_INTMAX
+Calculating dependency for MACRO_INTPTR
+Calculating dependency for MACRO_INT_FAST8
+Calculating dependency for MACRO_INT_MIN
+Calculating dependency for MACRO_L
+Calculating dependency for MACRO_LC
+Calculating dependency for MACRO_LLONG
+Calculating dependency for MACRO_LONG
+Calculating dependency for MACRO_MAX
+Calculating dependency for MACRO_MB
+Calculating dependency for MACRO_MIN
+Calculating dependency for MACRO_NO_BAD_CAST
+Calculating dependency for MACRO_NO_CATOPEN_CATGETS
+Calculating dependency for MACRO_NO_COMPLEX_DEFAULT_TEMPLATES
+Calculating dependency for MACRO_NO_EXCEPTIONS
+Calculating dependency for MACRO_NO_MBSTATE_T
+Calculating dependency for MACRO_NO_NAMESPACE
+Calculating dependency for MACRO_NO_STATIC_CAST
+Calculating dependency for MACRO_NO_STATIC_MEM_DEF
+Calculating dependency for MACRO_NO_STREAM_LONG_DOUBLE
+Calculating dependency for MACRO_NO_SWPRINTF
+Calculating dependency for MACRO_NO_TEMPLATE_TEMPLATE
+Calculating dependency for MACRO_NO_WCHAR_H
+Calculating dependency for MACRO_NO_WCTYPE_H
+Calculating dependency for MACRO_NO_WIDE_CHAR
+Calculating dependency for MACRO_NO_WINT_TYPE
+Calculating dependency for MACRO_NULL
+Calculating dependency for MACRO_NULL_0
+Calculating dependency for MACRO_OPEN
+Calculating dependency for MACRO_PTRDIFF
+Calculating dependency for MACRO_RAND
+Calculating dependency for MACRO_RW
+Calculating dependency for MACRO_RWCOMPVERSION
+Calculating dependency for MACRO_RWSTD
+Calculating dependency for MACRO_RWSTD_COMPILE_INSTANTIATE
+Calculating dependency for MACRO_RWSTD_NOT_ALL_WSTR_CFUNCTIONS
+Calculating dependency for MACRO_RWSTD_NO_OVERLOAD_WCHAR
+Calculating dependency for MACRO_RWSTD_NO_THREADS
+Calculating dependency for MACRO_RWSTD_NO_WCSXFRM
+Calculating dependency for MACRO_RWSTD_NO_WSTR
+Calculating dependency for MACRO_RW_BYTES
+Calculating dependency for MACRO_SCHAR
+Calculating dependency for MACRO_SEEK
+Calculating dependency for MACRO_SHRT
+Calculating dependency for MACRO_SIG
+Calculating dependency for MACRO_SIGNAL
+Calculating dependency for MACRO_SIZE
+Calculating dependency for MACRO_TMP
+Calculating dependency for MACRO_UCHAR
+Calculating dependency for MACRO_UINT
+Calculating dependency for MACRO_UINTMAX
+Calculating dependency for MACRO_UINTPTR
+Calculating dependency for MACRO_UINT_FAST8
+Calculating dependency for MACRO_UINT_MAX
+Calculating dependency for MACRO_ULLONG
+Calculating dependency for MACRO_ULONG
+Calculating dependency for MACRO_USHRT
+Calculating dependency for MACRO_WCHAR
+Calculating dependency for MACRO__EM
+Calculating dependency for MACRO__FPE
+Calculating dependency for MACRO__IOBIN
+Calculating dependency for MACRO__MCW
+Calculating dependency for MACRO__MCW_RC
+Calculating dependency for MACRO__RC
+Calculating dependency for MACRO__RW
+Calculating dependency for MACRO__RWSTD
+Calculating dependency for MACRO__RWSTD_ANSI
+Calculating dependency for MACRO__RWSTD_NO
+Calculating dependency for MACRO__SYS
+Calculating dependency for MACRO___S
+Calculating dependency for MACRO___STD
+Calculating dependency for MACRO___USER
+Calculating dependency for MACRO___fpsr
+Calculating dependency for Word16
+Calculating dependency for Word32
+Calculating dependency for __FILE
+Calculating dependency for __Heap_Descriptor
+Calculating dependency for __alloca_state
+Calculating dependency for __argc_argv
+Calculating dependency for __fpos_t_struct
+Calculating dependency for __heap_extent
+Calculating dependency for __heapprt
+Calculating dependency for __ieee_edata_t
+Calculating dependency for __ieee_handler_t
+Calculating dependency for __ieee_value_t
+Calculating dependency for __initial_stackheap
+Calculating dependency for __lc_collate_blk
+Calculating dependency for __lc_ctype_blk
+Calculating dependency for __lc_monetary_blk
+Calculating dependency for __lc_numeric_blk
+Calculating dependency for __lc_time_blk
+Calculating dependency for __sdiv32by16
+Calculating dependency for __sdiv64by32
+Calculating dependency for __stack_slop
+Calculating dependency for __udiv32by16
+Calculating dependency for __va_list
+Calculating dependency for armdsp_flagdata_union
+Calculating dependency for clock_t
+Calculating dependency for div_t
+Calculating dependency for fenv_t
+Calculating dependency for fexcept_t
+Calculating dependency for fpos_t
+Calculating dependency for int16_t
+Calculating dependency for int32_t
+Calculating dependency for int64_t
+Calculating dependency for int8_t
+Calculating dependency for int_fast16_t
+Calculating dependency for int_fast32_t
+Calculating dependency for int_fast64_t
+Calculating dependency for int_fast8_t
+Calculating dependency for int_least16_t
+Calculating dependency for int_least32_t
+Calculating dependency for int_least64_t
+Calculating dependency for int_least8_t
+Calculating dependency for intmax_t
+Calculating dependency for intptr_t
+Calculating dependency for jmp_buf
+Calculating dependency for lconv
+Calculating dependency for ldiv_t
+Calculating dependency for lldiv_t
+Calculating dependency for ptrdiff_t
+Calculating dependency for sig_atomic_t
+Calculating dependency for size_t
+Calculating dependency for time_t
+Calculating dependency for tm
+Calculating dependency for uint16_t
+Calculating dependency for uint32_t
+Calculating dependency for uint64_t
+Calculating dependency for uint8_t
+Calculating dependency for uint_fast16_t
+Calculating dependency for uint_fast32_t
+Calculating dependency for uint_fast64_t
+Calculating dependency for uint_fast8_t
+Calculating dependency for uint_least16_t
+Calculating dependency for uint_least32_t
+Calculating dependency for uint_least64_t
+Calculating dependency for uint_least8_t
+Calculating dependency for uintmax_t
+Calculating dependency for uintptr_t
+Calculating dependency for wchar_t
+Replacing template arg round 1
+Got Type Def: _17D82F5356DDC0EEDBCECCE0B5949A4F
+Got Type Def: _416FD6CB8AAC8B76D031AA5EECE44784
+Got Type Def: _416FD6CB8AAC8B76D031AA5EECE44784___B0EF9FAA8D8A8E319588C268DB835124
+Got Type Def: _5CBEDA5D0476602ACDBC03C2C85B14FB
+Got Type Def: _FA216CD0C98C3E74292B35D1DCE1ABF6
+Got Type Def: _FA216CD0C98C3E74292B35D1DCE1ABF6___CCEA058AB41892FC51360BD3E0279821
+Got Type Def: FILE
+Got Type Def: FILEHANDLE
+Got Type Def: Flag
+Got Type Def: MACRO_ARMDSP
+Got Type Def: MACRO_BUFSIZ
+Got Type Def: MACRO_CHAR
+Got Type Def: MACRO_CHAR_MIN
+Got Type Def: MACRO_CLK
+Got Type Def: MACRO_CLOCKS
+Got Type Def: MACRO_DIG
+Got Type Def: MACRO_DIVBYZERO
+Got Type Def: MACRO_EDOM
+Got Type Def: MACRO_EOF
+Got Type Def: MACRO_ESIGNUM
+Got Type Def: MACRO_EXIT
+Got Type Def: MACRO_EXP
+Got Type Def: MACRO_FE
+Got Type Def: MACRO_FLT
+Got Type Def: MACRO_FLT_ROUNDS_IS_CONSTANT
+Got Type Def: MACRO_FOPEN
+Got Type Def: MACRO_INT
+Got Type Def: MACRO_INTMAX
+Got Type Def: MACRO_INTPTR
+Got Type Def: MACRO_INT_FAST8
+Got Type Def: MACRO_INT_MIN
+Got Type Def: MACRO_L
+Got Type Def: MACRO_LC
+Got Type Def: MACRO_LLONG
+Got Type Def: MACRO_LONG
+Got Type Def: MACRO_MAX
+Got Type Def: MACRO_MB
+Got Type Def: MACRO_MIN
+Got Type Def: MACRO_NO_BAD_CAST
+Got Type Def: MACRO_NO_CATOPEN_CATGETS
+Got Type Def: MACRO_NO_COMPLEX_DEFAULT_TEMPLATES
+Got Type Def: MACRO_NO_EXCEPTIONS
+Got Type Def: MACRO_NO_MBSTATE_T
+Got Type Def: MACRO_NO_NAMESPACE
+Got Type Def: MACRO_NO_STATIC_CAST
+Got Type Def: MACRO_NO_STATIC_MEM_DEF
+Got Type Def: MACRO_NO_STREAM_LONG_DOUBLE
+Got Type Def: MACRO_NO_SWPRINTF
+Got Type Def: MACRO_NO_TEMPLATE_TEMPLATE
+Got Type Def: MACRO_NO_WCHAR_H
+Got Type Def: MACRO_NO_WCTYPE_H
+Got Type Def: MACRO_NO_WIDE_CHAR
+Got Type Def: MACRO_NO_WINT_TYPE
+Got Type Def: MACRO_NULL
+Got Type Def: MACRO_NULL_0
+Got Type Def: MACRO_OPEN
+Got Type Def: MACRO_PTRDIFF
+Got Type Def: MACRO_RAND
+Got Type Def: MACRO_RW
+Got Type Def: MACRO_RWCOMPVERSION
+Got Type Def: MACRO_RWSTD
+Got Type Def: MACRO_RWSTD_COMPILE_INSTANTIATE
+Got Type Def: MACRO_RWSTD_NOT_ALL_WSTR_CFUNCTIONS
+Got Type Def: MACRO_RWSTD_NO_OVERLOAD_WCHAR
+Got Type Def: MACRO_RWSTD_NO_THREADS
+Got Type Def: MACRO_RWSTD_NO_WCSXFRM
+Got Type Def: MACRO_RWSTD_NO_WSTR
+Got Type Def: MACRO_RW_BYTES
+Got Type Def: MACRO_SCHAR
+Got Type Def: MACRO_SEEK
+Got Type Def: MACRO_SHRT
+Got Type Def: MACRO_SIG
+Got Type Def: MACRO_SIGNAL
+Got Type Def: MACRO_SIZE
+Got Type Def: MACRO_TMP
+Got Type Def: MACRO_UCHAR
+Got Type Def: MACRO_UINT
+Got Type Def: MACRO_UINTMAX
+Got Type Def: MACRO_UINTPTR
+Got Type Def: MACRO_UINT_FAST8
+Got Type Def: MACRO_UINT_MAX
+Got Type Def: MACRO_ULLONG
+Got Type Def: MACRO_ULONG
+Got Type Def: MACRO_USHRT
+Got Type Def: MACRO_WCHAR
+Got Type Def: MACRO__EM
+Got Type Def: MACRO__FPE
+Got Type Def: MACRO__IOBIN
+Got Type Def: MACRO__MCW
+Got Type Def: MACRO__MCW_RC
+Got Type Def: MACRO__RC
+Got Type Def: MACRO__RW
+Got Type Def: MACRO__RWSTD
+Got Type Def: MACRO__RWSTD_ANSI
+Got Type Def: MACRO__RWSTD_NO
+Got Type Def: MACRO__SYS
+Got Type Def: MACRO___S
+Got Type Def: MACRO___STD
+Got Type Def: MACRO___USER
+Got Type Def: MACRO___fpsr
+Got Type Def: Word16
+Got Type Def: Word32
+Got Type Def: __FILE
+Got Type Def: __Heap_Descriptor
+Got Type Def: __alloca_state
+Got Type Def: __argc_argv
+Got Type Def: __fpos_t_struct
+Got Type Def: __heap_extent
+Got Type Def: __heapprt
+Got Type Def: __ieee_edata_t
+Got Type Def: __ieee_handler_t
+Got Type Def: __ieee_value_t
+Got Type Def: __initial_stackheap
+Got Type Def: __lc_collate_blk
+Got Type Def: __lc_ctype_blk
+Got Type Def: __lc_monetary_blk
+Got Type Def: __lc_numeric_blk
+Got Type Def: __lc_time_blk
+Got Type Def: __sdiv32by16
+Got Type Def: __sdiv64by32
+Got Type Def: __stack_slop
+Got Type Def: __udiv32by16
+Got Type Def: __va_list
+Got Type Def: armdsp_flagdata_union
+Got Type Def: clock_t
+Got Type Def: div_t
+Got Type Def: fenv_t
+Got Type Def: fexcept_t
+Got Type Def: fpos_t
+Got Type Def: int16_t
+Got Type Def: int32_t
+Got Type Def: int64_t
+Got Type Def: int8_t
+Got Type Def: int_fast16_t
+Got Type Def: int_fast32_t
+Got Type Def: int_fast64_t
+Got Type Def: int_fast8_t
+Got Type Def: int_least16_t
+Got Type Def: int_least32_t
+Got Type Def: int_least64_t
+Got Type Def: int_least8_t
+Got Type Def: intmax_t
+Got Type Def: intptr_t
+Got Type Def: jmp_buf
+Got Type Def: lconv
+Got Type Def: ldiv_t
+Got Type Def: lldiv_t
+Got Type Def: ptrdiff_t
+Got Type Def: sig_atomic_t
+Got Type Def: size_t
+Got Type Def: time_t
+Got Type Def: tm
+Got Type Def: uint16_t
+Got Type Def: uint32_t
+Got Type Def: uint64_t
+Got Type Def: uint8_t
+Got Type Def: uint_fast16_t
+Got Type Def: uint_fast32_t
+Got Type Def: uint_fast64_t
+Got Type Def: uint_fast8_t
+Got Type Def: uint_least16_t
+Got Type Def: uint_least32_t
+Got Type Def: uint_least64_t
+Got Type Def: uint_least8_t
+Got Type Def: uintmax_t
+Got Type Def: uintptr_t
+Got Type Def: va_list
+Got Type Def: wchar_t
+Compiling all type regex...
+Calculating dependency for: _416FD6CB8AAC8B76D031AA5EECE44784___B0EF9FAA8D8A8E319588C268DB835124
+Calculating dependency for: _FA216CD0C98C3E74292B35D1DCE1ABF6___CCEA058AB41892FC51360BD3E0279821
+Calculating dependency for: MACRO_RWSTD_NOT_ALL_WSTR_CFUNCTIONS
+Calculating dependency for: MACRO_NO_COMPLEX_DEFAULT_TEMPLATES
+Calculating dependency for: _17D82F5356DDC0EEDBCECCE0B5949A4F
+Calculating dependency for: _416FD6CB8AAC8B76D031AA5EECE44784
+Calculating dependency for: _5CBEDA5D0476602ACDBC03C2C85B14FB
+Calculating dependency for: _FA216CD0C98C3E74292B35D1DCE1ABF6
+Calculating dependency for: MACRO_RWSTD_COMPILE_INSTANTIATE
+Calculating dependency for: MACRO_RWSTD_NO_OVERLOAD_WCHAR
+Calculating dependency for: MACRO_FLT_ROUNDS_IS_CONSTANT
+Calculating dependency for: MACRO_NO_STREAM_LONG_DOUBLE
+Calculating dependency for: MACRO_NO_TEMPLATE_TEMPLATE
+Calculating dependency for: MACRO_NO_CATOPEN_CATGETS
+Calculating dependency for: MACRO_NO_STATIC_MEM_DEF
+Calculating dependency for: MACRO_RWSTD_NO_THREADS
+Calculating dependency for: MACRO_RWSTD_NO_WCSXFRM
+Calculating dependency for: armdsp_flagdata_union
+Calculating dependency for: MACRO_NO_STATIC_CAST
+Calculating dependency for: MACRO_NO_EXCEPTIONS
+Calculating dependency for: MACRO_RWCOMPVERSION
+Calculating dependency for: MACRO_RWSTD_NO_WSTR
+Calculating dependency for: __initial_stackheap
+Calculating dependency for: MACRO_NO_MBSTATE_T
+Calculating dependency for: MACRO_NO_NAMESPACE
+Calculating dependency for: MACRO_NO_WIDE_CHAR
+Calculating dependency for: MACRO_NO_WINT_TYPE
+Calculating dependency for: MACRO_NO_BAD_CAST
+Calculating dependency for: MACRO_NO_SWPRINTF
+Calculating dependency for: MACRO_NO_WCTYPE_H
+Calculating dependency for: MACRO__RWSTD_ANSI
+Calculating dependency for: __Heap_Descriptor
+Calculating dependency for: __lc_monetary_blk
+Calculating dependency for: MACRO_NO_WCHAR_H
+Calculating dependency for: MACRO_UINT_FAST8
+Calculating dependency for: __ieee_handler_t
+Calculating dependency for: __lc_collate_blk
+Calculating dependency for: __lc_numeric_blk
+Calculating dependency for: MACRO_DIVBYZERO
+Calculating dependency for: MACRO_INT_FAST8
+Calculating dependency for: MACRO__RWSTD_NO
+Calculating dependency for: __fpos_t_struct
+Calculating dependency for: MACRO_CHAR_MIN
+Calculating dependency for: MACRO_RW_BYTES
+Calculating dependency for: MACRO_UINT_MAX
+Calculating dependency for: __alloca_state
+Calculating dependency for: __ieee_edata_t
+Calculating dependency for: __ieee_value_t
+Calculating dependency for: __lc_ctype_blk
+Calculating dependency for: uint_least16_t
+Calculating dependency for: uint_least32_t
+Calculating dependency for: uint_least64_t
+Calculating dependency for: MACRO_ESIGNUM
+Calculating dependency for: MACRO_INT_MIN
+Calculating dependency for: MACRO_PTRDIFF
+Calculating dependency for: MACRO_UINTMAX
+Calculating dependency for: MACRO_UINTPTR
+Calculating dependency for: MACRO__MCW_RC
+Calculating dependency for: __heap_extent
+Calculating dependency for: __lc_time_blk
+Calculating dependency for: int_least16_t
+Calculating dependency for: int_least32_t
+Calculating dependency for: int_least64_t
+Calculating dependency for: uint_fast16_t
+Calculating dependency for: uint_fast32_t
+Calculating dependency for: uint_fast64_t
+Calculating dependency for: uint_least8_t
+Calculating dependency for: MACRO_ARMDSP
+Calculating dependency for: MACRO_BUFSIZ
+Calculating dependency for: MACRO_CLOCKS
+Calculating dependency for: MACRO_INTMAX
+Calculating dependency for: MACRO_INTPTR
+Calculating dependency for: MACRO_NULL_0
+Calculating dependency for: MACRO_SIGNAL
+Calculating dependency for: MACRO_ULLONG
+Calculating dependency for: MACRO__IOBIN
+Calculating dependency for: MACRO__RWSTD
+Calculating dependency for: MACRO___USER
+Calculating dependency for: MACRO___fpsr
+Calculating dependency for: __sdiv32by16
+Calculating dependency for: __sdiv64by32
+Calculating dependency for: __stack_slop
+Calculating dependency for: __udiv32by16
+Calculating dependency for: int_fast16_t
+Calculating dependency for: int_fast32_t
+Calculating dependency for: int_fast64_t
+Calculating dependency for: int_least8_t
+Calculating dependency for: sig_atomic_t
+Calculating dependency for: uint_fast8_t
+Calculating dependency for: MACRO_FOPEN
+Calculating dependency for: MACRO_LLONG
+Calculating dependency for: MACRO_RWSTD
+Calculating dependency for: MACRO_SCHAR
+Calculating dependency for: MACRO_UCHAR
+Calculating dependency for: MACRO_ULONG
+Calculating dependency for: MACRO_USHRT
+Calculating dependency for: MACRO_WCHAR
+Calculating dependency for: MACRO___STD
+Calculating dependency for: __argc_argv
+Calculating dependency for: int_fast8_t
+Calculating dependency for: FILEHANDLE
+Calculating dependency for: MACRO_CHAR
+Calculating dependency for: MACRO_EDOM
+Calculating dependency for: MACRO_EXIT
+Calculating dependency for: MACRO_LONG
+Calculating dependency for: MACRO_NULL
+Calculating dependency for: MACRO_OPEN
+Calculating dependency for: MACRO_RAND
+Calculating dependency for: MACRO_SEEK
+Calculating dependency for: MACRO_SHRT
+Calculating dependency for: MACRO_SIZE
+Calculating dependency for: MACRO_UINT
+Calculating dependency for: MACRO__FPE
+Calculating dependency for: MACRO__MCW
+Calculating dependency for: MACRO__SYS
+Calculating dependency for: MACRO_CLK
+Calculating dependency for: MACRO_DIG
+Calculating dependency for: MACRO_EOF
+Calculating dependency for: MACRO_EXP
+Calculating dependency for: MACRO_FLT
+Calculating dependency for: MACRO_INT
+Calculating dependency for: MACRO_MAX
+Calculating dependency for: MACRO_MIN
+Calculating dependency for: MACRO_SIG
+Calculating dependency for: MACRO_TMP
+Calculating dependency for: MACRO__EM
+Calculating dependency for: MACRO__RC
+Calculating dependency for: MACRO__RW
+Calculating dependency for: MACRO___S
+Calculating dependency for: __heapprt
+Calculating dependency for: __va_list
+Calculating dependency for: fexcept_t
+Calculating dependency for: ptrdiff_t
+Calculating dependency for: uintmax_t
+Calculating dependency for: uintptr_t
+Calculating dependency for: MACRO_FE
+Calculating dependency for: MACRO_LC
+Calculating dependency for: MACRO_MB
+Calculating dependency for: MACRO_RW
+Calculating dependency for: intmax_t
+Calculating dependency for: intptr_t
+Calculating dependency for: uint16_t
+Calculating dependency for: uint32_t
+Calculating dependency for: uint64_t
+Calculating dependency for: MACRO_L
+Calculating dependency for: clock_t
+Calculating dependency for: int16_t
+Calculating dependency for: int32_t
+Calculating dependency for: int64_t
+Calculating dependency for: jmp_buf
+Calculating dependency for: lldiv_t
+Calculating dependency for: uint8_t
+Calculating dependency for: wchar_t
+Calculating dependency for: Word16
+Calculating dependency for: Word32
+Calculating dependency for: __FILE
+Calculating dependency for: fenv_t
+Calculating dependency for: fpos_t
+Calculating dependency for: int8_t
+Calculating dependency for: ldiv_t
+Calculating dependency for: size_t
+Calculating dependency for: time_t
+Calculating dependency for: div_t
+Calculating dependency for: lconv
+Calculating dependency for: FILE
+Calculating dependency for: Flag
+Calculating dependency for: tm
+Type hierarchy analysis finished:
+_416FD6CB8AAC8B76D031AA5EECE44784___B0EF9FAA8D8A8E319588C268DB835124 -> []
+_FA216CD0C98C3E74292B35D1DCE1ABF6___CCEA058AB41892FC51360BD3E0279821 -> []
+MACRO_RWSTD_NOT_ALL_WSTR_CFUNCTIONS -> []
+MACRO_NO_COMPLEX_DEFAULT_TEMPLATES -> []
+_5CBEDA5D0476602ACDBC03C2C85B14FB -> []
+MACRO_RWSTD_COMPILE_INSTANTIATE -> []
+MACRO_RWSTD_NO_OVERLOAD_WCHAR -> []
+MACRO_FLT_ROUNDS_IS_CONSTANT -> []
+MACRO_NO_STREAM_LONG_DOUBLE -> []
+MACRO_NO_TEMPLATE_TEMPLATE -> []
+MACRO_NO_CATOPEN_CATGETS -> []
+MACRO_NO_STATIC_MEM_DEF -> []
+MACRO_RWSTD_NO_THREADS -> []
+MACRO_RWSTD_NO_WCSXFRM -> []
+armdsp_flagdata_union -> []
+MACRO_NO_STATIC_CAST -> []
+MACRO_NO_EXCEPTIONS -> []
+MACRO_RWCOMPVERSION -> []
+MACRO_RWSTD_NO_WSTR -> []
+__initial_stackheap -> []
+MACRO_NO_MBSTATE_T -> []
+MACRO_NO_NAMESPACE -> []
+MACRO_NO_WIDE_CHAR -> []
+MACRO_NO_WINT_TYPE -> []
+MACRO_NO_BAD_CAST -> []
+MACRO_NO_SWPRINTF -> []
+MACRO_NO_WCTYPE_H -> []
+MACRO__RWSTD_ANSI -> []
+__Heap_Descriptor -> []
+__lc_monetary_blk -> []
+MACRO_NO_WCHAR_H -> []
+MACRO_UINT_FAST8 -> []
+__lc_collate_blk -> []
+__lc_numeric_blk -> []
+MACRO_DIVBYZERO -> []
+MACRO_INT_FAST8 -> []
+MACRO__RWSTD_NO -> []
+__fpos_t_struct -> []
+MACRO_CHAR_MIN -> []
+MACRO_RW_BYTES -> []
+MACRO_UINT_MAX -> []
+__alloca_state -> []
+__ieee_edata_t -> []
+__ieee_value_t -> []
+__lc_ctype_blk -> []
+uint_least16_t -> []
+uint_least32_t -> []
+uint_least64_t -> []
+MACRO_ESIGNUM -> []
+MACRO_INT_MIN -> []
+MACRO_PTRDIFF -> []
+MACRO_UINTMAX -> []
+MACRO_UINTPTR -> []
+MACRO__MCW_RC -> []
+__heap_extent -> []
+__lc_time_blk -> []
+int_least16_t -> []
+int_least32_t -> []
+int_least64_t -> []
+uint_fast16_t -> []
+uint_fast32_t -> []
+uint_fast64_t -> []
+uint_least8_t -> []
+MACRO_ARMDSP -> []
+MACRO_BUFSIZ -> []
+MACRO_CLOCKS -> []
+MACRO_INTMAX -> []
+MACRO_INTPTR -> []
+MACRO_NULL_0 -> []
+MACRO_SIGNAL -> []
+MACRO_ULLONG -> []
+MACRO__IOBIN -> []
+MACRO__RWSTD -> []
+MACRO___USER -> []
+MACRO___fpsr -> []
+__sdiv32by16 -> []
+__sdiv64by32 -> []
+__stack_slop -> []
+__udiv32by16 -> []
+int_fast16_t -> []
+int_fast32_t -> []
+int_fast64_t -> []
+int_least8_t -> []
+sig_atomic_t -> []
+uint_fast8_t -> []
+MACRO_FOPEN -> []
+MACRO_LLONG -> []
+MACRO_RWSTD -> []
+MACRO_SCHAR -> []
+MACRO_UCHAR -> []
+MACRO_ULONG -> []
+MACRO_USHRT -> []
+MACRO_WCHAR -> []
+MACRO___STD -> []
+__argc_argv -> []
+int_fast8_t -> []
+FILEHANDLE -> []
+MACRO_CHAR -> []
+MACRO_EDOM -> []
+MACRO_EXIT -> []
+MACRO_LONG -> []
+MACRO_NULL -> []
+MACRO_OPEN -> []
+MACRO_RAND -> []
+MACRO_SEEK -> []
+MACRO_SHRT -> []
+MACRO_SIZE -> []
+MACRO_UINT -> []
+MACRO__FPE -> []
+MACRO__MCW -> []
+MACRO__SYS -> []
+MACRO_CLK -> []
+MACRO_DIG -> []
+MACRO_EOF -> []
+MACRO_EXP -> []
+MACRO_FLT -> []
+MACRO_INT -> []
+MACRO_MAX -> []
+MACRO_MIN -> []
+MACRO_SIG -> []
+MACRO_TMP -> []
+MACRO__EM -> []
+MACRO__RC -> []
+MACRO__RW -> []
+MACRO___S -> []
+__heapprt -> []
+__va_list -> []
+fexcept_t -> []
+ptrdiff_t -> []
+uintmax_t -> []
+uintptr_t -> []
+MACRO_FE -> []
+MACRO_LC -> []
+MACRO_MB -> []
+MACRO_RW -> []
+intmax_t -> []
+intptr_t -> []
+uint16_t -> []
+uint32_t -> []
+uint64_t -> []
+MACRO_L -> []
+clock_t -> []
+int16_t -> []
+int32_t -> []
+int64_t -> []
+jmp_buf -> []
+lldiv_t -> []
+uint8_t -> []
+wchar_t -> []
+Word16 -> []
+Word32 -> []
+__FILE -> []
+fenv_t -> []
+fpos_t -> []
+int8_t -> []
+ldiv_t -> []
+size_t -> []
+time_t -> []
+div_t -> []
+lconv -> []
+FILE -> []
+Flag -> []
+tm -> []
+_17D82F5356DDC0EEDBCECCE0B5949A4F -> ['__ieee_handler_t']
+_416FD6CB8AAC8B76D031AA5EECE44784 -> ['_416FD6CB8AAC8B76D031AA5EECE44784___B0EF9FAA8D8A8E319588C268DB835124']
+_FA216CD0C98C3E74292B35D1DCE1ABF6 -> ['_FA216CD0C98C3E74292B35D1DCE1ABF6___CCEA058AB41892FC51360BD3E0279821']
+__ieee_handler_t -> ['__ieee_value_t', '__ieee_edata_t']
+========= Ghidra Hdr Gen finished!

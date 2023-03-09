@@ -1,0 +1,118 @@
+[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmp1z77vt1f/typDef.json',
+  '/tmp/tmp1z77vt1f/regexRet.json'
+]
+Calculating dependency for MACRO_SYS
+Calculating dependency for MACRO___NR
+Calculating dependency for __old_kernel_stat
+Calculating dependency for bpf_attr
+Calculating dependency for compat_stat
+Calculating dependency for compat_timeval
+Calculating dependency for getcpu_cache
+Calculating dependency for iattr
+Calculating dependency for inode
+Calculating dependency for key_serial_t
+Calculating dependency for linux_dirent
+Calculating dependency for linux_dirent64
+Calculating dependency for list_head
+Calculating dependency for mmap_arg_struct
+Calculating dependency for mqd_t
+Calculating dependency for nfsctl_arg
+Calculating dependency for old_linux_dirent
+Calculating dependency for old_sigset_t
+Calculating dependency for perf_event_attr
+Calculating dependency for qid_t
+Calculating dependency for sched_attr
+Calculating dependency for sel_arg_struct
+Calculating dependency for semaphore
+Calculating dependency for u32
+Calculating dependency for u64
+Calculating dependency for umode_t
+Calculating dependency for user_msghdr
+Replacing template arg round 1
+Got Type Def: MACRO_SYS
+Got Type Def: MACRO___NR
+Got Type Def: __old_kernel_stat
+Got Type Def: bpf_attr
+Got Type Def: compat_stat
+Got Type Def: compat_timeval
+Got Type Def: getcpu_cache
+Got Type Def: iattr
+Got Type Def: inode
+Got Type Def: key_serial_t
+Got Type Def: linux_dirent
+Got Type Def: linux_dirent64
+Got Type Def: list_head
+Got Type Def: mmap_arg_struct
+Got Type Def: mqd_t
+Got Type Def: nfsctl_arg
+Got Type Def: old_linux_dirent
+Got Type Def: old_sigset_t
+Got Type Def: perf_event_attr
+Got Type Def: qid_t
+Got Type Def: sched_attr
+Got Type Def: sel_arg_struct
+Got Type Def: semaphore
+Got Type Def: u32
+Got Type Def: u64
+Got Type Def: umode_t
+Got Type Def: user_msghdr
+Compiling all type regex...
+Calculating dependency for: __old_kernel_stat
+Calculating dependency for: old_linux_dirent
+Calculating dependency for: mmap_arg_struct
+Calculating dependency for: perf_event_attr
+Calculating dependency for: compat_timeval
+Calculating dependency for: linux_dirent64
+Calculating dependency for: sel_arg_struct
+Calculating dependency for: getcpu_cache
+Calculating dependency for: key_serial_t
+Calculating dependency for: linux_dirent
+Calculating dependency for: old_sigset_t
+Calculating dependency for: compat_stat
+Calculating dependency for: user_msghdr
+Calculating dependency for: MACRO___NR
+Calculating dependency for: nfsctl_arg
+Calculating dependency for: sched_attr
+Calculating dependency for: MACRO_SYS
+Calculating dependency for: list_head
+Calculating dependency for: semaphore
+Calculating dependency for: bpf_attr
+Calculating dependency for: umode_t
+Calculating dependency for: iattr
+Calculating dependency for: inode
+Calculating dependency for: mqd_t
+Calculating dependency for: qid_t
+Calculating dependency for: u32
+Calculating dependency for: u64
+Type hierarchy analysis finished:
+__old_kernel_stat -> []
+old_linux_dirent -> []
+mmap_arg_struct -> []
+perf_event_attr -> []
+compat_timeval -> []
+linux_dirent64 -> []
+sel_arg_struct -> []
+getcpu_cache -> []
+key_serial_t -> []
+linux_dirent -> []
+old_sigset_t -> []
+compat_stat -> []
+user_msghdr -> []
+MACRO___NR -> []
+nfsctl_arg -> []
+sched_attr -> []
+MACRO_SYS -> []
+list_head -> []
+semaphore -> []
+bpf_attr -> []
+umode_t -> []
+iattr -> []
+inode -> []
+mqd_t -> []
+qid_t -> []
+u32 -> []
+u64 -> []
+========= Ghidra Hdr Gen finished!

@@ -1,0 +1,1902 @@
+Replacing template arg round 1
+Got Type Def: _04002F0402C508C6DCA950313C38753A
+Got Type Def: _06CAB5296C39900A9CE51DBF4F560AD6
+Got Type Def: _0A08CFE9374656399FFB4BF5C54E6AAD
+Got Type Def: _13B8135214ADCA8C5B891879B37639D2
+Got Type Def: _1A098DE8B5FD566F9A5BC3A59F895876
+Got Type Def: _1EEB42125CB8A02EEEDF6B2D5DAB4486
+Got Type Def: _294E6B22D2C7C3462ECC5C21F28E2210
+Got Type Def: _2DFCE81C22045DA5588F32BE57F779B3
+Got Type Def: _33C3A92DE7424356190637196BFAB2FD
+Got Type Def: _3EDC26D5AD8305513B732BC9206567CE
+Got Type Def: _4139C7DF365D5434A7E6C4EAB6785B55
+Got Type Def: _43465BD039ADFB836688E81ACF130360
+Got Type Def: _43C70A9F12D4BBD98F9B0F65C539512C
+Got Type Def: _49F8A3275CB8ABD51DE4E72706AE5CC8
+Got Type Def: _6A860F0239D1D54EF2A4CDC8898EA208
+Got Type Def: _6BD93AD6A320A51794F58DE6EDFB59E6
+Got Type Def: _6CF558C41A0BF1C80174ADD62A6DBE10
+Got Type Def: _7EC23C51206D55A80D1F276DA8A5980F
+Got Type Def: _813B786A03EC45D0D5359DBC0989DB3C
+Got Type Def: _82E117BB9FC04C8485243D8E6D5317B0
+Got Type Def: _8391374E526CE51103AADBB5D9199BE1
+Got Type Def: _84DF78F24C88ED534F04DAB1618088EB
+Got Type Def: _89669B75FFFA2E86F49C9A03322F5AA7
+Got Type Def: _8FD9CD2309289E94A8F9FFD043EF0AFD
+Got Type Def: _95883D125DB13DB1D57A7284B9B24EE2
+Got Type Def: _979FA3DE6ECCF956231BFC297C4278E6
+Got Type Def: _9A42493D2BEF7F5422B539727BDDB5E2
+Got Type Def: _A3DE050FA3F4C661374A5EDCE5929D78
+Got Type Def: _A57BE63AFA9E7C22F20D0CC4DC1F0295
+Got Type Def: _A66A407457C3F86F0D5D01263F39DB8B
+Got Type Def: _AC1F0727205AA235F31FA7E4FBAB6931
+Got Type Def: _AD64F63EA24B69117AF36AB567679717
+Got Type Def: _B343988F95AB2F1D8FA49E95A93C30CE
+Got Type Def: _B34E6FF94D606ADE7B24EB7AB8A02C61
+Got Type Def: _B82DD008134C41CE6745BEDF33E8A9EF
+Got Type Def: _B8EBEDC710F2D2D4BF6562A77E339AD2
+Got Type Def: _BF3B02121B7CEC921D6E601970F9B0F9
+Got Type Def: _C90664CDFAFCCB655C0534A15FE08428
+Got Type Def: _D8A37C4E5955677A821D861553F77D56
+Got Type Def: _DCE88B22097C19B754359F67EC2BAC42
+Got Type Def: _F1FBE46807403350B28214291BCCB154
+Got Type Def: _F5B8624EE83FF6F82791C1F247BCF763
+Got Type Def: _F64AC3025220C98ACA937EAAAA67CC79
+Got Type Def: _FB68FDDBB52DBDF02F327E3198820E09
+Got Type Def: _FE49DD53806F6C6786D41F1B1A617458
+Got Type Def: _FFDA7144AC23E088DA23CB4BAD3742B2
+Got Type Def: AAsset
+Got Type Def: AAssetDir
+Got Type Def: AAssetManager
+Got Type Def: AChoreographer
+Got Type Def: AChoreographer_frameCallback
+Got Type Def: AConfiguration
+Got Type Def: AHeartRateEvent
+Got Type Def: AInputEvent
+Got Type Def: AInputQueue
+Got Type Def: ALooper
+Got Type Def: ALooper_callbackFunc
+Got Type Def: AMetaDataEvent
+Got Type Def: ANativeActivity
+Got Type Def: ANativeActivityCallbacks
+Got Type Def: ANativeActivity_createFunc
+Got Type Def: ANativeWindow
+Got Type Def: ANativeWindow_Buffer
+Got Type Def: AObbInfo
+Got Type Def: ARect
+Got Type Def: ASensor
+Got Type Def: ASensorEvent
+Got Type Def: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15
+Got Type Def: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03
+Got Type Def: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C
+Got Type Def: ASensorEventQueue
+Got Type Def: ASensorList
+Got Type Def: ASensorManager
+Got Type Def: ASensorRef
+Got Type Def: ASensorVector
+Got Type Def: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D
+Got Type Def: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008
+Got Type Def: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6
+Got Type Def: AStorageManager
+Got Type Def: AStorageManager_obbCallbackFunc
+Got Type Def: AUncalibratedEvent
+Got Type Def: AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B
+Got Type Def: AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A
+Got Type Def: AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5
+Got Type Def: AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66
+Got Type Def: AndroidBitmapFormat
+Got Type Def: AndroidBitmapInfo
+Got Type Def: C_JNIEnv
+Got Type Def: JNIEnv
+Got Type Def: JNIInvokeInterface
+Got Type Def: JNINativeInterface
+Got Type Def: JNINativeMethod
+Got Type Def: JavaVM
+Got Type Def: JavaVMAttachArgs
+Got Type Def: JavaVMInitArgs
+Got Type Def: JavaVMOption
+Got Type Def: MACRO_AF
+Got Type Def: MACRO_AI
+Got Type Def: MACRO_AMOTION
+Got Type Def: MACRO_ANDROID
+Got Type Def: MACRO_EAI
+Got Type Def: MACRO_EXIT
+Got Type Def: MACRO_F
+Got Type Def: MACRO_FASYNC
+Got Type Def: MACRO_FD
+Got Type Def: MACRO_FIOGETOWN
+Got Type Def: MACRO_FIOSETOWN
+Got Type Def: MACRO_F_LINUX
+Got Type Def: MACRO_F_RDLCK
+Got Type Def: MACRO_HOST
+Got Type Def: MACRO_INT
+Got Type Def: MACRO_INT16
+Got Type Def: MACRO_INT32
+Got Type Def: MACRO_INT64
+Got Type Def: MACRO_INT8
+Got Type Def: MACRO_INTMAX
+Got Type Def: MACRO_INTPTR
+Got Type Def: MACRO_INT_LEAST16
+Got Type Def: MACRO_INT_LEAST32
+Got Type Def: MACRO_INT_LEAST64
+Got Type Def: MACRO_IPX
+Got Type Def: MACRO_JNI
+Got Type Def: MACRO_LOCK
+Got Type Def: MACRO_MAX
+Got Type Def: MACRO_MAXHOSTNAMELEN
+Got Type Def: MACRO_MSG
+Got Type Def: MACRO_NETDB
+Got Type Def: MACRO_NETWORK
+Got Type Def: MACRO_NI
+Got Type Def: MACRO_NO
+Got Type Def: MACRO_NULL
+Got Type Def: MACRO_O
+Got Type Def: MACRO_O_NOATIME
+Got Type Def: MACRO_O_PATH
+Got Type Def: MACRO_O_TMPFILE
+Got Type Def: MACRO_PF
+Got Type Def: MACRO_PTRDIFF
+Got Type Def: MACRO_RAND
+Got Type Def: MACRO_SCM
+Got Type Def: MACRO_SCM_RIGHTS
+Got Type Def: MACRO_SCM_TIMESTAMPING
+Got Type Def: MACRO_SCM_TIMESTAMPNS
+Got Type Def: MACRO_SCM_WIFI
+Got Type Def: MACRO_SCOPE
+Got Type Def: MACRO_SIG
+Got Type Def: MACRO_SIOCADDDLCI
+Got Type Def: MACRO_SIOCADDMULTI
+Got Type Def: MACRO_SIOCADDRT
+Got Type Def: MACRO_SIOCATMARK
+Got Type Def: MACRO_SIOCBONDCHANGEACTIVE
+Got Type Def: MACRO_SIOCBONDENSLAVE
+Got Type Def: MACRO_SIOCBONDINFOQUERY
+Got Type Def: MACRO_SIOCBONDRELEASE
+Got Type Def: MACRO_SIOCBONDSETHWADDR
+Got Type Def: MACRO_SIOCBONDSLAVEINFOQUERY
+Got Type Def: MACRO_SIOCBRADDBR
+Got Type Def: MACRO_SIOCBRADDIF
+Got Type Def: MACRO_SIOCBRDELBR
+Got Type Def: MACRO_SIOCBRDELIF
+Got Type Def: MACRO_SIOCDARP
+Got Type Def: MACRO_SIOCDELDLCI
+Got Type Def: MACRO_SIOCDELMULTI
+Got Type Def: MACRO_SIOCDELRT
+Got Type Def: MACRO_SIOCDEVPRIVATE
+Got Type Def: MACRO_SIOCDIFADDR
+Got Type Def: MACRO_SIOCDRARP
+Got Type Def: MACRO_SIOCETHTOOL
+Got Type Def: MACRO_SIOCGARP
+Got Type Def: MACRO_SIOCGHWTSTAMP
+Got Type Def: MACRO_SIOCGIFADDR
+Got Type Def: MACRO_SIOCGIFBR
+Got Type Def: MACRO_SIOCGIFBRDADDR
+Got Type Def: MACRO_SIOCGIFCONF
+Got Type Def: MACRO_SIOCGIFCOUNT
+Got Type Def: MACRO_SIOCGIFDSTADDR
+Got Type Def: MACRO_SIOCGIFENCAP
+Got Type Def: MACRO_SIOCGIFFLAGS
+Got Type Def: MACRO_SIOCGIFHWADDR
+Got Type Def: MACRO_SIOCGIFINDEX
+Got Type Def: MACRO_SIOCGIFMAP
+Got Type Def: MACRO_SIOCGIFMEM
+Got Type Def: MACRO_SIOCGIFMETRIC
+Got Type Def: MACRO_SIOCGIFMTU
+Got Type Def: MACRO_SIOCGIFNAME
+Got Type Def: MACRO_SIOCGIFNETMASK
+Got Type Def: MACRO_SIOCGIFPFLAGS
+Got Type Def: MACRO_SIOCGIFSLAVE
+Got Type Def: MACRO_SIOCGIFTXQLEN
+Got Type Def: MACRO_SIOCGIFVLAN
+Got Type Def: MACRO_SIOCGMIIPHY
+Got Type Def: MACRO_SIOCGMIIREG
+Got Type Def: MACRO_SIOCGPGRP
+Got Type Def: MACRO_SIOCGRARP
+Got Type Def: MACRO_SIOCGSTAMP
+Got Type Def: MACRO_SIOCGSTAMPNS
+Got Type Def: MACRO_SIOCOUTQNSD
+Got Type Def: MACRO_SIOCPROTOPRIVATE
+Got Type Def: MACRO_SIOCRTMSG
+Got Type Def: MACRO_SIOCSARP
+Got Type Def: MACRO_SIOCSHWTSTAMP
+Got Type Def: MACRO_SIOCSIFADDR
+Got Type Def: MACRO_SIOCSIFBR
+Got Type Def: MACRO_SIOCSIFBRDADDR
+Got Type Def: MACRO_SIOCSIFDSTADDR
+Got Type Def: MACRO_SIOCSIFENCAP
+Got Type Def: MACRO_SIOCSIFFLAGS
+Got Type Def: MACRO_SIOCSIFHWADDR
+Got Type Def: MACRO_SIOCSIFHWBROADCAST
+Got Type Def: MACRO_SIOCSIFLINK
+Got Type Def: MACRO_SIOCSIFMAP
+Got Type Def: MACRO_SIOCSIFMEM
+Got Type Def: MACRO_SIOCSIFMETRIC
+Got Type Def: MACRO_SIOCSIFMTU
+Got Type Def: MACRO_SIOCSIFNAME
+Got Type Def: MACRO_SIOCSIFNETMASK
+Got Type Def: MACRO_SIOCSIFPFLAGS
+Got Type Def: MACRO_SIOCSIFSLAVE
+Got Type Def: MACRO_SIOCSIFTXQLEN
+Got Type Def: MACRO_SIOCSIFVLAN
+Got Type Def: MACRO_SIOCSMIIREG
+Got Type Def: MACRO_SIOCSPGRP
+Got Type Def: MACRO_SIOCSRARP
+Got Type Def: MACRO_SIOCWANDEV
+Got Type Def: MACRO_SIOGIFINDEX
+Got Type Def: MACRO_SIZE
+Got Type Def: MACRO_SO
+Got Type Def: MACRO_SOCK
+Got Type Def: MACRO_SOL
+Got Type Def: MACRO_SOL_IP
+Got Type Def: MACRO_SOMAXCONN
+Got Type Def: MACRO_SO_ACCEPTCONN
+Got Type Def: MACRO_SO_MARK
+Got Type Def: MACRO_SO_PEEK
+Got Type Def: MACRO_SO_PROTOCOL
+Got Type Def: MACRO_STRUCT
+Got Type Def: MACRO_SYNC
+Got Type Def: MACRO_TMPFILE
+Got Type Def: MACRO_TRY
+Got Type Def: MACRO_UINT
+Got Type Def: MACRO_UINT16
+Got Type Def: MACRO_UINT32
+Got Type Def: MACRO_UINT64
+Got Type Def: MACRO_UINTMAX
+Got Type Def: MACRO_UINTPTR
+Got Type Def: MACRO_UIO
+Got Type Def: MACRO_VISIBLE
+Got Type Def: MACRO_WINT
+Got Type Def: MACRO__K
+Got Type Def: MACRO___ANDROID
+Got Type Def: MACRO___BIONIC
+Got Type Def: MACRO___BITS
+Got Type Def: MACRO___FD
+Got Type Def: MACRO___WORDSIZE
+Got Type Def: MACRO___bool
+Got Type Def: MACRO_bool
+Got Type Def: _JNIEnv
+Got Type Def: _JavaVM
+Got Type Def: __be16
+Got Type Def: __be32
+Got Type Def: __be64
+Got Type Def: __builtin_va_list
+Got Type Def: __clockid_t
+Got Type Def: __gid_t
+Got Type Def: __gnuc_va_list
+Got Type Def: __id_t
+Got Type Def: __ino_t
+Got Type Def: __int16_t
+Got Type Def: __int32_t
+Got Type Def: __int64_t
+Got Type Def: __int8_t
+Got Type Def: __intptr_t
+Got Type Def: __kernel_caddr_t
+Got Type Def: __kernel_clock_t
+Got Type Def: __kernel_clockid_t
+Got Type Def: __kernel_daddr_t
+Got Type Def: __kernel_fd_set
+Got Type Def: __kernel_fsid_t
+Got Type Def: __kernel_gid16_t
+Got Type Def: __kernel_gid32_t
+Got Type Def: __kernel_gid_t
+Got Type Def: __kernel_ino_t
+Got Type Def: __kernel_ipc_pid_t
+Got Type Def: __kernel_key_t
+Got Type Def: __kernel_loff_t
+Got Type Def: __kernel_long_t
+Got Type Def: __kernel_mode_t
+Got Type Def: __kernel_mqd_t
+Got Type Def: __kernel_off_t
+Got Type Def: __kernel_old_dev_t
+Got Type Def: __kernel_old_gid_t
+Got Type Def: __kernel_old_uid_t
+Got Type Def: __kernel_pid_t
+Got Type Def: __kernel_ptrdiff_t
+Got Type Def: __kernel_sa_family_t
+Got Type Def: __kernel_sighandler_t
+Got Type Def: __kernel_size_t
+Got Type Def: __kernel_sockaddr_storage
+Got Type Def: __kernel_ssize_t
+Got Type Def: __kernel_suseconds_t
+Got Type Def: __kernel_time_t
+Got Type Def: __kernel_timer_t
+Got Type Def: __kernel_uid16_t
+Got Type Def: __kernel_uid32_t
+Got Type Def: __kernel_uid_t
+Got Type Def: __kernel_ulong_t
+Got Type Def: __key_t
+Got Type Def: __le16
+Got Type Def: __le32
+Got Type Def: __le64
+Got Type Def: __locale_t
+Got Type Def: __mode_t
+Got Type Def: __nlink_t
+Got Type Def: __pid_t
+Got Type Def: __s16
+Got Type Def: __s32
+Got Type Def: __s64
+Got Type Def: __s8
+Got Type Def: __socklen_t
+Got Type Def: __sum16
+Got Type Def: __suseconds_t
+Got Type Def: __time_t
+Got Type Def: __timer_t
+Got Type Def: __u16
+Got Type Def: __u32
+Got Type Def: __u64
+Got Type Def: __u8
+Got Type Def: __uid_t
+Got Type Def: __uint16_t
+Got Type Def: __uint32_t
+Got Type Def: __uint64_t
+Got Type Def: __uint8_t
+Got Type Def: __uintptr_t
+Got Type Def: __useconds_t
+Got Type Def: __va_list
+Got Type Def: __wsum
+Got Type Def: _jfieldID
+Got Type Def: _jmethodID
+Got Type Def: addrinfo
+Got Type Def: android_LogPriority
+Got Type Def: android_dlextinfo
+Got Type Def: android_tts_audio_format_t
+Got Type Def: android_tts_callback_status_t
+Got Type Def: android_tts_engine_funcs_t
+Got Type Def: android_tts_engine_t
+Got Type Def: android_tts_result_t
+Got Type Def: android_tts_support_result_t
+Got Type Def: android_tts_synth_cb_t
+Got Type Def: android_tts_synth_status_t
+Got Type Def: blkcnt_t
+Got Type Def: blksize_t
+Got Type Def: caddr_t
+Got Type Def: clock_t
+Got Type Def: clockid_t
+Got Type Def: cmsghdr
+Got Type Def: daddr_t
+Got Type Def: dev_t
+Got Type Def: div_t
+Got Type Def: f_owner_ex
+Got Type Def: flock
+Got Type Def: flock64
+Got Type Def: fsblkcnt_t
+Got Type Def: fsfilcnt_t
+Got Type Def: gid_t
+Got Type Def: hostent
+Got Type Def: id_t
+Got Type Def: ino_t
+Got Type Def: int16_t
+Got Type Def: int32_t
+Got Type Def: int64_t
+Got Type Def: int8_t
+Got Type Def: int_fast16_t
+Got Type Def: int_fast32_t
+Got Type Def: int_fast64_t
+Got Type Def: int_fast8_t
+Got Type Def: int_least16_t
+Got Type Def: int_least32_t
+Got Type Def: int_least64_t
+Got Type Def: int_least8_t
+Got Type Def: intmax_t
+Got Type Def: intptr_t
+Got Type Def: iovec
+Got Type Def: jarray
+Got Type Def: jboolean
+Got Type Def: jbooleanArray
+Got Type Def: jbyte
+Got Type Def: jbyteArray
+Got Type Def: jchar
+Got Type Def: jcharArray
+Got Type Def: jclass
+Got Type Def: jdouble
+Got Type Def: jdoubleArray
+Got Type Def: jfieldID
+Got Type Def: jfloat
+Got Type Def: jfloatArray
+Got Type Def: jint
+Got Type Def: jintArray
+Got Type Def: jlong
+Got Type Def: jlongArray
+Got Type Def: jmethodID
+Got Type Def: jobject
+Got Type Def: jobjectArray
+Got Type Def: jobjectRefType
+Got Type Def: jshort
+Got Type Def: jshortArray
+Got Type Def: jsize
+Got Type Def: jstring
+Got Type Def: jthrowable
+Got Type Def: jvalue
+Got Type Def: jweak
+Got Type Def: key_t
+Got Type Def: ldiv_t
+Got Type Def: linger
+Got Type Def: lldiv_t
+Got Type Def: locale_t
+Got Type Def: loff_t
+Got Type Def: mallinfo
+Got Type Def: mmsghdr
+Got Type Def: mode_t
+Got Type Def: msghdr
+Got Type Def: net_handle_t
+Got Type Def: netent
+Got Type Def: nlink_t
+Got Type Def: off64_t
+Got Type Def: off_t
+Got Type Def: pid_t
+Got Type Def: protoent
+Got Type Def: ptrdiff_t
+Got Type Def: sa_family_t
+Got Type Def: servent
+Got Type Def: size_t
+Got Type Def: sockaddr
+Got Type Def: socklen_t
+Got Type Def: ssize_t
+Got Type Def: structors_array_t
+Got Type Def: suseconds_t
+Got Type Def: time_t
+Got Type Def: timer_t
+Got Type Def: timespec
+Got Type Def: u_char
+Got Type Def: u_int
+Got Type Def: u_int16_t
+Got Type Def: u_int32_t
+Got Type Def: u_int64_t
+Got Type Def: u_int8_t
+Got Type Def: u_long
+Got Type Def: u_short
+Got Type Def: ucred
+Got Type Def: uid_t
+Got Type Def: uint
+Got Type Def: uint16_t
+Got Type Def: uint32_t
+Got Type Def: uint64_t
+Got Type Def: uint8_t
+Got Type Def: uint_fast16_t
+Got Type Def: uint_fast32_t
+Got Type Def: uint_fast64_t
+Got Type Def: uint_fast8_t
+Got Type Def: uint_least16_t
+Got Type Def: uint_least32_t
+Got Type Def: uint_least64_t
+Got Type Def: uint_least8_t
+Got Type Def: uint_t
+Got Type Def: uintmax_t
+Got Type Def: uintptr_t
+Got Type Def: useconds_t
+Got Type Def: va_list
+Got Type Def: wchar_t
+Fixing nested struct!
+   Ori struct: struct ASensorEvent {int32_t version;int32_t sensor;int32_t type;int32_t reserved0;int64_t timestamp;union {union {float data[16];ASensorVector vector;ASensorVector acceleration;ASensorVector magnetic;float temperature;float distance;float light;float pressure;float relative_humidity;AUncalibratedEvent uncalibrated_gyro;AUncalibratedEvent uncalibrated_magnetic;AMetaDataEvent meta_data;AHeartRateEvent heart_rate;};union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C u64;};uint32_t flags;int32_t reserved1[3];};
+   New struct: struct ASensorEvent {int32_t version;int32_t sensor;int32_t type;int32_t reserved0;int64_t timestamp;union {ASensorEvent___8C4383882548A4AFD5A27D59188EEA15 __anonymous0;union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C u64;};uint32_t flags;int32_t reserved1[3];};
+Fixing nested struct!
+   Ori struct: union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15 {union {float data[16];ASensorVector vector;ASensorVector acceleration;ASensorVector magnetic;float temperature;float distance;float light;float pressure;float relative_humidity;AUncalibratedEvent uncalibrated_gyro;AUncalibratedEvent uncalibrated_magnetic;AMetaDataEvent meta_data;AHeartRateEvent heart_rate;};union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C u64;};
+   New struct: union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15 {ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03 __anonymous0;union ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C u64;};
+Fixing nested struct!
+   Ori struct: struct ASensorVector {union {float v[3];struct {float x;float y;float z;};struct {float azimuth;float pitch;float roll;};};int8_t status;uint8_t reserved[3];};
+   New struct: struct ASensorVector {union {float v[3];ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008 __anonymous0;ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6 __anonymous1;};int8_t status;uint8_t reserved[3];};[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmpqp93mmuu/typDef.json',
+  '/tmp/tmpqp93mmuu/regexRet.json'
+]
+Calculating dependency for _04002F0402C508C6DCA950313C38753A
+Calculating dependency for _06CAB5296C39900A9CE51DBF4F560AD6
+Calculating dependency for _0A08CFE9374656399FFB4BF5C54E6AAD
+Calculating dependency for _13B8135214ADCA8C5B891879B37639D2
+Calculating dependency for _1A098DE8B5FD566F9A5BC3A59F895876
+Calculating dependency for _1EEB42125CB8A02EEEDF6B2D5DAB4486
+Calculating dependency for _294E6B22D2C7C3462ECC5C21F28E2210
+Calculating dependency for _2DFCE81C22045DA5588F32BE57F779B3
+Calculating dependency for _33C3A92DE7424356190637196BFAB2FD
+Calculating dependency for _3EDC26D5AD8305513B732BC9206567CE
+Calculating dependency for _4139C7DF365D5434A7E6C4EAB6785B55
+Calculating dependency for _43465BD039ADFB836688E81ACF130360
+Calculating dependency for _43C70A9F12D4BBD98F9B0F65C539512C
+Calculating dependency for _49F8A3275CB8ABD51DE4E72706AE5CC8
+Calculating dependency for _6A860F0239D1D54EF2A4CDC8898EA208
+Calculating dependency for _6BD93AD6A320A51794F58DE6EDFB59E6
+Calculating dependency for _6CF558C41A0BF1C80174ADD62A6DBE10
+Calculating dependency for _7EC23C51206D55A80D1F276DA8A5980F
+Calculating dependency for _813B786A03EC45D0D5359DBC0989DB3C
+Calculating dependency for _82E117BB9FC04C8485243D8E6D5317B0
+Calculating dependency for _8391374E526CE51103AADBB5D9199BE1
+Calculating dependency for _84DF78F24C88ED534F04DAB1618088EB
+Calculating dependency for _89669B75FFFA2E86F49C9A03322F5AA7
+Calculating dependency for _8FD9CD2309289E94A8F9FFD043EF0AFD
+Calculating dependency for _95883D125DB13DB1D57A7284B9B24EE2
+Calculating dependency for _979FA3DE6ECCF956231BFC297C4278E6
+Calculating dependency for _9A42493D2BEF7F5422B539727BDDB5E2
+Calculating dependency for _A3DE050FA3F4C661374A5EDCE5929D78
+Calculating dependency for _A57BE63AFA9E7C22F20D0CC4DC1F0295
+Calculating dependency for _A66A407457C3F86F0D5D01263F39DB8B
+Calculating dependency for _AC1F0727205AA235F31FA7E4FBAB6931
+Calculating dependency for _AD64F63EA24B69117AF36AB567679717
+Calculating dependency for _B343988F95AB2F1D8FA49E95A93C30CE
+Calculating dependency for _B34E6FF94D606ADE7B24EB7AB8A02C61
+Calculating dependency for _B82DD008134C41CE6745BEDF33E8A9EF
+Calculating dependency for _B8EBEDC710F2D2D4BF6562A77E339AD2
+Calculating dependency for _BF3B02121B7CEC921D6E601970F9B0F9
+Calculating dependency for _C90664CDFAFCCB655C0534A15FE08428
+Calculating dependency for _D8A37C4E5955677A821D861553F77D56
+Calculating dependency for _DCE88B22097C19B754359F67EC2BAC42
+Calculating dependency for _F1FBE46807403350B28214291BCCB154
+Calculating dependency for _F5B8624EE83FF6F82791C1F247BCF763
+Calculating dependency for _F64AC3025220C98ACA937EAAAA67CC79
+Calculating dependency for _FB68FDDBB52DBDF02F327E3198820E09
+Calculating dependency for _FE49DD53806F6C6786D41F1B1A617458
+Calculating dependency for _FFDA7144AC23E088DA23CB4BAD3742B2
+Calculating dependency for AAsset
+Calculating dependency for AAssetDir
+Calculating dependency for AAssetManager
+Calculating dependency for AChoreographer
+Calculating dependency for AChoreographer_frameCallback
+Calculating dependency for AConfiguration
+Calculating dependency for AHeartRateEvent
+Calculating dependency for AInputEvent
+Calculating dependency for AInputQueue
+Calculating dependency for ALooper
+Calculating dependency for ALooper_callbackFunc
+Calculating dependency for AMetaDataEvent
+Calculating dependency for ANativeActivity
+Calculating dependency for ANativeActivityCallbacks
+Calculating dependency for ANativeActivity_createFunc
+Calculating dependency for ANativeWindow
+Calculating dependency for ANativeWindow_Buffer
+Calculating dependency for AObbInfo
+Calculating dependency for ARect
+Calculating dependency for ASensor
+Calculating dependency for ASensorEvent
+Calculating dependency for ASensorEvent___8C4383882548A4AFD5A27D59188EEA15
+Calculating dependency for ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03
+Calculating dependency for ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C
+Calculating dependency for ASensorEventQueue
+Calculating dependency for ASensorList
+Calculating dependency for ASensorManager
+Calculating dependency for ASensorRef
+Calculating dependency for ASensorVector
+Calculating dependency for ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D
+Calculating dependency for ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008
+Calculating dependency for ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6
+Calculating dependency for AStorageManager
+Calculating dependency for AStorageManager_obbCallbackFunc
+Calculating dependency for AUncalibratedEvent
+Calculating dependency for AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B
+Calculating dependency for AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A
+Calculating dependency for AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5
+Calculating dependency for AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66
+Calculating dependency for AndroidBitmapFormat
+Calculating dependency for AndroidBitmapInfo
+Calculating dependency for C_JNIEnv
+Calculating dependency for JNIEnv
+Calculating dependency for JNIInvokeInterface
+Calculating dependency for JNINativeInterface
+Calculating dependency for JNINativeMethod
+Calculating dependency for JavaVM
+Calculating dependency for JavaVMAttachArgs
+Calculating dependency for JavaVMInitArgs
+Calculating dependency for JavaVMOption
+Calculating dependency for MACRO_AF
+Calculating dependency for MACRO_AI
+Calculating dependency for MACRO_AMOTION
+Calculating dependency for MACRO_ANDROID
+Calculating dependency for MACRO_EAI
+Calculating dependency for MACRO_EXIT
+Calculating dependency for MACRO_F
+Calculating dependency for MACRO_FASYNC
+Calculating dependency for MACRO_FD
+Calculating dependency for MACRO_FIOGETOWN
+Calculating dependency for MACRO_FIOSETOWN
+Calculating dependency for MACRO_F_LINUX
+Calculating dependency for MACRO_F_RDLCK
+Calculating dependency for MACRO_HOST
+Calculating dependency for MACRO_INT
+Calculating dependency for MACRO_INT16
+Calculating dependency for MACRO_INT32
+Calculating dependency for MACRO_INT64
+Calculating dependency for MACRO_INT8
+Calculating dependency for MACRO_INTMAX
+Calculating dependency for MACRO_INTPTR
+Calculating dependency for MACRO_INT_LEAST16
+Calculating dependency for MACRO_INT_LEAST32
+Calculating dependency for MACRO_INT_LEAST64
+Calculating dependency for MACRO_IPX
+Calculating dependency for MACRO_JNI
+Calculating dependency for MACRO_LOCK
+Calculating dependency for MACRO_MAX
+Calculating dependency for MACRO_MAXHOSTNAMELEN
+Calculating dependency for MACRO_MSG
+Calculating dependency for MACRO_NETDB
+Calculating dependency for MACRO_NETWORK
+Calculating dependency for MACRO_NI
+Calculating dependency for MACRO_NO
+Calculating dependency for MACRO_NULL
+Calculating dependency for MACRO_O
+Calculating dependency for MACRO_O_NOATIME
+Calculating dependency for MACRO_O_PATH
+Calculating dependency for MACRO_O_TMPFILE
+Calculating dependency for MACRO_PF
+Calculating dependency for MACRO_PTRDIFF
+Calculating dependency for MACRO_RAND
+Calculating dependency for MACRO_SCM
+Calculating dependency for MACRO_SCM_RIGHTS
+Calculating dependency for MACRO_SCM_TIMESTAMPING
+Calculating dependency for MACRO_SCM_TIMESTAMPNS
+Calculating dependency for MACRO_SCM_WIFI
+Calculating dependency for MACRO_SCOPE
+Calculating dependency for MACRO_SIG
+Calculating dependency for MACRO_SIOCADDDLCI
+Calculating dependency for MACRO_SIOCADDMULTI
+Calculating dependency for MACRO_SIOCADDRT
+Calculating dependency for MACRO_SIOCATMARK
+Calculating dependency for MACRO_SIOCBONDCHANGEACTIVE
+Calculating dependency for MACRO_SIOCBONDENSLAVE
+Calculating dependency for MACRO_SIOCBONDINFOQUERY
+Calculating dependency for MACRO_SIOCBONDRELEASE
+Calculating dependency for MACRO_SIOCBONDSETHWADDR
+Calculating dependency for MACRO_SIOCBONDSLAVEINFOQUERY
+Calculating dependency for MACRO_SIOCBRADDBR
+Calculating dependency for MACRO_SIOCBRADDIF
+Calculating dependency for MACRO_SIOCBRDELBR
+Calculating dependency for MACRO_SIOCBRDELIF
+Calculating dependency for MACRO_SIOCDARP
+Calculating dependency for MACRO_SIOCDELDLCI
+Calculating dependency for MACRO_SIOCDELMULTI
+Calculating dependency for MACRO_SIOCDELRT
+Calculating dependency for MACRO_SIOCDEVPRIVATE
+Calculating dependency for MACRO_SIOCDIFADDR
+Calculating dependency for MACRO_SIOCDRARP
+Calculating dependency for MACRO_SIOCETHTOOL
+Calculating dependency for MACRO_SIOCGARP
+Calculating dependency for MACRO_SIOCGHWTSTAMP
+Calculating dependency for MACRO_SIOCGIFADDR
+Calculating dependency for MACRO_SIOCGIFBR
+Calculating dependency for MACRO_SIOCGIFBRDADDR
+Calculating dependency for MACRO_SIOCGIFCONF
+Calculating dependency for MACRO_SIOCGIFCOUNT
+Calculating dependency for MACRO_SIOCGIFDSTADDR
+Calculating dependency for MACRO_SIOCGIFENCAP
+Calculating dependency for MACRO_SIOCGIFFLAGS
+Calculating dependency for MACRO_SIOCGIFHWADDR
+Calculating dependency for MACRO_SIOCGIFINDEX
+Calculating dependency for MACRO_SIOCGIFMAP
+Calculating dependency for MACRO_SIOCGIFMEM
+Calculating dependency for MACRO_SIOCGIFMETRIC
+Calculating dependency for MACRO_SIOCGIFMTU
+Calculating dependency for MACRO_SIOCGIFNAME
+Calculating dependency for MACRO_SIOCGIFNETMASK
+Calculating dependency for MACRO_SIOCGIFPFLAGS
+Calculating dependency for MACRO_SIOCGIFSLAVE
+Calculating dependency for MACRO_SIOCGIFTXQLEN
+Calculating dependency for MACRO_SIOCGIFVLAN
+Calculating dependency for MACRO_SIOCGMIIPHY
+Calculating dependency for MACRO_SIOCGMIIREG
+Calculating dependency for MACRO_SIOCGPGRP
+Calculating dependency for MACRO_SIOCGRARP
+Calculating dependency for MACRO_SIOCGSTAMP
+Calculating dependency for MACRO_SIOCGSTAMPNS
+Calculating dependency for MACRO_SIOCOUTQNSD
+Calculating dependency for MACRO_SIOCPROTOPRIVATE
+Calculating dependency for MACRO_SIOCRTMSG
+Calculating dependency for MACRO_SIOCSARP
+Calculating dependency for MACRO_SIOCSHWTSTAMP
+Calculating dependency for MACRO_SIOCSIFADDR
+Calculating dependency for MACRO_SIOCSIFBR
+Calculating dependency for MACRO_SIOCSIFBRDADDR
+Calculating dependency for MACRO_SIOCSIFDSTADDR
+Calculating dependency for MACRO_SIOCSIFENCAP
+Calculating dependency for MACRO_SIOCSIFFLAGS
+Calculating dependency for MACRO_SIOCSIFHWADDR
+Calculating dependency for MACRO_SIOCSIFHWBROADCAST
+Calculating dependency for MACRO_SIOCSIFLINK
+Calculating dependency for MACRO_SIOCSIFMAP
+Calculating dependency for MACRO_SIOCSIFMEM
+Calculating dependency for MACRO_SIOCSIFMETRIC
+Calculating dependency for MACRO_SIOCSIFMTU
+Calculating dependency for MACRO_SIOCSIFNAME
+Calculating dependency for MACRO_SIOCSIFNETMASK
+Calculating dependency for MACRO_SIOCSIFPFLAGS
+Calculating dependency for MACRO_SIOCSIFSLAVE
+Calculating dependency for MACRO_SIOCSIFTXQLEN
+Calculating dependency for MACRO_SIOCSIFVLAN
+Calculating dependency for MACRO_SIOCSMIIREG
+Calculating dependency for MACRO_SIOCSPGRP
+Calculating dependency for MACRO_SIOCSRARP
+Calculating dependency for MACRO_SIOCWANDEV
+Calculating dependency for MACRO_SIOGIFINDEX
+Calculating dependency for MACRO_SIZE
+Calculating dependency for MACRO_SO
+Calculating dependency for MACRO_SOCK
+Calculating dependency for MACRO_SOL
+Calculating dependency for MACRO_SOL_IP
+Calculating dependency for MACRO_SOMAXCONN
+Calculating dependency for MACRO_SO_ACCEPTCONN
+Calculating dependency for MACRO_SO_MARK
+Calculating dependency for MACRO_SO_PEEK
+Calculating dependency for MACRO_SO_PROTOCOL
+Calculating dependency for MACRO_STRUCT
+Calculating dependency for MACRO_SYNC
+Calculating dependency for MACRO_TMPFILE
+Calculating dependency for MACRO_TRY
+Calculating dependency for MACRO_UINT
+Calculating dependency for MACRO_UINT16
+Calculating dependency for MACRO_UINT32
+Calculating dependency for MACRO_UINT64
+Calculating dependency for MACRO_UINTMAX
+Calculating dependency for MACRO_UINTPTR
+Calculating dependency for MACRO_UIO
+Calculating dependency for MACRO_VISIBLE
+Calculating dependency for MACRO_WINT
+Calculating dependency for MACRO__K
+Calculating dependency for MACRO___ANDROID
+Calculating dependency for MACRO___BIONIC
+Calculating dependency for MACRO___BITS
+Calculating dependency for MACRO___FD
+Calculating dependency for MACRO___WORDSIZE
+Calculating dependency for MACRO___bool
+Calculating dependency for MACRO_bool
+Calculating dependency for _JNIEnv
+Calculating dependency for _JavaVM
+Calculating dependency for __be16
+Calculating dependency for __be32
+Calculating dependency for __be64
+Calculating dependency for __builtin_va_list
+Calculating dependency for __clockid_t
+Calculating dependency for __gid_t
+Calculating dependency for __gnuc_va_list
+Calculating dependency for __id_t
+Calculating dependency for __ino_t
+Calculating dependency for __int16_t
+Calculating dependency for __int32_t
+Calculating dependency for __int64_t
+Calculating dependency for __int8_t
+Calculating dependency for __intptr_t
+Calculating dependency for __kernel_caddr_t
+Calculating dependency for __kernel_clock_t
+Calculating dependency for __kernel_clockid_t
+Calculating dependency for __kernel_daddr_t
+Calculating dependency for __kernel_fd_set
+Calculating dependency for __kernel_fsid_t
+Calculating dependency for __kernel_gid16_t
+Calculating dependency for __kernel_gid32_t
+Calculating dependency for __kernel_gid_t
+Calculating dependency for __kernel_ino_t
+Calculating dependency for __kernel_ipc_pid_t
+Calculating dependency for __kernel_key_t
+Calculating dependency for __kernel_loff_t
+Calculating dependency for __kernel_long_t
+Calculating dependency for __kernel_mode_t
+Calculating dependency for __kernel_mqd_t
+Calculating dependency for __kernel_off_t
+Calculating dependency for __kernel_old_dev_t
+Calculating dependency for __kernel_old_gid_t
+Calculating dependency for __kernel_old_uid_t
+Calculating dependency for __kernel_pid_t
+Calculating dependency for __kernel_ptrdiff_t
+Calculating dependency for __kernel_sa_family_t
+Calculating dependency for __kernel_sighandler_t
+Calculating dependency for __kernel_size_t
+Calculating dependency for __kernel_sockaddr_storage
+Calculating dependency for __kernel_ssize_t
+Calculating dependency for __kernel_suseconds_t
+Calculating dependency for __kernel_time_t
+Calculating dependency for __kernel_timer_t
+Calculating dependency for __kernel_uid16_t
+Calculating dependency for __kernel_uid32_t
+Calculating dependency for __kernel_uid_t
+Calculating dependency for __kernel_ulong_t
+Calculating dependency for __key_t
+Calculating dependency for __le16
+Calculating dependency for __le32
+Calculating dependency for __le64
+Calculating dependency for __locale_t
+Calculating dependency for __mode_t
+Calculating dependency for __nlink_t
+Calculating dependency for __pid_t
+Calculating dependency for __s16
+Calculating dependency for __s32
+Calculating dependency for __s64
+Calculating dependency for __s8
+Calculating dependency for __socklen_t
+Calculating dependency for __sum16
+Calculating dependency for __suseconds_t
+Calculating dependency for __time_t
+Calculating dependency for __timer_t
+Calculating dependency for __u16
+Calculating dependency for __u32
+Calculating dependency for __u64
+Calculating dependency for __u8
+Calculating dependency for __uid_t
+Calculating dependency for __uint16_t
+Calculating dependency for __uint32_t
+Calculating dependency for __uint64_t
+Calculating dependency for __uint8_t
+Calculating dependency for __uintptr_t
+Calculating dependency for __useconds_t
+Calculating dependency for __va_list
+Calculating dependency for __wsum
+Calculating dependency for _jfieldID
+Calculating dependency for _jmethodID
+Calculating dependency for addrinfo
+Calculating dependency for android_LogPriority
+Calculating dependency for android_dlextinfo
+Calculating dependency for android_tts_audio_format_t
+Calculating dependency for android_tts_callback_status_t
+Calculating dependency for android_tts_engine_funcs_t
+Calculating dependency for android_tts_engine_t
+Calculating dependency for android_tts_result_t
+Calculating dependency for android_tts_support_result_t
+Calculating dependency for android_tts_synth_cb_t
+Calculating dependency for android_tts_synth_status_t
+Calculating dependency for blkcnt_t
+Calculating dependency for blksize_t
+Calculating dependency for caddr_t
+Calculating dependency for clock_t
+Calculating dependency for clockid_t
+Calculating dependency for cmsghdr
+Calculating dependency for daddr_t
+Calculating dependency for dev_t
+Calculating dependency for div_t
+Calculating dependency for f_owner_ex
+Calculating dependency for flock
+Calculating dependency for flock64
+Calculating dependency for fsblkcnt_t
+Calculating dependency for fsfilcnt_t
+Calculating dependency for gid_t
+Calculating dependency for hostent
+Calculating dependency for id_t
+Calculating dependency for ino_t
+Calculating dependency for int16_t
+Calculating dependency for int32_t
+Calculating dependency for int64_t
+Calculating dependency for int8_t
+Calculating dependency for int_fast16_t
+Calculating dependency for int_fast32_t
+Calculating dependency for int_fast64_t
+Calculating dependency for int_fast8_t
+Calculating dependency for int_least16_t
+Calculating dependency for int_least32_t
+Calculating dependency for int_least64_t
+Calculating dependency for int_least8_t
+Calculating dependency for intmax_t
+Calculating dependency for intptr_t
+Calculating dependency for iovec
+Calculating dependency for jarray
+Calculating dependency for jboolean
+Calculating dependency for jbooleanArray
+Calculating dependency for jbyte
+Calculating dependency for jbyteArray
+Calculating dependency for jchar
+Calculating dependency for jcharArray
+Calculating dependency for jclass
+Calculating dependency for jdouble
+Calculating dependency for jdoubleArray
+Calculating dependency for jfieldID
+Calculating dependency for jfloat
+Calculating dependency for jfloatArray
+Calculating dependency for jint
+Calculating dependency for jintArray
+Calculating dependency for jlong
+Calculating dependency for jlongArray
+Calculating dependency for jmethodID
+Calculating dependency for jobject
+Calculating dependency for jobjectArray
+Calculating dependency for jobjectRefType
+Calculating dependency for jshort
+Calculating dependency for jshortArray
+Calculating dependency for jsize
+Calculating dependency for jstring
+Calculating dependency for jthrowable
+Calculating dependency for jvalue
+Calculating dependency for jweak
+Calculating dependency for key_t
+Calculating dependency for ldiv_t
+Calculating dependency for linger
+Calculating dependency for lldiv_t
+Calculating dependency for locale_t
+Calculating dependency for loff_t
+Calculating dependency for mallinfo
+Calculating dependency for mmsghdr
+Calculating dependency for mode_t
+Calculating dependency for msghdr
+Calculating dependency for net_handle_t
+Calculating dependency for netent
+Calculating dependency for nlink_t
+Calculating dependency for off64_t
+Calculating dependency for off_t
+Calculating dependency for pid_t
+Calculating dependency for protoent
+Calculating dependency for ptrdiff_t
+Calculating dependency for sa_family_t
+Calculating dependency for servent
+Calculating dependency for size_t
+Calculating dependency for sockaddr
+Calculating dependency for socklen_t
+Calculating dependency for ssize_t
+Calculating dependency for structors_array_t
+Calculating dependency for suseconds_t
+Calculating dependency for time_t
+Calculating dependency for timer_t
+Calculating dependency for timespec
+Calculating dependency for u_char
+Calculating dependency for u_int
+Calculating dependency for u_int16_t
+Calculating dependency for u_int32_t
+Calculating dependency for u_int64_t
+Calculating dependency for u_int8_t
+Calculating dependency for u_long
+Calculating dependency for u_short
+Calculating dependency for ucred
+Calculating dependency for uid_t
+Calculating dependency for uint
+Calculating dependency for uint16_t
+Calculating dependency for uint32_t
+Calculating dependency for uint64_t
+Calculating dependency for uint8_t
+Calculating dependency for uint_fast16_t
+Calculating dependency for uint_fast32_t
+Calculating dependency for uint_fast64_t
+Calculating dependency for uint_fast8_t
+Calculating dependency for uint_least16_t
+Calculating dependency for uint_least32_t
+Calculating dependency for uint_least64_t
+Calculating dependency for uint_least8_t
+Calculating dependency for uint_t
+Calculating dependency for uintmax_t
+Calculating dependency for uintptr_t
+Calculating dependency for useconds_t
+Calculating dependency for wchar_t
+
+Fixing nested struct!
+   Ori struct: union ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D {float v[3];struct {float x;float y;float z;};struct {float azimuth;float pitch;float roll;};};
+   New struct: union ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D {float v[3];ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008 __anonymous0;ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6 __anonymous1;};
+Fixing nested struct!
+   Ori struct: struct AUncalibratedEvent {union {float uncalib[3];struct {float x_uncalib;float y_uncalib;float z_uncalib;};};union {float bias[3];struct {float x_bias;float y_bias;float z_bias;};};};
+   New struct: struct AUncalibratedEvent {union {float uncalib[3];AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A __anonymous0;};union {float bias[3];AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66 __anonymous1;};};
+Fixing nested struct!
+   Ori struct: union AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B {float uncalib[3];struct {float x_uncalib;float y_uncalib;float z_uncalib;};};
+   New struct: union AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B {float uncalib[3];AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A __anonymous0;};
+Fixing nested struct!
+   Ori struct: union AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5 {float bias[3];struct {float x_bias;float y_bias;float z_bias;};};
+   New struct: union AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5 {float bias[3];AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66 __anonymous0;};
+Fixing nested struct!
+   Ori struct: struct ASensorVector {union {float v[3];ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008 __anonymous0;ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6 __anonymous1;};int8_t status;uint8_t reserved[3];};
+   New struct: struct ASensorVector {ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D __anonymous0;int8_t status;uint8_t reserved[3];};
+Fixing nested struct!
+   Ori struct: struct AUncalibratedEvent {union {float uncalib[3];AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A __anonymous0;};union {float bias[3];AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66 __anonymous1;};};
+   New struct: struct AUncalibratedEvent {AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B __anonymous0;union {float bias[3];AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66 __anonymous1;};};
+Compiling all type regex...
+Calculating dependency for: AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A
+Calculating dependency for: AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66
+Calculating dependency for: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008
+Calculating dependency for: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6
+Calculating dependency for: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03
+Calculating dependency for: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C
+Calculating dependency for: AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B
+Calculating dependency for: AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5
+Calculating dependency for: ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D
+Calculating dependency for: ASensorEvent___8C4383882548A4AFD5A27D59188EEA15
+Calculating dependency for: _04002F0402C508C6DCA950313C38753A
+Calculating dependency for: _06CAB5296C39900A9CE51DBF4F560AD6
+Calculating dependency for: _0A08CFE9374656399FFB4BF5C54E6AAD
+Calculating dependency for: _13B8135214ADCA8C5B891879B37639D2
+Calculating dependency for: _1A098DE8B5FD566F9A5BC3A59F895876
+Calculating dependency for: _1EEB42125CB8A02EEEDF6B2D5DAB4486
+Calculating dependency for: _294E6B22D2C7C3462ECC5C21F28E2210
+Calculating dependency for: _2DFCE81C22045DA5588F32BE57F779B3
+Calculating dependency for: _33C3A92DE7424356190637196BFAB2FD
+Calculating dependency for: _3EDC26D5AD8305513B732BC9206567CE
+Calculating dependency for: _4139C7DF365D5434A7E6C4EAB6785B55
+Calculating dependency for: _43465BD039ADFB836688E81ACF130360
+Calculating dependency for: _43C70A9F12D4BBD98F9B0F65C539512C
+Calculating dependency for: _49F8A3275CB8ABD51DE4E72706AE5CC8
+Calculating dependency for: _6A860F0239D1D54EF2A4CDC8898EA208
+Calculating dependency for: _6BD93AD6A320A51794F58DE6EDFB59E6
+Calculating dependency for: _6CF558C41A0BF1C80174ADD62A6DBE10
+Calculating dependency for: _7EC23C51206D55A80D1F276DA8A5980F
+Calculating dependency for: _813B786A03EC45D0D5359DBC0989DB3C
+Calculating dependency for: _82E117BB9FC04C8485243D8E6D5317B0
+Calculating dependency for: _8391374E526CE51103AADBB5D9199BE1
+Calculating dependency for: _84DF78F24C88ED534F04DAB1618088EB
+Calculating dependency for: _89669B75FFFA2E86F49C9A03322F5AA7
+Calculating dependency for: _8FD9CD2309289E94A8F9FFD043EF0AFD
+Calculating dependency for: _95883D125DB13DB1D57A7284B9B24EE2
+Calculating dependency for: _979FA3DE6ECCF956231BFC297C4278E6
+Calculating dependency for: _9A42493D2BEF7F5422B539727BDDB5E2
+Calculating dependency for: _A3DE050FA3F4C661374A5EDCE5929D78
+Calculating dependency for: _A57BE63AFA9E7C22F20D0CC4DC1F0295
+Calculating dependency for: _A66A407457C3F86F0D5D01263F39DB8B
+Calculating dependency for: _AC1F0727205AA235F31FA7E4FBAB6931
+Calculating dependency for: _AD64F63EA24B69117AF36AB567679717
+Calculating dependency for: _B343988F95AB2F1D8FA49E95A93C30CE
+Calculating dependency for: _B34E6FF94D606ADE7B24EB7AB8A02C61
+Calculating dependency for: _B82DD008134C41CE6745BEDF33E8A9EF
+Calculating dependency for: _B8EBEDC710F2D2D4BF6562A77E339AD2
+Calculating dependency for: _BF3B02121B7CEC921D6E601970F9B0F9
+Calculating dependency for: _C90664CDFAFCCB655C0534A15FE08428
+Calculating dependency for: _D8A37C4E5955677A821D861553F77D56
+Calculating dependency for: _DCE88B22097C19B754359F67EC2BAC42
+Calculating dependency for: _F1FBE46807403350B28214291BCCB154
+Calculating dependency for: _F5B8624EE83FF6F82791C1F247BCF763
+Calculating dependency for: _F64AC3025220C98ACA937EAAAA67CC79
+Calculating dependency for: _FB68FDDBB52DBDF02F327E3198820E09
+Calculating dependency for: _FE49DD53806F6C6786D41F1B1A617458
+Calculating dependency for: _FFDA7144AC23E088DA23CB4BAD3742B2
+Calculating dependency for: AStorageManager_obbCallbackFunc
+Calculating dependency for: android_tts_callback_status_t
+Calculating dependency for: AChoreographer_frameCallback
+Calculating dependency for: MACRO_SIOCBONDSLAVEINFOQUERY
+Calculating dependency for: android_tts_support_result_t
+Calculating dependency for: ANativeActivity_createFunc
+Calculating dependency for: MACRO_SIOCBONDCHANGEACTIVE
+Calculating dependency for: android_tts_audio_format_t
+Calculating dependency for: android_tts_engine_funcs_t
+Calculating dependency for: android_tts_synth_status_t
+Calculating dependency for: __kernel_sockaddr_storage
+Calculating dependency for: ANativeActivityCallbacks
+Calculating dependency for: MACRO_SIOCSIFHWBROADCAST
+Calculating dependency for: MACRO_SIOCBONDINFOQUERY
+Calculating dependency for: MACRO_SIOCBONDSETHWADDR
+Calculating dependency for: MACRO_SCM_TIMESTAMPING
+Calculating dependency for: MACRO_SIOCPROTOPRIVATE
+Calculating dependency for: android_tts_synth_cb_t
+Calculating dependency for: MACRO_SCM_TIMESTAMPNS
+Calculating dependency for: MACRO_SIOCBONDENSLAVE
+Calculating dependency for: MACRO_SIOCBONDRELEASE
+Calculating dependency for: __kernel_sighandler_t
+Calculating dependency for: ALooper_callbackFunc
+Calculating dependency for: ANativeWindow_Buffer
+Calculating dependency for: MACRO_MAXHOSTNAMELEN
+Calculating dependency for: MACRO_SIOCDEVPRIVATE
+Calculating dependency for: MACRO_SIOCGIFBRDADDR
+Calculating dependency for: MACRO_SIOCGIFDSTADDR
+Calculating dependency for: MACRO_SIOCGIFNETMASK
+Calculating dependency for: MACRO_SIOCSIFBRDADDR
+Calculating dependency for: MACRO_SIOCSIFDSTADDR
+Calculating dependency for: MACRO_SIOCSIFNETMASK
+Calculating dependency for: __kernel_sa_family_t
+Calculating dependency for: __kernel_suseconds_t
+Calculating dependency for: android_tts_engine_t
+Calculating dependency for: android_tts_result_t
+Calculating dependency for: AndroidBitmapFormat
+Calculating dependency for: MACRO_SIOCGHWTSTAMP
+Calculating dependency for: MACRO_SIOCGIFHWADDR
+Calculating dependency for: MACRO_SIOCGIFMETRIC
+Calculating dependency for: MACRO_SIOCGIFPFLAGS
+Calculating dependency for: MACRO_SIOCGIFTXQLEN
+Calculating dependency for: MACRO_SIOCSHWTSTAMP
+Calculating dependency for: MACRO_SIOCSIFHWADDR
+Calculating dependency for: MACRO_SIOCSIFMETRIC
+Calculating dependency for: MACRO_SIOCSIFPFLAGS
+Calculating dependency for: MACRO_SIOCSIFTXQLEN
+Calculating dependency for: MACRO_SO_ACCEPTCONN
+Calculating dependency for: android_LogPriority
+Calculating dependency for: AUncalibratedEvent
+Calculating dependency for: JNIInvokeInterface
+Calculating dependency for: JNINativeInterface
+Calculating dependency for: MACRO_SIOCADDMULTI
+Calculating dependency for: MACRO_SIOCDELMULTI
+Calculating dependency for: MACRO_SIOCGIFCOUNT
+Calculating dependency for: MACRO_SIOCGIFENCAP
+Calculating dependency for: MACRO_SIOCGIFFLAGS
+Calculating dependency for: MACRO_SIOCGIFINDEX
+Calculating dependency for: MACRO_SIOCGIFSLAVE
+Calculating dependency for: MACRO_SIOCGSTAMPNS
+Calculating dependency for: MACRO_SIOCSIFENCAP
+Calculating dependency for: MACRO_SIOCSIFFLAGS
+Calculating dependency for: MACRO_SIOCSIFSLAVE
+Calculating dependency for: __kernel_clockid_t
+Calculating dependency for: __kernel_ipc_pid_t
+Calculating dependency for: __kernel_old_dev_t
+Calculating dependency for: __kernel_old_gid_t
+Calculating dependency for: __kernel_old_uid_t
+Calculating dependency for: __kernel_ptrdiff_t
+Calculating dependency for: ASensorEventQueue
+Calculating dependency for: AndroidBitmapInfo
+Calculating dependency for: MACRO_INT_LEAST16
+Calculating dependency for: MACRO_INT_LEAST32
+Calculating dependency for: MACRO_INT_LEAST64
+Calculating dependency for: MACRO_SIOCADDDLCI
+Calculating dependency for: MACRO_SIOCBRADDBR
+Calculating dependency for: MACRO_SIOCBRADDIF
+Calculating dependency for: MACRO_SIOCBRDELBR
+Calculating dependency for: MACRO_SIOCBRDELIF
+Calculating dependency for: MACRO_SIOCDELDLCI
+Calculating dependency for: MACRO_SIOCDIFADDR
+Calculating dependency for: MACRO_SIOCETHTOOL
+Calculating dependency for: MACRO_SIOCGIFADDR
+Calculating dependency for: MACRO_SIOCGIFCONF
+Calculating dependency for: MACRO_SIOCGIFNAME
+Calculating dependency for: MACRO_SIOCGIFVLAN
+Calculating dependency for: MACRO_SIOCGMIIPHY
+Calculating dependency for: MACRO_SIOCGMIIREG
+Calculating dependency for: MACRO_SIOCOUTQNSD
+Calculating dependency for: MACRO_SIOCSIFADDR
+Calculating dependency for: MACRO_SIOCSIFLINK
+Calculating dependency for: MACRO_SIOCSIFNAME
+Calculating dependency for: MACRO_SIOCSIFVLAN
+Calculating dependency for: MACRO_SIOCSMIIREG
+Calculating dependency for: MACRO_SIOGIFINDEX
+Calculating dependency for: MACRO_SO_PROTOCOL
+Calculating dependency for: __builtin_va_list
+Calculating dependency for: android_dlextinfo
+Calculating dependency for: structors_array_t
+Calculating dependency for: JavaVMAttachArgs
+Calculating dependency for: MACRO_SCM_RIGHTS
+Calculating dependency for: MACRO_SIOCATMARK
+Calculating dependency for: MACRO_SIOCGIFMAP
+Calculating dependency for: MACRO_SIOCGIFMEM
+Calculating dependency for: MACRO_SIOCGIFMTU
+Calculating dependency for: MACRO_SIOCGSTAMP
+Calculating dependency for: MACRO_SIOCSIFMAP
+Calculating dependency for: MACRO_SIOCSIFMEM
+Calculating dependency for: MACRO_SIOCSIFMTU
+Calculating dependency for: MACRO_SIOCWANDEV
+Calculating dependency for: MACRO___WORDSIZE
+Calculating dependency for: __kernel_caddr_t
+Calculating dependency for: __kernel_clock_t
+Calculating dependency for: __kernel_daddr_t
+Calculating dependency for: __kernel_gid16_t
+Calculating dependency for: __kernel_gid32_t
+Calculating dependency for: __kernel_ssize_t
+Calculating dependency for: __kernel_timer_t
+Calculating dependency for: __kernel_uid16_t
+Calculating dependency for: __kernel_uid32_t
+Calculating dependency for: __kernel_ulong_t
+Calculating dependency for: AHeartRateEvent
+Calculating dependency for: ANativeActivity
+Calculating dependency for: AStorageManager
+Calculating dependency for: JNINativeMethod
+Calculating dependency for: MACRO_FIOGETOWN
+Calculating dependency for: MACRO_FIOSETOWN
+Calculating dependency for: MACRO_O_NOATIME
+Calculating dependency for: MACRO_O_TMPFILE
+Calculating dependency for: MACRO_SIOCADDRT
+Calculating dependency for: MACRO_SIOCDELRT
+Calculating dependency for: MACRO_SIOCDRARP
+Calculating dependency for: MACRO_SIOCGIFBR
+Calculating dependency for: MACRO_SIOCGPGRP
+Calculating dependency for: MACRO_SIOCGRARP
+Calculating dependency for: MACRO_SIOCRTMSG
+Calculating dependency for: MACRO_SIOCSIFBR
+Calculating dependency for: MACRO_SIOCSPGRP
+Calculating dependency for: MACRO_SIOCSRARP
+Calculating dependency for: MACRO_SOMAXCONN
+Calculating dependency for: MACRO___ANDROID
+Calculating dependency for: __kernel_fd_set
+Calculating dependency for: __kernel_fsid_t
+Calculating dependency for: __kernel_loff_t
+Calculating dependency for: __kernel_long_t
+Calculating dependency for: __kernel_mode_t
+Calculating dependency for: __kernel_size_t
+Calculating dependency for: __kernel_time_t
+Calculating dependency for: AChoreographer
+Calculating dependency for: AConfiguration
+Calculating dependency for: AMetaDataEvent
+Calculating dependency for: ASensorManager
+Calculating dependency for: JavaVMInitArgs
+Calculating dependency for: MACRO_SCM_WIFI
+Calculating dependency for: MACRO_SIOCDARP
+Calculating dependency for: MACRO_SIOCGARP
+Calculating dependency for: MACRO_SIOCSARP
+Calculating dependency for: MACRO___BIONIC
+Calculating dependency for: __gnuc_va_list
+Calculating dependency for: __kernel_gid_t
+Calculating dependency for: __kernel_ino_t
+Calculating dependency for: __kernel_key_t
+Calculating dependency for: __kernel_mqd_t
+Calculating dependency for: __kernel_off_t
+Calculating dependency for: __kernel_pid_t
+Calculating dependency for: __kernel_uid_t
+Calculating dependency for: jobjectRefType
+Calculating dependency for: uint_least16_t
+Calculating dependency for: uint_least32_t
+Calculating dependency for: uint_least64_t
+Calculating dependency for: AAssetManager
+Calculating dependency for: ANativeWindow
+Calculating dependency for: ASensorVector
+Calculating dependency for: MACRO_AMOTION
+Calculating dependency for: MACRO_ANDROID
+Calculating dependency for: MACRO_F_LINUX
+Calculating dependency for: MACRO_F_RDLCK
+Calculating dependency for: MACRO_NETWORK
+Calculating dependency for: MACRO_PTRDIFF
+Calculating dependency for: MACRO_SO_MARK
+Calculating dependency for: MACRO_SO_PEEK
+Calculating dependency for: MACRO_TMPFILE
+Calculating dependency for: MACRO_UINTMAX
+Calculating dependency for: MACRO_UINTPTR
+Calculating dependency for: MACRO_VISIBLE
+Calculating dependency for: __suseconds_t
+Calculating dependency for: int_least16_t
+Calculating dependency for: int_least32_t
+Calculating dependency for: int_least64_t
+Calculating dependency for: jbooleanArray
+Calculating dependency for: uint_fast16_t
+Calculating dependency for: uint_fast32_t
+Calculating dependency for: uint_fast64_t
+Calculating dependency for: uint_least8_t
+Calculating dependency for: ASensorEvent
+Calculating dependency for: JavaVMOption
+Calculating dependency for: MACRO_FASYNC
+Calculating dependency for: MACRO_INTMAX
+Calculating dependency for: MACRO_INTPTR
+Calculating dependency for: MACRO_O_PATH
+Calculating dependency for: MACRO_SOL_IP
+Calculating dependency for: MACRO_STRUCT
+Calculating dependency for: MACRO_UINT16
+Calculating dependency for: MACRO_UINT32
+Calculating dependency for: MACRO_UINT64
+Calculating dependency for: MACRO___BITS
+Calculating dependency for: MACRO___bool
+Calculating dependency for: __useconds_t
+Calculating dependency for: int_fast16_t
+Calculating dependency for: int_fast32_t
+Calculating dependency for: int_fast64_t
+Calculating dependency for: int_least8_t
+Calculating dependency for: jdoubleArray
+Calculating dependency for: jobjectArray
+Calculating dependency for: net_handle_t
+Calculating dependency for: uint_fast8_t
+Calculating dependency for: AInputEvent
+Calculating dependency for: AInputQueue
+Calculating dependency for: ASensorList
+Calculating dependency for: MACRO_INT16
+Calculating dependency for: MACRO_INT32
+Calculating dependency for: MACRO_INT64
+Calculating dependency for: MACRO_NETDB
+Calculating dependency for: MACRO_SCOPE
+Calculating dependency for: __clockid_t
+Calculating dependency for: __socklen_t
+Calculating dependency for: __uintptr_t
+Calculating dependency for: int_fast8_t
+Calculating dependency for: jfloatArray
+Calculating dependency for: jshortArray
+Calculating dependency for: sa_family_t
+Calculating dependency for: suseconds_t
+Calculating dependency for: ASensorRef
+Calculating dependency for: MACRO_EXIT
+Calculating dependency for: MACRO_HOST
+Calculating dependency for: MACRO_INT8
+Calculating dependency for: MACRO_LOCK
+Calculating dependency for: MACRO_NULL
+Calculating dependency for: MACRO_RAND
+Calculating dependency for: MACRO_SIZE
+Calculating dependency for: MACRO_SOCK
+Calculating dependency for: MACRO_SYNC
+Calculating dependency for: MACRO_UINT
+Calculating dependency for: MACRO_WINT
+Calculating dependency for: MACRO___FD
+Calculating dependency for: MACRO_bool
+Calculating dependency for: __intptr_t
+Calculating dependency for: __locale_t
+Calculating dependency for: __uint16_t
+Calculating dependency for: __uint32_t
+Calculating dependency for: __uint64_t
+Calculating dependency for: _jmethodID
+Calculating dependency for: f_owner_ex
+Calculating dependency for: fsblkcnt_t
+Calculating dependency for: fsfilcnt_t
+Calculating dependency for: jbyteArray
+Calculating dependency for: jcharArray
+Calculating dependency for: jlongArray
+Calculating dependency for: jthrowable
+Calculating dependency for: useconds_t
+Calculating dependency for: AAssetDir
+Calculating dependency for: MACRO_EAI
+Calculating dependency for: MACRO_INT
+Calculating dependency for: MACRO_IPX
+Calculating dependency for: MACRO_JNI
+Calculating dependency for: MACRO_MAX
+Calculating dependency for: MACRO_MSG
+Calculating dependency for: MACRO_SCM
+Calculating dependency for: MACRO_SIG
+Calculating dependency for: MACRO_SOL
+Calculating dependency for: MACRO_TRY
+Calculating dependency for: MACRO_UIO
+Calculating dependency for: __int16_t
+Calculating dependency for: __int32_t
+Calculating dependency for: __int64_t
+Calculating dependency for: __nlink_t
+Calculating dependency for: __timer_t
+Calculating dependency for: __uint8_t
+Calculating dependency for: __va_list
+Calculating dependency for: _jfieldID
+Calculating dependency for: blksize_t
+Calculating dependency for: clockid_t
+Calculating dependency for: jintArray
+Calculating dependency for: jmethodID
+Calculating dependency for: ptrdiff_t
+Calculating dependency for: socklen_t
+Calculating dependency for: u_int16_t
+Calculating dependency for: u_int32_t
+Calculating dependency for: u_int64_t
+Calculating dependency for: uintmax_t
+Calculating dependency for: uintptr_t
+Calculating dependency for: AObbInfo
+Calculating dependency for: C_JNIEnv
+Calculating dependency for: MACRO_AF
+Calculating dependency for: MACRO_AI
+Calculating dependency for: MACRO_FD
+Calculating dependency for: MACRO_NI
+Calculating dependency for: MACRO_NO
+Calculating dependency for: MACRO_PF
+Calculating dependency for: MACRO_SO
+Calculating dependency for: MACRO__K
+Calculating dependency for: __int8_t
+Calculating dependency for: __mode_t
+Calculating dependency for: __time_t
+Calculating dependency for: addrinfo
+Calculating dependency for: blkcnt_t
+Calculating dependency for: intmax_t
+Calculating dependency for: intptr_t
+Calculating dependency for: jboolean
+Calculating dependency for: jfieldID
+Calculating dependency for: locale_t
+Calculating dependency for: mallinfo
+Calculating dependency for: protoent
+Calculating dependency for: sockaddr
+Calculating dependency for: timespec
+Calculating dependency for: u_int8_t
+Calculating dependency for: uint16_t
+Calculating dependency for: uint32_t
+Calculating dependency for: uint64_t
+Calculating dependency for: ALooper
+Calculating dependency for: ASensor
+Calculating dependency for: MACRO_F
+Calculating dependency for: MACRO_O
+Calculating dependency for: _JNIEnv
+Calculating dependency for: _JavaVM
+Calculating dependency for: __gid_t
+Calculating dependency for: __ino_t
+Calculating dependency for: __key_t
+Calculating dependency for: __pid_t
+Calculating dependency for: __sum16
+Calculating dependency for: __uid_t
+Calculating dependency for: caddr_t
+Calculating dependency for: clock_t
+Calculating dependency for: cmsghdr
+Calculating dependency for: daddr_t
+Calculating dependency for: flock64
+Calculating dependency for: hostent
+Calculating dependency for: int16_t
+Calculating dependency for: int32_t
+Calculating dependency for: int64_t
+Calculating dependency for: jdouble
+Calculating dependency for: jobject
+Calculating dependency for: jstring
+Calculating dependency for: lldiv_t
+Calculating dependency for: mmsghdr
+Calculating dependency for: nlink_t
+Calculating dependency for: off64_t
+Calculating dependency for: servent
+Calculating dependency for: ssize_t
+Calculating dependency for: timer_t
+Calculating dependency for: u_short
+Calculating dependency for: uint8_t
+Calculating dependency for: wchar_t
+Calculating dependency for: AAsset
+Calculating dependency for: JNIEnv
+Calculating dependency for: JavaVM
+Calculating dependency for: __be16
+Calculating dependency for: __be32
+Calculating dependency for: __be64
+Calculating dependency for: __id_t
+Calculating dependency for: __le16
+Calculating dependency for: __le32
+Calculating dependency for: __le64
+Calculating dependency for: __wsum
+Calculating dependency for: int8_t
+Calculating dependency for: jarray
+Calculating dependency for: jclass
+Calculating dependency for: jfloat
+Calculating dependency for: jshort
+Calculating dependency for: jvalue
+Calculating dependency for: ldiv_t
+Calculating dependency for: linger
+Calculating dependency for: loff_t
+Calculating dependency for: mode_t
+Calculating dependency for: msghdr
+Calculating dependency for: netent
+Calculating dependency for: size_t
+Calculating dependency for: time_t
+Calculating dependency for: u_char
+Calculating dependency for: u_long
+Calculating dependency for: uint_t
+Calculating dependency for: ARect
+Calculating dependency for: __s16
+Calculating dependency for: __s32
+Calculating dependency for: __s64
+Calculating dependency for: __u16
+Calculating dependency for: __u32
+Calculating dependency for: __u64
+Calculating dependency for: dev_t
+Calculating dependency for: div_t
+Calculating dependency for: flock
+Calculating dependency for: gid_t
+Calculating dependency for: ino_t
+Calculating dependency for: iovec
+Calculating dependency for: jbyte
+Calculating dependency for: jchar
+Calculating dependency for: jlong
+Calculating dependency for: jsize
+Calculating dependency for: jweak
+Calculating dependency for: key_t
+Calculating dependency for: off_t
+Calculating dependency for: pid_t
+Calculating dependency for: u_int
+Calculating dependency for: ucred
+Calculating dependency for: uid_t
+Calculating dependency for: __s8
+Calculating dependency for: __u8
+Calculating dependency for: id_t
+Calculating dependency for: jint
+Calculating dependency for: uint
+Type hierarchy analysis finished:
+AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A -> []
+AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66 -> []
+ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008 -> []
+ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6 -> []
+_04002F0402C508C6DCA950313C38753A -> []
+_06CAB5296C39900A9CE51DBF4F560AD6 -> []
+_0A08CFE9374656399FFB4BF5C54E6AAD -> []
+_1A098DE8B5FD566F9A5BC3A59F895876 -> []
+_1EEB42125CB8A02EEEDF6B2D5DAB4486 -> []
+_294E6B22D2C7C3462ECC5C21F28E2210 -> []
+_2DFCE81C22045DA5588F32BE57F779B3 -> []
+_33C3A92DE7424356190637196BFAB2FD -> []
+_3EDC26D5AD8305513B732BC9206567CE -> []
+_4139C7DF365D5434A7E6C4EAB6785B55 -> []
+_43465BD039ADFB836688E81ACF130360 -> []
+_43C70A9F12D4BBD98F9B0F65C539512C -> []
+_49F8A3275CB8ABD51DE4E72706AE5CC8 -> []
+_6A860F0239D1D54EF2A4CDC8898EA208 -> []
+_6BD93AD6A320A51794F58DE6EDFB59E6 -> []
+_6CF558C41A0BF1C80174ADD62A6DBE10 -> []
+_7EC23C51206D55A80D1F276DA8A5980F -> []
+_813B786A03EC45D0D5359DBC0989DB3C -> []
+_82E117BB9FC04C8485243D8E6D5317B0 -> []
+_8391374E526CE51103AADBB5D9199BE1 -> []
+_84DF78F24C88ED534F04DAB1618088EB -> []
+_89669B75FFFA2E86F49C9A03322F5AA7 -> []
+_8FD9CD2309289E94A8F9FFD043EF0AFD -> []
+_95883D125DB13DB1D57A7284B9B24EE2 -> []
+_979FA3DE6ECCF956231BFC297C4278E6 -> []
+_A3DE050FA3F4C661374A5EDCE5929D78 -> []
+_A57BE63AFA9E7C22F20D0CC4DC1F0295 -> []
+_A66A407457C3F86F0D5D01263F39DB8B -> []
+_AC1F0727205AA235F31FA7E4FBAB6931 -> []
+_AD64F63EA24B69117AF36AB567679717 -> []
+_B343988F95AB2F1D8FA49E95A93C30CE -> []
+_B34E6FF94D606ADE7B24EB7AB8A02C61 -> []
+_B82DD008134C41CE6745BEDF33E8A9EF -> []
+_B8EBEDC710F2D2D4BF6562A77E339AD2 -> []
+_BF3B02121B7CEC921D6E601970F9B0F9 -> []
+_C90664CDFAFCCB655C0534A15FE08428 -> []
+_D8A37C4E5955677A821D861553F77D56 -> []
+_DCE88B22097C19B754359F67EC2BAC42 -> []
+_F1FBE46807403350B28214291BCCB154 -> []
+_F5B8624EE83FF6F82791C1F247BCF763 -> []
+_F64AC3025220C98ACA937EAAAA67CC79 -> []
+_FB68FDDBB52DBDF02F327E3198820E09 -> []
+_FE49DD53806F6C6786D41F1B1A617458 -> []
+_FFDA7144AC23E088DA23CB4BAD3742B2 -> []
+AChoreographer_frameCallback -> []
+MACRO_SIOCBONDSLAVEINFOQUERY -> []
+MACRO_SIOCBONDCHANGEACTIVE -> []
+MACRO_SIOCSIFHWBROADCAST -> []
+MACRO_SIOCBONDINFOQUERY -> []
+MACRO_SIOCBONDSETHWADDR -> []
+MACRO_SCM_TIMESTAMPING -> []
+MACRO_SIOCPROTOPRIVATE -> []
+MACRO_SCM_TIMESTAMPNS -> []
+MACRO_SIOCBONDENSLAVE -> []
+MACRO_SIOCBONDRELEASE -> []
+__kernel_sighandler_t -> []
+ALooper_callbackFunc -> []
+MACRO_MAXHOSTNAMELEN -> []
+MACRO_SIOCDEVPRIVATE -> []
+MACRO_SIOCGIFBRDADDR -> []
+MACRO_SIOCGIFDSTADDR -> []
+MACRO_SIOCGIFNETMASK -> []
+MACRO_SIOCSIFBRDADDR -> []
+MACRO_SIOCSIFDSTADDR -> []
+MACRO_SIOCSIFNETMASK -> []
+__kernel_sa_family_t -> []
+android_tts_engine_t -> []
+AndroidBitmapFormat -> []
+MACRO_SIOCGHWTSTAMP -> []
+MACRO_SIOCGIFHWADDR -> []
+MACRO_SIOCGIFMETRIC -> []
+MACRO_SIOCGIFPFLAGS -> []
+MACRO_SIOCGIFTXQLEN -> []
+MACRO_SIOCSHWTSTAMP -> []
+MACRO_SIOCSIFHWADDR -> []
+MACRO_SIOCSIFMETRIC -> []
+MACRO_SIOCSIFPFLAGS -> []
+MACRO_SIOCSIFTXQLEN -> []
+MACRO_SO_ACCEPTCONN -> []
+android_LogPriority -> []
+MACRO_SIOCADDMULTI -> []
+MACRO_SIOCDELMULTI -> []
+MACRO_SIOCGIFCOUNT -> []
+MACRO_SIOCGIFENCAP -> []
+MACRO_SIOCGIFFLAGS -> []
+MACRO_SIOCGIFINDEX -> []
+MACRO_SIOCGIFSLAVE -> []
+MACRO_SIOCGSTAMPNS -> []
+MACRO_SIOCSIFENCAP -> []
+MACRO_SIOCSIFFLAGS -> []
+MACRO_SIOCSIFSLAVE -> []
+__kernel_clockid_t -> []
+__kernel_ipc_pid_t -> []
+__kernel_old_dev_t -> []
+__kernel_ptrdiff_t -> []
+ASensorEventQueue -> []
+AndroidBitmapInfo -> []
+MACRO_INT_LEAST16 -> []
+MACRO_INT_LEAST32 -> []
+MACRO_INT_LEAST64 -> []
+MACRO_SIOCADDDLCI -> []
+MACRO_SIOCBRADDBR -> []
+MACRO_SIOCBRADDIF -> []
+MACRO_SIOCBRDELBR -> []
+MACRO_SIOCBRDELIF -> []
+MACRO_SIOCDELDLCI -> []
+MACRO_SIOCDIFADDR -> []
+MACRO_SIOCETHTOOL -> []
+MACRO_SIOCGIFADDR -> []
+MACRO_SIOCGIFCONF -> []
+MACRO_SIOCGIFNAME -> []
+MACRO_SIOCGIFVLAN -> []
+MACRO_SIOCGMIIPHY -> []
+MACRO_SIOCGMIIREG -> []
+MACRO_SIOCOUTQNSD -> []
+MACRO_SIOCSIFADDR -> []
+MACRO_SIOCSIFLINK -> []
+MACRO_SIOCSIFNAME -> []
+MACRO_SIOCSIFVLAN -> []
+MACRO_SIOCSMIIREG -> []
+MACRO_SIOGIFINDEX -> []
+MACRO_SO_PROTOCOL -> []
+__builtin_va_list -> []
+android_dlextinfo -> []
+structors_array_t -> []
+MACRO_SCM_RIGHTS -> []
+MACRO_SIOCATMARK -> []
+MACRO_SIOCGIFMAP -> []
+MACRO_SIOCGIFMEM -> []
+MACRO_SIOCGIFMTU -> []
+MACRO_SIOCGSTAMP -> []
+MACRO_SIOCSIFMAP -> []
+MACRO_SIOCSIFMEM -> []
+MACRO_SIOCSIFMTU -> []
+MACRO_SIOCWANDEV -> []
+MACRO___WORDSIZE -> []
+__kernel_caddr_t -> []
+__kernel_daddr_t -> []
+__kernel_gid16_t -> []
+__kernel_gid32_t -> []
+__kernel_ssize_t -> []
+__kernel_timer_t -> []
+__kernel_uid16_t -> []
+__kernel_uid32_t -> []
+__kernel_ulong_t -> []
+AStorageManager -> []
+JNINativeMethod -> []
+MACRO_FIOGETOWN -> []
+MACRO_FIOSETOWN -> []
+MACRO_O_NOATIME -> []
+MACRO_O_TMPFILE -> []
+MACRO_SIOCADDRT -> []
+MACRO_SIOCDELRT -> []
+MACRO_SIOCDRARP -> []
+MACRO_SIOCGIFBR -> []
+MACRO_SIOCGPGRP -> []
+MACRO_SIOCGRARP -> []
+MACRO_SIOCRTMSG -> []
+MACRO_SIOCSIFBR -> []
+MACRO_SIOCSPGRP -> []
+MACRO_SIOCSRARP -> []
+MACRO_SOMAXCONN -> []
+MACRO___ANDROID -> []
+__kernel_fd_set -> []
+__kernel_fsid_t -> []
+__kernel_loff_t -> []
+__kernel_long_t -> []
+__kernel_mode_t -> []
+__kernel_size_t -> []
+AChoreographer -> []
+AConfiguration -> []
+ASensorManager -> []
+MACRO_SCM_WIFI -> []
+MACRO_SIOCDARP -> []
+MACRO_SIOCGARP -> []
+MACRO_SIOCSARP -> []
+MACRO___BIONIC -> []
+__kernel_gid_t -> []
+__kernel_key_t -> []
+__kernel_mqd_t -> []
+__kernel_pid_t -> []
+__kernel_uid_t -> []
+jobjectRefType -> []
+AAssetManager -> []
+ANativeWindow -> []
+MACRO_AMOTION -> []
+MACRO_ANDROID -> []
+MACRO_F_LINUX -> []
+MACRO_F_RDLCK -> []
+MACRO_NETWORK -> []
+MACRO_PTRDIFF -> []
+MACRO_SO_MARK -> []
+MACRO_SO_PEEK -> []
+MACRO_TMPFILE -> []
+MACRO_UINTMAX -> []
+MACRO_UINTPTR -> []
+MACRO_VISIBLE -> []
+JavaVMOption -> []
+MACRO_FASYNC -> []
+MACRO_INTMAX -> []
+MACRO_INTPTR -> []
+MACRO_O_PATH -> []
+MACRO_SOL_IP -> []
+MACRO_STRUCT -> []
+MACRO_UINT16 -> []
+MACRO_UINT32 -> []
+MACRO_UINT64 -> []
+MACRO___BITS -> []
+MACRO___bool -> []
+AInputEvent -> []
+AInputQueue -> []
+MACRO_INT16 -> []
+MACRO_INT32 -> []
+MACRO_INT64 -> []
+MACRO_NETDB -> []
+MACRO_SCOPE -> []
+__uintptr_t -> []
+sa_family_t -> []
+ASensorRef -> []
+MACRO_EXIT -> []
+MACRO_HOST -> []
+MACRO_INT8 -> []
+MACRO_LOCK -> []
+MACRO_NULL -> []
+MACRO_RAND -> []
+MACRO_SIZE -> []
+MACRO_SOCK -> []
+MACRO_SYNC -> []
+MACRO_UINT -> []
+MACRO_WINT -> []
+MACRO___FD -> []
+MACRO_bool -> []
+__intptr_t -> []
+__locale_t -> []
+__uint16_t -> []
+__uint32_t -> []
+__uint64_t -> []
+_jmethodID -> []
+fsblkcnt_t -> []
+fsfilcnt_t -> []
+AAssetDir -> []
+MACRO_EAI -> []
+MACRO_INT -> []
+MACRO_IPX -> []
+MACRO_JNI -> []
+MACRO_MAX -> []
+MACRO_MSG -> []
+MACRO_SCM -> []
+MACRO_SIG -> []
+MACRO_SOL -> []
+MACRO_TRY -> []
+MACRO_UIO -> []
+__int16_t -> []
+__int32_t -> []
+__int64_t -> []
+__timer_t -> []
+__uint8_t -> []
+_jfieldID -> []
+blksize_t -> []
+jmethodID -> []
+ptrdiff_t -> []
+AObbInfo -> []
+C_JNIEnv -> []
+MACRO_AF -> []
+MACRO_AI -> []
+MACRO_FD -> []
+MACRO_NI -> []
+MACRO_NO -> []
+MACRO_PF -> []
+MACRO_SO -> []
+MACRO__K -> []
+__int8_t -> []
+blkcnt_t -> []
+jboolean -> []
+jfieldID -> []
+locale_t -> []
+protoent -> []
+timespec -> []
+ALooper -> []
+ASensor -> []
+MACRO_F -> []
+MACRO_O -> []
+_JNIEnv -> []
+_JavaVM -> []
+hostent -> []
+jdouble -> []
+jobject -> []
+lldiv_t -> []
+servent -> []
+u_short -> []
+wchar_t -> []
+AAsset -> []
+JNIEnv -> []
+JavaVM -> []
+jfloat -> []
+jshort -> []
+ldiv_t -> []
+linger -> []
+size_t -> []
+u_char -> []
+u_long -> []
+uint_t -> []
+__s16 -> []
+__s32 -> []
+__s64 -> []
+__u16 -> []
+__u32 -> []
+__u64 -> []
+div_t -> []
+jbyte -> []
+jchar -> []
+jlong -> []
+u_int -> []
+__s8 -> []
+__u8 -> []
+jint -> []
+uint -> []
+ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C -> ['uint64_t']
+AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B -> ['AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B___395D474A162CC38FCBA3B5F2F110E81A']
+AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5 -> ['AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66']
+AStorageManager_obbCallbackFunc -> ['int32_t']
+android_tts_callback_status_t -> ['_89669B75FFFA2E86F49C9A03322F5AA7']
+android_tts_support_result_t -> ['_4139C7DF365D5434A7E6C4EAB6785B55']
+ANativeActivity_createFunc -> ['size_t']
+android_tts_audio_format_t -> ['_294E6B22D2C7C3462ECC5C21F28E2210']
+android_tts_synth_status_t -> ['_A66A407457C3F86F0D5D01263F39DB8B']
+__kernel_sockaddr_storage -> ['__kernel_sa_family_t']
+ANativeActivityCallbacks -> ['size_t']
+__kernel_suseconds_t -> ['__kernel_long_t']
+android_tts_result_t -> ['_2DFCE81C22045DA5588F32BE57F779B3']
+__kernel_old_gid_t -> ['__kernel_gid_t']
+__kernel_old_uid_t -> ['__kernel_uid_t']
+__kernel_clock_t -> ['__kernel_long_t']
+AHeartRateEvent -> ['int8_t']
+__kernel_time_t -> ['__kernel_long_t']
+AMetaDataEvent -> ['int32_t']
+__gnuc_va_list -> ['__builtin_va_list']
+__kernel_ino_t -> ['__kernel_ulong_t']
+__kernel_off_t -> ['__kernel_long_t']
+uint_least16_t -> ['uint16_t']
+uint_least32_t -> ['uint32_t']
+uint_least64_t -> ['uint64_t']
+__suseconds_t -> ['__kernel_suseconds_t']
+int_least16_t -> ['int16_t']
+int_least32_t -> ['int32_t']
+int_least64_t -> ['int64_t']
+jbooleanArray -> ['jarray']
+uint_fast16_t -> ['uint32_t']
+uint_fast32_t -> ['uint32_t']
+uint_fast64_t -> ['uint64_t']
+uint_least8_t -> ['uint8_t']
+__useconds_t -> ['uint32_t']
+int_fast16_t -> ['int32_t']
+int_fast32_t -> ['int32_t']
+int_fast64_t -> ['int64_t']
+int_least8_t -> ['int8_t']
+jdoubleArray -> ['jarray']
+jobjectArray -> ['jarray']
+net_handle_t -> ['uint64_t']
+uint_fast8_t -> ['uint8_t']
+ASensorList -> ['ASensorRef']
+__clockid_t -> ['__kernel_clockid_t']
+__socklen_t -> ['int32_t']
+int_fast8_t -> ['int8_t']
+jfloatArray -> ['jarray']
+jshortArray -> ['jarray']
+suseconds_t -> ['__suseconds_t']
+f_owner_ex -> ['__kernel_pid_t']
+jbyteArray -> ['jarray']
+jcharArray -> ['jarray']
+jlongArray -> ['jarray']
+jthrowable -> ['jobject']
+useconds_t -> ['__useconds_t']
+__nlink_t -> ['uint32_t']
+__va_list -> ['__builtin_va_list']
+clockid_t -> ['__clockid_t']
+jintArray -> ['jarray']
+socklen_t -> ['__socklen_t']
+u_int16_t -> ['uint16_t']
+u_int32_t -> ['uint32_t']
+u_int64_t -> ['uint64_t']
+uintmax_t -> ['uint64_t']
+uintptr_t -> ['__uintptr_t']
+__mode_t -> ['__kernel_mode_t']
+__time_t -> ['__kernel_time_t']
+addrinfo -> ['socklen_t']
+intmax_t -> ['int64_t']
+intptr_t -> ['__intptr_t']
+mallinfo -> ['size_t']
+sockaddr -> ['sa_family_t']
+u_int8_t -> ['uint8_t']
+uint16_t -> ['__uint16_t']
+uint32_t -> ['__uint32_t']
+uint64_t -> ['__uint64_t']
+__gid_t -> ['__kernel_gid32_t']
+__ino_t -> ['__kernel_ino_t']
+__key_t -> ['__kernel_key_t']
+__pid_t -> ['__kernel_pid_t']
+__sum16 -> ['__u16']
+__uid_t -> ['__kernel_uid32_t']
+caddr_t -> ['__kernel_caddr_t']
+clock_t -> ['__kernel_clock_t']
+cmsghdr -> ['size_t']
+daddr_t -> ['__kernel_daddr_t']
+int16_t -> ['__int16_t']
+int32_t -> ['__int32_t']
+int64_t -> ['__int64_t']
+jstring -> ['jobject']
+mmsghdr -> ['msghdr']
+nlink_t -> ['__nlink_t']
+off64_t -> ['loff_t']
+ssize_t -> ['__kernel_ssize_t']
+timer_t -> ['__timer_t']
+uint8_t -> ['__uint8_t']
+__be16 -> ['__u16']
+__be32 -> ['__u32']
+__be64 -> ['__u64']
+__id_t -> ['uint32_t']
+__le16 -> ['__u16']
+__le32 -> ['__u32']
+__le64 -> ['__u64']
+__wsum -> ['__u32']
+int8_t -> ['__int8_t']
+jarray -> ['jobject']
+jclass -> ['jobject']
+loff_t -> ['__kernel_loff_t']
+mode_t -> ['__mode_t']
+netent -> ['uint32_t']
+time_t -> ['__time_t']
+ARect -> ['int32_t']
+dev_t -> ['uint32_t']
+gid_t -> ['__gid_t']
+ino_t -> ['__ino_t']
+iovec -> ['__kernel_size_t']
+jsize -> ['jint']
+jweak -> ['jobject']
+key_t -> ['__key_t']
+off_t -> ['__kernel_off_t']
+pid_t -> ['__pid_t']
+uid_t -> ['__uid_t']
+id_t -> ['__id_t']
+ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D -> ['ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___393C16A032292777F0C3725FFB2C0008', 'ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D___EF3AD327C1AB8B40A3E55346EA0B82D6']
+ASensorEvent___8C4383882548A4AFD5A27D59188EEA15 -> ['ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03', 'ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C']
+_13B8135214ADCA8C5B891879B37639D2 -> ['uint64_t', 'size_t']
+_9A42493D2BEF7F5422B539727BDDB5E2 -> ['uint32_t', 'int32_t']
+ANativeWindow_Buffer -> ['int32_t', 'uint32_t']
+AUncalibratedEvent -> ['AUncalibratedEvent___DF44242611926E1C130E4FBDDA9DF95B', 'AUncalibratedEvent___E6B472915ABE29A5F88CB1D88F3370D5___CBABEABD3E42441DCC777DF1E2461D66']
+JavaVMAttachArgs -> ['jint', 'jobject']
+JavaVMInitArgs -> ['jint', 'jboolean']
+flock64 -> ['__kernel_loff_t', '__kernel_pid_t']
+msghdr -> ['socklen_t', 'size_t']
+flock -> ['__kernel_off_t', '__kernel_pid_t']
+JNIInvokeInterface -> ['jint', 'JavaVM', 'JNIEnv']
+ASensorVector -> ['ASensorVector___F2857E502D1D2A10B29DC4A0FBD43A9D', 'int8_t', 'uint8_t']
+ucred -> ['pid_t', 'uid_t', 'gid_t']
+ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___8799DC19886954CE614B86D80AF89C03 -> ['ASensorVector', 'AUncalibratedEvent', 'AMetaDataEvent', 'AHeartRateEvent']
+ANativeActivity -> ['JavaVM', 'JNIEnv', 'jobject', 'int32_t']
+ASensorEvent -> ['int32_t', 'int64_t', 'ASensorEvent___8C4383882548A4AFD5A27D59188EEA15', 'ASensorEvent___8C4383882548A4AFD5A27D59188EEA15___B0DF98B0DA57608596DB29A29B6BE38C', 'uint32_t']
+android_tts_synth_cb_t -> ['android_tts_callback_status_t', 'uint32_t', 'android_tts_audio_format_t', 'int8_t', 'size_t', 'android_tts_synth_status_t']
+android_tts_engine_funcs_t -> ['android_tts_result_t', 'android_tts_synth_cb_t', 'android_tts_support_result_t', 'android_tts_audio_format_t', 'uint32_t', 'size_t', 'int8_t']
+jvalue -> ['jboolean', 'jbyte', 'jchar', 'jshort', 'jint', 'jlong', 'jfloat', 'jdouble', 'jobject']
+JNINativeInterface -> ['jint', 'JNIEnv', 'jclass', 'jobject', 'jbyte', 'jsize', 'jmethodID', 'jfieldID', 'jboolean', 'jthrowable', 'jchar', 'jshort', 'jlong', 'jfloat', 'jdouble', 'jstring', 'jarray', 'jobjectArray', 'jbooleanArray', 'jbyteArray', 'jcharArray', 'jshortArray', 'jintArray', 'jlongArray', 'jfloatArray', 'jdoubleArray', 'JNINativeMethod', 'JavaVM', 'jweak', 'jobjectRefType']
+========= Ghidra Hdr Gen finished!

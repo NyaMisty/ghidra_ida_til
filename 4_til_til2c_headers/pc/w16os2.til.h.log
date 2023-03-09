@@ -1,0 +1,4562 @@
+Replacing template arg round 1
+Got Type Def: _1E5BEA67514FA69AE227327A41C0328A
+Got Type Def: _2ADF97A2EB03F7528F8CF91702B0FF94
+Got Type Def: _564CD2F9AA3593396AB8FF7A8CFD72DC
+Got Type Def: _72F24CCAF34A08FE6ED0B18B89C3FEC1
+Got Type Def: _73A7A7871E3C0660E7638CCD3AAA3450
+Got Type Def: _73AC92F57FF9A2F638122E5FD0125175
+Got Type Def: _8BE359F162A701EA4134435F226E12D7
+Got Type Def: _8D42E53C4B9F37961F258F01B3C171EE
+Got Type Def: _9DC04B658522DE14E2712C31ED9AB586
+Got Type Def: _B6804704304881357F90B87C53B01F2F
+Got Type Def: _BC4579577E20233A2FB1B71961C93A96
+Got Type Def: _C41D785D6D1B6E0E786C4F3D3CE79278
+Got Type Def: _CA612C821642CC61B58FB32F58A61A62
+Got Type Def: _D18F4637E10A1C82A24B64ED6389C0B9
+Got Type Def: _D734DE31CA80E2F48B0496A69E34A78F
+Got Type Def: _E62E8F0B06E5E329D54975EB5E2BC603
+Got Type Def: _E7913EB5324A059B9F66E9B09CCF3EB2
+Got Type Def: _E792D6B2EEFA26F5FFBEB65DBFA34B4B
+Got Type Def: _ED5C76BB170932A59FE1C0BD29DCADEF
+Got Type Def: _F5FF9E32986B7A22EB5B6BA1C2370572
+Got Type Def: _F6CCC3681B4E139A9114051362F1CF74
+Got Type Def: ACCEL
+Got Type Def: ACCELTABLE
+Got Type Def: ARCPARAMS
+Got Type Def: AREABUNDLE
+Got Type Def: ATOM
+Got Type Def: BANDRECT
+Got Type Def: BITMAPARRAYFILEHEADER
+Got Type Def: BITMAPFILEHEADER
+Got Type Def: BITMAPINFO
+Got Type Def: BITMAPINFOHEADER
+Got Type Def: BOOL
+Got Type Def: BTNCDATA
+Got Type Def: BYTE
+Got Type Def: CATCHBUF
+Got Type Def: CHARBUNDLE
+Got Type Def: CHRMSG
+Got Type Def: CLASSINFO
+Got Type Def: CMDMSG
+Got Type Def: COLOR
+Got Type Def: CREATESTRUCT
+Got Type Def: CURSORINFO
+Got Type Def: ConfigData
+Got Type Def: CursorData
+Got Type Def: DATETIME
+Got Type Def: DDEINIT
+Got Type Def: DDESTRUCT
+Got Type Def: DENA1
+Got Type Def: DEVOPENSTRUC
+Got Type Def: DLGTEMPLATE
+Got Type Def: DLGTITEM
+Got Type Def: DMCOMMBLOCK
+Got Type Def: DMERRORINFO
+Got Type Def: DRAGIMAGE
+Got Type Def: DRAGINFO
+Got Type Def: DRAGITEM
+Got Type Def: DRAGTRANSFER
+Got Type Def: DRIVDATA
+Got Type Def: EAOP
+Got Type Def: ENTRYFDATA
+Got Type Def: ERRINFO
+Got Type Def: ERRORID
+Got Type Def: ESCGETCP
+Got Type Def: ESCSETMODE
+Got Type Def: EventInfo
+Got Type Def: FATTRS
+Got Type Def: FDATE
+Got Type Def: FEA
+Got Type Def: FEALIST
+Got Type Def: FFDESCS
+Got Type Def: FILEFINDBUF
+Got Type Def: FILEFINDBUF2
+Got Type Def: FILELOCK
+Got Type Def: FILESTATUS
+Got Type Def: FILESTATUS2
+Got Type Def: FIOLOCKCMD
+Got Type Def: FIOLOCKREC
+Got Type Def: FIOREADWRITE
+Got Type Def: FIOSEEKCMD
+Got Type Def: FIOUNLOCKCMD
+Got Type Def: FIOUNLOCKREC
+Got Type Def: FIXED
+Got Type Def: FIXED114
+Got Type Def: FIXED88
+Got Type Def: FOCAFONT
+Got Type Def: FOCAMETRICS
+Got Type Def: FONTDEFINITIONHEADER
+Got Type Def: FONTMETRICS
+Got Type Def: FONTSIGNATURE
+Got Type Def: FRAMECDATA
+Got Type Def: FSALLOCATE
+Got Type Def: FSINFO
+Got Type Def: FSQBUFFER
+Got Type Def: FTIME
+Got Type Def: GEA
+Got Type Def: GEALIST
+Got Type Def: GRADIENTL
+Got Type Def: HAB
+Got Type Def: HACCEL
+Got Type Def: HAPP
+Got Type Def: HATOMTBL
+Got Type Def: HBITMAP
+Got Type Def: HCINFO
+Got Type Def: HDC
+Got Type Def: HDIR
+Got Type Def: HELPINIT
+Got Type Def: HELPSUBTABLE
+Got Type Def: HELPTABLE
+Got Type Def: HENUM
+Got Type Def: HFILE
+Got Type Def: HHEAP
+Got Type Def: HINI
+Got Type Def: HLIB
+Got Type Def: HMF
+Got Type Def: HMODULE
+Got Type Def: HMQ
+Got Type Def: HPOINTER
+Got Type Def: HPROGARRAY
+Got Type Def: HPROGRAM
+Got Type Def: HPS
+Got Type Def: HRGN
+Got Type Def: HSEM
+Got Type Def: HSPL
+Got Type Def: HSTD
+Got Type Def: HSTR
+Got Type Def: HSWITCH
+Got Type Def: HVPS
+Got Type Def: HWND
+Got Type Def: IMAGEBUNDLE
+Got Type Def: IPT
+Got Type Def: KERNINGPAIRS
+Got Type Def: KbdHWID
+Got Type Def: KbdStatus
+Got Type Def: KbdStringInLength
+Got Type Def: KbdTRANS
+Got Type Def: KeyData
+Got Type Def: LCID
+Got Type Def: LHANDLE
+Got Type Def: LINE
+Got Type Def: LINEBUNDLE
+Got Type Def: LORDER
+Got Type Def: MACRO_ABB
+Got Type Def: MACRO_ADDRESS
+Got Type Def: MACRO_AF
+Got Type Def: MACRO_ALLOWED
+Got Type Def: MACRO_AM
+Got Type Def: MACRO_ATTR
+Got Type Def: MACRO_AWP
+Got Type Def: MACRO_BA
+Got Type Def: MACRO_BASE
+Got Type Def: MACRO_BBO
+Got Type Def: MACRO_BDS
+Got Type Def: MACRO_BFT
+Got Type Def: MACRO_BM
+Got Type Def: MACRO_BMB
+Got Type Def: MACRO_BMSG
+Got Type Def: MACRO_BM_ERROR
+Got Type Def: MACRO_BN
+Got Type Def: MACRO_BOOL
+Got Type Def: MACRO_BS
+Got Type Def: MACRO_CAPS
+Got Type Def: MACRO_CBB
+Got Type Def: MACRO_CBID
+Got Type Def: MACRO_CBM
+Got Type Def: MACRO_CBM_INIT
+Got Type Def: MACRO_CBN
+Got Type Def: MACRO_CBS
+Got Type Def: MACRO_CCHMAXPATH
+Got Type Def: MACRO_CCHMAXPATHCOMP
+Got Type Def: MACRO_CCTL
+Got Type Def: MACRO_CDEF
+Got Type Def: MACRO_CF
+Got Type Def: MACRO_CFI
+Got Type Def: MACRO_CHDIRN
+Got Type Def: MACRO_CHS
+Got Type Def: MACRO_CLR
+Got Type Def: MACRO_CLR_FALSE
+Got Type Def: MACRO_CM
+Got Type Def: MACRO_CMDSRC
+Got Type Def: MACRO_CMERR
+Got Type Def: MACRO_CMERR_ALLOC
+Got Type Def: MACRO_CMERR_DOING
+Got Type Def: MACRO_CMERR_MESSAGE
+Got Type Def: MACRO_CMERR_PASSING
+Got Type Def: MACRO_CMERR_PS
+Got Type Def: MACRO_CMERR_REFRESH
+Got Type Def: MACRO_CMERR_RUN
+Got Type Def: MACRO_CMERR_SETTING
+Got Type Def: MACRO_CMIC
+Got Type Def: MACRO_CM_MESSAGE
+Got Type Def: MACRO_CNLEN
+Got Type Def: MACRO_COMMENT
+Got Type Def: MACRO_CREA
+Got Type Def: MACRO_CRGN
+Got Type Def: MACRO_CS
+Got Type Def: MACRO_CTAB
+Got Type Def: MACRO_CURSOR
+Got Type Def: MACRO_CVR
+Got Type Def: MACRO_CVTC
+Got Type Def: MACRO_DATA
+Got Type Def: MACRO_DB
+Got Type Def: MACRO_DBM
+Got Type Def: MACRO_DC
+Got Type Def: MACRO_DCPY
+Got Type Def: MACRO_DCTL
+Got Type Def: MACRO_DDE
+Got Type Def: MACRO_DDEF
+Got Type Def: MACRO_DDEFMT
+Got Type Def: MACRO_DEV
+Got Type Def: MACRO_DEVESC
+Got Type Def: MACRO_DF
+Got Type Def: MACRO_DFF
+Got Type Def: MACRO_DFORM
+Got Type Def: MACRO_DID
+Got Type Def: MACRO_DLGC
+Got Type Def: MACRO_DM
+Got Type Def: MACRO_DMCOMMBLOCK
+Got Type Def: MACRO_DME
+Got Type Def: MACRO_DMERR
+Got Type Def: MACRO_DMERR_ALLOC
+Got Type Def: MACRO_DMERR_CLASS
+Got Type Def: MACRO_DMERR_CMD
+Got Type Def: MACRO_DMERR_COMMAND
+Got Type Def: MACRO_DMERR_CREATE
+Got Type Def: MACRO_DMERR_DISPLAY
+Got Type Def: MACRO_DMERR_EXECUTE
+Got Type Def: MACRO_DMERR_PANEL
+Got Type Def: MACRO_DMERR_UPDATE
+Got Type Def: MACRO_DMFL
+Got Type Def: MACRO_DM_DROP
+Got Type Def: MACRO_DM_USER
+Got Type Def: MACRO_DO
+Got Type Def: MACRO_DOR
+Got Type Def: MACRO_DOS_EXIT
+Got Type Def: MACRO_DO_DEFAULT
+Got Type Def: MACRO_DP
+Got Type Def: MACRO_DPDM
+Got Type Def: MACRO_DQHC
+Got Type Def: MACRO_DRG
+Got Type Def: MACRO_DRIVER
+Got Type Def: MACRO_DRO
+Got Type Def: MACRO_DT
+Got Type Def: MACRO_DTLEN
+Got Type Def: MACRO_DTYP
+Got Type Def: MACRO_EAF
+Got Type Def: MACRO_EAT
+Got Type Def: MACRO_EDI
+Got Type Def: MACRO_EN
+Got Type Def: MACRO_EQRGN
+Got Type Def: MACRO_ERR
+Got Type Def: MACRO_ERRACT
+Got Type Def: MACRO_ERRCLASS
+Got Type Def: MACRO_ERRLOC
+Got Type Def: MACRO_ERROR
+Got Type Def: MACRO_ERROR_INVALID
+Got Type Def: MACRO_ERROR_INVALID_FREQUENCY
+Got Type Def: MACRO_ERROR_ITERATED
+Got Type Def: MACRO_ERROR_NO
+Got Type Def: MACRO_ES
+Got Type Def: MACRO_ETYPE
+Got Type Def: MACRO_ETYPE_GCCHSTE
+Got Type Def: MACRO_ETYPE_GEPEL
+Got Type Def: MACRO_FACESIZE
+Got Type Def: MACRO_FATTR
+Got Type Def: MACRO_FC
+Got Type Def: MACRO_FCF
+Got Type Def: MACRO_FEA
+Got Type Def: MACRO_FF
+Got Type Def: MACRO_FHB
+Got Type Def: MACRO_FHT
+Got Type Def: MACRO_FI
+Got Type Def: MACRO_FID
+Got Type Def: MACRO_FIL
+Got Type Def: MACRO_FILE
+Got Type Def: MACRO_FILE_NORMAL
+Got Type Def: MACRO_FIO
+Got Type Def: MACRO_FM
+Got Type Def: MACRO_FM_ERROR
+Got Type Def: MACRO_FNOTIL
+Got Type Def: MACRO_FONT
+Got Type Def: MACRO_FONTDEFCHAR2
+Got Type Def: MACRO_FONTDEFCHAR3
+Got Type Def: MACRO_FONTDEFFONT1
+Got Type Def: MACRO_FONTDEFFONT2
+Got Type Def: MACRO_FONTDEFFONT3
+Got Type Def: MACRO_FONT_SIGNATURE
+Got Type Def: MACRO_FPATH
+Got Type Def: MACRO_FS
+Got Type Def: MACRO_FSAIL
+Got Type Def: MACRO_FSAT
+Got Type Def: MACRO_FSATTACH
+Got Type Def: MACRO_FSCTL
+Got Type Def: MACRO_FSIL
+Got Type Def: MACRO_GBAR
+Got Type Def: MACRO_GBEL
+Got Type Def: MACRO_GBEZ
+Got Type Def: MACRO_GCBEZ
+Got Type Def: MACRO_GCBOX
+Got Type Def: MACRO_GCCHST
+Got Type Def: MACRO_GCCHSTE
+Got Type Def: MACRO_GCCHSTM
+Got Type Def: MACRO_GCFLT
+Got Type Def: MACRO_GCHST
+Got Type Def: MACRO_GCHSTM
+Got Type Def: MACRO_GCLINE
+Got Type Def: MACRO_GCMRK
+Got Type Def: MACRO_GCOMT
+Got Type Def: MACRO_GCRLINE
+Got Type Def: MACRO_GEBB
+Got Type Def: MACRO_GEBB_LMP
+Got Type Def: MACRO_GEESCP
+Got Type Def: MACRO_GEPEL
+Got Type Def: MACRO_GESCP
+Got Type Def: MACRO_GFLT
+Got Type Def: MACRO_GFPTH
+Got Type Def: MACRO_GIMD
+Got Type Def: MACRO_GLINE
+Got Type Def: MACRO_GMPTH
+Got Type Def: MACRO_GMRK
+Got Type Def: MACRO_GPI
+Got Type Def: MACRO_GPIA
+Got Type Def: MACRO_GPIE
+Got Type Def: MACRO_GPIF
+Got Type Def: MACRO_GPIT
+Got Type Def: MACRO_GPI_HITS
+Got Type Def: MACRO_GPI_LC
+Got Type Def: MACRO_GRES
+Got Type Def: MACRO_GRLINE
+Got Type Def: MACRO_GSCC
+Got Type Def: MACRO_GSCPTH
+Got Type Def: MACRO_GSCR
+Got Type Def: MACRO_GSGCH
+Got Type Def: MACRO_GSIA
+Got Type Def: MACRO_GSMC
+Got Type Def: MACRO_GSPRP
+Got Type Def: MACRO_GSSB
+Got Type Def: MACRO_GSSLW
+Got Type Def: MACRO_GSTM
+Got Type Def: MACRO_GSTV
+Got Type Def: MACRO_GSVW
+Got Type Def: MACRO_HANDTYPE
+Got Type Def: MACRO_HBM
+Got Type Def: MACRO_HCAPS
+Got Type Def: MACRO_HDC
+Got Type Def: MACRO_HDIR
+Got Type Def: MACRO_HINI
+Got Type Def: MACRO_HK
+Got Type Def: MACRO_HLPM
+Got Type Def: MACRO_HM
+Got Type Def: MACRO_HMERR
+Got Type Def: MACRO_HMPANELTYPE
+Got Type Def: MACRO_HMQ
+Got Type Def: MACRO_HM_MSG
+Got Type Def: MACRO_HM_RESOURCEID
+Got Type Def: MACRO_HRGN
+Got Type Def: MACRO_HT
+Got Type Def: MACRO_HWND
+Got Type Def: MACRO_HWND_PARENT
+Got Type Def: MACRO_I24
+Got Type Def: MACRO_IBB
+Got Type Def: MACRO_IDM
+Got Type Def: MACRO_JRN
+Got Type Def: MACRO_KC
+Got Type Def: MACRO_LBB
+Got Type Def: MACRO_LCID
+Got Type Def: MACRO_LCIDT
+Got Type Def: MACRO_LCID_ALL
+Got Type Def: MACRO_LCOL
+Got Type Def: MACRO_LCOLF
+Got Type Def: MACRO_LCOLOPT
+Got Type Def: MACRO_LHK
+Got Type Def: MACRO_LINEEND
+Got Type Def: MACRO_LINEJOIN
+Got Type Def: MACRO_LINETYPE
+Got Type Def: MACRO_LINEWIDTH
+Got Type Def: MACRO_LIT
+Got Type Def: MACRO_LM
+Got Type Def: MACRO_LMF
+Got Type Def: MACRO_LN
+Got Type Def: MACRO_LORDER
+Got Type Def: MACRO_LS
+Got Type Def: MACRO_LSS
+Got Type Def: MACRO_LT
+Got Type Def: MACRO_MARKSYM
+Got Type Def: MACRO_MAXCOMMENTSZ
+Got Type Def: MACRO_MAXNAMEL
+Got Type Def: MACRO_MAXPATHL
+Got Type Def: MACRO_MBB
+Got Type Def: MACRO_MBID
+Got Type Def: MACRO_MCHK
+Got Type Def: MACRO_MIA
+Got Type Def: MACRO_MID
+Got Type Def: MACRO_MIS
+Got Type Def: MACRO_MIT
+Got Type Def: MACRO_MLFCLPBD
+Got Type Def: MACRO_MLFEFR
+Got Type Def: MACRO_MLFETL
+Got Type Def: MACRO_MLFFMTRECT
+Got Type Def: MACRO_MLFIE
+Got Type Def: MACRO_MLFMARGIN
+Got Type Def: MACRO_MLFQS
+Got Type Def: MACRO_MLFSEARCH
+Got Type Def: MACRO_MLM
+Got Type Def: MACRO_MLN
+Got Type Def: MACRO_MLS
+Got Type Def: MACRO_MM
+Got Type Def: MACRO_MPATH
+Got Type Def: MACRO_MS
+Got Type Def: MACRO_MSGF
+Got Type Def: MACRO_MSGF_DRAG
+Got Type Def: MACRO_NGreSetColorCursor
+Got Type Def: MACRO_NO
+Got Type Def: MACRO_NO_ERROR
+Got Type Def: MACRO_OCODE
+Got Type Def: MACRO_OCODE2
+Got Type Def: MACRO_OCODEQ
+Got Type Def: MACRO_OCODEQ_GEESCP
+Got Type Def: MACRO_OCODE_GBAR
+Got Type Def: MACRO_OCODE_GBBLT
+Got Type Def: MACRO_OCODE_GBEZ
+Got Type Def: MACRO_OCODE_GCALLS
+Got Type Def: MACRO_OCODE_GCBIMG
+Got Type Def: MACRO_OCODE_GCCHSTM
+Got Type Def: MACRO_OCODE_GCFARC
+Got Type Def: MACRO_OCODE_GCFLT
+Got Type Def: MACRO_OCODE_GCHST
+Got Type Def: MACRO_OCODE_GCHSTM
+Got Type Def: MACRO_OCODE_GCLINE
+Got Type Def: MACRO_OCODE_GCMRK
+Got Type Def: MACRO_OCODE_GCOMT
+Got Type Def: MACRO_OCODE_GCPARC
+Got Type Def: MACRO_OCODE_GCRLINE
+Got Type Def: MACRO_OCODE_GCSFLT
+Got Type Def: MACRO_OCODE_GEAR
+Got Type Def: MACRO_OCODE_GFLT
+Got Type Def: MACRO_OCODE_GIMD
+Got Type Def: MACRO_OCODE_GLINE
+Got Type Def: MACRO_OCODE_GMRK
+Got Type Def: MACRO_OCODE_GOPTH
+Got Type Def: MACRO_OCODE_GRLINE
+Got Type Def: MACRO_OCODE_GSAP
+Got Type Def: MACRO_OCODE_GSBCOL
+Got Type Def: MACRO_OCODE_GSCA
+Got Type Def: MACRO_OCODE_GSCC
+Got Type Def: MACRO_OCODE_GSGCH
+Got Type Def: MACRO_OCODE_GSIA
+Got Type Def: MACRO_OCODE_GSMC
+Got Type Def: MACRO_OCODE_GSPRP
+Got Type Def: MACRO_OCODE_GSSB
+Got Type Def: MACRO_OCODE_GSSLW
+Got Type Def: MACRO_OCODE_GSTM
+Got Type Def: MACRO_OCODE_VLONG
+Got Type Def: MACRO_OD
+Got Type Def: MACRO_OPEN
+Got Type Def: MACRO_ORD
+Got Type Def: MACRO_PARAMS
+Got Type Def: MACRO_PATSYM
+Got Type Def: MACRO_PDLEN
+Got Type Def: MACRO_PIC
+Got Type Def: MACRO_PICKAP
+Got Type Def: MACRO_PICKSEL
+Got Type Def: MACRO_PIP
+Got Type Def: MACRO_PL
+Got Type Def: MACRO_PM
+Got Type Def: MACRO_PMERR
+Got Type Def: MACRO_PMERR_NOT
+Got Type Def: MACRO_PMERR_OK
+Got Type Def: MACRO_PMERR_SPL
+Got Type Def: MACRO_PMF
+Got Type Def: MACRO_PM_MB
+Got Type Def: MACRO_PM_SW
+Got Type Def: MACRO_PP
+Got Type Def: MACRO_PRD
+Got Type Def: MACRO_PRGN
+Got Type Def: MACRO_PRI
+Got Type Def: MACRO_PRIM
+Got Type Def: MACRO_PRJ
+Got Type Def: MACRO_PROC
+Got Type Def: MACRO_PROG
+Got Type Def: MACRO_PRQ
+Got Type Def: MACRO_PRQ3
+Got Type Def: MACRO_PS
+Got Type Def: MACRO_PSF
+Got Type Def: MACRO_PU
+Got Type Def: MACRO_PVIS
+Got Type Def: MACRO_QCD
+Got Type Def: MACRO_QCP
+Got Type Def: MACRO_QF
+Got Type Def: MACRO_QFC
+Got Type Def: MACRO_QLCT
+Got Type Def: MACRO_QNLEN
+Got Type Def: MACRO_QPF
+Got Type Def: MACRO_QS
+Got Type Def: MACRO_QUERY
+Got Type Def: MACRO_QV
+Got Type Def: MACRO_QW
+Got Type Def: MACRO_QWL
+Got Type Def: MACRO_QWL_HMQ
+Got Type Def: MACRO_QWP
+Got Type Def: MACRO_QWS
+Got Type Def: MACRO_QWS_FLAGS
+Got Type Def: MACRO_RECTDIR
+Got Type Def: MACRO_RES
+Got Type Def: MACRO_RGB
+Got Type Def: MACRO_RGN
+Got Type Def: MACRO_ROP
+Got Type Def: MACRO_RRGN
+Got Type Def: MACRO_RS
+Got Type Def: MACRO_RSP
+Got Type Def: MACRO_RT
+Got Type Def: MACRO_RUM
+Got Type Def: MACRO_RUMHK
+Got Type Def: MACRO_RVIS
+Got Type Def: MACRO_SAF
+Got Type Def: MACRO_SB
+Got Type Def: MACRO_SBM
+Got Type Def: MACRO_SBMP
+Got Type Def: MACRO_SBS
+Got Type Def: MACRO_SC
+Got Type Def: MACRO_SCP
+Got Type Def: MACRO_SDW
+Got Type Def: MACRO_SEARCH
+Got Type Def: MACRO_SECOL
+Got Type Def: MACRO_SEG
+Got Type Def: MACRO_SEGEM
+Got Type Def: MACRO_SEI
+Got Type Def: MACRO_SEI_DEBUGONLY
+Got Type Def: MACRO_SEM
+Got Type Def: MACRO_SEVERITY
+Got Type Def: MACRO_SGH
+Got Type Def: MACRO_SHE
+Got Type Def: MACRO_SICOL
+Got Type Def: MACRO_SIZE
+Got Type Def: MACRO_SM
+Got Type Def: MACRO_SMD
+Got Type Def: MACRO_SMF
+Got Type Def: MACRO_SMI
+Got Type Def: MACRO_SMIM
+Got Type Def: MACRO_SPACE
+Got Type Def: MACRO_SPBM
+Got Type Def: MACRO_SPBM_SETARRAY
+Got Type Def: MACRO_SPBN
+Got Type Def: MACRO_SPBQ
+Got Type Def: MACRO_SPBS
+Got Type Def: MACRO_SPL
+Got Type Def: MACRO_SPLDATA
+Got Type Def: MACRO_SPLINFO
+Got Type Def: MACRO_SPTR
+Got Type Def: MACRO_SS
+Got Type Def: MACRO_SSM
+Got Type Def: MACRO_SSQL
+Got Type Def: MACRO_SUP
+Got Type Def: MACRO_SV
+Got Type Def: MACRO_SWL
+Got Type Def: MACRO_SWP
+Got Type Def: MACRO_SYSCLR
+Got Type Def: MACRO_TBM
+Got Type Def: MACRO_TC
+Got Type Def: MACRO_TF
+Got Type Def: MACRO_TID
+Got Type Def: MACRO_TRANSFORM
+Got Type Def: MACRO_TXTBOX
+Got Type Def: MACRO_UNLEN
+Got Type Def: MACRO_VK
+Got Type Def: MACRO_VORDER
+Got Type Def: MACRO_WA
+Got Type Def: MACRO_WC
+Got Type Def: MACRO_WCS
+Got Type Def: MACRO_WC_BUTTON
+Got Type Def: MACRO_WC_COMBOBOX
+Got Type Def: MACRO_WC_ENTRYFIELD
+Got Type Def: MACRO_WC_FRAME
+Got Type Def: MACRO_WC_LISTBOX
+Got Type Def: MACRO_WC_MENU
+Got Type Def: MACRO_WC_MLE
+Got Type Def: MACRO_WC_SCROLLBAR
+Got Type Def: MACRO_WC_SPINBUTTON
+Got Type Def: MACRO_WC_TITLEBAR
+Got Type Def: MACRO_WINDBG
+Got Type Def: MACRO_WM
+Got Type Def: MACRO_WM_DDE
+Got Type Def: MACRO_WM_RENDERFMT
+Got Type Def: MACRO_WPM
+Got Type Def: MACRO_WS
+Got Type Def: MACRO_XYF
+Got Type Def: MARKERBUNDLE
+Got Type Def: MATRIXLF
+Got Type Def: MENUITEM
+Got Type Def: MLECTLDATA
+Got Type Def: MLEFORMATRECT
+Got Type Def: MLEMARGSTRUCT
+Got Type Def: MLEOVERFLOW
+Got Type Def: MLE_SEARCHDATA
+Got Type Def: MPARAM
+Got Type Def: MQINFO
+Got Type Def: MRESULT
+Got Type Def: MSEMSG
+Got Type Def: ModeData
+Got Type Def: NPBYTE
+Got Type Def: NPCH
+Got Type Def: NPFN
+Got Type Def: NPPARAM
+Got Type Def: NPPOINTL
+Got Type Def: NPPRDINFO
+Got Type Def: NPPRDINFO3
+Got Type Def: NPPRESPARAMS
+Got Type Def: NPPRIDINFO
+Got Type Def: NPPRJINFO
+Got Type Def: NPPRJINFO2
+Got Type Def: NPPRJINFO3
+Got Type Def: NPPRQINFO
+Got Type Def: NPPRQINFO3
+Got Type Def: NPRECTL
+Got Type Def: NPSZ
+Got Type Def: NPWPOINT
+Got Type Def: NPWRECT
+Got Type Def: NoPointer
+Got Type Def: ODPOINT
+Got Type Def: ORDER
+Got Type Def: ORDERL_GBBLT
+Got Type Def: ORDERL_GCARC
+Got Type Def: ORDERL_GCBOX
+Got Type Def: ORDERL_GCCHSTE
+Got Type Def: ORDERL_GCPARC
+Got Type Def: ORDERL_GCSFLT
+Got Type Def: ORDERL_GEBB
+Got Type Def: ORDERL_GSAP
+Got Type Def: ORDERL_GSCC
+Got Type Def: ORDERL_GSMC
+Got Type Def: ORDERL_GSPRP
+Got Type Def: ORDERL_GSSB
+Got Type Def: ORDERL_GSSLW
+Got Type Def: ORDERL_GSTM
+Got Type Def: ORDERS_GBBLT
+Got Type Def: ORDERS_GCARC
+Got Type Def: ORDERS_GCBOX
+Got Type Def: ORDERS_GCCHSTE
+Got Type Def: ORDERS_GCPARC
+Got Type Def: ORDERS_GCSFLT
+Got Type Def: ORDERS_GSAP
+Got Type Def: ORDERS_GSCC
+Got Type Def: ORDERS_GSMC
+Got Type Def: ORDERS_GSPRP
+Got Type Def: ORDERS_GSSB
+Got Type Def: ORDERS_GSSLW
+Got Type Def: ORDERS_GSTM
+Got Type Def: ORDER_GBEL
+Got Type Def: ORDER_GBPTH
+Got Type Def: ORDER_GCALLS
+Got Type Def: ORDER_GCBIMG
+Got Type Def: ORDER_GEESCP
+Got Type Def: ORDER_GESCP
+Got Type Def: ORDER_GFPTH
+Got Type Def: ORDER_GMPTH
+Got Type Def: ORDER_GOPTH
+Got Type Def: ORDER_GSBICOL
+Got Type Def: ORDER_GSCPTH
+Got Type Def: ORDER_GSGCH
+Got Type Def: ORDER_GSIA
+Got Type Def: OWNERITEM
+Got Type Def: PACCEL
+Got Type Def: PACCELTABLE
+Got Type Def: PARAM
+Got Type Def: PARCPARAMS
+Got Type Def: PBANDRECT
+Got Type Def: PBITMAPARRAYFILEHEADER
+Got Type Def: PBITMAPFILEHEADER
+Got Type Def: PBITMAPINFO
+Got Type Def: PBITMAPINFOHEADER
+Got Type Def: PBOOL
+Got Type Def: PBTNCDATA
+Got Type Def: PBUNDLE
+Got Type Def: PBYTE
+Got Type Def: PCATCHBUF
+Got Type Def: PCH
+Got Type Def: PCHAR
+Got Type Def: PCLASSINFO
+Got Type Def: PCOLOR
+Got Type Def: PCREATESTRUCT
+Got Type Def: PCURSORINFO
+Got Type Def: PDATETIME
+Got Type Def: PDDEINIT
+Got Type Def: PDDESTRUCT
+Got Type Def: PDENA1
+Got Type Def: PDEVOPENDATA
+Got Type Def: PDEVOPENSTRUC
+Got Type Def: PDLGTEMPLATE
+Got Type Def: PDLGTITEM
+Got Type Def: PDMCOMMBLOCK
+Got Type Def: PDMERRORINFO
+Got Type Def: PDRAGIMAGE
+Got Type Def: PDRAGINFO
+Got Type Def: PDRAGITEM
+Got Type Def: PDRAGTRANSFER
+Got Type Def: PDRIVDATA
+Got Type Def: PEAOP
+Got Type Def: PENTRYFDATA
+Got Type Def: PERRINFO
+Got Type Def: PERRORID
+Got Type Def: PESCGETCP
+Got Type Def: PESCSETMODE
+Got Type Def: PFATTRS
+Got Type Def: PFDATE
+Got Type Def: PFEA
+Got Type Def: PFEALIST
+Got Type Def: PFFDESCS
+Got Type Def: PFILEFINDBUF
+Got Type Def: PFILEFINDBUF2
+Got Type Def: PFILELOCK
+Got Type Def: PFILESTATUS
+Got Type Def: PFILESTATUS2
+Got Type Def: PFIOLOCKCMD
+Got Type Def: PFIOLOCKREC
+Got Type Def: PFIOREADWRITE
+Got Type Def: PFIOSEEKCMD
+Got Type Def: PFIOUNLOCKCMD
+Got Type Def: PFIOUNLOCKREC
+Got Type Def: PFIXED
+Got Type Def: PFN
+Got Type Def: PFNWP
+Got Type Def: PFOCAFONT
+Got Type Def: PFOCAMETRICS
+Got Type Def: PFONTDEFINITIONHEADER
+Got Type Def: PFONTMETRICS
+Got Type Def: PFONTSIGNATURE
+Got Type Def: PFORMATRECT
+Got Type Def: PFRAMECDATA
+Got Type Def: PFSALLOCATE
+Got Type Def: PFSINFO
+Got Type Def: PFSQBUFFER
+Got Type Def: PFTIME
+Got Type Def: PGEA
+Got Type Def: PGEALIST
+Got Type Def: PGRADIENTL
+Got Type Def: PHAB
+Got Type Def: PHBITMAP
+Got Type Def: PHCINFO
+Got Type Def: PHDC
+Got Type Def: PHDIR
+Got Type Def: PHELPINIT
+Got Type Def: PHELPSUBTABLE
+Got Type Def: PHELPTABLE
+Got Type Def: PHFILE
+Got Type Def: PHID
+Got Type Def: PHINI
+Got Type Def: PHLIB
+Got Type Def: PHMF
+Got Type Def: PHMODULE
+Got Type Def: PHPROGARRAY
+Got Type Def: PHPROGRAM
+Got Type Def: PHPS
+Got Type Def: PHRGN
+Got Type Def: PHSEM
+Got Type Def: PHSTD
+Got Type Def: PHSWITCH
+Got Type Def: PHVPS
+Got Type Def: PHWND
+Got Type Def: PIBSTRUCT
+Got Type Def: PID
+Got Type Def: PINT
+Got Type Def: PIPT
+Got Type Def: PIX
+Got Type Def: PKERNINGPAIRS
+Got Type Def: PLCID
+Got Type Def: PLONG
+Got Type Def: PMARGSTRUCT
+Got Type Def: PMATRIXLF
+Got Type Def: PMENUITEM
+Got Type Def: PMLECTLDATA
+Got Type Def: PMLE_SEARCHDATA
+Got Type Def: PMPARAM
+Got Type Def: PMQINFO
+Got Type Def: PMRESULT
+Got Type Def: POINTERINFO
+Got Type Def: POINTFX
+Got Type Def: POINTL
+Got Type Def: POINTS
+Got Type Def: POVERFLOW
+Got Type Def: POWNERITEM
+Got Type Def: PPARAM
+Got Type Def: PPIBSTRUCT
+Got Type Def: PPID
+Got Type Def: PPOINTERINFO
+Got Type Def: PPOINTFX
+Got Type Def: PPOINTL
+Got Type Def: PPOINTS
+Got Type Def: PPRDINFO
+Got Type Def: PPRDINFO3
+Got Type Def: PPRESPARAMS
+Got Type Def: PPRFPROFILE
+Got Type Def: PPRIDINFO
+Got Type Def: PPRJINFO
+Got Type Def: PPRJINFO2
+Got Type Def: PPRJINFO3
+Got Type Def: PPROGCATEGORY
+Got Type Def: PPROGDETAILS
+Got Type Def: PPROGRAMENTRY
+Got Type Def: PPROGTITLE
+Got Type Def: PPROGTYPE
+Got Type Def: PPRQINFO
+Got Type Def: PPRQINFO3
+Got Type Def: PQFEOUTBLK
+Got Type Def: PQMOPENDATA
+Got Type Def: PQMSG
+Got Type Def: PQVERSDATA
+Got Type Def: PRDINFO
+Got Type Def: PRDINFO3
+Got Type Def: PRECTFX
+Got Type Def: PRECTL
+Got Type Def: PRECTS
+Got Type Def: PRENDERFILE
+Got Type Def: PRESPARAMS
+Got Type Def: PRFPROFILE
+Got Type Def: PRGNRECT
+Got Type Def: PRIDINFO
+Got Type Def: PRJINFO
+Got Type Def: PRJINFO2
+Got Type Def: PRJINFO3
+Got Type Def: PROGCATEGORY
+Got Type Def: PROGDETAILS
+Got Type Def: PROGRAMENTRY
+Got Type Def: PROGTITLE
+Got Type Def: PROGTYPE
+Got Type Def: PRQINFO
+Got Type Def: PRQINFO3
+Got Type Def: PSBCDATA
+Got Type Def: PSEL
+Got Type Def: PSFACTORS
+Got Type Def: PSHORT
+Got Type Def: PSIZEF
+Got Type Def: PSIZEL
+Got Type Def: PSMHSTRUCT
+Got Type Def: PSTR16
+Got Type Def: PSTR32
+Got Type Def: PSTR64
+Got Type Def: PSTR8
+Got Type Def: PSWBLOCK
+Got Type Def: PSWCNTRL
+Got Type Def: PSWENTRY
+Got Type Def: PSWP
+Got Type Def: PSZ
+Got Type Def: PTID
+Got Type Def: PTRACKINFO
+Got Type Def: PUCHAR
+Got Type Def: PUINT
+Got Type Def: PULONG
+Got Type Def: PUSERBUTTON
+Got Type Def: PUSHORT
+Got Type Def: PVBData
+Got Type Def: PVIOFONTCELLSIZE
+Got Type Def: PVIOSIZECOUNT
+Got Type Def: PVOID
+Got Type Def: PVOLUMELABEL
+Got Type Def: PWNDPARAMS
+Got Type Def: PWPOINT
+Got Type Def: PWRECT
+Got Type Def: PXFORM
+Got Type Def: PXYWINSIZE
+Got Type Def: PhysBufData
+Got Type Def: PtrImage
+Got Type Def: PtrLoc
+Got Type Def: QFEOUTBLK
+Got Type Def: QMSG
+Got Type Def: QVERSDATA
+Got Type Def: QueInfo
+Got Type Def: RECT1S
+Got Type Def: RECTFX
+Got Type Def: RECTL
+Got Type Def: RECTS
+Got Type Def: RENDERFILE
+Got Type Def: RGB
+Got Type Def: RGNRECT
+Got Type Def: SBCDATA
+Got Type Def: SEL
+Got Type Def: SFACTORS
+Got Type Def: SHANDLE
+Got Type Def: SIZEF
+Got Type Def: SIZEL
+Got Type Def: SIZES
+Got Type Def: SMHSTRUCT
+Got Type Def: SPLERR
+Got Type Def: STR16
+Got Type Def: STR32
+Got Type Def: STR64
+Got Type Def: STR8
+Got Type Def: SWBLOCK
+Got Type Def: SWCNTRL
+Got Type Def: SWENTRY
+Got Type Def: SWP
+Got Type Def: SWPUSHORT
+Got Type Def: ScaleFact
+Got Type Def: TID
+Got Type Def: TRACKINFO
+Got Type Def: UCHAR
+Got Type Def: UINT
+Got Type Def: ULONG
+Got Type Def: USERBUTTON
+Got Type Def: USHORT
+Got Type Def: VIOFONT
+Got Type Def: VIOFONTCELLSIZE
+Got Type Def: VIOSIZECOUNT
+Got Type Def: VIOSTATE
+Got Type Def: VOLUMELABEL
+Got Type Def: VORDER
+Got Type Def: WNDPARAMS
+Got Type Def: WPOINT
+Got Type Def: WRECT
+Got Type Def: XFORM
+Got Type Def: XYWINSIZE
+Got Type Def: _ACCEL
+Got Type Def: _ACCELTABLE
+Got Type Def: _ARCPARAMS
+Got Type Def: _AREABUNDLE
+Got Type Def: _BANDRECT
+Got Type Def: _BITMAPARRAYFILEHEADER
+Got Type Def: _BITMAPFILEHEADER
+Got Type Def: _BITMAPINFO
+Got Type Def: _BITMAPINFOHEADER
+Got Type Def: _BTNCDATA
+Got Type Def: _CATCHBUF
+Got Type Def: _CHARBUNDLE
+Got Type Def: _CHARMSG
+Got Type Def: _CLASSINFO
+Got Type Def: _COMMANDMSG
+Got Type Def: _CREATESTRUCT
+Got Type Def: _CURSORINFO
+Got Type Def: _DATETIME
+Got Type Def: _DDEINIT
+Got Type Def: _DDESTRUCT
+Got Type Def: _DENA1
+Got Type Def: _DEVOPENSTRUC
+Got Type Def: _DLGTEMPLATE
+Got Type Def: _DLGTITEM
+Got Type Def: _DRAGIMAGE
+Got Type Def: _DRAGINFO
+Got Type Def: _DRAGITEM
+Got Type Def: _DRAGTRANSFER
+Got Type Def: _DRIVDATA
+Got Type Def: _EAOP
+Got Type Def: _ENTRYFDATA
+Got Type Def: _ERRINFO
+Got Type Def: _ESCGETCP
+Got Type Def: _ESCSETMODE
+Got Type Def: _FATTRS
+Got Type Def: _FDATE
+Got Type Def: _FEA
+Got Type Def: _FEALIST
+Got Type Def: _FILEFINDBUF
+Got Type Def: _FILEFINDBUF2
+Got Type Def: _FILELOCK
+Got Type Def: _FILESTATUS
+Got Type Def: _FILESTATUS2
+Got Type Def: _FIOLOCKCMD
+Got Type Def: _FIOLOCKREC
+Got Type Def: _FIOREADWRITE
+Got Type Def: _FIOSEEKCMD
+Got Type Def: _FIOUNLOCKCMD
+Got Type Def: _FIOUNLOCKREC
+Got Type Def: _FOCAFONT
+Got Type Def: _FOCAMETRICS
+Got Type Def: _FONTDEFINITIONHEADER[
+  '/home/misty/.nvm/versions/node/v16.15.0/bin/node',
+  '/mnt/d/Workspaces/UtilWorkspace/Reverse/IDAPlugins/idatil2c/regexHelper.js',
+  '/tmp/tmp2jd8ken8/typDef.json',
+  '/tmp/tmp2jd8ken8/regexRet.json'
+]
+Calculating dependency for _1E5BEA67514FA69AE227327A41C0328A
+Calculating dependency for _2ADF97A2EB03F7528F8CF91702B0FF94
+Calculating dependency for _564CD2F9AA3593396AB8FF7A8CFD72DC
+Calculating dependency for _72F24CCAF34A08FE6ED0B18B89C3FEC1
+Calculating dependency for _73A7A7871E3C0660E7638CCD3AAA3450
+Calculating dependency for _73AC92F57FF9A2F638122E5FD0125175
+Calculating dependency for _8BE359F162A701EA4134435F226E12D7
+Calculating dependency for _8D42E53C4B9F37961F258F01B3C171EE
+Calculating dependency for _9DC04B658522DE14E2712C31ED9AB586
+Calculating dependency for _B6804704304881357F90B87C53B01F2F
+Calculating dependency for _BC4579577E20233A2FB1B71961C93A96
+Calculating dependency for _C41D785D6D1B6E0E786C4F3D3CE79278
+Calculating dependency for _CA612C821642CC61B58FB32F58A61A62
+Calculating dependency for _D18F4637E10A1C82A24B64ED6389C0B9
+Calculating dependency for _D734DE31CA80E2F48B0496A69E34A78F
+Calculating dependency for _E62E8F0B06E5E329D54975EB5E2BC603
+Calculating dependency for _E7913EB5324A059B9F66E9B09CCF3EB2
+Calculating dependency for _E792D6B2EEFA26F5FFBEB65DBFA34B4B
+Calculating dependency for _ED5C76BB170932A59FE1C0BD29DCADEF
+Calculating dependency for _F5FF9E32986B7A22EB5B6BA1C2370572
+Calculating dependency for _F6CCC3681B4E139A9114051362F1CF74
+Calculating dependency for ACCEL
+Calculating dependency for ACCELTABLE
+Calculating dependency for ARCPARAMS
+Calculating dependency for AREABUNDLE
+Calculating dependency for ATOM
+Calculating dependency for BANDRECT
+Calculating dependency for BITMAPARRAYFILEHEADER
+Calculating dependency for BITMAPFILEHEADER
+Calculating dependency for BITMAPINFO
+Calculating dependency for BITMAPINFOHEADER
+Calculating dependency for BOOL
+Calculating dependency for BTNCDATA
+Calculating dependency for BYTE
+Calculating dependency for CATCHBUF
+Calculating dependency for CHARBUNDLE
+Calculating dependency for CHRMSG
+Calculating dependency for CLASSINFO
+Calculating dependency for CMDMSG
+Calculating dependency for COLOR
+Calculating dependency for CREATESTRUCT
+Calculating dependency for CURSORINFO
+Calculating dependency for ConfigData
+Calculating dependency for CursorData
+Calculating dependency for DATETIME
+Calculating dependency for DDEINIT
+Calculating dependency for DDESTRUCT
+Calculating dependency for DENA1
+Calculating dependency for DEVOPENSTRUC
+Calculating dependency for DLGTEMPLATE
+Calculating dependency for DLGTITEM
+Calculating dependency for DMCOMMBLOCK
+Calculating dependency for DMERRORINFO
+Calculating dependency for DRAGIMAGE
+Calculating dependency for DRAGINFO
+Calculating dependency for DRAGITEM
+Calculating dependency for DRAGTRANSFER
+Calculating dependency for DRIVDATA
+Calculating dependency for EAOP
+Calculating dependency for ENTRYFDATA
+Calculating dependency for ERRINFO
+Calculating dependency for ERRORID
+Calculating dependency for ESCGETCP
+Calculating dependency for ESCSETMODE
+Calculating dependency for EventInfo
+Calculating dependency for FATTRS
+Calculating dependency for FDATE
+Calculating dependency for FEA
+Calculating dependency for FEALIST
+Calculating dependency for FFDESCS
+Calculating dependency for FILEFINDBUF
+Calculating dependency for FILEFINDBUF2
+Calculating dependency for FILELOCK
+Calculating dependency for FILESTATUS
+Calculating dependency for FILESTATUS2
+Calculating dependency for FIOLOCKCMD
+Calculating dependency for FIOLOCKREC
+Calculating dependency for FIOREADWRITE
+Calculating dependency for FIOSEEKCMD
+Calculating dependency for FIOUNLOCKCMD
+Calculating dependency for FIOUNLOCKREC
+Calculating dependency for FIXED
+Calculating dependency for FIXED114
+Calculating dependency for FIXED88
+Calculating dependency for FOCAFONT
+Calculating dependency for FOCAMETRICS
+Calculating dependency for FONTDEFINITIONHEADER
+Calculating dependency for FONTMETRICS
+Calculating dependency for FONTSIGNATURE
+Calculating dependency for FRAMECDATA
+Calculating dependency for FSALLOCATE
+Calculating dependency for FSINFO
+Calculating dependency for FSQBUFFER
+Calculating dependency for FTIME
+Calculating dependency for GEA
+Calculating dependency for GEALIST
+Calculating dependency for GRADIENTL
+Calculating dependency for HAB
+Calculating dependency for HACCEL
+Calculating dependency for HAPP
+Calculating dependency for HATOMTBL
+Calculating dependency for HBITMAP
+Calculating dependency for HCINFO
+Calculating dependency for HDC
+Calculating dependency for HDIR
+Calculating dependency for HELPINIT
+Calculating dependency for HELPSUBTABLE
+Calculating dependency for HELPTABLE
+Calculating dependency for HENUM
+Calculating dependency for HFILE
+Calculating dependency for HHEAP
+Calculating dependency for HINI
+Calculating dependency for HLIB
+Calculating dependency for HMF
+Calculating dependency for HMODULE
+Calculating dependency for HMQ
+Calculating dependency for HPOINTER
+Calculating dependency for HPROGARRAY
+Calculating dependency for HPROGRAM
+Calculating dependency for HPS
+Calculating dependency for HRGN
+Calculating dependency for HSEM
+Calculating dependency for HSPL
+Calculating dependency for HSTD
+Calculating dependency for HSTR
+Calculating dependency for HSWITCH
+Calculating dependency for HVPS
+Calculating dependency for HWND
+Calculating dependency for IMAGEBUNDLE
+Calculating dependency for IPT
+Calculating dependency for KERNINGPAIRS
+Calculating dependency for KbdHWID
+Calculating dependency for KbdStatus
+Calculating dependency for KbdStringInLength
+Calculating dependency for KbdTRANS
+Calculating dependency for KeyData
+Calculating dependency for LCID
+Calculating dependency for LHANDLE
+Calculating dependency for LINE
+Calculating dependency for LINEBUNDLE
+Calculating dependency for LORDER
+Calculating dependency for MACRO_ABB
+Calculating dependency for MACRO_ADDRESS
+Calculating dependency for MACRO_AF
+Calculating dependency for MACRO_ALLOWED
+Calculating dependency for MACRO_AM
+Calculating dependency for MACRO_ATTR
+Calculating dependency for MACRO_AWP
+Calculating dependency for MACRO_BA
+Calculating dependency for MACRO_BASE
+Calculating dependency for MACRO_BBO
+Calculating dependency for MACRO_BDS
+Calculating dependency for MACRO_BFT
+Calculating dependency for MACRO_BM
+Calculating dependency for MACRO_BMB
+Calculating dependency for MACRO_BMSG
+Calculating dependency for MACRO_BM_ERROR
+Calculating dependency for MACRO_BN
+Calculating dependency for MACRO_BOOL
+Calculating dependency for MACRO_BS
+Calculating dependency for MACRO_CAPS
+Calculating dependency for MACRO_CBB
+Calculating dependency for MACRO_CBID
+Calculating dependency for MACRO_CBM
+Calculating dependency for MACRO_CBM_INIT
+Calculating dependency for MACRO_CBN
+Calculating dependency for MACRO_CBS
+Calculating dependency for MACRO_CCHMAXPATH
+Calculating dependency for MACRO_CCHMAXPATHCOMP
+Calculating dependency for MACRO_CCTL
+Calculating dependency for MACRO_CDEF
+Calculating dependency for MACRO_CF
+Calculating dependency for MACRO_CFI
+Calculating dependency for MACRO_CHDIRN
+Calculating dependency for MACRO_CHS
+Calculating dependency for MACRO_CLR
+Calculating dependency for MACRO_CLR_FALSE
+Calculating dependency for MACRO_CM
+Calculating dependency for MACRO_CMDSRC
+Calculating dependency for MACRO_CMERR
+Calculating dependency for MACRO_CMERR_ALLOC
+Calculating dependency for MACRO_CMERR_DOING
+Calculating dependency for MACRO_CMERR_MESSAGE
+Calculating dependency for MACRO_CMERR_PASSING
+Calculating dependency for MACRO_CMERR_PS
+Calculating dependency for MACRO_CMERR_REFRESH
+Calculating dependency for MACRO_CMERR_RUN
+Calculating dependency for MACRO_CMERR_SETTING
+Calculating dependency for MACRO_CMIC
+Calculating dependency for MACRO_CM_MESSAGE
+Calculating dependency for MACRO_CNLEN
+Calculating dependency for MACRO_COMMENT
+Calculating dependency for MACRO_CREA
+Calculating dependency for MACRO_CRGN
+Calculating dependency for MACRO_CS
+Calculating dependency for MACRO_CTAB
+Calculating dependency for MACRO_CURSOR
+Calculating dependency for MACRO_CVR
+Calculating dependency for MACRO_CVTC
+Calculating dependency for MACRO_DATA
+Calculating dependency for MACRO_DB
+Calculating dependency for MACRO_DBM
+Calculating dependency for MACRO_DC
+Calculating dependency for MACRO_DCPY
+Calculating dependency for MACRO_DCTL
+Calculating dependency for MACRO_DDE
+Calculating dependency for MACRO_DDEF
+Calculating dependency for MACRO_DDEFMT
+Calculating dependency for MACRO_DEV
+Calculating dependency for MACRO_DEVESC
+Calculating dependency for MACRO_DF
+Calculating dependency for MACRO_DFF
+Calculating dependency for MACRO_DFORM
+Calculating dependency for MACRO_DID
+Calculating dependency for MACRO_DLGC
+Calculating dependency for MACRO_DM
+Calculating dependency for MACRO_DMCOMMBLOCK
+Calculating dependency for MACRO_DME
+Calculating dependency for MACRO_DMERR
+Calculating dependency for MACRO_DMERR_ALLOC
+Calculating dependency for MACRO_DMERR_CLASS
+Calculating dependency for MACRO_DMERR_CMD
+Calculating dependency for MACRO_DMERR_COMMAND
+Calculating dependency for MACRO_DMERR_CREATE
+Calculating dependency for MACRO_DMERR_DISPLAY
+Calculating dependency for MACRO_DMERR_EXECUTE
+Calculating dependency for MACRO_DMERR_PANEL
+Calculating dependency for MACRO_DMERR_UPDATE
+Calculating dependency for MACRO_DMFL
+Calculating dependency for MACRO_DM_DROP
+Calculating dependency for MACRO_DM_USER
+Calculating dependency for MACRO_DO
+Calculating dependency for MACRO_DOR
+Calculating dependency for MACRO_DOS_EXIT
+Calculating dependency for MACRO_DO_DEFAULT
+Calculating dependency for MACRO_DP
+Calculating dependency for MACRO_DPDM
+Calculating dependency for MACRO_DQHC
+Calculating dependency for MACRO_DRG
+Calculating dependency for MACRO_DRIVER
+Calculating dependency for MACRO_DRO
+Calculating dependency for MACRO_DT
+Calculating dependency for MACRO_DTLEN
+Calculating dependency for MACRO_DTYP
+Calculating dependency for MACRO_EAF
+Calculating dependency for MACRO_EAT
+Calculating dependency for MACRO_EDI
+Calculating dependency for MACRO_EN
+Calculating dependency for MACRO_EQRGN
+Calculating dependency for MACRO_ERR
+Calculating dependency for MACRO_ERRACT
+Calculating dependency for MACRO_ERRCLASS
+Calculating dependency for MACRO_ERRLOC
+Calculating dependency for MACRO_ERROR
+Calculating dependency for MACRO_ERROR_INVALID
+Calculating dependency for MACRO_ERROR_INVALID_FREQUENCY
+Calculating dependency for MACRO_ERROR_ITERATED
+Calculating dependency for MACRO_ERROR_NO
+Calculating dependency for MACRO_ES
+Calculating dependency for MACRO_ETYPE
+Calculating dependency for MACRO_ETYPE_GCCHSTE
+Calculating dependency for MACRO_ETYPE_GEPEL
+Calculating dependency for MACRO_FACESIZE
+Calculating dependency for MACRO_FATTR
+Calculating dependency for MACRO_FC
+Calculating dependency for MACRO_FCF
+Calculating dependency for MACRO_FEA
+Calculating dependency for MACRO_FF
+Calculating dependency for MACRO_FHB
+Calculating dependency for MACRO_FHT
+Calculating dependency for MACRO_FI
+Calculating dependency for MACRO_FID
+Calculating dependency for MACRO_FIL
+Calculating dependency for MACRO_FILE
+Calculating dependency for MACRO_FILE_NORMAL
+Calculating dependency for MACRO_FIO
+Calculating dependency for MACRO_FM
+Calculating dependency for MACRO_FM_ERROR
+Calculating dependency for MACRO_FNOTIL
+Calculating dependency for MACRO_FONT
+Calculating dependency for MACRO_FONTDEFCHAR2
+Calculating dependency for MACRO_FONTDEFCHAR3
+Calculating dependency for MACRO_FONTDEFFONT1
+Calculating dependency for MACRO_FONTDEFFONT2
+Calculating dependency for MACRO_FONTDEFFONT3
+Calculating dependency for MACRO_FONT_SIGNATURE
+Calculating dependency for MACRO_FPATH
+Calculating dependency for MACRO_FS
+Calculating dependency for MACRO_FSAIL
+Calculating dependency for MACRO_FSAT
+Calculating dependency for MACRO_FSATTACH
+Calculating dependency for MACRO_FSCTL
+Calculating dependency for MACRO_FSIL
+Calculating dependency for MACRO_GBAR
+Calculating dependency for MACRO_GBEL
+Calculating dependency for MACRO_GBEZ
+Calculating dependency for MACRO_GCBEZ
+Calculating dependency for MACRO_GCBOX
+Calculating dependency for MACRO_GCCHST
+Calculating dependency for MACRO_GCCHSTE
+Calculating dependency for MACRO_GCCHSTM
+Calculating dependency for MACRO_GCFLT
+Calculating dependency for MACRO_GCHST
+Calculating dependency for MACRO_GCHSTM
+Calculating dependency for MACRO_GCLINE
+Calculating dependency for MACRO_GCMRK
+Calculating dependency for MACRO_GCOMT
+Calculating dependency for MACRO_GCRLINE
+Calculating dependency for MACRO_GEBB
+Calculating dependency for MACRO_GEBB_LMP
+Calculating dependency for MACRO_GEESCP
+Calculating dependency for MACRO_GEPEL
+Calculating dependency for MACRO_GESCP
+Calculating dependency for MACRO_GFLT
+Calculating dependency for MACRO_GFPTH
+Calculating dependency for MACRO_GIMD
+Calculating dependency for MACRO_GLINE
+Calculating dependency for MACRO_GMPTH
+Calculating dependency for MACRO_GMRK
+Calculating dependency for MACRO_GPI
+Calculating dependency for MACRO_GPIA
+Calculating dependency for MACRO_GPIE
+Calculating dependency for MACRO_GPIF
+Calculating dependency for MACRO_GPIT
+Calculating dependency for MACRO_GPI_HITS
+Calculating dependency for MACRO_GPI_LC
+Calculating dependency for MACRO_GRES
+Calculating dependency for MACRO_GRLINE
+Calculating dependency for MACRO_GSCC
+Calculating dependency for MACRO_GSCPTH
+Calculating dependency for MACRO_GSCR
+Calculating dependency for MACRO_GSGCH
+Calculating dependency for MACRO_GSIA
+Calculating dependency for MACRO_GSMC
+Calculating dependency for MACRO_GSPRP
+Calculating dependency for MACRO_GSSB
+Calculating dependency for MACRO_GSSLW
+Calculating dependency for MACRO_GSTM
+Calculating dependency for MACRO_GSTV
+Calculating dependency for MACRO_GSVW
+Calculating dependency for MACRO_HANDTYPE
+Calculating dependency for MACRO_HBM
+Calculating dependency for MACRO_HCAPS
+Calculating dependency for MACRO_HDC
+Calculating dependency for MACRO_HDIR
+Calculating dependency for MACRO_HINI
+Calculating dependency for MACRO_HK
+Calculating dependency for MACRO_HLPM
+Calculating dependency for MACRO_HM
+Calculating dependency for MACRO_HMERR
+Calculating dependency for MACRO_HMPANELTYPE
+Calculating dependency for MACRO_HMQ
+Calculating dependency for MACRO_HM_MSG
+Calculating dependency for MACRO_HM_RESOURCEID
+Calculating dependency for MACRO_HRGN
+Calculating dependency for MACRO_HT
+Calculating dependency for MACRO_HWND
+Calculating dependency for MACRO_HWND_PARENT
+Calculating dependency for MACRO_I24
+Calculating dependency for MACRO_IBB
+Calculating dependency for MACRO_IDM
+Calculating dependency for MACRO_JRN
+Calculating dependency for MACRO_KC
+Calculating dependency for MACRO_LBB
+Calculating dependency for MACRO_LCID
+Calculating dependency for MACRO_LCIDT
+Calculating dependency for MACRO_LCID_ALL
+Calculating dependency for MACRO_LCOL
+Calculating dependency for MACRO_LCOLF
+Calculating dependency for MACRO_LCOLOPT
+Calculating dependency for MACRO_LHK
+Calculating dependency for MACRO_LINEEND
+Calculating dependency for MACRO_LINEJOIN
+Calculating dependency for MACRO_LINETYPE
+Calculating dependency for MACRO_LINEWIDTH
+Calculating dependency for MACRO_LIT
+Calculating dependency for MACRO_LM
+Calculating dependency for MACRO_LMF
+Calculating dependency for MACRO_LN
+Calculating dependency for MACRO_LORDER
+Calculating dependency for MACRO_LS
+Calculating dependency for MACRO_LSS
+Calculating dependency for MACRO_LT
+Calculating dependency for MACRO_MARKSYM
+Calculating dependency for MACRO_MAXCOMMENTSZ
+Calculating dependency for MACRO_MAXNAMEL
+Calculating dependency for MACRO_MAXPATHL
+Calculating dependency for MACRO_MBB
+Calculating dependency for MACRO_MBID
+Calculating dependency for MACRO_MCHK
+Calculating dependency for MACRO_MIA
+Calculating dependency for MACRO_MID
+Calculating dependency for MACRO_MIS
+Calculating dependency for MACRO_MIT
+Calculating dependency for MACRO_MLFCLPBD
+Calculating dependency for MACRO_MLFEFR
+Calculating dependency for MACRO_MLFETL
+Calculating dependency for MACRO_MLFFMTRECT
+Calculating dependency for MACRO_MLFIE
+Calculating dependency for MACRO_MLFMARGIN
+Calculating dependency for MACRO_MLFQS
+Calculating dependency for MACRO_MLFSEARCH
+Calculating dependency for MACRO_MLM
+Calculating dependency for MACRO_MLN
+Calculating dependency for MACRO_MLS
+Calculating dependency for MACRO_MM
+Calculating dependency for MACRO_MPATH
+Calculating dependency for MACRO_MS
+Calculating dependency for MACRO_MSGF
+Calculating dependency for MACRO_MSGF_DRAG
+Calculating dependency for MACRO_NGreSetColorCursor
+Calculating dependency for MACRO_NO
+Calculating dependency for MACRO_NO_ERROR
+Calculating dependency for MACRO_OCODE
+Calculating dependency for MACRO_OCODE2
+Calculating dependency for MACRO_OCODEQ
+Calculating dependency for MACRO_OCODEQ_GEESCP
+Calculating dependency for MACRO_OCODE_GBAR
+Calculating dependency for MACRO_OCODE_GBBLT
+Calculating dependency for MACRO_OCODE_GBEZ
+Calculating dependency for MACRO_OCODE_GCALLS
+Calculating dependency for MACRO_OCODE_GCBIMG
+Calculating dependency for MACRO_OCODE_GCCHSTM
+Calculating dependency for MACRO_OCODE_GCFARC
+Calculating dependency for MACRO_OCODE_GCFLT
+Calculating dependency for MACRO_OCODE_GCHST
+Calculating dependency for MACRO_OCODE_GCHSTM
+Calculating dependency for MACRO_OCODE_GCLINE
+Calculating dependency for MACRO_OCODE_GCMRK
+Calculating dependency for MACRO_OCODE_GCOMT
+Calculating dependency for MACRO_OCODE_GCPARC
+Calculating dependency for MACRO_OCODE_GCRLINE
+Calculating dependency for MACRO_OCODE_GCSFLT
+Calculating dependency for MACRO_OCODE_GEAR
+Calculating dependency for MACRO_OCODE_GFLT
+Calculating dependency for MACRO_OCODE_GIMD
+Calculating dependency for MACRO_OCODE_GLINE
+Calculating dependency for MACRO_OCODE_GMRK
+Calculating dependency for MACRO_OCODE_GOPTH
+Calculating dependency for MACRO_OCODE_GRLINE
+Calculating dependency for MACRO_OCODE_GSAP
+Calculating dependency for MACRO_OCODE_GSBCOL
+Calculating dependency for MACRO_OCODE_GSCA
+Calculating dependency for MACRO_OCODE_GSCC
+Calculating dependency for MACRO_OCODE_GSGCH
+Calculating dependency for MACRO_OCODE_GSIA
+Calculating dependency for MACRO_OCODE_GSMC
+Calculating dependency for MACRO_OCODE_GSPRP
+Calculating dependency for MACRO_OCODE_GSSB
+Calculating dependency for MACRO_OCODE_GSSLW
+Calculating dependency for MACRO_OCODE_GSTM
+Calculating dependency for MACRO_OCODE_VLONG
+Calculating dependency for MACRO_OD
+Calculating dependency for MACRO_OPEN
+Calculating dependency for MACRO_ORD
+Calculating dependency for MACRO_PARAMS
+Calculating dependency for MACRO_PATSYM
+Calculating dependency for MACRO_PDLEN
+Calculating dependency for MACRO_PIC
+Calculating dependency for MACRO_PICKAP
+Calculating dependency for MACRO_PICKSEL
+Calculating dependency for MACRO_PIP
+Calculating dependency for MACRO_PL
+Calculating dependency for MACRO_PM
+Calculating dependency for MACRO_PMERR
+Calculating dependency for MACRO_PMERR_NOT
+Calculating dependency for MACRO_PMERR_OK
+Calculating dependency for MACRO_PMERR_SPL
+Calculating dependency for MACRO_PMF
+Calculating dependency for MACRO_PM_MB
+Calculating dependency for MACRO_PM_SW
+Calculating dependency for MACRO_PP
+Calculating dependency for MACRO_PRD
+Calculating dependency for MACRO_PRGN
+Calculating dependency for MACRO_PRI
+Calculating dependency for MACRO_PRIM
+Calculating dependency for MACRO_PRJ
+Calculating dependency for MACRO_PROC
+Calculating dependency for MACRO_PROG
+Calculating dependency for MACRO_PRQ
+Calculating dependency for MACRO_PRQ3
+Calculating dependency for MACRO_PS
+Calculating dependency for MACRO_PSF
+Calculating dependency for MACRO_PU
+Calculating dependency for MACRO_PVIS
+Calculating dependency for MACRO_QCD
+Calculating dependency for MACRO_QCP
+Calculating dependency for MACRO_QF
+Calculating dependency for MACRO_QFC
+Calculating dependency for MACRO_QLCT
+Calculating dependency for MACRO_QNLEN
+Calculating dependency for MACRO_QPF
+Calculating dependency for MACRO_QS
+Calculating dependency for MACRO_QUERY
+Calculating dependency for MACRO_QV
+Calculating dependency for MACRO_QW
+Calculating dependency for MACRO_QWL
+Calculating dependency for MACRO_QWL_HMQ
+Calculating dependency for MACRO_QWP
+Calculating dependency for MACRO_QWS
+Calculating dependency for MACRO_QWS_FLAGS
+Calculating dependency for MACRO_RECTDIR
+Calculating dependency for MACRO_RES
+Calculating dependency for MACRO_RGB
+Calculating dependency for MACRO_RGN
+Calculating dependency for MACRO_ROP
+Calculating dependency for MACRO_RRGN
+Calculating dependency for MACRO_RS
+Calculating dependency for MACRO_RSP
+Calculating dependency for MACRO_RT
+Calculating dependency for MACRO_RUM
+Calculating dependency for MACRO_RUMHK
+Calculating dependency for MACRO_RVIS
+Calculating dependency for MACRO_SAF
+Calculating dependency for MACRO_SB
+Calculating dependency for MACRO_SBM
+Calculating dependency for MACRO_SBMP
+Calculating dependency for MACRO_SBS
+Calculating dependency for MACRO_SC
+Calculating dependency for MACRO_SCP
+Calculating dependency for MACRO_SDW
+Calculating dependency for MACRO_SEARCH
+Calculating dependency for MACRO_SECOL
+Calculating dependency for MACRO_SEG
+Calculating dependency for MACRO_SEGEM
+Calculating dependency for MACRO_SEI
+Calculating dependency for MACRO_SEI_DEBUGONLY
+Calculating dependency for MACRO_SEM
+Calculating dependency for MACRO_SEVERITY
+Calculating dependency for MACRO_SGH
+Calculating dependency for MACRO_SHE
+Calculating dependency for MACRO_SICOL
+Calculating dependency for MACRO_SIZE
+Calculating dependency for MACRO_SM
+Calculating dependency for MACRO_SMD
+Calculating dependency for MACRO_SMF
+Calculating dependency for MACRO_SMI
+Calculating dependency for MACRO_SMIM
+Calculating dependency for MACRO_SPACE
+Calculating dependency for MACRO_SPBM
+Calculating dependency for MACRO_SPBM_SETARRAY
+Calculating dependency for MACRO_SPBN
+Calculating dependency for MACRO_SPBQ
+Calculating dependency for MACRO_SPBS
+Calculating dependency for MACRO_SPL
+Calculating dependency for MACRO_SPLDATA
+Calculating dependency for MACRO_SPLINFO
+Calculating dependency for MACRO_SPTR
+Calculating dependency for MACRO_SS
+Calculating dependency for MACRO_SSM
+Calculating dependency for MACRO_SSQL
+Calculating dependency for MACRO_SUP
+Calculating dependency for MACRO_SV
+Calculating dependency for MACRO_SWL
+Calculating dependency for MACRO_SWP
+Calculating dependency for MACRO_SYSCLR
+Calculating dependency for MACRO_TBM
+Calculating dependency for MACRO_TC
+Calculating dependency for MACRO_TF
+Calculating dependency for MACRO_TID
+Calculating dependency for MACRO_TRANSFORM
+Calculating dependency for MACRO_TXTBOX
+Calculating dependency for MACRO_UNLEN
+Calculating dependency for MACRO_VK
+Calculating dependency for MACRO_VORDER
+Calculating dependency for MACRO_WA
+Calculating dependency for MACRO_WC
+Calculating dependency for MACRO_WCS
+Calculating dependency for MACRO_WC_BUTTON
+Calculating dependency for MACRO_WC_COMBOBOX
+Calculating dependency for MACRO_WC_ENTRYFIELD
+Calculating dependency for MACRO_WC_FRAME
+Calculating dependency for MACRO_WC_LISTBOX
+Calculating dependency for MACRO_WC_MENU
+Calculating dependency for MACRO_WC_MLE
+Calculating dependency for MACRO_WC_SCROLLBAR
+Calculating dependency for MACRO_WC_SPINBUTTON
+Calculating dependency for MACRO_WC_TITLEBAR
+Calculating dependency for MACRO_WINDBG
+Calculating dependency for MACRO_WM
+Calculating dependency for MACRO_WM_DDE
+Calculating dependency for MACRO_WM_RENDERFMT
+Calculating dependency for MACRO_WPM
+Calculating dependency for MACRO_WS
+Calculating dependency for MACRO_XYF
+Calculating dependency for MARKERBUNDLE
+Calculating dependency for MATRIXLF
+Calculating dependency for MENUITEM
+Calculating dependency for MLECTLDATA
+Calculating dependency for MLEFORMATRECT
+Calculating dependency for MLEMARGSTRUCT
+Calculating dependency for MLEOVERFLOW
+Calculating dependency for MLE_SEARCHDATA
+Calculating dependency for MPARAM
+Calculating dependency for MQINFO
+Calculating dependency for MRESULT
+Calculating dependency for MSEMSG
+Calculating dependency for ModeData
+Calculating dependency for NPBYTE
+Calculating dependency for NPCH
+Calculating dependency for NPFN
+Calculating dependency for NPPARAM
+Calculating dependency for NPPOINTL
+Calculating dependency for NPPRDINFO
+Calculating dependency for NPPRDINFO3
+Calculating dependency for NPPRESPARAMS
+Calculating dependency for NPPRIDINFO
+Calculating dependency for NPPRJINFO
+Calculating dependency for NPPRJINFO2
+Calculating dependency for NPPRJINFO3
+Calculating dependency for NPPRQINFO
+Calculating dependency for NPPRQINFO3
+Calculating dependency for NPRECTL
+Calculating dependency for NPSZ
+Calculating dependency for NPWPOINT
+Calculating dependency for NPWRECT
+Calculating dependency for NoPointer
+Calculating dependency for ODPOINT
+Calculating dependency for ORDER
+Calculating dependency for ORDERL_GBBLT
+Calculating dependency for ORDERL_GCARC
+Calculating dependency for ORDERL_GCBOX
+Calculating dependency for ORDERL_GCCHSTE
+Calculating dependency for ORDERL_GCPARC
+Calculating dependency for ORDERL_GCSFLT
+Calculating dependency for ORDERL_GEBB
+Calculating dependency for ORDERL_GSAP
+Calculating dependency for ORDERL_GSCC
+Calculating dependency for ORDERL_GSMC
+Calculating dependency for ORDERL_GSPRP
+Calculating dependency for ORDERL_GSSB
+Calculating dependency for ORDERL_GSSLW
+Calculating dependency for ORDERL_GSTM
+Calculating dependency for ORDERS_GBBLT
+Calculating dependency for ORDERS_GCARC
+Calculating dependency for ORDERS_GCBOX
+Calculating dependency for ORDERS_GCCHSTE
+Calculating dependency for ORDERS_GCPARC
+Calculating dependency for ORDERS_GCSFLT
+Calculating dependency for ORDERS_GSAP
+Calculating dependency for ORDERS_GSCC
+Calculating dependency for ORDERS_GSMC
+Calculating dependency for ORDERS_GSPRP
+Calculating dependency for ORDERS_GSSB
+Calculating dependency for ORDERS_GSSLW
+Calculating dependency for ORDERS_GSTM
+Calculating dependency for ORDER_GBEL
+Calculating dependency for ORDER_GBPTH
+Calculating dependency for ORDER_GCALLS
+Calculating dependency for ORDER_GCBIMG
+Calculating dependency for ORDER_GEESCP
+Calculating dependency for ORDER_GESCP
+Calculating dependency for ORDER_GFPTH
+Calculating dependency for ORDER_GMPTH
+Calculating dependency for ORDER_GOPTH
+Calculating dependency for ORDER_GSBICOL
+Calculating dependency for ORDER_GSCPTH
+Calculating dependency for ORDER_GSGCH
+Calculating dependency for ORDER_GSIA
+Calculating dependency for OWNERITEM
+Calculating dependency for PACCEL
+Calculating dependency for PACCELTABLE
+Calculating dependency for PARAM
+Calculating dependency for PARCPARAMS
+Calculating dependency for PBANDRECT
+Calculating dependency for PBITMAPARRAYFILEHEADER
+Calculating dependency for PBITMAPFILEHEADER
+Calculating dependency for PBITMAPINFO
+Calculating dependency for PBITMAPINFOHEADER
+Calculating dependency for PBOOL
+Calculating dependency for PBTNCDATA
+Calculating dependency for PBUNDLE
+Calculating dependency for PBYTE
+Calculating dependency for PCATCHBUF
+Calculating dependency for PCH
+Calculating dependency for PCHAR
+Calculating dependency for PCLASSINFO
+Calculating dependency for PCOLOR
+Calculating dependency for PCREATESTRUCT
+Calculating dependency for PCURSORINFO
+Calculating dependency for PDATETIME
+Calculating dependency for PDDEINIT
+Calculating dependency for PDDESTRUCT
+Calculating dependency for PDENA1
+Calculating dependency for PDEVOPENDATA
+Calculating dependency for PDEVOPENSTRUC
+Calculating dependency for PDLGTEMPLATE
+Calculating dependency for PDLGTITEM
+Calculating dependency for PDMCOMMBLOCK
+Calculating dependency for PDMERRORINFO
+Calculating dependency for PDRAGIMAGE
+Calculating dependency for PDRAGINFO
+Calculating dependency for PDRAGITEM
+Calculating dependency for PDRAGTRANSFER
+Calculating dependency for PDRIVDATA
+Calculating dependency for PEAOP
+Calculating dependency for PENTRYFDATA
+Calculating dependency for PERRINFO
+Calculating dependency for PERRORID
+Calculating dependency for PESCGETCP
+Calculating dependency for PESCSETMODE
+Calculating dependency for PFATTRS
+Calculating dependency for PFDATE
+Calculating dependency for PFEA
+Calculating dependency for PFEALIST
+Calculating dependency for PFFDESCS
+Calculating dependency for PFILEFINDBUF
+Calculating dependency for PFILEFINDBUF2
+Calculating dependency for PFILELOCK
+Calculating dependency for PFILESTATUS
+Calculating dependency for PFILESTATUS2
+Calculating dependency for PFIOLOCKCMD
+Calculating dependency for PFIOLOCKREC
+Calculating dependency for PFIOREADWRITE
+Calculating dependency for PFIOSEEKCMD
+Calculating dependency for PFIOUNLOCKCMD
+Calculating dependency for PFIOUNLOCKREC
+Calculating dependency for PFIXED
+Calculating dependency for PFN
+Calculating dependency for PFNWP
+Calculating dependency for PFOCAFONT
+Calculating dependency for PFOCAMETRICS
+Calculating dependency for PFONTDEFINITIONHEADER
+Calculating dependency for PFONTMETRICS
+Calculating dependency for PFONTSIGNATURE
+Calculating dependency for PFORMATRECT
+Calculating dependency for PFRAMECDATA
+Calculating dependency for PFSALLOCATE
+Calculating dependency for PFSINFO
+Calculating dependency for PFSQBUFFER
+Calculating dependency for PFTIME
+Calculating dependency for PGEA
+Calculating dependency for PGEALIST
+Calculating dependency for PGRADIENTL
+Calculating dependency for PHAB
+Calculating dependency for PHBITMAP
+Calculating dependency for PHCINFO
+Calculating dependency for PHDC
+Calculating dependency for PHDIR
+Calculating dependency for PHELPINIT
+Calculating dependency for PHELPSUBTABLE
+Calculating dependency for PHELPTABLE
+Calculating dependency for PHFILE
+Calculating dependency for PHID
+Calculating dependency for PHINI
+Calculating dependency for PHLIB
+Calculating dependency for PHMF
+Calculating dependency for PHMODULE
+Calculating dependency for PHPROGARRAY
+Calculating dependency for PHPROGRAM
+Calculating dependency for PHPS
+Calculating dependency for PHRGN
+Calculating dependency for PHSEM
+Calculating dependency for PHSTD
+Calculating dependency for PHSWITCH
+Calculating dependency for PHVPS
+Calculating dependency for PHWND
+Calculating dependency for PIBSTRUCT
+Calculating dependency for PID
+Calculating dependency for PINT
+Calculating dependency for PIPT
+Calculating dependency for PIX
+Calculating dependency for PKERNINGPAIRS
+Calculating dependency for PLCID
+Calculating dependency for PLONG
+Calculating dependency for PMARGSTRUCT
+Calculating dependency for PMATRIXLF
+Calculating dependency for PMENUITEM
+Calculating dependency for PMLECTLDATA
+Calculating dependency for PMLE_SEARCHDATA
+Calculating dependency for PMPARAM
+Calculating dependency for PMQINFO
+Calculating dependency for PMRESULT
+Calculating dependency for POINTERINFO
+Calculating dependency for POINTFX
+Calculating dependency for POINTL
+Calculating dependency for POINTS
+Calculating dependency for POVERFLOW
+Calculating dependency for POWNERITEM
+Calculating dependency for PPARAM
+Calculating dependency for PPIBSTRUCT
+Calculating dependency for PPID
+Calculating dependency for PPOINTERINFO
+Calculating dependency for PPOINTFX
+Calculating dependency for PPOINTL
+Calculating dependency for PPOINTS
+Calculating dependency for PPRDINFO
+Calculating dependency for PPRDINFO3
+Calculating dependency for PPRESPARAMS
+Calculating dependency for PPRFPROFILE
+Calculating dependency for PPRIDINFO
+Calculating dependency for PPRJINFO
+Calculating dependency for PPRJINFO2
+Calculating dependency for PPRJINFO3
+Calculating dependency for PPROGCATEGORY
+Calculating dependency for PPROGDETAILS
+Calculating dependency for PPROGRAMENTRY
+Calculating dependency for PPROGTITLE
+Calculating dependency for PPROGTYPE
+Calculating dependency for PPRQINFO
+Calculating dependency for PPRQINFO3
+Calculating dependency for PQFEOUTBLK
+Calculating dependency for PQMOPENDATA
+Calculating dependency for PQMSG
+Calculating dependency for PQVERSDATA
+Calculating dependency for PRDINFO
+Calculating dependency for PRDINFO3
+Calculating dependency for PRECTFX
+Calculating dependency for PRECTL
+Calculating dependency for PRECTS
+Calculating dependency for PRENDERFILE
+Calculating dependency for PRESPARAMS
+Calculating dependency for PRFPROFILE
+Calculating dependency for PRGNRECT
+Calculating dependency for PRIDINFO
+Calculating dependency for PRJINFO
+Calculating dependency for PRJINFO2
+Calculating dependency for PRJINFO3
+Calculating dependency for PROGCATEGORY
+Calculating dependency for PROGDETAILS
+Calculating dependency for PROGRAMENTRY
+Calculating dependency for PROGTITLE
+Calculating dependency for PROGTYPE
+Calculating dependency for PRQINFO
+Calculating dependency for PRQINFO3
+Calculating dependency for PSBCDATA
+Calculating dependency for PSEL
+Calculating dependency for PSFACTORS
+Calculating dependency for PSHORT
+Calculating dependency for PSIZEF
+Calculating dependency for PSIZEL
+Calculating dependency for PSMHSTRUCT
+Calculating dependency for PSTR16
+Calculating dependency for PSTR32
+Calculating dependency for PSTR64
+Calculating dependency for PSTR8
+Calculating dependency for PSWBLOCK
+Calculating dependency for PSWCNTRL
+Calculating dependency for PSWENTRY
+Calculating dependency for PSWP
+Calculating dependency for PSZ
+Calculating dependency for PTID
+Calculating dependency for PTRACKINFO
+Calculating dependency for PUCHAR
+Calculating dependency for PUINT
+Calculating dependency for PULONG
+Calculating dependency for PUSERBUTTON
+Calculating dependency for PUSHORT
+Calculating dependency for PVBData
+Calculating dependency for PVIOFONTCELLSIZE
+Calculating dependency for PVIOSIZECOUNT
+Calculating dependency for PVOID
+Calculating dependency for PVOLUMELABEL
+Calculating dependency for PWNDPARAMS
+Calculating dependency for PWPOINT
+Calculating dependency for PWRECT
+Calculating dependency for PXFORM
+Calculating dependency for PXYWINSIZE
+Calculating dependency for PhysBufData
+Calculating dependency for PtrImage
+Calculating dependency for PtrLoc
+Calculating dependency for QFEOUTBLK
+Calculating dependency for QMSG
+Calculating dependency for QVERSDATA
+Calculating dependency for QueInfo
+Calculating dependency for RECT1S
+Calculating dependency for RECTFX
+Calculating dependency for RECTL
+Calculating dependency for RECTS
+Calculating dependency for RENDERFILE
+Calculating dependency for RGB
+Calculating dependency for RGNRECT
+Calculating dependency for SBCDATA
+Calculating dependency for SEL
+Calculating dependency for SFACTORS
+Calculating dependency for SHANDLE
+Calculating dependency for SIZEF
+Calculating dependency for SIZEL
+Calculating dependency for SIZES
+Calculating dependency for SMHSTRUCT
+Calculating dependency for SPLERR
+Calculating dependency for STR16
+Calculating dependency for STR32
+Calculating dependency for STR64
+Calculating dependency for STR8
+Calculating dependency for SWBLOCK
+Calculating dependency for SWCNTRL
+Calculating dependency for SWENTRY
+Calculating dependency for SWP
+Calculating dependency for SWPUSHORT
+Calculating dependency for ScaleFact
+Calculating dependency for TID
+Calculating dependency for TRACKINFO
+Calculating dependency for UCHAR
+Calculating dependency for UINT
+Calculating dependency for ULONG
+Calculating dependency for USERBUTTON
+Calculating dependency for USHORT
+Calculating dependency for VIOFONT
+Calculating dependency for VIOFONTCELLSIZE
+Calculating dependency for VIOSIZECOUNT
+Calculating dependency for VIOSTATE
+Calculating dependency for VOLUMELABEL
+Calculating dependency for VORDER
+Calculating dependency for WNDPARAMS
+Calculating dependency for WPOINT
+Calculating dependency for WRECT
+Calculating dependency for XFORM
+Calculating dependency for XYWINSIZE
+Calculating dependency for _ACCEL
+Calculating dependency for _ACCELTABLE
+Calculating dependency for _ARCPARAMS
+Calculating dependency for _AREABUNDLE
+Calculating dependency for _BANDRECT
+Calculating dependency for _BITMAPARRAYFILEHEADER
+Calculating dependency for _BITMAPFILEHEADER
+Calculating dependency for _BITMAPINFO
+Calculating dependency for _BITMAPINFOHEADER
+Calculating dependency for _BTNCDATA
+Calculating dependency for _CATCHBUF
+Calculating dependency for _CHARBUNDLE
+Calculating dependency for _CHARMSG
+Calculating dependency for _CLASSINFO
+Calculating dependency for _COMMANDMSG
+Calculating dependency for _CREATESTRUCT
+Calculating dependency for _CURSORINFO
+Calculating dependency for _DATETIME
+Calculating dependency for _DDEINIT
+Calculating dependency for _DDESTRUCT
+Calculating dependency for _DENA1
+Calculating dependency for _DEVOPENSTRUC
+Calculating dependency for _DLGTEMPLATE
+Calculating dependency for _DLGTITEM
+Calculating dependency for _DRAGIMAGE
+Calculating dependency for _DRAGINFO
+Calculating dependency for _DRAGITEM
+Calculating dependency for _DRAGTRANSFER
+Calculating dependency for _DRIVDATA
+Calculating dependency for _EAOP
+Calculating dependency for _ENTRYFDATA
+Calculating dependency for _ERRINFO
+Calculating dependency for _ESCGETCP
+Calculating dependency for _ESCSETMODE
+Calculating dependency for _FATTRS
+Calculating dependency for _FDATE
+Calculating dependency for _FEA
+Calculating dependency for _FEALIST
+Calculating dependency for _FILEFINDBUF
+Calculating dependency for _FILEFINDBUF2
+Calculating dependency for _FILELOCK
+Calculating dependency for _FILESTATUS
+Calculating dependency for _FILESTATUS2
+Calculating dependency for _FIOLOCKCMD
+Calculating dependency for _FIOLOCKREC
+Calculating dependency for _FIOREADWRITE
+Calculating dependency for _FIOSEEKCMD
+Calculating dependency for _FIOUNLOCKCMD
+Calculating dependency for _FIOUNLOCKREC
+Calculating dependency for _FOCAFONT
+Calculating dependency for _FOCAMETRICS
+Calculating dependency for _FONTDEFINITIONHEADER
+Calculating dependency for _FONTMETRICS
+Calculating dependency for _FONTSIGNATURE
+Calculating dependency for _FORMATRECT
+Calculating dependency for _FRAMECDATA
+Calculating dependency for _FSALLOCATE
+Calculating dependency for _FSINFO
+Calculating dependency for _FSQBUFFER
+Calculating dependency for _FTIME
+Calculating dependency for _GEA
+Calculating dependency for _GEALIST
+Calculating dependency for _GRADIENTL
+Calculating dependency for _HCINFO
+Calculating dependency for _HELPINIT
+Calculating dependency for _HELPTABLE
+Calculating dependency for _HPROGARRAY
+Calculating dependency for _IMAGEBUNDLE
+Calculating dependency for _KERNINGPAIRS
+Calculating dependency for _LINEBUNDLE
+Calculating dependency for _LORDER
+Calculating dependency for _MARKERBUNDLE
+Calculating dependency for _MATRIXLF
+Calculating dependency for _MENUITEM
+Calculating dependency for _MLECTLDATA
+Calculating dependency for _MLEMARGSTRUCT
+Calculating dependency for _MLEOVERFLOW
+Calculating dependency for _MOUSEMSG
+Calculating dependency for _MQINFO
+Calculating dependency for _ODPOINT
+Calculating dependency for _ORDER
+Calculating dependency for _ORDERL_GBBLT
+Calculating dependency for _ORDERL_GCARC
+Calculating dependency for _ORDERL_GCBOX
+Calculating dependency for _ORDERL_GCCHSTE
+Calculating dependency for _ORDERL_GCPARC
+Calculating dependency for _ORDERL_GCSFLT
+Calculating dependency for _ORDERL_GEBB
+Calculating dependency for _ORDERL_GSAP
+Calculating dependency for _ORDERL_GSCC
+Calculating dependency for _ORDERL_GSMC
+Calculating dependency for _ORDERL_GSPRP
+Calculating dependency for _ORDERL_GSSB
+Calculating dependency for _ORDERL_GSSLW
+Calculating dependency for _ORDERL_GSTM
+Calculating dependency for _ORDERS_GBBLT
+Calculating dependency for _ORDERS_GCARC
+Calculating dependency for _ORDERS_GCBOX
+Calculating dependency for _ORDERS_GCCHSTE
+Calculating dependency for _ORDERS_GCPARC
+Calculating dependency for _ORDERS_GCSFLT
+Calculating dependency for _ORDERS_GSAP
+Calculating dependency for _ORDERS_GSCC
+Calculating dependency for _ORDERS_GSMC
+Calculating dependency for _ORDERS_GSPRP
+Calculating dependency for _ORDERS_GSSB
+Calculating dependency for _ORDERS_GSSLW
+Calculating dependency for _ORDERS_GSTM
+Calculating dependency for _ORDER_GBEL
+Calculating dependency for _ORDER_GBPTH
+Calculating dependency for _ORDER_GCALLS
+Calculating dependency for _ORDER_GCBIMG
+Calculating dependency for _ORDER_GEESCP
+Calculating dependency for _ORDER_GESCP
+Calculating dependency for _ORDER_GFPTH
+Calculating dependency for _ORDER_GMPTH
+Calculating dependency for _ORDER_GOPTH
+Calculating dependency for _ORDER_GSBICOL
+Calculating dependency for _ORDER_GSCPTH
+Calculating dependency for _ORDER_GSGCH
+Calculating dependency for _ORDER_GSIA
+Calculating dependency for _OWNERITEM
+Calculating dependency for _PARAM
+Calculating dependency for _PIBSTRUCT
+Calculating dependency for _POINTERINFO
+Calculating dependency for _POINTFX
+Calculating dependency for _POINTL
+Calculating dependency for _POINTS
+Calculating dependency for _PRDINFO
+Calculating dependency for _PRDINFO3
+Calculating dependency for _PRESPARAMS
+Calculating dependency for _PRFPROFILE
+Calculating dependency for _PRIDINFO
+Calculating dependency for _PRJINFO
+Calculating dependency for _PRJINFO2
+Calculating dependency for _PRJINFO3
+Calculating dependency for _PROGDETAILS
+Calculating dependency for _PROGRAMENTRY
+Calculating dependency for _PROGTITLE
+Calculating dependency for _PROGTYPE
+Calculating dependency for _PRQINFO
+Calculating dependency for _PRQINFO3
+Calculating dependency for _QFEOUTBLK
+Calculating dependency for _QMSG
+Calculating dependency for _QVERSDATA
+Calculating dependency for _RECT1S
+Calculating dependency for _RECTFX
+Calculating dependency for _RECTL
+Calculating dependency for _RECTS
+Calculating dependency for _RENDERFILE
+Calculating dependency for _RGB
+Calculating dependency for _RGNRECT
+Calculating dependency for _SBCDATA
+Calculating dependency for _SEARCH
+Calculating dependency for _SFACTORS
+Calculating dependency for _SIZEF
+Calculating dependency for _SIZEL
+Calculating dependency for _SIZES
+Calculating dependency for _SMHSTRUCT
+Calculating dependency for _SWBLOCK
+Calculating dependency for _SWCNTRL
+Calculating dependency for _SWENTRY
+Calculating dependency for _SWP
+Calculating dependency for _SWPUSHORT
+Calculating dependency for _TRACKINFO
+Calculating dependency for _USERBUTTON
+Calculating dependency for _VIOFONTCELLSIZE
+Calculating dependency for _VIOSIZECOUNT
+Calculating dependency for _VOLUMELABEL
+Calculating dependency for _VORDER
+Calculating dependency for _WNDPARAMS
+Calculating dependency for _WPOINT
+Calculating dependency for _WRECT
+Calculating dependency for _XFORM
+Calculating dependency for _XYWINSIZE
+Calculating dependency for cmDefaultMessageParm
+Calculating dependency for cmDefaultMessageParmPtr
+Calculating dependency for cmDoActionParm
+Calculating dependency for cmDoActionParmPtr
+Calculating dependency for cmDoCheckParm
+Calculating dependency for cmDoCheckParmPtr
+Calculating dependency for cmDoCmdActionParm
+Calculating dependency for cmDoCmdActionParmPtr
+Calculating dependency for cmDoXlateParm
+Calculating dependency for cmDoXlateParmPtr
+Calculating dependency for cmEndDisplayParm
+Calculating dependency for cmEndDisplayParmPtr
+Calculating dependency for cmFreeCtlResourcesParm
+Calculating dependency for cmFreeCtlResourcesParmPtr
+Calculating dependency for cmGetUCParmAndTextParm
+Calculating dependency for cmGetUCParmAndTextParmPtr
+Calculating dependency for cmInitUserActionParm
+Calculating dependency for cmInitUserActionParmPtr
+Calculating dependency for cmInitUserCheckParm
+Calculating dependency for cmInitUserCheckParmPtr
+Calculating dependency for cmInitUserCmdActionParm
+Calculating dependency for cmInitUserCmdActionParmPtr
+Calculating dependency for cmInitUserControlParm
+Calculating dependency for cmInitUserControlParmPtr
+Calculating dependency for cmInitUserVariableParm
+Calculating dependency for cmInitUserVariableParmPtr
+Calculating dependency for cmInitUserXlateParm
+Calculating dependency for cmInitUserXlateParmPtr
+Calculating dependency for cmMemAllocParm
+Calculating dependency for cmMemAllocParmPtr
+Calculating dependency for cmMemFreeParm
+Calculating dependency for cmMemFreeParmPtr
+Calculating dependency for cmMemReallocParm
+Calculating dependency for cmMemReallocParmPtr
+Calculating dependency for cmNoFocusUserControlParm
+Calculating dependency for cmNoFocusUserControlParmPtr
+Calculating dependency for cmPanelEnteredParm
+Calculating dependency for cmPanelEnteredParmPtr
+Calculating dependency for cmQueryCtlHdlParm
+Calculating dependency for cmQueryCtlHdlParmPtr
+Calculating dependency for cmQueryUserInstPtrParm
+Calculating dependency for cmQueryUserInstPtrParmPtr
+Calculating dependency for cmQueryVariableValueParm
+Calculating dependency for cmQueryVariableValueParmPtr
+Calculating dependency for cmSetMinMaxSizeParm
+Calculating dependency for cmSetMinMaxSizeParmPtr
+Calculating dependency for cmSetUserInstPtrParm
+Calculating dependency for cmSetUserInstPtrParmPtr
+Calculating dependency for cmSetVariableValueParm
+Calculating dependency for cmSetVariableValueParmPtr
+Calculating dependency for cmUpdateControlParm
+Calculating dependency for cmUpdateControlParmPtr
+Calculating dependency for cmYesFocusUserControlParm
+Calculating dependency for cmYesFocusUserControlParmPtr
+
+Got Type Def: _FONTMETRICS
+Got Type Def: _FONTSIGNATURE
+Got Type Def: _FORMATRECT
+Got Type Def: _FRAMECDATA
+Got Type Def: _FSALLOCATE
+Got Type Def: _FSINFO
+Got Type Def: _FSQBUFFER
+Got Type Def: _FTIME
+Got Type Def: _GEA
+Got Type Def: _GEALIST
+Got Type Def: _GRADIENTL
+Got Type Def: _HCINFO
+Got Type Def: _HELPINIT
+Got Type Def: _HELPTABLE
+Got Type Def: _HPROGARRAY
+Got Type Def: _IMAGEBUNDLE
+Got Type Def: _KERNINGPAIRS
+Got Type Def: _LINEBUNDLE
+Got Type Def: _LORDER
+Got Type Def: _MARKERBUNDLE
+Got Type Def: _MATRIXLF
+Got Type Def: _MENUITEM
+Got Type Def: _MLECTLDATA
+Got Type Def: _MLEMARGSTRUCT
+Got Type Def: _MLEOVERFLOW
+Got Type Def: _MOUSEMSG
+Got Type Def: _MQINFO
+Got Type Def: _ODPOINT
+Got Type Def: _ORDER
+Got Type Def: _ORDERL_GBBLT
+Got Type Def: _ORDERL_GCARC
+Got Type Def: _ORDERL_GCBOX
+Got Type Def: _ORDERL_GCCHSTE
+Got Type Def: _ORDERL_GCPARC
+Got Type Def: _ORDERL_GCSFLT
+Got Type Def: _ORDERL_GEBB
+Got Type Def: _ORDERL_GSAP
+Got Type Def: _ORDERL_GSCC
+Got Type Def: _ORDERL_GSMC
+Got Type Def: _ORDERL_GSPRP
+Got Type Def: _ORDERL_GSSB
+Got Type Def: _ORDERL_GSSLW
+Got Type Def: _ORDERL_GSTM
+Got Type Def: _ORDERS_GBBLT
+Got Type Def: _ORDERS_GCARC
+Got Type Def: _ORDERS_GCBOX
+Got Type Def: _ORDERS_GCCHSTE
+Got Type Def: _ORDERS_GCPARC
+Got Type Def: _ORDERS_GCSFLT
+Got Type Def: _ORDERS_GSAP
+Got Type Def: _ORDERS_GSCC
+Got Type Def: _ORDERS_GSMC
+Got Type Def: _ORDERS_GSPRP
+Got Type Def: _ORDERS_GSSB
+Got Type Def: _ORDERS_GSSLW
+Got Type Def: _ORDERS_GSTM
+Got Type Def: _ORDER_GBEL
+Got Type Def: _ORDER_GBPTH
+Got Type Def: _ORDER_GCALLS
+Got Type Def: _ORDER_GCBIMG
+Got Type Def: _ORDER_GEESCP
+Got Type Def: _ORDER_GESCP
+Got Type Def: _ORDER_GFPTH
+Got Type Def: _ORDER_GMPTH
+Got Type Def: _ORDER_GOPTH
+Got Type Def: _ORDER_GSBICOL
+Got Type Def: _ORDER_GSCPTH
+Got Type Def: _ORDER_GSGCH
+Got Type Def: _ORDER_GSIA
+Got Type Def: _OWNERITEM
+Got Type Def: _PARAM
+Got Type Def: _PIBSTRUCT
+Got Type Def: _POINTERINFO
+Got Type Def: _POINTFX
+Got Type Def: _POINTL
+Got Type Def: _POINTS
+Got Type Def: _PRDINFO
+Got Type Def: _PRDINFO3
+Got Type Def: _PRESPARAMS
+Got Type Def: _PRFPROFILE
+Got Type Def: _PRIDINFO
+Got Type Def: _PRJINFO
+Got Type Def: _PRJINFO2
+Got Type Def: _PRJINFO3
+Got Type Def: _PROGDETAILS
+Got Type Def: _PROGRAMENTRY
+Got Type Def: _PROGTITLE
+Got Type Def: _PROGTYPE
+Got Type Def: _PRQINFO
+Got Type Def: _PRQINFO3
+Got Type Def: _QFEOUTBLK
+Got Type Def: _QMSG
+Got Type Def: _QVERSDATA
+Got Type Def: _RECT1S
+Got Type Def: _RECTFX
+Got Type Def: _RECTL
+Got Type Def: _RECTS
+Got Type Def: _RENDERFILE
+Got Type Def: _RGB
+Got Type Def: _RGNRECT
+Got Type Def: _SBCDATA
+Got Type Def: _SEARCH
+Got Type Def: _SFACTORS
+Got Type Def: _SIZEF
+Got Type Def: _SIZEL
+Got Type Def: _SIZES
+Got Type Def: _SMHSTRUCT
+Got Type Def: _SWBLOCK
+Got Type Def: _SWCNTRL
+Got Type Def: _SWENTRY
+Got Type Def: _SWP
+Got Type Def: _SWPUSHORT
+Got Type Def: _TRACKINFO
+Got Type Def: _USERBUTTON
+Got Type Def: _VIOFONTCELLSIZE
+Got Type Def: _VIOSIZECOUNT
+Got Type Def: _VOLUMELABEL
+Got Type Def: _VORDER
+Got Type Def: _WNDPARAMS
+Got Type Def: _WPOINT
+Got Type Def: _WRECT
+Got Type Def: _XFORM
+Got Type Def: _XYWINSIZE
+Got Type Def: cmDefaultMessageParm
+Got Type Def: cmDefaultMessageParmPtr
+Got Type Def: cmDoActionParm
+Got Type Def: cmDoActionParmPtr
+Got Type Def: cmDoCheckParm
+Got Type Def: cmDoCheckParmPtr
+Got Type Def: cmDoCmdActionParm
+Got Type Def: cmDoCmdActionParmPtr
+Got Type Def: cmDoXlateParm
+Got Type Def: cmDoXlateParmPtr
+Got Type Def: cmEndDisplayParm
+Got Type Def: cmEndDisplayParmPtr
+Got Type Def: cmFreeCtlResourcesParm
+Got Type Def: cmFreeCtlResourcesParmPtr
+Got Type Def: cmGetUCParmAndTextParm
+Got Type Def: cmGetUCParmAndTextParmPtr
+Got Type Def: cmInitUserActionParm
+Got Type Def: cmInitUserActionParmPtr
+Got Type Def: cmInitUserCheckParm
+Got Type Def: cmInitUserCheckParmPtr
+Got Type Def: cmInitUserCmdActionParm
+Got Type Def: cmInitUserCmdActionParmPtr
+Got Type Def: cmInitUserControlParm
+Got Type Def: cmInitUserControlParmPtr
+Got Type Def: cmInitUserVariableParm
+Got Type Def: cmInitUserVariableParmPtr
+Got Type Def: cmInitUserXlateParm
+Got Type Def: cmInitUserXlateParmPtr
+Got Type Def: cmMemAllocParm
+Got Type Def: cmMemAllocParmPtr
+Got Type Def: cmMemFreeParm
+Got Type Def: cmMemFreeParmPtr
+Got Type Def: cmMemReallocParm
+Got Type Def: cmMemReallocParmPtr
+Got Type Def: cmNoFocusUserControlParm
+Got Type Def: cmNoFocusUserControlParmPtr
+Got Type Def: cmPanelEnteredParm
+Got Type Def: cmPanelEnteredParmPtr
+Got Type Def: cmQueryCtlHdlParm
+Got Type Def: cmQueryCtlHdlParmPtr
+Got Type Def: cmQueryUserInstPtrParm
+Got Type Def: cmQueryUserInstPtrParmPtr
+Got Type Def: cmQueryVariableValueParm
+Got Type Def: cmQueryVariableValueParmPtr
+Got Type Def: cmSetMinMaxSizeParm
+Got Type Def: cmSetMinMaxSizeParmPtr
+Got Type Def: cmSetUserInstPtrParm
+Got Type Def: cmSetUserInstPtrParmPtr
+Got Type Def: cmSetVariableValueParm
+Got Type Def: cmSetVariableValueParmPtr
+Got Type Def: cmUpdateControlParm
+Got Type Def: cmUpdateControlParmPtr
+Got Type Def: cmYesFocusUserControlParm
+Got Type Def: cmYesFocusUserControlParmPtr
+Compiling all type regex...
+Calculating dependency for: _1E5BEA67514FA69AE227327A41C0328A
+Calculating dependency for: _2ADF97A2EB03F7528F8CF91702B0FF94
+Calculating dependency for: _564CD2F9AA3593396AB8FF7A8CFD72DC
+Calculating dependency for: _72F24CCAF34A08FE6ED0B18B89C3FEC1
+Calculating dependency for: _73A7A7871E3C0660E7638CCD3AAA3450
+Calculating dependency for: _73AC92F57FF9A2F638122E5FD0125175
+Calculating dependency for: _8BE359F162A701EA4134435F226E12D7
+Calculating dependency for: _8D42E53C4B9F37961F258F01B3C171EE
+Calculating dependency for: _9DC04B658522DE14E2712C31ED9AB586
+Calculating dependency for: _B6804704304881357F90B87C53B01F2F
+Calculating dependency for: _BC4579577E20233A2FB1B71961C93A96
+Calculating dependency for: _C41D785D6D1B6E0E786C4F3D3CE79278
+Calculating dependency for: _CA612C821642CC61B58FB32F58A61A62
+Calculating dependency for: _D18F4637E10A1C82A24B64ED6389C0B9
+Calculating dependency for: _D734DE31CA80E2F48B0496A69E34A78F
+Calculating dependency for: _E62E8F0B06E5E329D54975EB5E2BC603
+Calculating dependency for: _E7913EB5324A059B9F66E9B09CCF3EB2
+Calculating dependency for: _E792D6B2EEFA26F5FFBEB65DBFA34B4B
+Calculating dependency for: _ED5C76BB170932A59FE1C0BD29DCADEF
+Calculating dependency for: _F5FF9E32986B7A22EB5B6BA1C2370572
+Calculating dependency for: _F6CCC3681B4E139A9114051362F1CF74
+Calculating dependency for: MACRO_ERROR_INVALID_FREQUENCY
+Calculating dependency for: cmYesFocusUserControlParmPtr
+Calculating dependency for: cmNoFocusUserControlParmPtr
+Calculating dependency for: cmQueryVariableValueParmPtr
+Calculating dependency for: cmInitUserCmdActionParmPtr
+Calculating dependency for: cmFreeCtlResourcesParmPtr
+Calculating dependency for: cmGetUCParmAndTextParmPtr
+Calculating dependency for: cmInitUserVariableParmPtr
+Calculating dependency for: cmQueryUserInstPtrParmPtr
+Calculating dependency for: cmSetVariableValueParmPtr
+Calculating dependency for: cmYesFocusUserControlParm
+Calculating dependency for: MACRO_NGreSetColorCursor
+Calculating dependency for: cmInitUserControlParmPtr
+Calculating dependency for: cmNoFocusUserControlParm
+Calculating dependency for: cmQueryVariableValueParm
+Calculating dependency for: cmDefaultMessageParmPtr
+Calculating dependency for: cmInitUserActionParmPtr
+Calculating dependency for: cmInitUserCmdActionParm
+Calculating dependency for: cmSetUserInstPtrParmPtr
+Calculating dependency for: PBITMAPARRAYFILEHEADER
+Calculating dependency for: _BITMAPARRAYFILEHEADER
+Calculating dependency for: cmFreeCtlResourcesParm
+Calculating dependency for: cmGetUCParmAndTextParm
+Calculating dependency for: cmInitUserCheckParmPtr
+Calculating dependency for: cmInitUserVariableParm
+Calculating dependency for: cmInitUserXlateParmPtr
+Calculating dependency for: cmQueryUserInstPtrParm
+Calculating dependency for: cmSetMinMaxSizeParmPtr
+Calculating dependency for: cmSetVariableValueParm
+Calculating dependency for: cmUpdateControlParmPtr
+Calculating dependency for: BITMAPARRAYFILEHEADER
+Calculating dependency for: PFONTDEFINITIONHEADER
+Calculating dependency for: _FONTDEFINITIONHEADER
+Calculating dependency for: cmInitUserControlParm
+Calculating dependency for: cmPanelEnteredParmPtr
+Calculating dependency for: FONTDEFINITIONHEADER
+Calculating dependency for: MACRO_CCHMAXPATHCOMP
+Calculating dependency for: MACRO_ERROR_ITERATED
+Calculating dependency for: MACRO_FONT_SIGNATURE
+Calculating dependency for: cmDefaultMessageParm
+Calculating dependency for: cmDoCmdActionParmPtr
+Calculating dependency for: cmInitUserActionParm
+Calculating dependency for: cmQueryCtlHdlParmPtr
+Calculating dependency for: cmSetUserInstPtrParm
+Calculating dependency for: MACRO_CMERR_MESSAGE
+Calculating dependency for: MACRO_CMERR_PASSING
+Calculating dependency for: MACRO_CMERR_REFRESH
+Calculating dependency for: MACRO_CMERR_SETTING
+Calculating dependency for: MACRO_DMERR_COMMAND
+Calculating dependency for: MACRO_DMERR_DISPLAY
+Calculating dependency for: MACRO_DMERR_EXECUTE
+Calculating dependency for: MACRO_ERROR_INVALID
+Calculating dependency for: MACRO_ETYPE_GCCHSTE
+Calculating dependency for: MACRO_HM_RESOURCEID
+Calculating dependency for: MACRO_OCODEQ_GEESCP
+Calculating dependency for: MACRO_OCODE_GCCHSTM
+Calculating dependency for: MACRO_OCODE_GCRLINE
+Calculating dependency for: MACRO_SEI_DEBUGONLY
+Calculating dependency for: MACRO_SPBM_SETARRAY
+Calculating dependency for: MACRO_WC_ENTRYFIELD
+Calculating dependency for: MACRO_WC_SPINBUTTON
+Calculating dependency for: cmEndDisplayParmPtr
+Calculating dependency for: cmInitUserCheckParm
+Calculating dependency for: cmInitUserXlateParm
+Calculating dependency for: cmMemReallocParmPtr
+Calculating dependency for: cmSetMinMaxSizeParm
+Calculating dependency for: cmUpdateControlParm
+Calculating dependency for: MACRO_DMERR_CREATE
+Calculating dependency for: MACRO_DMERR_UPDATE
+Calculating dependency for: MACRO_FONTDEFCHAR2
+Calculating dependency for: MACRO_FONTDEFCHAR3
+Calculating dependency for: MACRO_FONTDEFFONT1
+Calculating dependency for: MACRO_FONTDEFFONT2
+Calculating dependency for: MACRO_FONTDEFFONT3
+Calculating dependency for: MACRO_MAXCOMMENTSZ
+Calculating dependency for: MACRO_OCODE_GCALLS
+Calculating dependency for: MACRO_OCODE_GCBIMG
+Calculating dependency for: MACRO_OCODE_GCFARC
+Calculating dependency for: MACRO_OCODE_GCHSTM
+Calculating dependency for: MACRO_OCODE_GCLINE
+Calculating dependency for: MACRO_OCODE_GCPARC
+Calculating dependency for: MACRO_OCODE_GCSFLT
+Calculating dependency for: MACRO_OCODE_GRLINE
+Calculating dependency for: MACRO_OCODE_GSBCOL
+Calculating dependency for: MACRO_WC_SCROLLBAR
+Calculating dependency for: MACRO_WM_RENDERFMT
+Calculating dependency for: cmPanelEnteredParm
+Calculating dependency for: KbdStringInLength
+Calculating dependency for: MACRO_CMERR_ALLOC
+Calculating dependency for: MACRO_CMERR_DOING
+Calculating dependency for: MACRO_DMCOMMBLOCK
+Calculating dependency for: MACRO_DMERR_ALLOC
+Calculating dependency for: MACRO_DMERR_CLASS
+Calculating dependency for: MACRO_DMERR_PANEL
+Calculating dependency for: MACRO_ETYPE_GEPEL
+Calculating dependency for: MACRO_FILE_NORMAL
+Calculating dependency for: MACRO_HMPANELTYPE
+Calculating dependency for: MACRO_HWND_PARENT
+Calculating dependency for: MACRO_OCODE_GBBLT
+Calculating dependency for: MACRO_OCODE_GCFLT
+Calculating dependency for: MACRO_OCODE_GCHST
+Calculating dependency for: MACRO_OCODE_GCMRK
+Calculating dependency for: MACRO_OCODE_GCOMT
+Calculating dependency for: MACRO_OCODE_GLINE
+Calculating dependency for: MACRO_OCODE_GOPTH
+Calculating dependency for: MACRO_OCODE_GSGCH
+Calculating dependency for: MACRO_OCODE_GSPRP
+Calculating dependency for: MACRO_OCODE_GSSLW
+Calculating dependency for: MACRO_OCODE_VLONG
+Calculating dependency for: MACRO_WC_COMBOBOX
+Calculating dependency for: MACRO_WC_TITLEBAR
+Calculating dependency for: PBITMAPFILEHEADER
+Calculating dependency for: PBITMAPINFOHEADER
+Calculating dependency for: _BITMAPFILEHEADER
+Calculating dependency for: _BITMAPINFOHEADER
+Calculating dependency for: cmDoActionParmPtr
+Calculating dependency for: cmDoCmdActionParm
+Calculating dependency for: cmMemAllocParmPtr
+Calculating dependency for: cmQueryCtlHdlParm
+Calculating dependency for: BITMAPFILEHEADER
+Calculating dependency for: BITMAPINFOHEADER
+Calculating dependency for: MACRO_CCHMAXPATH
+Calculating dependency for: MACRO_CM_MESSAGE
+Calculating dependency for: MACRO_DO_DEFAULT
+Calculating dependency for: MACRO_MLFFMTRECT
+Calculating dependency for: MACRO_OCODE_GBAR
+Calculating dependency for: MACRO_OCODE_GBEZ
+Calculating dependency for: MACRO_OCODE_GEAR
+Calculating dependency for: MACRO_OCODE_GFLT
+Calculating dependency for: MACRO_OCODE_GIMD
+Calculating dependency for: MACRO_OCODE_GMRK
+Calculating dependency for: MACRO_OCODE_GSAP
+Calculating dependency for: MACRO_OCODE_GSCA
+Calculating dependency for: MACRO_OCODE_GSCC
+Calculating dependency for: MACRO_OCODE_GSIA
+Calculating dependency for: MACRO_OCODE_GSMC
+Calculating dependency for: MACRO_OCODE_GSSB
+Calculating dependency for: MACRO_OCODE_GSTM
+Calculating dependency for: MACRO_WC_LISTBOX
+Calculating dependency for: PVIOFONTCELLSIZE
+Calculating dependency for: _VIOFONTCELLSIZE
+Calculating dependency for: cmDoCheckParmPtr
+Calculating dependency for: cmDoXlateParmPtr
+Calculating dependency for: cmEndDisplayParm
+Calculating dependency for: cmMemFreeParmPtr
+Calculating dependency for: cmMemReallocParm
+Calculating dependency for: MACRO_CLR_FALSE
+Calculating dependency for: MACRO_CMERR_RUN
+Calculating dependency for: MACRO_DMERR_CMD
+Calculating dependency for: MACRO_LINEWIDTH
+Calculating dependency for: MACRO_MLFMARGIN
+Calculating dependency for: MACRO_MLFSEARCH
+Calculating dependency for: MACRO_MSGF_DRAG
+Calculating dependency for: MACRO_PMERR_NOT
+Calculating dependency for: MACRO_PMERR_SPL
+Calculating dependency for: MACRO_QWS_FLAGS
+Calculating dependency for: MACRO_TRANSFORM
+Calculating dependency for: MACRO_WC_BUTTON
+Calculating dependency for: PMLE_SEARCHDATA
+Calculating dependency for: VIOFONTCELLSIZE
+Calculating dependency for: _ORDERL_GCCHSTE
+Calculating dependency for: _ORDERS_GCCHSTE
+Calculating dependency for: MACRO_BM_ERROR
+Calculating dependency for: MACRO_CBM_INIT
+Calculating dependency for: MACRO_CMERR_PS
+Calculating dependency for: MACRO_DOS_EXIT
+Calculating dependency for: MACRO_ERRCLASS
+Calculating dependency for: MACRO_ERROR_NO
+Calculating dependency for: MACRO_FACESIZE
+Calculating dependency for: MACRO_FM_ERROR
+Calculating dependency for: MACRO_FSATTACH
+Calculating dependency for: MACRO_GEBB_LMP
+Calculating dependency for: MACRO_GPI_HITS
+Calculating dependency for: MACRO_HANDTYPE
+Calculating dependency for: MACRO_LCID_ALL
+Calculating dependency for: MACRO_LINEJOIN
+Calculating dependency for: MACRO_LINETYPE
+Calculating dependency for: MACRO_MAXNAMEL
+Calculating dependency for: MACRO_MAXPATHL
+Calculating dependency for: MACRO_MLFCLPBD
+Calculating dependency for: MACRO_NO_ERROR
+Calculating dependency for: MACRO_PMERR_OK
+Calculating dependency for: MACRO_SEVERITY
+Calculating dependency for: MACRO_WC_FRAME
+Calculating dependency for: MLE_SEARCHDATA
+Calculating dependency for: ORDERL_GCCHSTE
+Calculating dependency for: ORDERS_GCCHSTE
+Calculating dependency for: PFONTSIGNATURE
+Calculating dependency for: _FONTSIGNATURE
+Calculating dependency for: _MLEMARGSTRUCT
+Calculating dependency for: _ORDERL_GCPARC
+Calculating dependency for: _ORDERL_GCSFLT
+Calculating dependency for: _ORDERS_GCPARC
+Calculating dependency for: _ORDERS_GCSFLT
+Calculating dependency for: _ORDER_GSBICOL
+Calculating dependency for: cmDoActionParm
+Calculating dependency for: cmMemAllocParm
+Calculating dependency for: FONTSIGNATURE
+Calculating dependency for: MACRO_ADDRESS
+Calculating dependency for: MACRO_ALLOWED
+Calculating dependency for: MACRO_COMMENT
+Calculating dependency for: MACRO_DM_DROP
+Calculating dependency for: MACRO_DM_USER
+Calculating dependency for: MACRO_GCCHSTE
+Calculating dependency for: MACRO_GCCHSTM
+Calculating dependency for: MACRO_GCRLINE
+Calculating dependency for: MACRO_LCOLOPT
+Calculating dependency for: MACRO_LINEEND
+Calculating dependency for: MACRO_MARKSYM
+Calculating dependency for: MACRO_PICKSEL
+Calculating dependency for: MACRO_QWL_HMQ
+Calculating dependency for: MACRO_RECTDIR
+Calculating dependency for: MACRO_SPLDATA
+Calculating dependency for: MACRO_SPLINFO
+Calculating dependency for: MACRO_WC_MENU
+Calculating dependency for: MLEFORMATRECT
+Calculating dependency for: MLEMARGSTRUCT
+Calculating dependency for: ORDERL_GCPARC
+Calculating dependency for: ORDERL_GCSFLT
+Calculating dependency for: ORDERS_GCPARC
+Calculating dependency for: ORDERS_GCSFLT
+Calculating dependency for: ORDER_GSBICOL
+Calculating dependency for: PCREATESTRUCT
+Calculating dependency for: PDEVOPENSTRUC
+Calculating dependency for: PDRAGTRANSFER
+Calculating dependency for: PFILEFINDBUF2
+Calculating dependency for: PFIOREADWRITE
+Calculating dependency for: PFIOUNLOCKCMD
+Calculating dependency for: PFIOUNLOCKREC
+Calculating dependency for: PHELPSUBTABLE
+Calculating dependency for: PKERNINGPAIRS
+Calculating dependency for: PPROGCATEGORY
+Calculating dependency for: PPROGRAMENTRY
+Calculating dependency for: PVIOSIZECOUNT
+Calculating dependency for: _CREATESTRUCT
+Calculating dependency for: _DEVOPENSTRUC
+Calculating dependency for: _DRAGTRANSFER
+Calculating dependency for: _FILEFINDBUF2
+Calculating dependency for: _FIOREADWRITE
+Calculating dependency for: _FIOUNLOCKCMD
+Calculating dependency for: _FIOUNLOCKREC
+Calculating dependency for: _KERNINGPAIRS
+Calculating dependency for: _MARKERBUNDLE
+Calculating dependency for: _ORDERL_GBBLT
+Calculating dependency for: _ORDERL_GCARC
+Calculating dependency for: _ORDERL_GCBOX
+Calculating dependency for: _ORDERL_GSPRP
+Calculating dependency for: _ORDERL_GSSLW
+Calculating dependency for: _ORDERS_GBBLT
+Calculating dependency for: _ORDERS_GCARC
+Calculating dependency for: _ORDERS_GCBOX
+Calculating dependency for: _ORDERS_GSPRP
+Calculating dependency for: _ORDERS_GSSLW
+Calculating dependency for: _ORDER_GCALLS
+Calculating dependency for: _ORDER_GCBIMG
+Calculating dependency for: _ORDER_GEESCP
+Calculating dependency for: _ORDER_GSCPTH
+Calculating dependency for: _PROGRAMENTRY
+Calculating dependency for: _VIOSIZECOUNT
+Calculating dependency for: cmDoCheckParm
+Calculating dependency for: cmDoXlateParm
+Calculating dependency for: cmMemFreeParm
+Calculating dependency for: CREATESTRUCT
+Calculating dependency for: DEVOPENSTRUC
+Calculating dependency for: DRAGTRANSFER
+Calculating dependency for: FILEFINDBUF2
+Calculating dependency for: FIOREADWRITE
+Calculating dependency for: FIOUNLOCKCMD
+Calculating dependency for: FIOUNLOCKREC
+Calculating dependency for: HELPSUBTABLE
+Calculating dependency for: KERNINGPAIRS
+Calculating dependency for: MACRO_CHDIRN
+Calculating dependency for: MACRO_CMDSRC
+Calculating dependency for: MACRO_CURSOR
+Calculating dependency for: MACRO_DDEFMT
+Calculating dependency for: MACRO_DEVESC
+Calculating dependency for: MACRO_DRIVER
+Calculating dependency for: MACRO_ERRACT
+Calculating dependency for: MACRO_ERRLOC
+Calculating dependency for: MACRO_FNOTIL
+Calculating dependency for: MACRO_GCCHST
+Calculating dependency for: MACRO_GCHSTM
+Calculating dependency for: MACRO_GCLINE
+Calculating dependency for: MACRO_GEESCP
+Calculating dependency for: MACRO_GPI_LC
+Calculating dependency for: MACRO_GRLINE
+Calculating dependency for: MACRO_GSCPTH
+Calculating dependency for: MACRO_HM_MSG
+Calculating dependency for: MACRO_LORDER
+Calculating dependency for: MACRO_MLFEFR
+Calculating dependency for: MACRO_MLFETL
+Calculating dependency for: MACRO_OCODE2
+Calculating dependency for: MACRO_OCODEQ
+Calculating dependency for: MACRO_PARAMS
+Calculating dependency for: MACRO_PATSYM
+Calculating dependency for: MACRO_PICKAP
+Calculating dependency for: MACRO_SEARCH
+Calculating dependency for: MACRO_SYSCLR
+Calculating dependency for: MACRO_TXTBOX
+Calculating dependency for: MACRO_VORDER
+Calculating dependency for: MACRO_WC_MLE
+Calculating dependency for: MACRO_WINDBG
+Calculating dependency for: MACRO_WM_DDE
+Calculating dependency for: MARKERBUNDLE
+Calculating dependency for: NPPRESPARAMS
+Calculating dependency for: ORDERL_GBBLT
+Calculating dependency for: ORDERL_GCARC
+Calculating dependency for: ORDERL_GCBOX
+Calculating dependency for: ORDERL_GSPRP
+Calculating dependency for: ORDERL_GSSLW
+Calculating dependency for: ORDERS_GBBLT
+Calculating dependency for: ORDERS_GCARC
+Calculating dependency for: ORDERS_GCBOX
+Calculating dependency for: ORDERS_GSPRP
+Calculating dependency for: ORDERS_GSSLW
+Calculating dependency for: ORDER_GCALLS
+Calculating dependency for: ORDER_GCBIMG
+Calculating dependency for: ORDER_GEESCP
+Calculating dependency for: ORDER_GSCPTH
+Calculating dependency for: PDEVOPENDATA
+Calculating dependency for: PDLGTEMPLATE
+Calculating dependency for: PDMCOMMBLOCK
+Calculating dependency for: PDMERRORINFO
+Calculating dependency for: PFILEFINDBUF
+Calculating dependency for: PFILESTATUS2
+Calculating dependency for: PFOCAMETRICS
+Calculating dependency for: PFONTMETRICS
+Calculating dependency for: PPOINTERINFO
+Calculating dependency for: PPROGDETAILS
+Calculating dependency for: PROGCATEGORY
+Calculating dependency for: PROGRAMENTRY
+Calculating dependency for: PVOLUMELABEL
+Calculating dependency for: VIOSIZECOUNT
+Calculating dependency for: _DLGTEMPLATE
+Calculating dependency for: _FILEFINDBUF
+Calculating dependency for: _FILESTATUS2
+Calculating dependency for: _FOCAMETRICS
+Calculating dependency for: _FONTMETRICS
+Calculating dependency for: _IMAGEBUNDLE
+Calculating dependency for: _MLEOVERFLOW
+Calculating dependency for: _ORDERL_GEBB
+Calculating dependency for: _ORDERL_GSAP
+Calculating dependency for: _ORDERL_GSCC
+Calculating dependency for: _ORDERL_GSMC
+Calculating dependency for: _ORDERL_GSSB
+Calculating dependency for: _ORDERL_GSTM
+Calculating dependency for: _ORDERS_GSAP
+Calculating dependency for: _ORDERS_GSCC
+Calculating dependency for: _ORDERS_GSMC
+Calculating dependency for: _ORDERS_GSSB
+Calculating dependency for: _ORDERS_GSTM
+Calculating dependency for: _ORDER_GBPTH
+Calculating dependency for: _ORDER_GESCP
+Calculating dependency for: _ORDER_GFPTH
+Calculating dependency for: _ORDER_GMPTH
+Calculating dependency for: _ORDER_GOPTH
+Calculating dependency for: _ORDER_GSGCH
+Calculating dependency for: _POINTERINFO
+Calculating dependency for: _PROGDETAILS
+Calculating dependency for: _VOLUMELABEL
+Calculating dependency for: DLGTEMPLATE
+Calculating dependency for: DMCOMMBLOCK
+Calculating dependency for: DMERRORINFO
+Calculating dependency for: FILEFINDBUF
+Calculating dependency for: FILESTATUS2
+Calculating dependency for: FOCAMETRICS
+Calculating dependency for: FONTMETRICS
+Calculating dependency for: IMAGEBUNDLE
+Calculating dependency for: MACRO_CMERR
+Calculating dependency for: MACRO_CNLEN
+Calculating dependency for: MACRO_DFORM
+Calculating dependency for: MACRO_DMERR
+Calculating dependency for: MACRO_DTLEN
+Calculating dependency for: MACRO_EQRGN
+Calculating dependency for: MACRO_ERROR
+Calculating dependency for: MACRO_ETYPE
+Calculating dependency for: MACRO_FATTR
+Calculating dependency for: MACRO_FPATH
+Calculating dependency for: MACRO_FSAIL
+Calculating dependency for: MACRO_FSCTL
+Calculating dependency for: MACRO_GCBEZ
+Calculating dependency for: MACRO_GCBOX
+Calculating dependency for: MACRO_GCFLT
+Calculating dependency for: MACRO_GCHST
+Calculating dependency for: MACRO_GCMRK
+Calculating dependency for: MACRO_GCOMT
+Calculating dependency for: MACRO_GEPEL
+Calculating dependency for: MACRO_GESCP
+Calculating dependency for: MACRO_GFPTH
+Calculating dependency for: MACRO_GLINE
+Calculating dependency for: MACRO_GMPTH
+Calculating dependency for: MACRO_GSGCH
+Calculating dependency for: MACRO_GSPRP
+Calculating dependency for: MACRO_GSSLW
+Calculating dependency for: MACRO_HCAPS
+Calculating dependency for: MACRO_HMERR
+Calculating dependency for: MACRO_LCIDT
+Calculating dependency for: MACRO_LCOLF
+Calculating dependency for: MACRO_MLFIE
+Calculating dependency for: MACRO_MLFQS
+Calculating dependency for: MACRO_MPATH
+Calculating dependency for: MACRO_OCODE
+Calculating dependency for: MACRO_PDLEN
+Calculating dependency for: MACRO_PMERR
+Calculating dependency for: MACRO_PM_MB
+Calculating dependency for: MACRO_PM_SW
+Calculating dependency for: MACRO_QNLEN
+Calculating dependency for: MACRO_QUERY
+Calculating dependency for: MACRO_RUMHK
+Calculating dependency for: MACRO_SECOL
+Calculating dependency for: MACRO_SEGEM
+Calculating dependency for: MACRO_SICOL
+Calculating dependency for: MACRO_SPACE
+Calculating dependency for: MACRO_UNLEN
+Calculating dependency for: MLEOVERFLOW
+Calculating dependency for: ORDERL_GEBB
+Calculating dependency for: ORDERL_GSAP
+Calculating dependency for: ORDERL_GSCC
+Calculating dependency for: ORDERL_GSMC
+Calculating dependency for: ORDERL_GSSB
+Calculating dependency for: ORDERL_GSTM
+Calculating dependency for: ORDERS_GSAP
+Calculating dependency for: ORDERS_GSCC
+Calculating dependency for: ORDERS_GSMC
+Calculating dependency for: ORDERS_GSSB
+Calculating dependency for: ORDERS_GSTM
+Calculating dependency for: ORDER_GBPTH
+Calculating dependency for: ORDER_GESCP
+Calculating dependency for: ORDER_GFPTH
+Calculating dependency for: ORDER_GMPTH
+Calculating dependency for: ORDER_GOPTH
+Calculating dependency for: ORDER_GSGCH
+Calculating dependency for: PACCELTABLE
+Calculating dependency for: PBITMAPINFO
+Calculating dependency for: PCURSORINFO
+Calculating dependency for: PENTRYFDATA
+Calculating dependency for: PESCSETMODE
+Calculating dependency for: PFILESTATUS
+Calculating dependency for: PFIOLOCKCMD
+Calculating dependency for: PFIOLOCKREC
+Calculating dependency for: PFIOSEEKCMD
+Calculating dependency for: PFORMATRECT
+Calculating dependency for: PFRAMECDATA
+Calculating dependency for: PFSALLOCATE
+Calculating dependency for: PHPROGARRAY
+Calculating dependency for: PMARGSTRUCT
+Calculating dependency for: PMLECTLDATA
+Calculating dependency for: POINTERINFO
+Calculating dependency for: PPRESPARAMS
+Calculating dependency for: PPRFPROFILE
+Calculating dependency for: PQMOPENDATA
+Calculating dependency for: PRENDERFILE
+Calculating dependency for: PROGDETAILS
+Calculating dependency for: PUSERBUTTON
+Calculating dependency for: PhysBufData
+Calculating dependency for: VOLUMELABEL
+Calculating dependency for: _ACCELTABLE
+Calculating dependency for: _AREABUNDLE
+Calculating dependency for: _BITMAPINFO
+Calculating dependency for: _CHARBUNDLE
+Calculating dependency for: _COMMANDMSG
+Calculating dependency for: _CURSORINFO
+Calculating dependency for: _ENTRYFDATA
+Calculating dependency for: _ESCSETMODE
+Calculating dependency for: _FILESTATUS
+Calculating dependency for: _FIOLOCKCMD
+Calculating dependency for: _FIOLOCKREC
+Calculating dependency for: _FIOSEEKCMD
+Calculating dependency for: _FORMATRECT
+Calculating dependency for: _FRAMECDATA
+Calculating dependency for: _FSALLOCATE
+Calculating dependency for: _HPROGARRAY
+Calculating dependency for: _LINEBUNDLE
+Calculating dependency for: _MLECTLDATA
+Calculating dependency for: _ORDER_GBEL
+Calculating dependency for: _ORDER_GSIA
+Calculating dependency for: _PRESPARAMS
+Calculating dependency for: _PRFPROFILE
+Calculating dependency for: _RENDERFILE
+Calculating dependency for: _USERBUTTON
+Calculating dependency for: ACCELTABLE
+Calculating dependency for: AREABUNDLE
+Calculating dependency for: BITMAPINFO
+Calculating dependency for: CHARBUNDLE
+Calculating dependency for: CURSORINFO
+Calculating dependency for: ConfigData
+Calculating dependency for: CursorData
+Calculating dependency for: ENTRYFDATA
+Calculating dependency for: ESCSETMODE
+Calculating dependency for: FILESTATUS
+Calculating dependency for: FIOLOCKCMD
+Calculating dependency for: FIOLOCKREC
+Calculating dependency for: FIOSEEKCMD
+Calculating dependency for: FRAMECDATA
+Calculating dependency for: FSALLOCATE
+Calculating dependency for: HPROGARRAY
+Calculating dependency for: LINEBUNDLE
+Calculating dependency for: MACRO_ATTR
+Calculating dependency for: MACRO_BASE
+Calculating dependency for: MACRO_BMSG
+Calculating dependency for: MACRO_BOOL
+Calculating dependency for: MACRO_CAPS
+Calculating dependency for: MACRO_CBID
+Calculating dependency for: MACRO_CCTL
+Calculating dependency for: MACRO_CDEF
+Calculating dependency for: MACRO_CMIC
+Calculating dependency for: MACRO_CREA
+Calculating dependency for: MACRO_CRGN
+Calculating dependency for: MACRO_CTAB
+Calculating dependency for: MACRO_CVTC
+Calculating dependency for: MACRO_DATA
+Calculating dependency for: MACRO_DCPY
+Calculating dependency for: MACRO_DCTL
+Calculating dependency for: MACRO_DDEF
+Calculating dependency for: MACRO_DLGC
+Calculating dependency for: MACRO_DMFL
+Calculating dependency for: MACRO_DPDM
+Calculating dependency for: MACRO_DQHC
+Calculating dependency for: MACRO_DTYP
+Calculating dependency for: MACRO_FILE
+Calculating dependency for: MACRO_FONT
+Calculating dependency for: MACRO_FSAT
+Calculating dependency for: MACRO_FSIL
+Calculating dependency for: MACRO_GBAR
+Calculating dependency for: MACRO_GBEL
+Calculating dependency for: MACRO_GBEZ
+Calculating dependency for: MACRO_GEBB
+Calculating dependency for: MACRO_GFLT
+Calculating dependency for: MACRO_GIMD
+Calculating dependency for: MACRO_GMRK
+Calculating dependency for: MACRO_GPIA
+Calculating dependency for: MACRO_GPIE
+Calculating dependency for: MACRO_GPIF
+Calculating dependency for: MACRO_GPIT
+Calculating dependency for: MACRO_GRES
+Calculating dependency for: MACRO_GSCC
+Calculating dependency for: MACRO_GSCR
+Calculating dependency for: MACRO_GSIA
+Calculating dependency for: MACRO_GSMC
+Calculating dependency for: MACRO_GSSB
+Calculating dependency for: MACRO_GSTM
+Calculating dependency for: MACRO_GSTV
+Calculating dependency for: MACRO_GSVW
+Calculating dependency for: MACRO_HDIR
+Calculating dependency for: MACRO_HINI
+Calculating dependency for: MACRO_HLPM
+Calculating dependency for: MACRO_HRGN
+Calculating dependency for: MACRO_HWND
+Calculating dependency for: MACRO_LCID
+Calculating dependency for: MACRO_LCOL
+Calculating dependency for: MACRO_MBID
+Calculating dependency for: MACRO_MCHK
+Calculating dependency for: MACRO_MSGF
+Calculating dependency for: MACRO_OPEN
+Calculating dependency for: MACRO_PRGN
+Calculating dependency for: MACRO_PRIM
+Calculating dependency for: MACRO_PROC
+Calculating dependency for: MACRO_PROG
+Calculating dependency for: MACRO_PRQ3
+Calculating dependency for: MACRO_PVIS
+Calculating dependency for: MACRO_QLCT
+Calculating dependency for: MACRO_RRGN
+Calculating dependency for: MACRO_RVIS
+Calculating dependency for: MACRO_SBMP
+Calculating dependency for: MACRO_SIZE
+Calculating dependency for: MACRO_SMIM
+Calculating dependency for: MACRO_SPBM
+Calculating dependency for: MACRO_SPBN
+Calculating dependency for: MACRO_SPBQ
+Calculating dependency for: MACRO_SPBS
+Calculating dependency for: MACRO_SPTR
+Calculating dependency for: MACRO_SSQL
+Calculating dependency for: MLECTLDATA
+Calculating dependency for: NPPRDINFO3
+Calculating dependency for: NPPRIDINFO
+Calculating dependency for: NPPRJINFO2
+Calculating dependency for: NPPRJINFO3
+Calculating dependency for: NPPRQINFO3
+Calculating dependency for: ORDER_GBEL
+Calculating dependency for: ORDER_GSIA
+Calculating dependency for: PARCPARAMS
+Calculating dependency for: PCLASSINFO
+Calculating dependency for: PDDESTRUCT
+Calculating dependency for: PDRAGIMAGE
+Calculating dependency for: PFSQBUFFER
+Calculating dependency for: PGRADIENTL
+Calculating dependency for: PHELPTABLE
+Calculating dependency for: POWNERITEM
+Calculating dependency for: PPIBSTRUCT
+Calculating dependency for: PPROGTITLE
+Calculating dependency for: PQFEOUTBLK
+Calculating dependency for: PQVERSDATA
+Calculating dependency for: PRESPARAMS
+Calculating dependency for: PRFPROFILE
+Calculating dependency for: PSMHSTRUCT
+Calculating dependency for: PTRACKINFO
+Calculating dependency for: PWNDPARAMS
+Calculating dependency for: PXYWINSIZE
+Calculating dependency for: RENDERFILE
+Calculating dependency for: USERBUTTON
+Calculating dependency for: _ARCPARAMS
+Calculating dependency for: _CLASSINFO
+Calculating dependency for: _DDESTRUCT
+Calculating dependency for: _DRAGIMAGE
+Calculating dependency for: _FSQBUFFER
+Calculating dependency for: _GRADIENTL
+Calculating dependency for: _HELPTABLE
+Calculating dependency for: _OWNERITEM
+Calculating dependency for: _PIBSTRUCT
+Calculating dependency for: _PROGTITLE
+Calculating dependency for: _QFEOUTBLK
+Calculating dependency for: _QVERSDATA
+Calculating dependency for: _SMHSTRUCT
+Calculating dependency for: _SWPUSHORT
+Calculating dependency for: _TRACKINFO
+Calculating dependency for: _WNDPARAMS
+Calculating dependency for: _XYWINSIZE
+Calculating dependency for: ARCPARAMS
+Calculating dependency for: CLASSINFO
+Calculating dependency for: DDESTRUCT
+Calculating dependency for: DRAGIMAGE
+Calculating dependency for: EventInfo
+Calculating dependency for: FSQBUFFER
+Calculating dependency for: GRADIENTL
+Calculating dependency for: HELPTABLE
+Calculating dependency for: KbdStatus
+Calculating dependency for: MACRO_ABB
+Calculating dependency for: MACRO_AWP
+Calculating dependency for: MACRO_BBO
+Calculating dependency for: MACRO_BDS
+Calculating dependency for: MACRO_BFT
+Calculating dependency for: MACRO_BMB
+Calculating dependency for: MACRO_CBB
+Calculating dependency for: MACRO_CBM
+Calculating dependency for: MACRO_CBN
+Calculating dependency for: MACRO_CBS
+Calculating dependency for: MACRO_CFI
+Calculating dependency for: MACRO_CHS
+Calculating dependency for: MACRO_CLR
+Calculating dependency for: MACRO_CVR
+Calculating dependency for: MACRO_DBM
+Calculating dependency for: MACRO_DDE
+Calculating dependency for: MACRO_DEV
+Calculating dependency for: MACRO_DFF
+Calculating dependency for: MACRO_DID
+Calculating dependency for: MACRO_DME
+Calculating dependency for: MACRO_DOR
+Calculating dependency for: MACRO_DRG
+Calculating dependency for: MACRO_DRO
+Calculating dependency for: MACRO_EAF
+Calculating dependency for: MACRO_EAT
+Calculating dependency for: MACRO_EDI
+Calculating dependency for: MACRO_ERR
+Calculating dependency for: MACRO_FCF
+Calculating dependency for: MACRO_FEA
+Calculating dependency for: MACRO_FHB
+Calculating dependency for: MACRO_FHT
+Calculating dependency for: MACRO_FID
+Calculating dependency for: MACRO_FIL
+Calculating dependency for: MACRO_FIO
+Calculating dependency for: MACRO_GPI
+Calculating dependency for: MACRO_HBM
+Calculating dependency for: MACRO_HDC
+Calculating dependency for: MACRO_HMQ
+Calculating dependency for: MACRO_I24
+Calculating dependency for: MACRO_IBB
+Calculating dependency for: MACRO_IDM
+Calculating dependency for: MACRO_JRN
+Calculating dependency for: MACRO_LBB
+Calculating dependency for: MACRO_LHK
+Calculating dependency for: MACRO_LIT
+Calculating dependency for: MACRO_LMF
+Calculating dependency for: MACRO_LSS
+Calculating dependency for: MACRO_MBB
+Calculating dependency for: MACRO_MIA
+Calculating dependency for: MACRO_MID
+Calculating dependency for: MACRO_MIS
+Calculating dependency for: MACRO_MIT
+Calculating dependency for: MACRO_MLM
+Calculating dependency for: MACRO_MLN
+Calculating dependency for: MACRO_MLS
+Calculating dependency for: MACRO_ORD
+Calculating dependency for: MACRO_PIC
+Calculating dependency for: MACRO_PIP
+Calculating dependency for: MACRO_PMF
+Calculating dependency for: MACRO_PRD
+Calculating dependency for: MACRO_PRI
+Calculating dependency for: MACRO_PRJ
+Calculating dependency for: MACRO_PRQ
+Calculating dependency for: MACRO_PSF
+Calculating dependency for: MACRO_QCD
+Calculating dependency for: MACRO_QCP
+Calculating dependency for: MACRO_QFC
+Calculating dependency for: MACRO_QPF
+Calculating dependency for: MACRO_QWL
+Calculating dependency for: MACRO_QWP
+Calculating dependency for: MACRO_QWS
+Calculating dependency for: MACRO_RES
+Calculating dependency for: MACRO_RGB
+Calculating dependency for: MACRO_RGN
+Calculating dependency for: MACRO_ROP
+Calculating dependency for: MACRO_RSP
+Calculating dependency for: MACRO_RUM
+Calculating dependency for: MACRO_SAF
+Calculating dependency for: MACRO_SBM
+Calculating dependency for: MACRO_SBS
+Calculating dependency for: MACRO_SCP
+Calculating dependency for: MACRO_SDW
+Calculating dependency for: MACRO_SEG
+Calculating dependency for: MACRO_SEI
+Calculating dependency for: MACRO_SEM
+Calculating dependency for: MACRO_SGH
+Calculating dependency for: MACRO_SHE
+Calculating dependency for: MACRO_SMD
+Calculating dependency for: MACRO_SMF
+Calculating dependency for: MACRO_SMI
+Calculating dependency for: MACRO_SPL
+Calculating dependency for: MACRO_SSM
+Calculating dependency for: MACRO_SUP
+Calculating dependency for: MACRO_SWL
+Calculating dependency for: MACRO_SWP
+Calculating dependency for: MACRO_TBM
+Calculating dependency for: MACRO_TID
+Calculating dependency for: MACRO_WCS
+Calculating dependency for: MACRO_WPM
+Calculating dependency for: MACRO_XYF
+Calculating dependency for: NPPRDINFO
+Calculating dependency for: NPPRJINFO
+Calculating dependency for: NPPRQINFO
+Calculating dependency for: NoPointer
+Calculating dependency for: OWNERITEM
+Calculating dependency for: PBANDRECT
+Calculating dependency for: PBTNCDATA
+Calculating dependency for: PCATCHBUF
+Calculating dependency for: PDATETIME
+Calculating dependency for: PDLGTITEM
+Calculating dependency for: PDRAGINFO
+Calculating dependency for: PDRAGITEM
+Calculating dependency for: PDRIVDATA
+Calculating dependency for: PESCGETCP
+Calculating dependency for: PFILELOCK
+Calculating dependency for: PFOCAFONT
+Calculating dependency for: PHELPINIT
+Calculating dependency for: PHPROGRAM
+Calculating dependency for: PIBSTRUCT
+Calculating dependency for: PMATRIXLF
+Calculating dependency for: PMENUITEM
+Calculating dependency for: POVERFLOW
+Calculating dependency for: PPRDINFO3
+Calculating dependency for: PPRIDINFO
+Calculating dependency for: PPRJINFO2
+Calculating dependency for: PPRJINFO3
+Calculating dependency for: PPROGTYPE
+Calculating dependency for: PPRQINFO3
+Calculating dependency for: PROGTITLE
+Calculating dependency for: PSFACTORS
+Calculating dependency for: QFEOUTBLK
+Calculating dependency for: QVERSDATA
+Calculating dependency for: SMHSTRUCT
+Calculating dependency for: SWPUSHORT
+Calculating dependency for: ScaleFact
+Calculating dependency for: TRACKINFO
+Calculating dependency for: WNDPARAMS
+Calculating dependency for: XYWINSIZE
+Calculating dependency for: _BANDRECT
+Calculating dependency for: _BTNCDATA
+Calculating dependency for: _CATCHBUF
+Calculating dependency for: _DATETIME
+Calculating dependency for: _DLGTITEM
+Calculating dependency for: _DRAGINFO
+Calculating dependency for: _DRAGITEM
+Calculating dependency for: _DRIVDATA
+Calculating dependency for: _ESCGETCP
+Calculating dependency for: _FILELOCK
+Calculating dependency for: _FOCAFONT
+Calculating dependency for: _HELPINIT
+Calculating dependency for: _MATRIXLF
+Calculating dependency for: _MENUITEM
+Calculating dependency for: _MOUSEMSG
+Calculating dependency for: _PRDINFO3
+Calculating dependency for: _PRIDINFO
+Calculating dependency for: _PRJINFO2
+Calculating dependency for: _PRJINFO3
+Calculating dependency for: _PROGTYPE
+Calculating dependency for: _PRQINFO3
+Calculating dependency for: _SFACTORS
+Calculating dependency for: BANDRECT
+Calculating dependency for: BTNCDATA
+Calculating dependency for: CATCHBUF
+Calculating dependency for: DATETIME
+Calculating dependency for: DLGTITEM
+Calculating dependency for: DRAGINFO
+Calculating dependency for: DRAGITEM
+Calculating dependency for: DRIVDATA
+Calculating dependency for: ESCGETCP
+Calculating dependency for: FILELOCK
+Calculating dependency for: FIXED114
+Calculating dependency for: FOCAFONT
+Calculating dependency for: HATOMTBL
+Calculating dependency for: HELPINIT
+Calculating dependency for: HPOINTER
+Calculating dependency for: HPROGRAM
+Calculating dependency for: KbdTRANS
+Calculating dependency for: MACRO_AF
+Calculating dependency for: MACRO_AM
+Calculating dependency for: MACRO_BA
+Calculating dependency for: MACRO_BM
+Calculating dependency for: MACRO_BN
+Calculating dependency for: MACRO_BS
+Calculating dependency for: MACRO_CF
+Calculating dependency for: MACRO_CM
+Calculating dependency for: MACRO_CS
+Calculating dependency for: MACRO_DB
+Calculating dependency for: MACRO_DC
+Calculating dependency for: MACRO_DF
+Calculating dependency for: MACRO_DM
+Calculating dependency for: MACRO_DO
+Calculating dependency for: MACRO_DP
+Calculating dependency for: MACRO_DT
+Calculating dependency for: MACRO_EN
+Calculating dependency for: MACRO_ES
+Calculating dependency for: MACRO_FC
+Calculating dependency for: MACRO_FF
+Calculating dependency for: MACRO_FI
+Calculating dependency for: MACRO_FM
+Calculating dependency for: MACRO_FS
+Calculating dependency for: MACRO_HK
+Calculating dependency for: MACRO_HM
+Calculating dependency for: MACRO_HT
+Calculating dependency for: MACRO_KC
+Calculating dependency for: MACRO_LM
+Calculating dependency for: MACRO_LN
+Calculating dependency for: MACRO_LS
+Calculating dependency for: MACRO_LT
+Calculating dependency for: MACRO_MM
+Calculating dependency for: MACRO_MS
+Calculating dependency for: MACRO_NO
+Calculating dependency for: MACRO_OD
+Calculating dependency for: MACRO_PL
+Calculating dependency for: MACRO_PM
+Calculating dependency for: MACRO_PP
+Calculating dependency for: MACRO_PS
+Calculating dependency for: MACRO_PU
+Calculating dependency for: MACRO_QF
+Calculating dependency for: MACRO_QS
+Calculating dependency for: MACRO_QV
+Calculating dependency for: MACRO_QW
+Calculating dependency for: MACRO_RS
+Calculating dependency for: MACRO_RT
+Calculating dependency for: MACRO_SB
+Calculating dependency for: MACRO_SC
+Calculating dependency for: MACRO_SM
+Calculating dependency for: MACRO_SS
+Calculating dependency for: MACRO_SV
+Calculating dependency for: MACRO_TC
+Calculating dependency for: MACRO_TF
+Calculating dependency for: MACRO_VK
+Calculating dependency for: MACRO_WA
+Calculating dependency for: MACRO_WC
+Calculating dependency for: MACRO_WM
+Calculating dependency for: MACRO_WS
+Calculating dependency for: MATRIXLF
+Calculating dependency for: MENUITEM
+Calculating dependency for: ModeData
+Calculating dependency for: NPPOINTL
+Calculating dependency for: NPWPOINT
+Calculating dependency for: PDDEINIT
+Calculating dependency for: PERRINFO
+Calculating dependency for: PERRORID
+Calculating dependency for: PFEALIST
+Calculating dependency for: PFFDESCS
+Calculating dependency for: PGEALIST
+Calculating dependency for: PHBITMAP
+Calculating dependency for: PHMODULE
+Calculating dependency for: PHSWITCH
+Calculating dependency for: PMRESULT
+Calculating dependency for: PPOINTFX
+Calculating dependency for: PPRDINFO
+Calculating dependency for: PPRJINFO
+Calculating dependency for: PPRQINFO
+Calculating dependency for: PRDINFO3
+Calculating dependency for: PRGNRECT
+Calculating dependency for: PRIDINFO
+Calculating dependency for: PRJINFO2
+Calculating dependency for: PRJINFO3
+Calculating dependency for: PROGTYPE
+Calculating dependency for: PRQINFO3
+Calculating dependency for: PSBCDATA
+Calculating dependency for: PSWBLOCK
+Calculating dependency for: PSWCNTRL
+Calculating dependency for: PSWENTRY
+Calculating dependency for: PtrImage
+Calculating dependency for: SFACTORS
+Calculating dependency for: VIOSTATE
+Calculating dependency for: _CHARMSG
+Calculating dependency for: _DDEINIT
+Calculating dependency for: _ERRINFO
+Calculating dependency for: _FEALIST
+Calculating dependency for: _GEALIST
+Calculating dependency for: _ODPOINT
+Calculating dependency for: _POINTFX
+Calculating dependency for: _PRDINFO
+Calculating dependency for: _PRJINFO
+Calculating dependency for: _PRQINFO
+Calculating dependency for: _RGNRECT
+Calculating dependency for: _SBCDATA
+Calculating dependency for: _SWBLOCK
+Calculating dependency for: _SWCNTRL
+Calculating dependency for: _SWENTRY
+Calculating dependency for: DDEINIT
+Calculating dependency for: ERRINFO
+Calculating dependency for: ERRORID
+Calculating dependency for: FEALIST
+Calculating dependency for: FFDESCS
+Calculating dependency for: FIXED88
+Calculating dependency for: GEALIST
+Calculating dependency for: HBITMAP
+Calculating dependency for: HMODULE
+Calculating dependency for: HSWITCH
+Calculating dependency for: KbdHWID
+Calculating dependency for: KeyData
+Calculating dependency for: LHANDLE
+Calculating dependency for: MRESULT
+Calculating dependency for: NPPARAM
+Calculating dependency for: NPRECTL
+Calculating dependency for: NPWRECT
+Calculating dependency for: ODPOINT
+Calculating dependency for: PBUNDLE
+Calculating dependency for: PFATTRS
+Calculating dependency for: PFSINFO
+Calculating dependency for: PHCINFO
+Calculating dependency for: PMPARAM
+Calculating dependency for: PMQINFO
+Calculating dependency for: POINTFX
+Calculating dependency for: PPOINTL
+Calculating dependency for: PPOINTS
+Calculating dependency for: PRDINFO
+Calculating dependency for: PRECTFX
+Calculating dependency for: PRJINFO
+Calculating dependency for: PRQINFO
+Calculating dependency for: PUSHORT
+Calculating dependency for: PVBData
+Calculating dependency for: PWPOINT
+Calculating dependency for: QueInfo
+Calculating dependency for: RGNRECT
+Calculating dependency for: SBCDATA
+Calculating dependency for: SHANDLE
+Calculating dependency for: SWBLOCK
+Calculating dependency for: SWCNTRL
+Calculating dependency for: SWENTRY
+Calculating dependency for: VIOFONT
+Calculating dependency for: _FATTRS
+Calculating dependency for: _FSINFO
+Calculating dependency for: _HCINFO
+Calculating dependency for: _LORDER
+Calculating dependency for: _MQINFO
+Calculating dependency for: _POINTL
+Calculating dependency for: _POINTS
+Calculating dependency for: _RECT1S
+Calculating dependency for: _RECTFX
+Calculating dependency for: _SEARCH
+Calculating dependency for: _VORDER
+Calculating dependency for: _WPOINT
+Calculating dependency for: CHRMSG
+Calculating dependency for: CMDMSG
+Calculating dependency for: FATTRS
+Calculating dependency for: FSINFO
+Calculating dependency for: HACCEL
+Calculating dependency for: HCINFO
+Calculating dependency for: LORDER
+Calculating dependency for: MPARAM
+Calculating dependency for: MQINFO
+Calculating dependency for: MSEMSG
+Calculating dependency for: NPBYTE
+Calculating dependency for: PACCEL
+Calculating dependency for: PCOLOR
+Calculating dependency for: PDENA1
+Calculating dependency for: PFDATE
+Calculating dependency for: PFIXED
+Calculating dependency for: PFTIME
+Calculating dependency for: PHFILE
+Calculating dependency for: POINTL
+Calculating dependency for: POINTS
+Calculating dependency for: PPARAM
+Calculating dependency for: PRECTL
+Calculating dependency for: PRECTS
+Calculating dependency for: PSHORT
+Calculating dependency for: PSIZEF
+Calculating dependency for: PSIZEL
+Calculating dependency for: PSTR16
+Calculating dependency for: PSTR32
+Calculating dependency for: PSTR64
+Calculating dependency for: PUCHAR
+Calculating dependency for: PULONG
+Calculating dependency for: PWRECT
+Calculating dependency for: PXFORM
+Calculating dependency for: PtrLoc
+Calculating dependency for: RECT1S
+Calculating dependency for: RECTFX
+Calculating dependency for: SPLERR
+Calculating dependency for: USHORT
+Calculating dependency for: VORDER
+Calculating dependency for: WPOINT
+Calculating dependency for: _ACCEL
+Calculating dependency for: _DENA1
+Calculating dependency for: _FDATE
+Calculating dependency for: _FTIME
+Calculating dependency for: _ORDER
+Calculating dependency for: _PARAM
+Calculating dependency for: _RECTL
+Calculating dependency for: _RECTS
+Calculating dependency for: _SIZEF
+Calculating dependency for: _SIZEL
+Calculating dependency for: _SIZES
+Calculating dependency for: _WRECT
+Calculating dependency for: _XFORM
+Calculating dependency for: ACCEL
+Calculating dependency for: COLOR
+Calculating dependency for: DENA1
+Calculating dependency for: FDATE
+Calculating dependency for: FIXED
+Calculating dependency for: FTIME
+Calculating dependency for: HENUM
+Calculating dependency for: HFILE
+Calculating dependency for: HHEAP
+Calculating dependency for: ORDER
+Calculating dependency for: PARAM
+Calculating dependency for: PBOOL
+Calculating dependency for: PBYTE
+Calculating dependency for: PCHAR
+Calculating dependency for: PEAOP
+Calculating dependency for: PFNWP
+Calculating dependency for: PHDIR
+Calculating dependency for: PHINI
+Calculating dependency for: PHLIB
+Calculating dependency for: PHRGN
+Calculating dependency for: PHSEM
+Calculating dependency for: PHSTD
+Calculating dependency for: PHVPS
+Calculating dependency for: PHWND
+Calculating dependency for: PLCID
+Calculating dependency for: PLONG
+Calculating dependency for: PQMSG
+Calculating dependency for: PSTR8
+Calculating dependency for: PUINT
+Calculating dependency for: PVOID
+Calculating dependency for: RECTL
+Calculating dependency for: RECTS
+Calculating dependency for: SIZEF
+Calculating dependency for: SIZEL
+Calculating dependency for: SIZES
+Calculating dependency for: STR16
+Calculating dependency for: STR32
+Calculating dependency for: STR64
+Calculating dependency for: UCHAR
+Calculating dependency for: ULONG
+Calculating dependency for: WRECT
+Calculating dependency for: XFORM
+Calculating dependency for: _EAOP
+Calculating dependency for: _QMSG
+Calculating dependency for: ATOM
+Calculating dependency for: BOOL
+Calculating dependency for: BYTE
+Calculating dependency for: EAOP
+Calculating dependency for: HAPP
+Calculating dependency for: HDIR
+Calculating dependency for: HINI
+Calculating dependency for: HLIB
+Calculating dependency for: HRGN
+Calculating dependency for: HSEM
+Calculating dependency for: HSPL
+Calculating dependency for: HSTD
+Calculating dependency for: HSTR
+Calculating dependency for: HVPS
+Calculating dependency for: HWND
+Calculating dependency for: LCID
+Calculating dependency for: LINE
+Calculating dependency for: NPCH
+Calculating dependency for: NPFN
+Calculating dependency for: NPSZ
+Calculating dependency for: PFEA
+Calculating dependency for: PGEA
+Calculating dependency for: PHAB
+Calculating dependency for: PHDC
+Calculating dependency for: PHID
+Calculating dependency for: PHMF
+Calculating dependency for: PHPS
+Calculating dependency for: PINT
+Calculating dependency for: PIPT
+Calculating dependency for: PPID
+Calculating dependency for: PSEL
+Calculating dependency for: PSWP
+Calculating dependency for: PTID
+Calculating dependency for: QMSG
+Calculating dependency for: STR8
+Calculating dependency for: UINT
+Calculating dependency for: _FEA
+Calculating dependency for: _GEA
+Calculating dependency for: _RGB
+Calculating dependency for: _SWP
+Calculating dependency for: FEA
+Calculating dependency for: GEA
+Calculating dependency for: HAB
+Calculating dependency for: HDC
+Calculating dependency for: HMF
+Calculating dependency for: HMQ
+Calculating dependency for: HPS
+Calculating dependency for: IPT
+Calculating dependency for: PCH
+Calculating dependency for: PFN
+Calculating dependency for: PID
+Calculating dependency for: PIX
+Calculating dependency for: PSZ
+Calculating dependency for: RGB
+Calculating dependency for: SEL
+Calculating dependency for: SWP
+Calculating dependency for: TID
+Type hierarchy analysis finished:
+_D734DE31CA80E2F48B0496A69E34A78F -> []
+MACRO_ERROR_INVALID_FREQUENCY -> []
+cmYesFocusUserControlParmPtr -> []
+cmNoFocusUserControlParmPtr -> []
+cmQueryVariableValueParmPtr -> []
+cmInitUserCmdActionParmPtr -> []
+cmFreeCtlResourcesParmPtr -> []
+cmGetUCParmAndTextParmPtr -> []
+cmInitUserVariableParmPtr -> []
+cmQueryUserInstPtrParmPtr -> []
+cmSetVariableValueParmPtr -> []
+cmYesFocusUserControlParm -> []
+MACRO_NGreSetColorCursor -> []
+cmInitUserControlParmPtr -> []
+cmNoFocusUserControlParm -> []
+cmQueryVariableValueParm -> []
+cmDefaultMessageParmPtr -> []
+cmInitUserActionParmPtr -> []
+cmInitUserCmdActionParm -> []
+cmSetUserInstPtrParmPtr -> []
+cmFreeCtlResourcesParm -> []
+cmGetUCParmAndTextParm -> []
+cmInitUserCheckParmPtr -> []
+cmInitUserVariableParm -> []
+cmInitUserXlateParmPtr -> []
+cmQueryUserInstPtrParm -> []
+cmSetMinMaxSizeParmPtr -> []
+cmSetVariableValueParm -> []
+cmUpdateControlParmPtr -> []
+BITMAPARRAYFILEHEADER -> []
+cmInitUserControlParm -> []
+cmPanelEnteredParmPtr -> []
+FONTDEFINITIONHEADER -> []
+MACRO_CCHMAXPATHCOMP -> []
+MACRO_ERROR_ITERATED -> []
+MACRO_FONT_SIGNATURE -> []
+cmDefaultMessageParm -> []
+cmDoCmdActionParmPtr -> []
+cmInitUserActionParm -> []
+cmQueryCtlHdlParmPtr -> []
+cmSetUserInstPtrParm -> []
+MACRO_CMERR_MESSAGE -> []
+MACRO_CMERR_PASSING -> []
+MACRO_CMERR_REFRESH -> []
+MACRO_CMERR_SETTING -> []
+MACRO_DMERR_COMMAND -> []
+MACRO_DMERR_DISPLAY -> []
+MACRO_DMERR_EXECUTE -> []
+MACRO_ERROR_INVALID -> []
+MACRO_ETYPE_GCCHSTE -> []
+MACRO_HM_RESOURCEID -> []
+MACRO_OCODEQ_GEESCP -> []
+MACRO_OCODE_GCCHSTM -> []
+MACRO_OCODE_GCRLINE -> []
+MACRO_SEI_DEBUGONLY -> []
+MACRO_SPBM_SETARRAY -> []
+MACRO_WC_ENTRYFIELD -> []
+MACRO_WC_SPINBUTTON -> []
+cmEndDisplayParmPtr -> []
+cmInitUserCheckParm -> []
+cmInitUserXlateParm -> []
+cmMemReallocParmPtr -> []
+cmSetMinMaxSizeParm -> []
+cmUpdateControlParm -> []
+MACRO_DMERR_CREATE -> []
+MACRO_DMERR_UPDATE -> []
+MACRO_FONTDEFCHAR2 -> []
+MACRO_FONTDEFCHAR3 -> []
+MACRO_FONTDEFFONT1 -> []
+MACRO_FONTDEFFONT2 -> []
+MACRO_FONTDEFFONT3 -> []
+MACRO_MAXCOMMENTSZ -> []
+MACRO_OCODE_GCALLS -> []
+MACRO_OCODE_GCBIMG -> []
+MACRO_OCODE_GCFARC -> []
+MACRO_OCODE_GCHSTM -> []
+MACRO_OCODE_GCLINE -> []
+MACRO_OCODE_GCPARC -> []
+MACRO_OCODE_GCSFLT -> []
+MACRO_OCODE_GRLINE -> []
+MACRO_OCODE_GSBCOL -> []
+MACRO_WC_SCROLLBAR -> []
+MACRO_WM_RENDERFMT -> []
+cmPanelEnteredParm -> []
+KbdStringInLength -> []
+MACRO_CMERR_ALLOC -> []
+MACRO_CMERR_DOING -> []
+MACRO_DMCOMMBLOCK -> []
+MACRO_DMERR_ALLOC -> []
+MACRO_DMERR_CLASS -> []
+MACRO_DMERR_PANEL -> []
+MACRO_ETYPE_GEPEL -> []
+MACRO_FILE_NORMAL -> []
+MACRO_HMPANELTYPE -> []
+MACRO_HWND_PARENT -> []
+MACRO_OCODE_GBBLT -> []
+MACRO_OCODE_GCFLT -> []
+MACRO_OCODE_GCHST -> []
+MACRO_OCODE_GCMRK -> []
+MACRO_OCODE_GCOMT -> []
+MACRO_OCODE_GLINE -> []
+MACRO_OCODE_GOPTH -> []
+MACRO_OCODE_GSGCH -> []
+MACRO_OCODE_GSPRP -> []
+MACRO_OCODE_GSSLW -> []
+MACRO_OCODE_VLONG -> []
+MACRO_WC_COMBOBOX -> []
+MACRO_WC_TITLEBAR -> []
+cmDoActionParmPtr -> []
+cmDoCmdActionParm -> []
+cmMemAllocParmPtr -> []
+cmQueryCtlHdlParm -> []
+BITMAPFILEHEADER -> []
+BITMAPINFOHEADER -> []
+MACRO_CCHMAXPATH -> []
+MACRO_CM_MESSAGE -> []
+MACRO_DO_DEFAULT -> []
+MACRO_MLFFMTRECT -> []
+MACRO_OCODE_GBAR -> []
+MACRO_OCODE_GBEZ -> []
+MACRO_OCODE_GEAR -> []
+MACRO_OCODE_GFLT -> []
+MACRO_OCODE_GIMD -> []
+MACRO_OCODE_GMRK -> []
+MACRO_OCODE_GSAP -> []
+MACRO_OCODE_GSCA -> []
+MACRO_OCODE_GSCC -> []
+MACRO_OCODE_GSIA -> []
+MACRO_OCODE_GSMC -> []
+MACRO_OCODE_GSSB -> []
+MACRO_OCODE_GSTM -> []
+MACRO_WC_LISTBOX -> []
+_VIOFONTCELLSIZE -> []
+cmDoCheckParmPtr -> []
+cmDoXlateParmPtr -> []
+cmEndDisplayParm -> []
+cmMemFreeParmPtr -> []
+cmMemReallocParm -> []
+MACRO_CLR_FALSE -> []
+MACRO_CMERR_RUN -> []
+MACRO_DMERR_CMD -> []
+MACRO_LINEWIDTH -> []
+MACRO_MLFMARGIN -> []
+MACRO_MLFSEARCH -> []
+MACRO_MSGF_DRAG -> []
+MACRO_PMERR_NOT -> []
+MACRO_PMERR_SPL -> []
+MACRO_QWS_FLAGS -> []
+MACRO_TRANSFORM -> []
+MACRO_WC_BUTTON -> []
+VIOFONTCELLSIZE -> []
+MACRO_BM_ERROR -> []
+MACRO_CBM_INIT -> []
+MACRO_CMERR_PS -> []
+MACRO_DOS_EXIT -> []
+MACRO_ERRCLASS -> []
+MACRO_ERROR_NO -> []
+MACRO_FACESIZE -> []
+MACRO_FM_ERROR -> []
+MACRO_FSATTACH -> []
+MACRO_GEBB_LMP -> []
+MACRO_GPI_HITS -> []
+MACRO_HANDTYPE -> []
+MACRO_LCID_ALL -> []
+MACRO_LINEJOIN -> []
+MACRO_LINETYPE -> []
+MACRO_MAXNAMEL -> []
+MACRO_MAXPATHL -> []
+MACRO_MLFCLPBD -> []
+MACRO_NO_ERROR -> []
+MACRO_PMERR_OK -> []
+MACRO_SEVERITY -> []
+MACRO_WC_FRAME -> []
+MLE_SEARCHDATA -> []
+ORDERL_GCCHSTE -> []
+ORDERS_GCCHSTE -> []
+cmDoActionParm -> []
+cmMemAllocParm -> []
+FONTSIGNATURE -> []
+MACRO_ADDRESS -> []
+MACRO_ALLOWED -> []
+MACRO_COMMENT -> []
+MACRO_DM_DROP -> []
+MACRO_DM_USER -> []
+MACRO_GCCHSTE -> []
+MACRO_GCCHSTM -> []
+MACRO_GCRLINE -> []
+MACRO_LCOLOPT -> []
+MACRO_LINEEND -> []
+MACRO_MARKSYM -> []
+MACRO_PICKSEL -> []
+MACRO_QWL_HMQ -> []
+MACRO_RECTDIR -> []
+MACRO_SPLDATA -> []
+MACRO_SPLINFO -> []
+MACRO_WC_MENU -> []
+MLEFORMATRECT -> []
+MLEMARGSTRUCT -> []
+ORDERL_GCPARC -> []
+ORDERL_GCSFLT -> []
+ORDERS_GCPARC -> []
+ORDERS_GCSFLT -> []
+ORDER_GSBICOL -> []
+PHELPSUBTABLE -> []
+_KERNINGPAIRS -> []
+_VIOSIZECOUNT -> []
+cmDoCheckParm -> []
+cmDoXlateParm -> []
+cmMemFreeParm -> []
+CREATESTRUCT -> []
+DEVOPENSTRUC -> []
+DRAGTRANSFER -> []
+FILEFINDBUF2 -> []
+FIOREADWRITE -> []
+FIOUNLOCKCMD -> []
+FIOUNLOCKREC -> []
+HELPSUBTABLE -> []
+KERNINGPAIRS -> []
+MACRO_CHDIRN -> []
+MACRO_CMDSRC -> []
+MACRO_CURSOR -> []
+MACRO_DDEFMT -> []
+MACRO_DEVESC -> []
+MACRO_DRIVER -> []
+MACRO_ERRACT -> []
+MACRO_ERRLOC -> []
+MACRO_FNOTIL -> []
+MACRO_GCCHST -> []
+MACRO_GCHSTM -> []
+MACRO_GCLINE -> []
+MACRO_GEESCP -> []
+MACRO_GPI_LC -> []
+MACRO_GRLINE -> []
+MACRO_GSCPTH -> []
+MACRO_HM_MSG -> []
+MACRO_LORDER -> []
+MACRO_MLFEFR -> []
+MACRO_MLFETL -> []
+MACRO_OCODE2 -> []
+MACRO_OCODEQ -> []
+MACRO_PARAMS -> []
+MACRO_PATSYM -> []
+MACRO_PICKAP -> []
+MACRO_SEARCH -> []
+MACRO_SYSCLR -> []
+MACRO_TXTBOX -> []
+MACRO_VORDER -> []
+MACRO_WC_MLE -> []
+MACRO_WINDBG -> []
+MACRO_WM_DDE -> []
+MARKERBUNDLE -> []
+ORDERL_GBBLT -> []
+ORDERL_GCARC -> []
+ORDERL_GCBOX -> []
+ORDERL_GSPRP -> []
+ORDERL_GSSLW -> []
+ORDERS_GBBLT -> []
+ORDERS_GCARC -> []
+ORDERS_GCBOX -> []
+ORDERS_GSPRP -> []
+ORDERS_GSSLW -> []
+ORDER_GCALLS -> []
+ORDER_GCBIMG -> []
+ORDER_GEESCP -> []
+ORDER_GSCPTH -> []
+PDMCOMMBLOCK -> []
+PDMERRORINFO -> []
+PROGCATEGORY -> []
+PROGRAMENTRY -> []
+VIOSIZECOUNT -> []
+_ORDERL_GSAP -> []
+_ORDERS_GSAP -> []
+DLGTEMPLATE -> []
+DMCOMMBLOCK -> []
+DMERRORINFO -> []
+FILEFINDBUF -> []
+FILESTATUS2 -> []
+FOCAMETRICS -> []
+FONTMETRICS -> []
+IMAGEBUNDLE -> []
+MACRO_CMERR -> []
+MACRO_CNLEN -> []
+MACRO_DFORM -> []
+MACRO_DMERR -> []
+MACRO_DTLEN -> []
+MACRO_EQRGN -> []
+MACRO_ERROR -> []
+MACRO_ETYPE -> []
+MACRO_FATTR -> []
+MACRO_FPATH -> []
+MACRO_FSAIL -> []
+MACRO_FSCTL -> []
+MACRO_GCBEZ -> []
+MACRO_GCBOX -> []
+MACRO_GCFLT -> []
+MACRO_GCHST -> []
+MACRO_GCMRK -> []
+MACRO_GCOMT -> []
+MACRO_GEPEL -> []
+MACRO_GESCP -> []
+MACRO_GFPTH -> []
+MACRO_GLINE -> []
+MACRO_GMPTH -> []
+MACRO_GSGCH -> []
+MACRO_GSPRP -> []
+MACRO_GSSLW -> []
+MACRO_HCAPS -> []
+MACRO_HMERR -> []
+MACRO_LCIDT -> []
+MACRO_LCOLF -> []
+MACRO_MLFIE -> []
+MACRO_MLFQS -> []
+MACRO_MPATH -> []
+MACRO_OCODE -> []
+MACRO_PDLEN -> []
+MACRO_PMERR -> []
+MACRO_PM_MB -> []
+MACRO_PM_SW -> []
+MACRO_QNLEN -> []
+MACRO_QUERY -> []
+MACRO_RUMHK -> []
+MACRO_SECOL -> []
+MACRO_SEGEM -> []
+MACRO_SICOL -> []
+MACRO_SPACE -> []
+MACRO_UNLEN -> []
+MLEOVERFLOW -> []
+ORDERL_GEBB -> []
+ORDERL_GSAP -> []
+ORDERL_GSCC -> []
+ORDERL_GSMC -> []
+ORDERL_GSSB -> []
+ORDERL_GSTM -> []
+ORDERS_GSAP -> []
+ORDERS_GSCC -> []
+ORDERS_GSMC -> []
+ORDERS_GSSB -> []
+ORDERS_GSTM -> []
+ORDER_GBPTH -> []
+ORDER_GESCP -> []
+ORDER_GFPTH -> []
+ORDER_GMPTH -> []
+ORDER_GOPTH -> []
+ORDER_GSGCH -> []
+POINTERINFO -> []
+PROGDETAILS -> []
+PhysBufData -> []
+VOLUMELABEL -> []
+_FORMATRECT -> []
+_ORDER_GBEL -> []
+ACCELTABLE -> []
+AREABUNDLE -> []
+BITMAPINFO -> []
+CHARBUNDLE -> []
+CURSORINFO -> []
+ConfigData -> []
+CursorData -> []
+ENTRYFDATA -> []
+ESCSETMODE -> []
+FILESTATUS -> []
+FIOLOCKCMD -> []
+FIOLOCKREC -> []
+FIOSEEKCMD -> []
+FRAMECDATA -> []
+FSALLOCATE -> []
+HPROGARRAY -> []
+LINEBUNDLE -> []
+MACRO_ATTR -> []
+MACRO_BASE -> []
+MACRO_BMSG -> []
+MACRO_BOOL -> []
+MACRO_CAPS -> []
+MACRO_CBID -> []
+MACRO_CCTL -> []
+MACRO_CDEF -> []
+MACRO_CMIC -> []
+MACRO_CREA -> []
+MACRO_CRGN -> []
+MACRO_CTAB -> []
+MACRO_CVTC -> []
+MACRO_DATA -> []
+MACRO_DCPY -> []
+MACRO_DCTL -> []
+MACRO_DDEF -> []
+MACRO_DLGC -> []
+MACRO_DMFL -> []
+MACRO_DPDM -> []
+MACRO_DQHC -> []
+MACRO_DTYP -> []
+MACRO_FILE -> []
+MACRO_FONT -> []
+MACRO_FSAT -> []
+MACRO_FSIL -> []
+MACRO_GBAR -> []
+MACRO_GBEL -> []
+MACRO_GBEZ -> []
+MACRO_GEBB -> []
+MACRO_GFLT -> []
+MACRO_GIMD -> []
+MACRO_GMRK -> []
+MACRO_GPIA -> []
+MACRO_GPIE -> []
+MACRO_GPIF -> []
+MACRO_GPIT -> []
+MACRO_GRES -> []
+MACRO_GSCC -> []
+MACRO_GSCR -> []
+MACRO_GSIA -> []
+MACRO_GSMC -> []
+MACRO_GSSB -> []
+MACRO_GSTM -> []
+MACRO_GSTV -> []
+MACRO_GSVW -> []
+MACRO_HDIR -> []
+MACRO_HINI -> []
+MACRO_HLPM -> []
+MACRO_HRGN -> []
+MACRO_HWND -> []
+MACRO_LCID -> []
+MACRO_LCOL -> []
+MACRO_MBID -> []
+MACRO_MCHK -> []
+MACRO_MSGF -> []
+MACRO_OPEN -> []
+MACRO_PRGN -> []
+MACRO_PRIM -> []
+MACRO_PROC -> []
+MACRO_PROG -> []
+MACRO_PRQ3 -> []
+MACRO_PVIS -> []
+MACRO_QLCT -> []
+MACRO_RRGN -> []
+MACRO_RVIS -> []
+MACRO_SBMP -> []
+MACRO_SIZE -> []
+MACRO_SMIM -> []
+MACRO_SPBM -> []
+MACRO_SPBN -> []
+MACRO_SPBQ -> []
+MACRO_SPBS -> []
+MACRO_SPTR -> []
+MACRO_SSQL -> []
+MLECTLDATA -> []
+ORDER_GBEL -> []
+ORDER_GSIA -> []
+PRESPARAMS -> []
+PRFPROFILE -> []
+RENDERFILE -> []
+USERBUTTON -> []
+_ARCPARAMS -> []
+_GRADIENTL -> []
+ARCPARAMS -> []
+CLASSINFO -> []
+DDESTRUCT -> []
+DRAGIMAGE -> []
+EventInfo -> []
+FSQBUFFER -> []
+GRADIENTL -> []
+HELPTABLE -> []
+KbdStatus -> []
+MACRO_ABB -> []
+MACRO_AWP -> []
+MACRO_BBO -> []
+MACRO_BDS -> []
+MACRO_BFT -> []
+MACRO_BMB -> []
+MACRO_CBB -> []
+MACRO_CBM -> []
+MACRO_CBN -> []
+MACRO_CBS -> []
+MACRO_CFI -> []
+MACRO_CHS -> []
+MACRO_CLR -> []
+MACRO_CVR -> []
+MACRO_DBM -> []
+MACRO_DDE -> []
+MACRO_DEV -> []
+MACRO_DFF -> []
+MACRO_DID -> []
+MACRO_DME -> []
+MACRO_DOR -> []
+MACRO_DRG -> []
+MACRO_DRO -> []
+MACRO_EAF -> []
+MACRO_EAT -> []
+MACRO_EDI -> []
+MACRO_ERR -> []
+MACRO_FCF -> []
+MACRO_FEA -> []
+MACRO_FHB -> []
+MACRO_FHT -> []
+MACRO_FID -> []
+MACRO_FIL -> []
+MACRO_FIO -> []
+MACRO_GPI -> []
+MACRO_HBM -> []
+MACRO_HDC -> []
+MACRO_HMQ -> []
+MACRO_I24 -> []
+MACRO_IBB -> []
+MACRO_IDM -> []
+MACRO_JRN -> []
+MACRO_LBB -> []
+MACRO_LHK -> []
+MACRO_LIT -> []
+MACRO_LMF -> []
+MACRO_LSS -> []
+MACRO_MBB -> []
+MACRO_MIA -> []
+MACRO_MID -> []
+MACRO_MIS -> []
+MACRO_MIT -> []
+MACRO_MLM -> []
+MACRO_MLN -> []
+MACRO_MLS -> []
+MACRO_ORD -> []
+MACRO_PIC -> []
+MACRO_PIP -> []
+MACRO_PMF -> []
+MACRO_PRD -> []
+MACRO_PRI -> []
+MACRO_PRJ -> []
+MACRO_PRQ -> []
+MACRO_PSF -> []
+MACRO_QCD -> []
+MACRO_QCP -> []
+MACRO_QFC -> []
+MACRO_QPF -> []
+MACRO_QWL -> []
+MACRO_QWP -> []
+MACRO_QWS -> []
+MACRO_RES -> []
+MACRO_RGB -> []
+MACRO_RGN -> []
+MACRO_ROP -> []
+MACRO_RSP -> []
+MACRO_RUM -> []
+MACRO_SAF -> []
+MACRO_SBM -> []
+MACRO_SBS -> []
+MACRO_SCP -> []
+MACRO_SDW -> []
+MACRO_SEG -> []
+MACRO_SEI -> []
+MACRO_SEM -> []
+MACRO_SGH -> []
+MACRO_SHE -> []
+MACRO_SMD -> []
+MACRO_SMF -> []
+MACRO_SMI -> []
+MACRO_SPL -> []
+MACRO_SSM -> []
+MACRO_SUP -> []
+MACRO_SWL -> []
+MACRO_SWP -> []
+MACRO_TBM -> []
+MACRO_TID -> []
+MACRO_WCS -> []
+MACRO_WPM -> []
+MACRO_XYF -> []
+NoPointer -> []
+OWNERITEM -> []
+PIBSTRUCT -> []
+PROGTITLE -> []
+QFEOUTBLK -> []
+QVERSDATA -> []
+SMHSTRUCT -> []
+SWPUSHORT -> []
+ScaleFact -> []
+TRACKINFO -> []
+WNDPARAMS -> []
+XYWINSIZE -> []
+_BANDRECT -> []
+_DRIVDATA -> []
+_FILELOCK -> []
+_SFACTORS -> []
+BANDRECT -> []
+BTNCDATA -> []
+CATCHBUF -> []
+DATETIME -> []
+DLGTITEM -> []
+DRAGINFO -> []
+DRAGITEM -> []
+DRIVDATA -> []
+ESCGETCP -> []
+FILELOCK -> []
+FOCAFONT -> []
+HELPINIT -> []
+KbdTRANS -> []
+MACRO_AF -> []
+MACRO_AM -> []
+MACRO_BA -> []
+MACRO_BM -> []
+MACRO_BN -> []
+MACRO_BS -> []
+MACRO_CF -> []
+MACRO_CM -> []
+MACRO_CS -> []
+MACRO_DB -> []
+MACRO_DC -> []
+MACRO_DF -> []
+MACRO_DM -> []
+MACRO_DO -> []
+MACRO_DP -> []
+MACRO_DT -> []
+MACRO_EN -> []
+MACRO_ES -> []
+MACRO_FC -> []
+MACRO_FF -> []
+MACRO_FI -> []
+MACRO_FM -> []
+MACRO_FS -> []
+MACRO_HK -> []
+MACRO_HM -> []
+MACRO_HT -> []
+MACRO_KC -> []
+MACRO_LM -> []
+MACRO_LN -> []
+MACRO_LS -> []
+MACRO_LT -> []
+MACRO_MM -> []
+MACRO_MS -> []
+MACRO_NO -> []
+MACRO_OD -> []
+MACRO_PL -> []
+MACRO_PM -> []
+MACRO_PP -> []
+MACRO_PS -> []
+MACRO_PU -> []
+MACRO_QF -> []
+MACRO_QS -> []
+MACRO_QV -> []
+MACRO_QW -> []
+MACRO_RS -> []
+MACRO_RT -> []
+MACRO_SB -> []
+MACRO_SC -> []
+MACRO_SM -> []
+MACRO_SS -> []
+MACRO_SV -> []
+MACRO_TC -> []
+MACRO_TF -> []
+MACRO_VK -> []
+MACRO_WA -> []
+MACRO_WC -> []
+MACRO_WM -> []
+MACRO_WS -> []
+MATRIXLF -> []
+MENUITEM -> []
+ModeData -> []
+PRDINFO3 -> []
+PRIDINFO -> []
+PRJINFO2 -> []
+PRJINFO3 -> []
+PROGTYPE -> []
+PRQINFO3 -> []
+PtrImage -> []
+SFACTORS -> []
+VIOSTATE -> []
+_ODPOINT -> []
+DDEINIT -> []
+ERRINFO -> []
+FEALIST -> []
+FFDESCS -> []
+GEALIST -> []
+KbdHWID -> []
+KeyData -> []
+LHANDLE -> []
+MRESULT -> []
+ODPOINT -> []
+POINTFX -> []
+PRDINFO -> []
+PRJINFO -> []
+PRQINFO -> []
+PVBData -> []
+QueInfo -> []
+RGNRECT -> []
+SBCDATA -> []
+SHANDLE -> []
+SWBLOCK -> []
+SWCNTRL -> []
+SWENTRY -> []
+VIOFONT -> []
+_HCINFO -> []
+_POINTL -> []
+_POINTS -> []
+_RECT1S -> []
+_WPOINT -> []
+CHRMSG -> []
+CMDMSG -> []
+FATTRS -> []
+FSINFO -> []
+HCINFO -> []
+LORDER -> []
+MPARAM -> []
+MQINFO -> []
+MSEMSG -> []
+POINTL -> []
+POINTS -> []
+PSHORT -> []
+PtrLoc -> []
+RECT1S -> []
+RECTFX -> []
+SPLERR -> []
+USHORT -> []
+VORDER -> []
+WPOINT -> []
+_FDATE -> []
+_FTIME -> []
+_RECTL -> []
+_SIZEL -> []
+_SIZES -> []
+_WRECT -> []
+ACCEL -> []
+COLOR -> []
+DENA1 -> []
+FDATE -> []
+FIXED -> []
+FTIME -> []
+ORDER -> []
+PARAM -> []
+PCHAR -> []
+PLONG -> []
+PVOID -> []
+RECTL -> []
+RECTS -> []
+SIZEF -> []
+SIZEL -> []
+SIZES -> []
+STR16 -> []
+STR32 -> []
+STR64 -> []
+UCHAR -> []
+ULONG -> []
+WRECT -> []
+XFORM -> []
+BOOL -> []
+BYTE -> []
+EAOP -> []
+HSEM -> []
+LCID -> []
+NPCH -> []
+NPFN -> []
+NPSZ -> []
+PHID -> []
+PINT -> []
+QMSG -> []
+STR8 -> []
+UINT -> []
+FEA -> []
+GEA -> []
+IPT -> []
+PCH -> []
+PFN -> []
+PIX -> []
+PSZ -> []
+RGB -> []
+SEL -> []
+SWP -> []
+_BC4579577E20233A2FB1B71961C93A96 -> ['DMERRORINFO']
+PBITMAPARRAYFILEHEADER -> ['BITMAPARRAYFILEHEADER']
+PFONTDEFINITIONHEADER -> ['FONTDEFINITIONHEADER']
+_FONTDEFINITIONHEADER -> ['ULONG']
+PBITMAPFILEHEADER -> ['BITMAPFILEHEADER']
+PBITMAPINFOHEADER -> ['BITMAPINFOHEADER']
+PVIOFONTCELLSIZE -> ['VIOFONTCELLSIZE']
+PMLE_SEARCHDATA -> ['MLE_SEARCHDATA']
+PFONTSIGNATURE -> ['FONTSIGNATURE']
+_FONTSIGNATURE -> ['ULONG']
+_ORDER_GSBICOL -> ['UCHAR']
+PCREATESTRUCT -> ['CREATESTRUCT']
+PDEVOPENSTRUC -> ['DEVOPENSTRUC']
+PDRAGTRANSFER -> ['DRAGTRANSFER']
+PFILEFINDBUF2 -> ['FILEFINDBUF2']
+PFIOREADWRITE -> ['FIOREADWRITE']
+PFIOUNLOCKCMD -> ['FIOUNLOCKCMD']
+PFIOUNLOCKREC -> ['FIOUNLOCKREC']
+PKERNINGPAIRS -> ['KERNINGPAIRS']
+PPROGCATEGORY -> ['PROGCATEGORY']
+PPROGRAMENTRY -> ['PROGRAMENTRY']
+PVIOSIZECOUNT -> ['VIOSIZECOUNT']
+_FIOUNLOCKCMD -> ['USHORT']
+_FIOUNLOCKREC -> ['ULONG']
+_ORDERL_GCARC -> ['POINTL']
+_ORDERL_GSSLW -> ['UCHAR']
+_ORDERS_GCARC -> ['POINTS']
+_ORDERS_GSSLW -> ['UCHAR']
+_ORDER_GCALLS -> ['USHORT']
+_ORDER_GEESCP -> ['UCHAR']
+_ORDER_GSCPTH -> ['UCHAR']
+NPPRESPARAMS -> ['PRESPARAMS']
+PDEVOPENDATA -> ['PSZ']
+PDLGTEMPLATE -> ['DLGTEMPLATE']
+PFILEFINDBUF -> ['FILEFINDBUF']
+PFILESTATUS2 -> ['FILESTATUS2']
+PFOCAMETRICS -> ['FOCAMETRICS']
+PFONTMETRICS -> ['FONTMETRICS']
+PPOINTERINFO -> ['POINTERINFO']
+PPROGDETAILS -> ['PROGDETAILS']
+PVOLUMELABEL -> ['VOLUMELABEL']
+_FONTMETRICS -> ['USHORT']
+_IMAGEBUNDLE -> ['USHORT']
+_MLEOVERFLOW -> ['ULONG']
+_ORDERL_GSMC -> ['UCHAR']
+_ORDERL_GSSB -> ['UCHAR']
+_ORDERS_GSMC -> ['UCHAR']
+_ORDERS_GSSB -> ['UCHAR']
+_ORDER_GBPTH -> ['USHORT']
+_ORDER_GESCP -> ['UCHAR']
+_ORDER_GFPTH -> ['UCHAR']
+_ORDER_GMPTH -> ['UCHAR']
+_ORDER_GOPTH -> ['UCHAR']
+_ORDER_GSGCH -> ['UCHAR']
+_VOLUMELABEL -> ['BYTE']
+PACCELTABLE -> ['ACCELTABLE']
+PBITMAPINFO -> ['BITMAPINFO']
+PCURSORINFO -> ['CURSORINFO']
+PENTRYFDATA -> ['ENTRYFDATA']
+PESCSETMODE -> ['ESCSETMODE']
+PFILESTATUS -> ['FILESTATUS']
+PFIOLOCKCMD -> ['FIOLOCKCMD']
+PFIOLOCKREC -> ['FIOLOCKREC']
+PFIOSEEKCMD -> ['FIOSEEKCMD']
+PFORMATRECT -> ['MLEFORMATRECT']
+PFRAMECDATA -> ['FRAMECDATA']
+PFSALLOCATE -> ['FSALLOCATE']
+PHPROGARRAY -> ['HPROGARRAY']
+PMARGSTRUCT -> ['MLEMARGSTRUCT']
+PMLECTLDATA -> ['MLECTLDATA']
+PPRESPARAMS -> ['PRESPARAMS']
+PPRFPROFILE -> ['PRFPROFILE']
+PQMOPENDATA -> ['PSZ']
+PRENDERFILE -> ['RENDERFILE']
+PUSERBUTTON -> ['USERBUTTON']
+_ENTRYFDATA -> ['USHORT']
+_HPROGARRAY -> ['HPROGRAM']
+_ORDER_GSIA -> ['UCHAR']
+NPPRDINFO3 -> ['PRDINFO3']
+NPPRIDINFO -> ['PRIDINFO']
+NPPRJINFO2 -> ['PRJINFO2']
+NPPRJINFO3 -> ['PRJINFO3']
+NPPRQINFO3 -> ['PRQINFO3']
+PARCPARAMS -> ['ARCPARAMS']
+PCLASSINFO -> ['CLASSINFO']
+PDDESTRUCT -> ['DDESTRUCT']
+PDRAGIMAGE -> ['DRAGIMAGE']
+PFSQBUFFER -> ['FSQBUFFER']
+PGRADIENTL -> ['GRADIENTL']
+PHELPTABLE -> ['HELPTABLE']
+POWNERITEM -> ['OWNERITEM']
+PPIBSTRUCT -> ['PIBSTRUCT']
+PPROGTITLE -> ['PROGTITLE']
+PQFEOUTBLK -> ['QFEOUTBLK']
+PQVERSDATA -> ['QVERSDATA']
+PSMHSTRUCT -> ['SMHSTRUCT']
+PTRACKINFO -> ['TRACKINFO']
+PWNDPARAMS -> ['WNDPARAMS']
+PXYWINSIZE -> ['XYWINSIZE']
+_QVERSDATA -> ['USHORT']
+_SWPUSHORT -> ['UCHAR']
+_XYWINSIZE -> ['USHORT']
+NPPRDINFO -> ['PRDINFO']
+NPPRJINFO -> ['PRJINFO']
+NPPRQINFO -> ['PRQINFO']
+PBANDRECT -> ['BANDRECT']
+PBTNCDATA -> ['BTNCDATA']
+PCATCHBUF -> ['CATCHBUF']
+PDATETIME -> ['DATETIME']
+PDLGTITEM -> ['DLGTITEM']
+PDRAGINFO -> ['DRAGINFO']
+PDRAGITEM -> ['DRAGITEM']
+PDRIVDATA -> ['DRIVDATA']
+PESCGETCP -> ['ESCGETCP']
+PFILELOCK -> ['FILELOCK']
+PFOCAFONT -> ['FOCAFONT']
+PHELPINIT -> ['HELPINIT']
+PHPROGRAM -> ['HPROGRAM']
+PMATRIXLF -> ['MATRIXLF']
+PMENUITEM -> ['MENUITEM']
+POVERFLOW -> ['MLEOVERFLOW']
+PPRDINFO3 -> ['PRDINFO3']
+PPRIDINFO -> ['PRIDINFO']
+PPRJINFO2 -> ['PRJINFO2']
+PPRJINFO3 -> ['PRJINFO3']
+PPROGTYPE -> ['PROGTYPE']
+PPRQINFO3 -> ['PRQINFO3']
+PSFACTORS -> ['SFACTORS']
+_BTNCDATA -> ['USHORT']
+_CATCHBUF -> ['ULONG']
+_MATRIXLF -> ['FIXED']
+_MOUSEMSG -> ['USHORT']
+_PRIDINFO -> ['USHORT']
+FIXED114 -> ['USHORT']
+HATOMTBL -> ['LHANDLE']
+HPOINTER -> ['LHANDLE']
+HPROGRAM -> ['LHANDLE']
+NPPOINTL -> ['POINTL']
+NPWPOINT -> ['WPOINT']
+PDDEINIT -> ['DDEINIT']
+PERRINFO -> ['ERRINFO']
+PERRORID -> ['ERRORID']
+PFEALIST -> ['FEALIST']
+PFFDESCS -> ['FFDESCS']
+PGEALIST -> ['GEALIST']
+PHBITMAP -> ['HBITMAP']
+PHMODULE -> ['HMODULE']
+PHSWITCH -> ['HSWITCH']
+PMRESULT -> ['MRESULT']
+PPOINTFX -> ['POINTFX']
+PPRDINFO -> ['PRDINFO']
+PPRJINFO -> ['PRJINFO']
+PPRQINFO -> ['PRQINFO']
+PRGNRECT -> ['RGNRECT']
+PSBCDATA -> ['SBCDATA']
+PSWBLOCK -> ['SWBLOCK']
+PSWCNTRL -> ['SWCNTRL']
+PSWENTRY -> ['SWENTRY']
+_POINTFX -> ['FIXED']
+_RGNRECT -> ['USHORT']
+_SBCDATA -> ['USHORT']
+ERRORID -> ['ULONG']
+FIXED88 -> ['USHORT']
+HBITMAP -> ['LHANDLE']
+HMODULE -> ['USHORT']
+HSWITCH -> ['LHANDLE']
+NPPARAM -> ['PARAM']
+NPRECTL -> ['RECTL']
+NPWRECT -> ['WRECT']
+PBUNDLE -> ['PVOID']
+PFATTRS -> ['FATTRS']
+PFSINFO -> ['FSINFO']
+PHCINFO -> ['HCINFO']
+PMPARAM -> ['MPARAM']
+PMQINFO -> ['MQINFO']
+PPOINTL -> ['POINTL']
+PPOINTS -> ['POINTS']
+PRECTFX -> ['RECTFX']
+PUSHORT -> ['USHORT']
+PWPOINT -> ['WPOINT']
+_FATTRS -> ['USHORT']
+_LORDER -> ['UCHAR']
+_RECTFX -> ['POINTFX']
+HACCEL -> ['LHANDLE']
+NPBYTE -> ['BYTE']
+PACCEL -> ['ACCEL']
+PCOLOR -> ['COLOR']
+PDENA1 -> ['DENA1']
+PFDATE -> ['FDATE']
+PFIXED -> ['FIXED']
+PFTIME -> ['FTIME']
+PHFILE -> ['HFILE']
+PPARAM -> ['PARAM']
+PRECTL -> ['RECTL']
+PRECTS -> ['RECTS']
+PSIZEF -> ['SIZEF']
+PSIZEL -> ['SIZEL']
+PSTR16 -> ['STR16']
+PSTR32 -> ['STR32']
+PSTR64 -> ['STR64']
+PUCHAR -> ['UCHAR']
+PULONG -> ['ULONG']
+PWRECT -> ['WRECT']
+PXFORM -> ['XFORM']
+_ACCEL -> ['USHORT']
+_ORDER -> ['UCHAR']
+_RECTS -> ['POINTS']
+_SIZEF -> ['FIXED']
+_XFORM -> ['FIXED']
+HENUM -> ['LHANDLE']
+HFILE -> ['SHANDLE']
+HHEAP -> ['LHANDLE']
+PBOOL -> ['BOOL']
+PBYTE -> ['BYTE']
+PEAOP -> ['EAOP']
+PHDIR -> ['HDIR']
+PHINI -> ['HINI']
+PHLIB -> ['PHMODULE']
+PHRGN -> ['HRGN']
+PHSEM -> ['HSEM']
+PHSTD -> ['HSTD']
+PHVPS -> ['HVPS']
+PHWND -> ['HWND']
+PLCID -> ['LCID']
+PQMSG -> ['QMSG']
+PSTR8 -> ['STR8']
+PUINT -> ['UINT']
+ATOM -> ['USHORT']
+HAPP -> ['LHANDLE']
+HDIR -> ['SHANDLE']
+HINI -> ['LHANDLE']
+HLIB -> ['HMODULE']
+HRGN -> ['LHANDLE']
+HSPL -> ['LHANDLE']
+HSTD -> ['LHANDLE']
+HSTR -> ['LHANDLE']
+HVPS -> ['USHORT']
+HWND -> ['LHANDLE']
+LINE -> ['ULONG']
+PFEA -> ['FEA']
+PGEA -> ['GEA']
+PHAB -> ['HAB']
+PHDC -> ['HDC']
+PHMF -> ['HMF']
+PHPS -> ['HPS']
+PIPT -> ['PLONG']
+PPID -> ['PID']
+PSEL -> ['SEL']
+PSWP -> ['SWP']
+PTID -> ['TID']
+_GEA -> ['BYTE']
+_RGB -> ['BYTE']
+HAB -> ['LHANDLE']
+HDC -> ['LHANDLE']
+HMF -> ['LHANDLE']
+HMQ -> ['LHANDLE']
+HPS -> ['LHANDLE']
+PID -> ['USHORT']
+TID -> ['USHORT']
+_73AC92F57FF9A2F638122E5FD0125175 -> ['ULONG', 'USHORT']
+_E62E8F0B06E5E329D54975EB5E2BC603 -> ['ULONG', 'USHORT']
+_ED5C76BB170932A59FE1C0BD29DCADEF -> ['ULONG', 'USHORT']
+_BITMAPINFOHEADER -> ['ULONG', 'USHORT']
+_MLEMARGSTRUCT -> ['USHORT', 'IPT']
+_ORDERL_GCPARC -> ['POINTL', 'FIXED']
+_ORDERL_GCSFLT -> ['POINTL', 'FIXED']
+_ORDERS_GCPARC -> ['POINTS', 'FIXED88']
+_ORDERS_GCSFLT -> ['POINTS', 'FIXED']
+_DEVOPENSTRUC -> ['PSZ', 'PDRIVDATA']
+_FIOREADWRITE -> ['USHORT', 'PVOID']
+_MARKERBUNDLE -> ['USHORT', 'SIZEF']
+_ORDERL_GCBOX -> ['UCHAR', 'POINTL']
+_ORDERL_GSPRP -> ['UCHAR', 'POINTL']
+_ORDERS_GCBOX -> ['UCHAR', 'POINTS']
+_ORDERS_GSPRP -> ['UCHAR', 'POINTS']
+_ORDER_GCBIMG -> ['UCHAR', 'SWPUSHORT']
+_PROGRAMENTRY -> ['HPROGRAM', 'PROGTYPE']
+_DLGTEMPLATE -> ['USHORT', 'DLGTITEM']
+_ORDERL_GSCC -> ['USHORT', 'UCHAR']
+_ORDERL_GSTM -> ['UCHAR', 'USHORT']
+_ORDERS_GSCC -> ['USHORT', 'UCHAR']
+_ORDERS_GSTM -> ['UCHAR', 'USHORT']
+_POINTERINFO -> ['BOOL', 'HBITMAP']
+_ACCELTABLE -> ['USHORT', 'ACCEL']
+_AREABUNDLE -> ['USHORT', 'POINTL']
+_COMMANDMSG -> ['USHORT', 'BOOL']
+_ESCSETMODE -> ['ULONG', 'USHORT']
+_FIOLOCKCMD -> ['USHORT', 'ULONG']
+_FIOLOCKREC -> ['USHORT', 'ULONG']
+_FIOSEEKCMD -> ['USHORT', 'ULONG']
+_FSALLOCATE -> ['ULONG', 'USHORT']
+_LINEBUNDLE -> ['USHORT', 'FIXED']
+_PRESPARAMS -> ['ULONG', 'PARAM']
+_PRFPROFILE -> ['ULONG', 'PSZ']
+_DDESTRUCT -> ['ULONG', 'USHORT']
+_FSQBUFFER -> ['USHORT', 'UCHAR']
+_HELPTABLE -> ['USHORT', 'PHELPSUBTABLE']
+_QFEOUTBLK -> ['USHORT', 'HPROGRAM']
+_DATETIME -> ['UCHAR', 'USHORT']
+_DLGTITEM -> ['USHORT', 'ULONG']
+_ESCGETCP -> ['ULONG', 'USHORT']
+_PRDINFO3 -> ['PSZ', 'USHORT']
+_PROGTYPE -> ['PROGCATEGORY', 'UCHAR']
+_CHARMSG -> ['USHORT', 'UCHAR']
+_DDEINIT -> ['USHORT', 'PSZ']
+_ERRINFO -> ['USHORT', 'ERRORID']
+_FEALIST -> ['ULONG', 'FEA']
+_GEALIST -> ['ULONG', 'GEA']
+_PRDINFO -> ['USHORT', 'PSZ']
+_PRQINFO -> ['USHORT', 'PSZ']
+_SWBLOCK -> ['USHORT', 'SWENTRY']
+_SWENTRY -> ['HSWITCH', 'SWCNTRL']
+_VORDER -> ['UCHAR', 'SWPUSHORT']
+_DENA1 -> ['UCHAR', 'USHORT']
+_PARAM -> ['ULONG', 'BYTE']
+_FEA -> ['BYTE', 'USHORT']
+_SWP -> ['USHORT', 'HWND']
+_1E5BEA67514FA69AE227327A41C0328A -> ['ULONG', 'USHORT', 'BOOL']
+_2ADF97A2EB03F7528F8CF91702B0FF94 -> ['ULONG', 'USHORT', 'BOOL']
+_564CD2F9AA3593396AB8FF7A8CFD72DC -> ['ULONG', 'USHORT', 'PSZ']
+_72F24CCAF34A08FE6ED0B18B89C3FEC1 -> ['ULONG', 'USHORT', 'PSZ']
+_73A7A7871E3C0660E7638CCD3AAA3450 -> ['ULONG', 'USHORT', 'PVOID']
+_8BE359F162A701EA4134435F226E12D7 -> ['ULONG', 'USHORT', 'PSZ']
+_8D42E53C4B9F37961F258F01B3C171EE -> ['ULONG', 'USHORT', 'PSZ']
+_9DC04B658522DE14E2712C31ED9AB586 -> ['ULONG', 'USHORT', 'PSZ']
+_B6804704304881357F90B87C53B01F2F -> ['ULONG', 'USHORT', 'PSZ']
+_C41D785D6D1B6E0E786C4F3D3CE79278 -> ['ULONG', 'USHORT', 'PSZ']
+_D18F4637E10A1C82A24B64ED6389C0B9 -> ['ULONG', 'USHORT', 'PVOID']
+_E7913EB5324A059B9F66E9B09CCF3EB2 -> ['ULONG', 'USHORT', 'PSZ']
+_E792D6B2EEFA26F5FFBEB65DBFA34B4B -> ['ULONG', 'USHORT', 'PSZ']
+_F5FF9E32986B7A22EB5B6BA1C2370572 -> ['ULONG', 'USHORT', 'PVOID']
+_F6CCC3681B4E139A9114051362F1CF74 -> ['ULONG', 'USHORT', 'PSZ']
+_BITMAPARRAYFILEHEADER -> ['USHORT', 'ULONG', 'BITMAPFILEHEADER']
+_BITMAPFILEHEADER -> ['USHORT', 'ULONG', 'BITMAPINFOHEADER']
+_ORDERL_GCCHSTE -> ['UCHAR', 'POINTL', 'SWPUSHORT']
+_ORDERS_GCCHSTE -> ['UCHAR', 'POINTS', 'SWPUSHORT']
+_ORDERL_GBBLT -> ['USHORT', 'HBITMAP', 'RECTL']
+_FOCAMETRICS -> ['ULONG', 'USHORT', 'PSZ']
+_BITMAPINFO -> ['ULONG', 'USHORT', 'RGB']
+_CHARBUNDLE -> ['USHORT', 'SIZEF', 'POINTL']
+_CURSORINFO -> ['HWND', 'USHORT', 'RECTL']
+_FRAMECDATA -> ['USHORT', 'ULONG', 'HMODULE']
+_MLECTLDATA -> ['USHORT', 'ULONG', 'IPT']
+_USERBUTTON -> ['HWND', 'HPS', 'USHORT']
+_CLASSINFO -> ['ULONG', 'PFNWP', 'USHORT']
+_SMHSTRUCT -> ['MPARAM', 'USHORT', 'HWND']
+_TRACKINFO -> ['RECTL', 'POINTL', 'USHORT']
+_WNDPARAMS -> ['USHORT', 'PSZ', 'PVOID']
+_DRAGINFO -> ['ULONG', 'USHORT', 'HWND']
+_FOCAFONT -> ['FONTSIGNATURE', 'FOCAMETRICS', 'FONTDEFINITIONHEADER']
+_MENUITEM -> ['USHORT', 'HWND', 'ULONG']
+_PRJINFO2 -> ['USHORT', 'PSZ', 'ULONG']
+_PRQINFO3 -> ['PSZ', 'USHORT', 'PDRIVDATA']
+_PRJINFO -> ['USHORT', 'PSZ', 'ULONG']
+_FSINFO -> ['FDATE', 'FTIME', 'VOLUMELABEL']
+_SEARCH -> ['USHORT', 'PCHAR', 'IPT']
+_EAOP -> ['PGEALIST', 'PFEALIST', 'ULONG']
+_CA612C821642CC61B58FB32F58A61A62 -> ['ULONG', 'USHORT', 'PSZ', 'BOOL']
+_ORDERS_GBBLT -> ['USHORT', 'HBITMAP', 'RECT1S', 'RECTL']
+_FILESTATUS2 -> ['FDATE', 'FTIME', 'ULONG', 'USHORT']
+_ORDERL_GEBB -> ['UCHAR', 'USHORT', 'HBITMAP', 'POINTL']
+_FILESTATUS -> ['FDATE', 'FTIME', 'ULONG', 'USHORT']
+_RENDERFILE -> ['HWND', 'HSTR', 'BOOL', 'USHORT']
+_DRAGIMAGE -> ['USHORT', 'LHANDLE', 'SIZEL', 'ULONG']
+_PROGTITLE -> ['HPROGRAM', 'PROGTYPE', 'USHORT', 'PSZ']
+_DRAGITEM -> ['HWND', 'ULONG', 'HSTR', 'USHORT']
+_PRJINFO3 -> ['USHORT', 'PSZ', 'ULONG', 'PDRIVDATA']
+_MQINFO -> ['USHORT', 'PID', 'TID', 'PVOID']
+PFNWP -> ['MRESULT', 'HWND', 'USHORT', 'MPARAM']
+_CREATESTRUCT -> ['PVOID', 'USHORT', 'HWND', 'ULONG', 'PSZ']
+_DRAGTRANSFER -> ['ULONG', 'HWND', 'PDRAGITEM', 'HSTR', 'USHORT']
+_FILEFINDBUF2 -> ['FDATE', 'FTIME', 'ULONG', 'USHORT', 'UCHAR']
+_FILEFINDBUF -> ['FDATE', 'FTIME', 'ULONG', 'USHORT', 'UCHAR']
+_PROGDETAILS -> ['ULONG', 'PROGTYPE', 'USHORT', 'PSZ', 'SWP']
+_OWNERITEM -> ['HWND', 'HPS', 'USHORT', 'RECTL', 'ULONG']
+_PIBSTRUCT -> ['PROGTYPE', 'XYWINSIZE', 'USHORT', 'LHANDLE', 'PCH']
+_HELPINIT -> ['USHORT', 'ULONG', 'PSZ', 'PHELPTABLE', 'HMODULE']
+_SWCNTRL -> ['HWND', 'HPROGRAM', 'USHORT', 'UCHAR', 'BYTE']
+_QMSG -> ['HWND', 'USHORT', 'MPARAM', 'ULONG', 'POINTL']
+========= Ghidra Hdr Gen finished!

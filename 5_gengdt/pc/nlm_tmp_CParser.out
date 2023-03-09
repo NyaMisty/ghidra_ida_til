@@ -1,0 +1,169 @@
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\nlm.til.h"
+/// #define GHIDRA ===DEFINED
+
+/// #ifndef INCLUDE_GUARD_nlm_til ===true
+
+/// #define INCLUDE_GUARD_nlm_til ===DEFINED
+
+
+#line 1: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\5_gengdt\pc\.\..\..\..\..\IDAPlugins\idatil2c\common.h"
+
+
+/// #define __int64  long long ===DEFINED
+/// #define __int32  int ===DEFINED
+/// #define __int16  short ===DEFINED
+/// #define __int8  char ===DEFINED
+
+/// #ifdef GHIDRA ===true
+
+typedef struct {
+    long long u1;
+    long long u2;
+} __int128;
+typedef struct {
+    unsigned long long u1;
+    unsigned long long u2;
+} __uint128;
+/// #endif ===true
+
+
+typedef char int8_t;
+typedef short int16_t;
+typedef int int32_t;
+typedef long long int64_t;
+
+typedef unsigned char uint8_t;
+typedef unsigned short uint16_t;
+typedef unsigned int uint32_t;
+typedef unsigned long long uint64_t;
+
+/// #define _BYTE  uint8_t ===DEFINED
+/// #define _WORD  uint16_t ===DEFINED
+/// #define _QWORD  uint64_t ===DEFINED
+/// #define _DWORD  uint32_t ===DEFINED
+
+
+
+/// #ifndef HAVETYPE_bool ===true
+
+/// #define bool  char ===DEFINED
+/// #endif ===true
+
+
+/// #ifndef HAVETYPE___u32 ===true
+
+typedef uint32_t __u32;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u16 ===true
+
+typedef uint16_t __u16;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___u64 ===true
+
+typedef uint64_t __u64;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_uid32_t ===true
+
+typedef unsigned int __kernel_uid32_t;
+/// #endif ===true
+
+/// #ifndef HAVETYPE___kernel_mqd_t ===true
+
+typedef int __kernel_mqd_t;
+/// #endif ===true
+
+/// #ifndef HAVETYPE_DOT11_DIRECTION ===true
+
+typedef int DOT11_DIRECTION; 
+/// #endif ===true
+
+/// #ifndef HAVETYPE__DEVICE_RELATION_TYPE ===true
+
+enum _DEVICE_RELATION_TYPE {_DEVICE_RELATION_TYPE_UNDEFINED,};
+/// #endif ===true
+
+
+
+/// #define __fastcall ===DEFINED
+
+/// #define __unaligned ===DEFINED
+
+/// #define __stdcall ===DEFINED
+
+/// #define __cppobj ===DEFINED
+
+/// #define __declspec([x])   ===DEFINED
+/// #define __hidden ===DEFINED
+
+/// #define __cdecl ===DEFINED
+
+/// #define __noreturn ===DEFINED
+
+/// #define __pascal ===DEFINED
+
+/// #define __near ===DEFINED
+
+/// #define __high ===DEFINED
+
+
+/// #define const ===DEFINED
+
+/// #define this  _this ===DEFINED
+/// #define near ===DEFINED
+
+
+typedef char _Mbstatet;
+
+typedef void **va_list;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+#line 4: "D:\Workspaces\UtilWorkspace\Reverse\GhidraTools\ghidra_ida_til\4_til_til2c_headers\pc\nlm.til.h"
+
+
+
+
+union NLMInfo___BE50D700E82C118F824F656CD86EE57D;
+struct NLMInfo;
+
+union NLMInfo___BE50D700E82C118F824F656CD86EE57D {unsigned int signature;int ID;};
+enum MACRO_TERMINATE {TERMINATE_BY_EXTERNAL_THREAD = 0,TERMINATE_BY_UNLOAD = 5,};
+typedef unsigned int size_t;
+struct NLMInfo {union NLMInfo___BE50D700E82C118F824F656CD86EE57D sig;unsigned int flavor;unsigned int version;size_t sizeof_long_double;size_t sizeof_wchar_t;};
+
+
+
+/// #endif ===true
+
+
