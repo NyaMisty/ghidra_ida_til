@@ -9,6 +9,7 @@ The final GDTs are in folder `release`, while other folders are building interme
 - Method1: Copy/Link `release` folder into Ghidra's Standard GDT Path: `Ghidra\Features\Base\data\typeinfo`, and Loading with `Standard Archive` menu
 - Method2: Manually Loading the GDT with `Open File Archive...`
 
+Note: For `NyaMisty/ghidra_mod` users, the tils will be directly included in the bundle
 
 ## How This Work?
 
@@ -33,7 +34,7 @@ The final GDTs are in folder `release`, while other folders are building interme
 4. Process the header and convert to gdt: Run in repo's root directory: `python3 scripts/launcher.py`
     - will rewrite the C header in to a compilable one, storing to `4_til_til2c_headers/XXX.til.h`
     - will compile the C header to GDT, storing to `5_gengdt`
-5. Make the release with `bash ./scripts/do_release.sh`
+5. Make the release with `bash ./scripts/do_release.py`
 
 ## Debug
 
