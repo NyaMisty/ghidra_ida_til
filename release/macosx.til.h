@@ -4,7 +4,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_macosx_til
 #define INCLUDE_GUARD_macosx_til
-#include "../../../IDAPlugins/idatil2c/common.h"
+#include "__idatilcommon.h"
 
 
 

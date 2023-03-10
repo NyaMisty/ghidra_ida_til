@@ -1,7 +1,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_mscor_til
 #define INCLUDE_GUARD_mscor_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 #include "wnet.til.h"
 
 

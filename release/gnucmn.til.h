@@ -1,6 +1,6 @@
 #ifndef INCLUDE_GUARD_gnucmn_til
 #define INCLUDE_GUARD_gnucmn_til
-#include "../scripts/idatil2c/common.h"#define HAVETYPE___u32
+#include "__idatilcommon.h"#define HAVETYPE___u32
 #define HAVETYPE___u16
 #define GHIDRA
 

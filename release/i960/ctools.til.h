@@ -1,7 +1,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_ctools_til
 #define INCLUDE_GUARD_ctools_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 
 
 

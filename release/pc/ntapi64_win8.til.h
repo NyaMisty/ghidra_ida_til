@@ -1,7 +1,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_ntapi64_win8_til
 #define INCLUDE_GUARD_ntapi64_win8_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 
 
 

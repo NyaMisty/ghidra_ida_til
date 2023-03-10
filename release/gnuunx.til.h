@@ -6,7 +6,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_gnuunx_til
 #define INCLUDE_GUARD_gnuunx_til
-#include "../../../IDAPlugins/idatil2c/common.h"
+#include "__idatilcommon.h"
 
 
 

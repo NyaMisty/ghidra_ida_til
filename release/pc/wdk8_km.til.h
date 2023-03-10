@@ -3,7 +3,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_wdk8_km_til
 #define INCLUDE_GUARD_wdk8_km_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 
 
 

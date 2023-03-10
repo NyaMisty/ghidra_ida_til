@@ -4,7 +4,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_iphoneos64_sdk13_til
 #define INCLUDE_GUARD_iphoneos64_sdk13_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 
 
 

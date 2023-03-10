@@ -1,7 +1,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_objc64_til
 #define INCLUDE_GUARD_objc64_til
-#include "../../../IDAPlugins/idatil2c/common.h"
+#include "__idatilcommon.h"
 #include "macosx64.til.h"
 
 

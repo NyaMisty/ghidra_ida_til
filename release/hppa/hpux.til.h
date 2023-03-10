@@ -2,7 +2,7 @@
 #define GHIDRA
 #ifndef INCLUDE_GUARD_hpux_til
 #define INCLUDE_GUARD_hpux_til
-#include "../../../../IDAPlugins/idatil2c/common.h"
+#include "../__idatilcommon.h"
 
 
 
