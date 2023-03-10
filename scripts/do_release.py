@@ -1,7 +1,10 @@
 import subprocess
 from pathlib import Path
 import shutil
+import re
+import os
 
+ROOT_DIR = Path(__file__).parent.absolute()
 relPath = Path('release')
 relPath.mkdir(exist_ok=True)
 
@@ -20,10 +23,23 @@ for path in relPath.rglob('*'):
         print("  Removing %s" % path)
         path.unlink()
 
+print("Fixing common.h include path")
+
+hdrpath = ROOT_DIR/"idatil2c"/"common.h"
+newhdrpath = relPath/"__idatilcommon.h"
+shutil.copy(hdrpath, newhdrpath)
+for path in relPath.rglob('*.til.h'):
+    hdrInclPath = os.path.relpath(newhdrpath, path.parent)
+    with open(path) as f:
+        content = f.read()
+    content, n = re.subn(r'#include "(|.*?/)common.h"', r'#include "%s"' % str(hdrInclPath), content, 1)
+    assert n == 1, "common.h must be present inside generated *.til.h"
+    with open(path, 'w') as f:
+        f.write(content)
+
 print("Resolving Conflicting GDT...")
 
 names = {}
-
 for path in relPath.rglob('*.gdt'):
     name = path.name
     if name in names:
